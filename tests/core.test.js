@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { cueAtTime, recentCues, cardImage, formatTime } from "../dist/core.js";
+import { cueAtTime, recentCues, upcomingCues, cardImage, formatTime } from "../dist/core.js";
 
 const cues = [
   { start: 10, end: 20, cardId: "a", card: { image: "a.jpg" } },
@@ -20,6 +20,13 @@ test("selects cues at boundaries and respects gaps", () => {
 test("returns the five most recent distinct cards", () => {
   const repeated = [...cues, { start: 41, end: 45, cardId: "b", card: {} }];
   assert.deepEqual(recentCues(repeated, 50).map((cue) => cue.cardId), ["b", "c", "a"]);
+  assert.deepEqual(recentCues(cues, 22).map((cue) => cue.cardId), ["a"]);
+});
+
+test("returns upcoming distinct cards in chronological order", () => {
+  const repeated = [...cues, { start: 41, end: 45, cardId: "b", card: {} }];
+  assert.deepEqual(upcomingCues(repeated, 22).map((cue) => cue.cardId), ["c", "b"]);
+  assert.deepEqual(upcomingCues(cues, 0, 2).map((cue) => cue.cardId), ["a", "b"]);
 });
 
 test("falls back to a face image and formats long time", () => {

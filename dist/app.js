@@ -1,11 +1,11 @@
-import { cardImage, cueAtTime, formatTime, recentCues } from "./core.js";
+import { cardImage, cueAtTime, formatTime, recentCues, upcomingCues } from "./core.js";
 
 const $ = (id) => document.getElementById(id);
 const audio = $("audio");
 const timeline = $("timeline");
 const playButton = $("play");
 const playIcon = $("play-icon");
-const state = { episodes: [], episode: null, cues: [], activeCueId: null, scrubbing: false, toastTimer: null };
+const state = { episodes: [], episode: null, cues: [], activeCueId: null, recentSignature: "", upcomingSignature: "", scrubbing: false, toastTimer: null };
 
 async function init() {
   const response = await fetch("./data/episodes.json");
@@ -29,6 +29,8 @@ async function loadEpisode(episode) {
   state.episode = episode;
   state.cues = await fetch(episode.cueSheet).then((response) => response.json());
   state.activeCueId = null;
+  state.recentSignature = "";
+  state.upcomingSignature = "";
   audio.src = episode.audioUrl;
   timeline.max = episode.duration;
   $("duration").textContent = formatTime(episode.duration);
@@ -110,6 +112,7 @@ function renderAtTime(time) {
     renderCard(cue);
   }
   renderRecent(time);
+  renderUpcoming(time);
 }
 
 function renderCard(cue) {
@@ -128,9 +131,25 @@ function renderCard(cue) {
 
 function renderRecent(time) {
   const recent = recentCues(state.cues, time, 5);
-  $("recent-list").innerHTML = recent.map((cue) => `<li class="recent-item"><button type="button" data-start="${cue.start}" aria-label="Jump to ${escapeHtml(cue.cardName)} at ${formatTime(cue.start)}"><img src="${escapeHtml(cardImage(cue.card))}" alt="" loading="lazy" /><span class="recent-name">${escapeHtml(shortName(cue.cardName))}</span><span class="recent-time">${formatTime(cue.start)}</span></button></li>`).join("");
+  const signature = recent.map((cue) => cue.cardId).join("|");
+  if (signature === state.recentSignature) return;
+  state.recentSignature = signature;
+  renderCueList("recent-list", recent, "Jump back to");
   $("recent-empty").hidden = recent.length > 0;
-  $("recent-list").querySelectorAll("button").forEach((button) => button.addEventListener("click", () => seekTo(Number(button.dataset.start), true)));
+}
+
+function renderUpcoming(time) {
+  const upcoming = upcomingCues(state.cues, time, 5);
+  const signature = upcoming.map((cue) => cue.cardId).join("|");
+  if (signature === state.upcomingSignature) return;
+  state.upcomingSignature = signature;
+  renderCueList("upcoming-list", upcoming, "Skip ahead to");
+  $("upcoming-empty").hidden = upcoming.length > 0;
+}
+
+function renderCueList(listId, cues, action) {
+  $(listId).innerHTML = cues.map((cue) => `<li class="recent-item"><button type="button" data-start="${cue.start}" aria-label="${action} ${escapeHtml(cue.cardName)} at ${formatTime(cue.start)}"><img src="${escapeHtml(cardImage(cue.card))}" alt="" loading="lazy" /><span class="recent-name">${escapeHtml(shortName(cue.cardName))}</span><span class="recent-time">${formatTime(cue.start)}</span></button></li>`).join("");
+  $(listId).querySelectorAll("button").forEach((button) => button.addEventListener("click", () => seekTo(Number(button.dataset.start), true)));
 }
 
 function setupMediaSession(episode) {

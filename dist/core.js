@@ -20,7 +20,19 @@ export function recentCues(cues, time, limit = 5) {
   const result = [];
   for (let i = cues.length - 1; i >= 0; i -= 1) {
     const cue = cues[i];
-    if (cue.start >= time || seen.has(cue.cardId)) continue;
+    if (cue.start >= time || cue.end == null || cue.end > time || seen.has(cue.cardId)) continue;
+    seen.add(cue.cardId);
+    result.push(cue);
+    if (result.length === limit) break;
+  }
+  return result;
+}
+
+export function upcomingCues(cues, time, limit = 5) {
+  const seen = new Set();
+  const result = [];
+  for (const cue of cues) {
+    if (cue.start <= time || seen.has(cue.cardId)) continue;
     seen.add(cue.cardId);
     result.push(cue);
     if (result.length === limit) break;

@@ -1,4 +1,4 @@
-const CACHE = "cardcast-shell-v2";
+const CACHE = "cardcast-shell-v3";
 const SHELL = [
   "./",
   "./index.html",

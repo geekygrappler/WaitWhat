@@ -164,6 +164,9 @@ button, select { -webkit-tap-highlight-color: transparent; }
 .recent-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 680; }
 .recent-time { color: var(--gold); font-variant-numeric: tabular-nums; font-size: .86rem; }
 .recent-empty { margin: 17px 0 0; color: var(--muted); line-height: 1.5; }
+.upcoming-section { margin-top: 28px; padding-top: 24px; border-top: 1px solid var(--line); }
+.upcoming-list .recent-time { color: var(--moss); }
+.upcoming-list button { background: transparent; border-color: var(--line); }
 
 .player {
   position: fixed;
@@ -208,6 +211,7 @@ button, select { -webkit-tap-highlight-color: transparent; }
   .card-copy { margin-top: 0; }
   .recent-panel { position: sticky; top: 94px; margin-top: 26px; padding-top: 0; border-top: 0; }
   .recent-list { gap: 10px; }
+  .upcoming-section { margin-top: 30px; }
   .player { min-height: 160px; }
   .toast { bottom: 180px; }
 }
