@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#11120f" />
+    <meta name="description" content="Listen to Legendary Creature Podcast with the current Magic card in view." />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icon.svg" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Cardcast Companion</title>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Cardcast Companion home">
+        <span class="brand-mark">CC</span>
+        <span>Cardcast</span>
+      </a>
+      <label class="episode-picker">
+        <span>Episode</span>
+        <select id="episode-select" aria-label="Select episode"></select>
+      </label>
+    </header>
+
+    <main class="app-shell">
+      <section class="now-card" aria-labelledby="card-title">
+        <div class="section-kicker"><span class="live-dot"></span>Now discussing</div>
+        <div id="card-stage" class="card-stage" aria-live="polite">
+          <div class="empty-card">
+            <div class="empty-card-glyph">⌁</div>
+            <h1 id="card-title">Ready when you are</h1>
+            <p>Play the episode or move to a card mention. The card in the conversation will appear here.</p>
+            <button id="jump-first" class="text-button" type="button">Jump to first card · 1:33</button>
+          </div>
+        </div>
+      </section>
+
+      <aside class="recent-panel" aria-labelledby="recent-title">
+        <div class="recent-heading">
+          <div>
+            <p class="section-kicker">On the trail</p>
+            <h2 id="recent-title">Recently mentioned</h2>
+          </div>
+          <span class="tap-hint">Tap to replay</span>
+        </div>
+        <ol id="recent-list" class="recent-list"></ol>
+        <p id="recent-empty" class="recent-empty">Cards will collect here as the conversation moves on.</p>
+      </aside>
+    </main>
+
+    <section class="player" aria-label="Audio player">
+      <div class="episode-line">
+        <img id="episode-art" alt="" />
+        <div>
+          <p id="episode-title">Loading episode…</p>
+          <span id="episode-status">Legendary Creature Podcast</span>
+        </div>
+      </div>
+      <div class="timeline-row">
+        <span id="elapsed">0:00</span>
+        <input id="timeline" type="range" min="0" max="9721" value="0" step="0.1" aria-label="Episode position" />
+        <span id="duration">2:42:01</span>
+      </div>
+      <div class="transport">
+        <button id="rewind" class="round-control secondary" type="button" aria-label="Rewind 15 seconds"><span>−15</span></button>
+        <button id="play" class="round-control primary" type="button" aria-label="Play"><span id="play-icon">▶</span></button>
+        <button id="forward" class="round-control secondary" type="button" aria-label="Forward 15 seconds"><span>+15</span></button>
+        <label class="speed-control">
+          <span class="sr-only">Playback speed</span>
+          <select id="speed" aria-label="Playback speed">
+            <option value="0.75">0.75×</option>
+            <option value="1" selected>1×</option>
+            <option value="1.25">1.25×</option>
+            <option value="1.5">1.5×</option>
+            <option value="2">2×</option>
+          </select>
+        </label>
+      </div>
+      <audio id="audio" preload="metadata"></audio>
+    </section>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

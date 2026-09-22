@@ -1,0 +1,128 @@
+[
+  {
+    "start": 93.059,
+    "end": 254.32,
+    "cardId": "88f0c189-c9ed-4ea3-ae62-3d8ac6c7fecf",
+    "cardName": "Belladonna Took",
+    "confidence": 1,
+    "verified": true,
+    "card": {
+      "name": "Belladonna Took",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Halfling Citizen",
+      "oracleText": "Whenever a token you control enters, you gain 1 life if this is the first time this ability has resolved this turn. If it's the second time, draw a card. If it's the third time, put a +1/+1 counter on each creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/8/8/88f0c189-c9ed-4ea3-ae62-3d8ac6c7fecf.jpg?1784894804"
+    }
+  },
+  {
+    "start": 254.32,
+    "end": 473.339,
+    "cardId": "6b8e6435-7de4-41d5-bc7d-8e24c11897d0",
+    "cardName": "Bofur, Reliable Guardian // Concerted Care",
+    "confidence": 0.99,
+    "verified": true,
+    "card": {
+      "name": "Bofur, Reliable Guardian // Concerted Care",
+      "manaCost": "{W} // {1}{W}",
+      "typeLine": "Legendary Creature — Dwarf Scout // Instant — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b8e6435-7de4-41d5-bc7d-8e24c11897d0.jpg?1785496981",
+      "faces": [
+        {"name":"Bofur, Reliable Guardian","manaCost":"{W}","typeLine":"Legendary Creature — Dwarf Scout","oracleText":"Lifelink"},
+        {"name":"Concerted Care","manaCost":"{1}{W}","typeLine":"Instant — Adventure","oracleText":"Target artifact or creature you control gains hexproof and indestructible until end of turn. (Then exile this card. You may cast the creature later from exile.)"}
+      ]
+    }
+  },
+  {
+    "start": 473.339,
+    "end": 615.214,
+    "cardId": "99d27749-d16c-45e9-accc-6a01351c17f9",
+    "cardName": "Dáin, Lord of the Iron Hills",
+    "confidence": 0.99,
+    "verified": true,
+    "card": {
+      "name": "Dáin, Lord of the Iron Hills",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Dwarf Noble",
+      "oracleText": "Vigilance\nStoried (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, creatures can't attack you unless their controller pays {1} for each of those creatures.",
+      "image": "https://cards.scryfall.io/normal/front/9/9/99d27749-d16c-45e9-accc-6a01351c17f9.jpg?1785496921"
+    }
+  },
+  {
+    "start": 615.214,
+    "end": 772.571,
+    "cardId": "1805532f-6d99-47d0-9529-5f5831a7fdc8",
+    "cardName": "Kíli the Resourceful",
+    "confidence": 0.99,
+    "verified": true,
+    "card": {
+      "name": "Kíli the Resourceful",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Dwarf Scout",
+      "oracleText": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, you may pay {0} rather than pay the equip cost of the first equip ability you activate each turn.\nWhenever another Dwarf or Equipment you control enters, draw a card. This ability triggers only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/1/8/1805532f-6d99-47d0-9529-5f5831a7fdc8.jpg?1785496242"
+    }
+  },
+  {
+    "start": 772.571,
+    "end": 938.47,
+    "cardId": "911bd55d-00c7-4362-ba2d-eef0a9dadb6c",
+    "cardName": "Ori, Plate Stacker",
+    "confidence": 1,
+    "verified": true,
+    "card": {
+      "name": "Ori, Plate Stacker",
+      "manaCost": "{5}{W}{W}",
+      "typeLine": "Legendary Creature — Dwarf Bard",
+      "oracleText": "When Ori enters, destroy all artifacts and enchantments your opponents control. You gain 1 life for each permanent destroyed this way.",
+      "image": "https://cards.scryfall.io/normal/front/9/1/911bd55d-00c7-4362-ba2d-eef0a9dadb6c.jpg?1784377208"
+    }
+  },
+  {
+    "start": 938.47,
+    "end": 1248.714,
+    "cardId": "c977fb5f-4436-41d0-af68-93b6d05897e5",
+    "cardName": "The Queen of Dale",
+    "confidence": 1,
+    "verified": true,
+    "card": {
+      "name": "The Queen of Dale",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Human Noble",
+      "oracleText": "Whenever an opponent casts their first noncreature spell each turn, you recruit. (Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Soldier creature token.)",
+      "image": "https://cards.scryfall.io/normal/front/c/9/c977fb5f-4436-41d0-af68-93b6d05897e5.jpg?1784376948"
+    }
+  },
+  {
+    "start": 1423.955,
+    "end": 1593.959,
+    "cardId": "8bff0aa6-16d9-4c83-b598-ef00a3b33d2c",
+    "cardName": "Bilbo, Luckwearer // Burglar's Plot",
+    "confidence": 0.98,
+    "verified": true,
+    "card": {
+      "name": "Bilbo, Luckwearer // Burglar's Plot",
+      "manaCost": "{1}{U} // {4}{U}",
+      "typeLine": "Legendary Creature — Halfling Rogue // Sorcery — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/8/b/8bff0aa6-16d9-4c83-b598-ef00a3b33d2c.jpg?1783902786",
+      "faces": [
+        {"name":"Bilbo, Luckwearer","manaCost":"{1}{U}","typeLine":"Legendary Creature — Halfling Rogue","oracleText":"Bilbo can't be blocked.\nWhenever Bilbo deals combat damage to a player, draw a card, then discard a card."},
+        {"name":"Burglar's Plot","manaCost":"{4}{U}","typeLine":"Sorcery — Adventure","oracleText":"Exchange control of two target nonland permanents that share a card type. (Then exile this card. You may cast the creature later from exile.)"}
+      ]
+    }
+  },
+  {
+    "start": 1593.959,
+    "end": 1819.184,
+    "cardId": "484c7f83-8339-4ae1-8350-68ce1f7d05a3",
+    "cardName": "Bilbo, Thief in the Night",
+    "confidence": 1,
+    "verified": true,
+    "card": {
+      "name": "Bilbo, Thief in the Night",
+      "manaCost": "{1}{U}",
+      "typeLine": "Legendary Creature — Halfling Rogue",
+      "oracleText": "Spells you cast from anywhere other than your hand cost {1} less to cast.\nWhenever Bilbo attacks, you may cast an artifact, instant, or sorcery spell from your graveyard. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead.",
+      "image": "https://cards.scryfall.io/normal/front/4/8/484c7f83-8339-4ae1-8350-68ce1f7d05a3.jpg?1783902786"
+    }
+  }
+]

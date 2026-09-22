@@ -1,0 +1,14 @@
+{
+  "name": "Cardcast Companion",
+  "short_name": "Cardcast",
+  "description": "See the Magic card being discussed while listening to Legendary Creature Podcast.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#11120f",
+  "theme_color": "#11120f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
