@@ -34,7 +34,7 @@ async function loadEpisode(episode) {
   audio.src = episode.audioUrl;
   timeline.max = episode.duration;
   $("duration").textContent = formatTime(episode.duration);
-  $("episode-title").textContent = episode.title;
+  setEpisodeTitle(episode.title);
   $("episode-art").src = episode.artwork;
   $("episode-art").alt = `${episode.title} artwork`;
   $("episode-status").textContent = "Hand-verified opening cue sheet";
@@ -72,6 +72,7 @@ function bindControls() {
   });
   window.addEventListener("pageshow", reconcileFromAudio);
   window.addEventListener("focus", reconcileFromAudio);
+  window.addEventListener("resize", () => state.episode && setEpisodeTitle(state.episode.title));
 }
 
 function togglePlayback() {
@@ -154,7 +155,7 @@ function renderCueList(listId, cues, action) {
 
 function setupMediaSession(episode) {
   if (!("mediaSession" in navigator)) return;
-  navigator.mediaSession.metadata = new MediaMetadata({ title: episode.title, artist: "Legendary Creature Podcast", album: "Cardcast Companion" });
+  navigator.mediaSession.metadata = new MediaMetadata({ title: episode.title, artist: "Legendary Creature Podcast", album: "Wait, What? — Legendary Creature edition" });
   navigator.mediaSession.setActionHandler("play", () => audio.play());
   navigator.mediaSession.setActionHandler("pause", () => audio.pause());
   navigator.mediaSession.setActionHandler("seekbackward", (details) => seekBy(-(details.seekOffset || 15)));
@@ -165,6 +166,22 @@ function setupMediaSession(episode) {
 function updatePositionState() {
   if (!("mediaSession" in navigator) || !Number.isFinite(audio.duration) || audio.duration <= 0) return;
   try { navigator.mediaSession.setPositionState({ duration: audio.duration, playbackRate: audio.playbackRate, position: Math.min(audio.currentTime, audio.duration) }); } catch {}
+}
+
+function setEpisodeTitle(title) {
+  const container = $("episode-title");
+  const titleText = container.querySelector("span");
+  titleText.textContent = title;
+  container.classList.remove("scrolling");
+  container.style.removeProperty("--title-shift");
+  requestAnimationFrame(() => {
+    if (container.scrollHeight <= container.clientHeight + 1) return;
+    container.classList.add("scrolling");
+    requestAnimationFrame(() => {
+      const shift = Math.max(0, titleText.scrollWidth - container.clientWidth);
+      container.style.setProperty("--title-shift", `${shift}px`);
+    });
+  });
 }
 
 function showToast(message) {

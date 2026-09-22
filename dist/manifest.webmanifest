@@ -1,12 +1,12 @@
 {
-  "name": "Cardcast Companion",
-  "short_name": "Cardcast",
+  "name": "Wait, What? — Legendary Creature edition",
+  "short_name": "Wait, What?",
   "description": "See the Magic card being discussed while listening to Legendary Creature Podcast.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#11120f",
-  "theme_color": "#11120f",
+  "background_color": "#15100c",
+  "theme_color": "#15100c",
   "orientation": "portrait-primary",
   "icons": [
     {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
