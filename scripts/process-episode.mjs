@@ -96,15 +96,37 @@ function preferredCards(cards) {
 
 function matchSegments(segments, cards, threshold) {
   const results = [];
+  const matchableCards = cards.map((card) => {
+    const primary = normalize(card.name.split(" // ")[0]);
+    return { card, primary, phoneticKeys: new Set(primary.split(" ").map(soundex)) };
+  });
+  const cardsByPhoneticKey = new Map();
+  for (const candidate of matchableCards) {
+    for (const key of candidate.phoneticKeys) {
+      const matches = cardsByPhoneticKey.get(key) || [];
+      matches.push(candidate);
+      cardsByPhoneticKey.set(key, matches);
+    }
+  }
   for (let index = 0; index < segments.length; index += 1) {
     const windowText = normalize(segments.slice(index, index + 3).map((segment) => segment.text).join(" "));
     let best = null;
-    for (const card of cards) {
-      const primary = normalize(card.name.split(" // ")[0]);
-      const score = windowText.includes(primary) ? 1 : bestWindowScore(windowText, primary);
-      if (score >= threshold && (!best || score > best.confidence)) best = { segment: segments[index], card, confidence: score };
+    for (const candidate of matchableCards) {
+      if (windowText.includes(candidate.primary) && (!best || candidate.primary.length > best.primary.length)) best = candidate;
     }
-    if (best) results.push(best);
+    if (best) {
+      results.push({ segment: segments[index], card: best.card, confidence: 1 });
+      continue;
+    }
+    const candidates = new Set();
+    for (const word of windowText.split(" ")) {
+      for (const candidate of cardsByPhoneticKey.get(soundex(word)) || []) candidates.add(candidate);
+    }
+    for (const candidate of candidates) {
+      const score = bestWindowScore(windowText, candidate.primary);
+      if (score >= threshold && (!best || score > best.confidence)) best = { ...candidate, confidence: score };
+    }
+    if (best) results.push({ segment: segments[index], card: best.card, confidence: best.confidence });
   }
   return results;
 }

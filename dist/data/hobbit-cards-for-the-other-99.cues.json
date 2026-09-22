@@ -1,0 +1,775 @@
+[
+  {
+    "start": 68.066,
+    "end": 226.666,
+    "cardId": "45ad01f0-cda8-4931-82bb-cb4949e56ae9",
+    "cardName": "Bilbo's Gambit",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bilbo's Gambit",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Gift a Treasure (You may promise an opponent a gift as you cast this spell. If you do, they create a Treasure token before its other effects. It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nReturn target spell to its owner's hand. If the gift was promised, players can't cast spells this turn.",
+      "image": "https://cards.scryfall.io/normal/front/4/5/45ad01f0-cda8-4931-82bb-cb4949e56ae9.jpg?1784894818"
+    }
+  },
+  {
+    "start": 226.666,
+    "end": 320,
+    "cardId": "3b087bd4-bbb7-4963-bdb6-0a700ff19a04",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/b/3b087bd4-bbb7-4963-bdb6-0a700ff19a04.jpg?1785496942"
+    }
+  },
+  {
+    "start": 320,
+    "end": 441,
+    "cardId": "b3c1ebd6-967f-4b8c-8f1f-442ce8c1da24",
+    "cardName": "Roads Go Ever, Ever On",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Roads Go Ever, Ever On",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment — Saga",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI — Search your library for up to two basic Plains cards, exile them, then shuffle. You gain 2 life.\nII, III — Put a card exiled with this Saga into its owner's hand.\nIV — Whenever you attack this turn, target creature you control gets +1/+1 until end of turn for each Plains you control.",
+      "image": "https://cards.scryfall.io/normal/front/b/3/b3c1ebd6-967f-4b8c-8f1f-442ce8c1da24.jpg?1784673434"
+    }
+  },
+  {
+    "start": 441,
+    "end": 646.766,
+    "cardId": "0bda1b62-47fc-42c2-a841-ccad8ea0db48",
+    "cardName": "The Eagles Are Coming!",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Eagles Are Coming!",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Kicker {2}{W}{W} (You may pay an additional {2}{W}{W} as you cast this spell.)\nChoose target creature you own. If this spell was kicked, instead choose any number of target creatures you own. Return each chosen creature to your hand. At the beginning of the next upkeep, create a 4/4 white Bird Soldier creature token with flying for each creature returned to your hand this way.",
+      "image": "https://cards.scryfall.io/normal/front/0/b/0bda1b62-47fc-42c2-a841-ccad8ea0db48.jpg?1784376936"
+    }
+  },
+  {
+    "start": 646.766,
+    "end": 719,
+    "cardId": "68f4893d-e9a5-4f89-ade3-9ab78a834ad5",
+    "cardName": "The Mountain-king's Return",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Mountain-king's Return",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment — Saga",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Recruit. (Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Soldier creature token.)\nII — Return target creature card with mana value 3 or less from your graveyard to the battlefield.\nIII — Put a +1/+1 counter on up to one target creature.",
+      "image": "https://cards.scryfall.io/normal/front/6/8/68f4893d-e9a5-4f89-ade3-9ab78a834ad5.jpg?1787201116"
+    }
+  },
+  {
+    "start": 719,
+    "end": 757,
+    "cardId": "3aa29fe8-1687-486f-b4df-c04977869ab1",
+    "cardName": "An Unexpected Party // At the Door",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "An Unexpected Party // At the Door",
+      "manaCost": "{2}{W}{W} // {X}{2}{W}",
+      "typeLine": "Enchantment // Sorcery — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.jpg?1783902787",
+      "faces": [
+        {
+          "name": "An Unexpected Party",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Enchantment",
+          "oracleText": "As this enchantment enters, choose a creature type.\nCreatures you control of the chosen type get +2/+2."
+        },
+        {
+          "name": "At the Door",
+          "manaCost": "{X}{2}{W}",
+          "typeLine": "Sorcery — Adventure",
+          "oracleText": "Create X 2/2 red Dwarf creature tokens. (Then exile this card. You may cast the enchantment later from exile.)"
+        }
+      ]
+    }
+  },
+  {
+    "start": 757,
+    "end": 803.9,
+    "cardId": "370e09c2-36c5-4662-8350-1db798afad3e",
+    "cardName": "Iron Hills Blacksmith",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Iron Hills Blacksmith",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Dwarf Artificer",
+      "oracleText": "Double strike\nWhen this creature enters, create a colorless Equipment artifact token named Axe with \"Equipped creature gets +1/+0\" and equip {2}.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/370e09c2-36c5-4662-8350-1db798afad3e.jpg?1784631771"
+    }
+  },
+  {
+    "start": 803.9,
+    "end": 1007,
+    "cardId": "a5cfbfde-783e-46ca-b3cf-11f16209d6cb",
+    "cardName": "Glamdring, Foe-hammer // Gleam of Death",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Glamdring, Foe-hammer // Gleam of Death",
+      "manaCost": "{2} // {3}{U}",
+      "typeLine": "Legendary Artifact — Equipment // Sorcery — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/a/5/a5cfbfde-783e-46ca-b3cf-11f16209d6cb.jpg?1785496394",
+      "faces": [
+        {
+          "name": "Glamdring, Foe-hammer",
+          "manaCost": "{2}",
+          "typeLine": "Legendary Artifact — Equipment",
+          "oracleText": "Instant and sorcery spells you cast cost {X} less to cast, where X is equipped creature's power.\nEquip {2}"
+        },
+        {
+          "name": "Gleam of Death",
+          "manaCost": "{3}{U}",
+          "typeLine": "Sorcery — Adventure",
+          "oracleText": "Mill six cards, then put all instant and sorcery cards from among them into your hand. (Then exile this card. You may cast the artifact later from exile.)"
+        }
+      ]
+    }
+  },
+  {
+    "start": 1007,
+    "end": 1240,
+    "cardId": "4a865cea-f947-4736-8ace-ba478fceeb22",
+    "cardName": "Old Fat Spider Can't See Me",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Old Fat Spider Can't See Me",
+      "manaCost": "{2}{U}",
+      "typeLine": "Enchantment — Saga",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI — Target creature you control gains hexproof for as long as this Saga remains on the battlefield.\nII — Prevent all damage that would be dealt by up to one target creature for as long as this Saga remains on the battlefield.\nIII, IV — Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/4/a/4a865cea-f947-4736-8ace-ba478fceeb22.jpg?1787201066"
+    }
+  },
+  {
+    "start": 1240,
+    "end": 1405,
+    "cardId": "a2e4099e-86bd-461f-87fa-7f7850ae7eec",
+    "cardName": "Roll-Roll-Roll-Roll",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Roll-Roll-Roll-Roll",
+      "manaCost": "{2}{U}",
+      "typeLine": "Enchantment — Saga",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI, II, III, IV — Exile up to one target creature or land you control. If you do, return it to the battlefield under its owner's control at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/a/2/a2e4099e-86bd-461f-87fa-7f7850ae7eec.jpg?1785152396"
+    }
+  },
+  {
+    "start": 1405,
+    "end": 1763,
+    "cardId": "79edf5f6-f6b6-4271-bd2a-14a980f30616",
+    "cardName": "Uncover the Moon-Letters",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Uncover the Moon-Letters",
+      "manaCost": "{3}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever you cast a noncreature spell, you may draw X cards, where X is the amount of mana spent to cast that spell. If you do, discard two cards.",
+      "image": "https://cards.scryfall.io/normal/front/7/9/79edf5f6-f6b6-4271-bd2a-14a980f30616.jpg?1785496445"
+    }
+  },
+  {
+    "start": 1763,
+    "end": 1929,
+    "cardId": "0de529a7-bdc5-4581-a169-1ad123bc099a",
+    "cardName": "Wizard's Staff",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wizard's Staff",
+      "manaCost": "{1}{U}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature has prowess. (Whenever its controller casts a noncreature spell, that creature gets +1/+1 until end of turn.)\nIf a triggered ability of equipped creature triggers, that ability triggers an additional time.\nEquip Wizard {1}\nEquip {3}",
+      "image": "https://cards.scryfall.io/normal/front/0/d/0de529a7-bdc5-4581-a169-1ad123bc099a.jpg?1785152406"
+    }
+  },
+  {
+    "start": 1929,
+    "end": 2028,
+    "cardId": "c141695c-c108-41d5-85cb-1f7485d9d533",
+    "cardName": "Elven Raft-Steerer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elven Raft-Steerer",
+      "manaCost": "{2}{U}",
+      "typeLine": "Creature — Elf Pilot",
+      "oracleText": "Landfall — Whenever a land you control enters, choose one —\n• Tap target creature an opponent controls.\n• Untap target creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c141695c-c108-41d5-85cb-1f7485d9d533.jpg?1784632054"
+    }
+  },
+  {
+    "start": 2028,
+    "end": 2044,
+    "cardId": "a1142fa1-b861-4876-aa48-402af35aaa63",
+    "cardName": "Fateful Discovery",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fateful Discovery",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an artifact you control enters, draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/a/1/a1142fa1-b861-4876-aa48-402af35aaa63.jpg?1785323213"
+    }
+  },
+  {
+    "start": 2044,
+    "end": 2081,
+    "cardId": "a6129286-7437-4ba4-be55-586a22cd67ca",
+    "cardName": "Riddles in the Dark",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Riddles in the Dark",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Look at the top four cards of your library and separate them into a face-down pile and a face-up pile. An opponent chooses one of the piles. Put that pile into your hand and the other into your graveyard.",
+      "image": "https://cards.scryfall.io/normal/front/a/6/a6129286-7437-4ba4-be55-586a22cd67ca.jpg?1783902787"
+    }
+  },
+  {
+    "start": 2081,
+    "end": 2184,
+    "cardId": "3ffe34d4-72f4-4562-a948-8909b9321e59",
+    "cardName": "Head of the Hunt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Head of the Hunt",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Creature — Wolf",
+      "oracleText": "Flash\nIf a creature an opponent controls would die, exile it instead. When you do, create a 2/2 green Wolf creature token.",
+      "image": "https://cards.scryfall.io/normal/front/3/f/3ffe34d4-72f4-4562-a948-8909b9321e59.jpg?1785152416"
+    }
+  },
+  {
+    "start": 2184,
+    "end": 2339,
+    "cardId": "15ae4d50-be2f-412c-bb6b-b0a06b60474a",
+    "cardName": "My Precious // Allure of Power",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "My Precious // Allure of Power",
+      "manaCost": "{3} // {1}{B}",
+      "typeLine": "Legendary Artifact — Equipment // Instant — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/1/5/15ae4d50-be2f-412c-bb6b-b0a06b60474a.jpg?1783902783",
+      "faces": [
+        {
+          "name": "My Precious",
+          "manaCost": "{3}",
+          "typeLine": "Legendary Artifact — Equipment",
+          "oracleText": "Equipped creature has hexproof and can't be blocked.\nEquip—{2}, Pay 2 life."
+        },
+        {
+          "name": "Allure of Power",
+          "manaCost": "{1}{B}",
+          "typeLine": "Instant — Adventure",
+          "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards."
+        }
+      ]
+    }
+  },
+  {
+    "start": 2339,
+    "end": 2453,
+    "cardId": "16765eb2-d497-4cd6-b683-20eac2f10bbf",
+    "cardName": "Reverent Howl",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Reverent Howl",
+      "manaCost": "{2}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one —\n• Target player draws two cards and loses 2 life.\n• Target creature gets +2/+2 and gains lifelink until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/1/6/16765eb2-d497-4cd6-b683-20eac2f10bbf.jpg?1785497096"
+    }
+  },
+  {
+    "start": 2453,
+    "end": 2550,
+    "cardId": "5b25e454-06bb-43ca-9a9f-57164f7a70c4",
+    "cardName": "Supper for Spiders",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Supper for Spiders",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Put onto the battlefield under your control all creature cards in your opponents' graveyards that were put there from the battlefield this turn. They are Food artifacts with \"{2}, {T}, Sacrifice this artifact: You gain 3 life.\" (They lose all other types and subtypes.)",
+      "image": "https://cards.scryfall.io/normal/front/5/b/5b25e454-06bb-43ca-9a9f-57164f7a70c4.jpg?1784376962"
+    }
+  },
+  {
+    "start": 2550,
+    "end": 2580,
+    "cardId": "2ce066be-e5ad-4b93-8245-1b5018990d03",
+    "cardName": "Gathering of Darkness",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gathering of Darkness",
+      "manaCost": "{3}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return up to one target creature card from your graveyard to your hand.\nAmass Goblins 3. (Put three +1/+1 counters on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)",
+      "image": "https://cards.scryfall.io/normal/front/2/c/2ce066be-e5ad-4b93-8245-1b5018990d03.jpg?1784733910"
+    }
+  },
+  {
+    "start": 2580,
+    "end": 2706,
+    "cardId": "9763bd56-fa4b-4907-ad15-c3f040c5fc0a",
+    "cardName": "Inside Information",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Inside Information",
+      "manaCost": "{X}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Exile the top X cards of target opponent's library. You may play those cards this turn. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/9/7/9763bd56-fa4b-4907-ad15-c3f040c5fc0a.jpg?1785152426"
+    }
+  },
+  {
+    "start": 2706,
+    "end": 2727,
+    "cardId": "8651958c-3b94-47a9-a751-faf8f6236a42",
+    "cardName": "Rage into the Valley",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rage into the Valley",
+      "manaCost": "{2}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "You draw a card and lose 1 life.\nAmass Goblins 2. (Put two +1/+1 counters on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)",
+      "image": "https://cards.scryfall.io/normal/front/8/6/8651958c-3b94-47a9-a751-faf8f6236a42.jpg?1785496290"
+    }
+  },
+  {
+    "start": 2727,
+    "end": 2759,
+    "cardId": "ea7b5052-b343-466d-879e-2a211657ef0a",
+    "cardName": "Ravening Warg",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ravening Warg",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Wolf",
+      "oracleText": "Deathtouch\nFerocious — Whenever this creature attacks while you control a creature with power 4 or greater, you gain 2 life.",
+      "image": "https://cards.scryfall.io/normal/front/e/a/ea7b5052-b343-466d-879e-2a211657ef0a.jpg?1785497096"
+    }
+  },
+  {
+    "start": 2759,
+    "end": 2833,
+    "cardId": "cb25b11a-6bf5-4a9a-b60f-d4dcac3816d6",
+    "cardName": "Bothersome Noisemaker",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bothersome Noisemaker",
+      "manaCost": "{1}{R}",
+      "typeLine": "Creature — Goblin Bard",
+      "oracleText": "Whenever you cast a noncreature spell, amass Goblins 1. (Put a +1/+1 counter on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)",
+      "image": "https://cards.scryfall.io/normal/front/c/b/cb25b11a-6bf5-4a9a-b60f-d4dcac3816d6.jpg?1784894881"
+    }
+  },
+  {
+    "start": 2833,
+    "end": 2894,
+    "cardId": "7bf81a8b-52ad-49f5-a3d4-22613cad3a3d",
+    "cardName": "Ragged Short Spear",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ragged Short Spear",
+      "manaCost": "{1}{R}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "When this Equipment enters, you may discard a card. If you do, draw two cards.\nEquipped creature gets +2/+0.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+      "image": "https://cards.scryfall.io/normal/front/7/b/7bf81a8b-52ad-49f5-a3d4-22613cad3a3d.jpg?1785497128"
+    }
+  },
+  {
+    "start": 2894,
+    "end": 2985,
+    "cardId": "3d5f35ff-4146-4844-9da5-031461cc8c05",
+    "cardName": "The Misty Mountains Cold",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Misty Mountains Cold",
+      "manaCost": "{2}{R}",
+      "typeLine": "Enchantment — Saga",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI, II, III, IV — Create a Treasure token. Then if you control four or more Treasures, sacrifice this Saga. If you do, create a 6/6 red Dragon creature token with flying. (A Treasure token is an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "image": "https://cards.scryfall.io/normal/front/3/d/3d5f35ff-4146-4844-9da5-031461cc8c05.jpg?1784673451"
+    }
+  },
+  {
+    "start": 2985,
+    "end": 3013,
+    "cardId": "fc12c22a-11ff-4fb0-bc42-dd8490b8efb7",
+    "cardName": "Desert Were-Worm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Desert Were-Worm",
+      "manaCost": "{4}{R}{R}",
+      "typeLine": "Creature — Dragon Wurm",
+      "oracleText": "This creature gets +2/+0 for each Mountain you control.\nWhenever you attack with creatures with total power 12 or greater for the first time each turn, untap all attacking creatures. After this phase, there is an additional combat phase.",
+      "image": "https://cards.scryfall.io/normal/front/f/c/fc12c22a-11ff-4fb0-bc42-dd8490b8efb7.jpg?1784733924"
+    }
+  },
+  {
+    "start": 3013,
+    "end": 3064,
+    "cardId": "2462358b-52c8-49b2-8d97-d65a9188f8f7",
+    "cardName": "Desolation of Smaug",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Desolation of Smaug",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Desolation of Smaug deals 3 damage to each non-Dragon creature.\nAdd four mana in any combination of colors. Spend this mana only to cast Dragon spells.",
+      "image": "https://cards.scryfall.io/normal/front/2/4/2462358b-52c8-49b2-8d97-d65a9188f8f7.jpg?1784376974"
+    }
+  },
+  {
+    "start": 3064,
+    "end": 3127,
+    "cardId": "2b9d5820-a0b1-462d-a47c-4b6c6a549eca",
+    "cardName": "Dragon's Desire",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dragon's Desire",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Add {R} for each artifact your opponents control.",
+      "image": "https://cards.scryfall.io/normal/front/2/b/2b9d5820-a0b1-462d-a47c-4b6c6a549eca.jpg?1784377234"
+    }
+  },
+  {
+    "start": 3127,
+    "end": 3156,
+    "cardId": "153ca57e-30f0-4ad7-ae9d-c55cbf0fd4c9",
+    "cardName": "Beorn's Hospitality",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beorn's Hospitality",
+      "manaCost": "{1}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature you control.\n{5}{G}{G}: This enchantment becomes a Bear creature in addition to its other types and gains \"This creature's power and toughness are each equal to the number of lands you control.\" (This effect doesn't end.)",
+      "image": "https://cards.scryfall.io/normal/front/1/5/153ca57e-30f0-4ad7-ae9d-c55cbf0fd4c9.jpg?1785152153"
+    }
+  },
+  {
+    "start": 3156,
+    "end": 3208,
+    "cardId": "550cd0b6-ca61-4db7-9d20-0b68c48066f9",
+    "cardName": "Dancing from Dark to Dawn",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dancing from Dark to Dawn",
+      "manaCost": "{3}{G}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever you cast a creature spell, put X +1/+1 counters on target creature you control, where X is that spell's mana value.\nLandfall — Whenever a land you control enters, create a 2/2 green Bear creature token.",
+      "image": "https://cards.scryfall.io/normal/front/5/5/550cd0b6-ca61-4db7-9d20-0b68c48066f9.jpg?1785236704"
+    }
+  },
+  {
+    "start": 3208,
+    "end": 3262.1,
+    "cardId": "7d6ece3d-8e7a-41ad-974f-3c9748de4825",
+    "cardName": "Gigantic Big Bear",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gigantic Big Bear",
+      "manaCost": "{5}{G}{G}",
+      "typeLine": "Creature — Bear",
+      "oracleText": "This spell can't be countered.\nHexproof, haste",
+      "image": "https://cards.scryfall.io/normal/front/7/d/7d6ece3d-8e7a-41ad-974f-3c9748de4825.jpg?1785323269"
+    }
+  },
+  {
+    "start": 3262.1,
+    "end": 3333,
+    "cardId": "67c30782-0d28-4ce7-ad5b-ffbffeb97584",
+    "cardName": "Necklace of Girion",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Necklace of Girion",
+      "manaCost": "{2}{G}",
+      "typeLine": "Legendary Artifact",
+      "oracleText": "Whenever you cast a green spell and whenever a Forest you control enters, put a +1/+1 counter on target creature you control.\n{T}: Add {G}.",
+      "image": "https://cards.scryfall.io/normal/front/6/7/67c30782-0d28-4ce7-ad5b-ffbffeb97584.jpg?1784377248"
+    }
+  },
+  {
+    "start": 3333,
+    "end": 3406,
+    "cardId": "880adfc8-69cf-4062-a804-e65b6cb6056d",
+    "cardName": "Through the Forest Gate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Through the Forest Gate",
+      "manaCost": "{6}{G}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Look at the top twenty cards of your library, put any number of land cards from among them onto the battlefield tapped, then shuffle. You gain 8 life.",
+      "image": "https://cards.scryfall.io/normal/front/8/8/880adfc8-69cf-4062-a804-e65b6cb6056d.jpg?1784895046"
+    }
+  },
+  {
+    "start": 3406,
+    "end": 3464,
+    "cardId": "ea3f5644-f7e3-40de-ada5-cea2e9113cfb",
+    "cardName": "Bolg's Company",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bolg's Company",
+      "manaCost": "{B}{R}",
+      "typeLine": "Creature — Goblin Soldier",
+      "oracleText": "This creature has haste as long as you control another Goblin.\n{T}, Sacrifice another Goblin: Add {B}{R}.",
+      "image": "https://cards.scryfall.io/normal/front/e/a/ea3f5644-f7e3-40de-ada5-cea2e9113cfb.jpg?1785497179"
+    }
+  },
+  {
+    "start": 3464,
+    "end": 3564,
+    "cardId": "bbc634af-63d2-444a-8123-85f16fe3e364",
+    "cardName": "Chief Warg's Company",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chief Warg's Company",
+      "manaCost": "{1}{B}{G}",
+      "typeLine": "Creature — Wolf",
+      "oracleText": "Trample\nThis creature can't attack unless you control two or more other Wolves.\nAt the beginning of your upkeep, create a 2/2 green Wolf creature token.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bbc634af-63d2-444a-8123-85f16fe3e364.jpg?1784733927"
+    }
+  },
+  {
+    "start": 3564,
+    "end": 3607,
+    "cardId": "36db4405-8589-481f-b627-f26087488337",
+    "cardName": "Dáin's Company",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dáin's Company",
+      "manaCost": "{R}{W}",
+      "typeLine": "Creature — Dwarf Warrior",
+      "oracleText": "This creature has lifelink as long as you control another Dwarf.\nWhen this creature enters, look at the top four cards of your library. You may reveal a Dwarf or Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+      "image": "https://cards.scryfall.io/normal/front/3/6/36db4405-8589-481f-b627-f26087488337.jpg?1785236717"
+    }
+  },
+  {
+    "start": 3607,
+    "end": 3635,
+    "cardId": "2efe2dc7-3eaa-47f6-b1ae-f974c4a8ae79",
+    "cardName": "Fearsome Goblin Pair",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fearsome Goblin Pair",
+      "manaCost": "{2}{B/R}",
+      "typeLine": "Creature — Goblin Soldier",
+      "oracleText": "When this creature dies, amass Goblins 4. (Put four +1/+1 counters on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)",
+      "image": "https://cards.scryfall.io/normal/front/2/e/2efe2dc7-3eaa-47f6-b1ae-f974c4a8ae79.jpg?1785324572"
+    }
+  },
+  {
+    "start": 3635,
+    "end": 3689,
+    "cardId": "abdb9d4e-e6ca-409b-b589-0cf71724340b",
+    "cardName": "Thranduil's Company",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thranduil's Company",
+      "manaCost": "{2}{G}{U}",
+      "typeLine": "Creature — Elf Soldier",
+      "oracleText": "As long as you control another Elf, you may play an additional land on each of your turns.\nLandfall — Whenever a land you control enters, put two +1/+1 counters on target creature you control. It gains vigilance until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/a/b/abdb9d4e-e6ca-409b-b589-0cf71724340b.jpg?1785412736"
+    }
+  },
+  {
+    "start": 3689,
+    "end": 3771,
+    "cardId": "c1d49a74-231a-4d38-abfe-3e9b4afff9c2",
+    "cardName": "Long-Lost Lances",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Long-Lost Lances",
+      "manaCost": "{2}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature gets +2/+0.\nDuring your turn, creatures you control that are equipped have first strike and vigilance.\nEquip {2}",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1d49a74-231a-4d38-abfe-3e9b4afff9c2.jpg?1784377219"
+    }
+  },
+  {
+    "start": 3771,
+    "end": 3844,
+    "cardId": "0b4b1c59-bcec-4779-9e27-0e6f9feb4e11",
+    "cardName": "Troop of Ponies",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Troop of Ponies",
+      "manaCost": "{2}",
+      "typeLine": "Creature — Horse",
+      "oracleText": "{2}, {T}, Sacrifice this creature: Search your library for up to two basic land cards, reveal them, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/0/b/0b4b1c59-bcec-4779-9e27-0e6f9feb4e11.jpg?1785639568"
+    }
+  },
+  {
+    "start": 3844,
+    "end": 3874,
+    "cardId": "028f284b-4b4c-44e2-8ded-bc59ec71250f",
+    "cardName": "Bag End Banquet",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bag End Banquet",
+      "manaCost": "{6}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, create three Food tokens.\n{T}: Add {C} for each Food you control.",
+      "image": "https://cards.scryfall.io/normal/front/0/2/028f284b-4b4c-44e2-8ded-bc59ec71250f.jpg?1784377206"
+    }
+  },
+  {
+    "start": 3874,
+    "end": 3916,
+    "cardId": "f54f1c1d-6a22-43e9-a842-0a1ae25b323c",
+    "cardName": "Orcrist, Goblin-cleaver",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Orcrist, Goblin-cleaver",
+      "manaCost": "{3}",
+      "typeLine": "Legendary Artifact — Equipment",
+      "oracleText": "Equipped creature gets +2/+2 and has trample.\nWhenever equipped creature deals combat damage to a player, choose a creature type. Create a Treasure token for each creature you control of that type.\nEquip {3}",
+      "image": "https://cards.scryfall.io/normal/front/f/5/f54f1c1d-6a22-43e9-a842-0a1ae25b323c.jpg?1784798240"
+    }
+  },
+  {
+    "start": 3916,
+    "end": 3981,
+    "cardId": "d6a8d698-c454-42c4-ad4e-9a7625d5569f",
+    "cardName": "Sting, Bilbo's Sword",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sting, Bilbo's Sword",
+      "manaCost": "{2}",
+      "typeLine": "Legendary Artifact — Equipment",
+      "oracleText": "Flash\nWhen Sting enters, put a hone counter on Sting for each creature target opponent controls. Attach Sting to up to one target creature you control. (Each hone counter on an Equipment grants +1/+0 to equipped creature.)\nEquip {3}",
+      "image": "https://cards.scryfall.io/normal/front/d/6/d6a8d698-c454-42c4-ad4e-9a7625d5569f.jpg?1784377051"
+    }
+  },
+  {
+    "start": 3981,
+    "end": 4054,
+    "cardId": "0365c439-30bf-4d32-a791-166751bdb996",
+    "cardName": "Hobbit Hole",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hobbit Hole",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\nHalflingcycling {4} ({4}, Discard this card: Search your library for a Halfling card, reveal it, put it into your hand, then shuffle.)",
+      "image": "https://cards.scryfall.io/normal/front/0/3/0365c439-30bf-4d32-a791-166751bdb996.jpg?1785323332"
+    }
+  },
+  {
+    "start": 4054,
+    "end": 4097,
+    "cardId": "506b9df7-8236-4c6e-aebc-6b7e6fcd7e88",
+    "cardName": "Dragon-Cursed Halls",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dragon-Cursed Halls",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{1}, {T}: Until end of turn, target creature gains \"Whenever this creature deals combat damage to a player, create a Treasure token.\"",
+      "image": "https://cards.scryfall.io/normal/front/5/0/506b9df7-8236-4c6e-aebc-6b7e6fcd7e88.jpg?1784377246"
+    }
+  },
+  {
+    "start": 4097,
+    "end": 4142,
+    "cardId": "dd1fd2ab-2565-4798-a832-fc849df82f74",
+    "cardName": "Elven Passage",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elven Passage",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. You may behold an Elf. If you do, untap that land. (To behold an Elf, choose an Elf you control or reveal an Elf card from your hand.)",
+      "image": "https://cards.scryfall.io/normal/front/d/d/dd1fd2ab-2565-4798-a832-fc849df82f74.jpg?1785323319"
+    }
+  },
+  {
+    "start": 4142,
+    "end": 4177,
+    "cardId": "b39ebc4d-a01a-4401-ab3a-bf6142c93b47",
+    "cardName": "The Lonely Mountain",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Lonely Mountain",
+      "manaCost": "",
+      "typeLine": "Land — Mountain",
+      "oracleText": "({T}: Add {R}.)\nThis land enters tapped unless you control an Equipment.\n{4}{R}, {T}: Create a 2/2 red Dwarf creature token. This ability costs {1} less to activate for each Equipment you control. Activate only as a sorcery.",
+      "image": "https://cards.scryfall.io/normal/front/b/3/b39ebc4d-a01a-4401-ab3a-bf6142c93b47.jpg?1784543511"
+    }
+  },
+  {
+    "start": 4177,
+    "cardId": "78045c43-5cbe-48ff-837d-e7c6baac2937",
+    "cardName": "Iron Hills",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Iron Hills",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped.\n{T}: Add {R} or {W}.\n{2}{R}{W}, {T}, Sacrifice this land: Put two +1/+1 counters on target Dwarf you control. Activate only as a sorcery.",
+      "image": "https://cards.scryfall.io/normal/front/7/8/78045c43-5cbe-48ff-837d-e7c6baac2937.jpg?1785323594"
+    }
+  }
+]

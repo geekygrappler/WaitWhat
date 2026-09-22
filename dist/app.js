@@ -37,7 +37,7 @@ async function loadEpisode(episode) {
   setEpisodeTitle(episode.title);
   $("episode-art").src = episode.artwork;
   $("episode-art").alt = `${episode.title} artwork`;
-  $("episode-status").textContent = "Hand-verified opening cue sheet";
+  $("episode-status").textContent = "Reviewed full-episode cue sheet";
   $("episode-select").value = episode.id;
   setupMediaSession(episode);
 }
@@ -118,7 +118,8 @@ function renderAtTime(time) {
 
 function renderCard(cue) {
   if (!cue) {
-    $("card-stage").innerHTML = `<div class="empty-card"><div class="empty-card-glyph">⌁</div><h1 id="card-title">Between card mentions</h1><p>The verified milestone covers the opening review. Move to 1:33–30:19 to try the synced card experience.</p><button id="jump-first" class="text-button" type="button">Jump to first card · 1:33</button></div>`;
+    const firstCue = state.cues[0];
+    $("card-stage").innerHTML = `<div class="empty-card"><div class="empty-card-glyph">⌁</div><h1 id="card-title">Between card mentions</h1><p>The reviewed cue sheet covers the full episode. Jump to the first card to try the synced experience.</p><button id="jump-first" class="text-button" type="button">Jump to first card · ${formatTime(firstCue?.start || 0)}</button></div>`;
     $("jump-first").addEventListener("click", () => seekTo(state.cues[0]?.start || 0, true));
     return;
   }

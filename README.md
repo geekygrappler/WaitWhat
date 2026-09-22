@@ -4,7 +4,7 @@
 
 ## First milestone
 
-The prototype is wired to **The Hobbit | Legends Review** from 19 August 2026. It plays the episode's Libsyn enclosure and includes a hand-verified cue sheet for eight opening cards, from Belladonna Took at 1:33 through Bilbo, Thief in the Night at 26:33. The publisher's transcript and player both refer to the same Libsyn episode asset.
+The prototype is wired to both **The Hobbit | Legends Review** and **The Hobbit | Cards for the Other 99** from August 2026. It plays the episodes' Libsyn enclosures and includes reviewed full-episode cue sheets generated from the publisher's timestamped transcripts. The publisher's transcripts and player refer to the same Libsyn episode assets.
 
 The episode selector is populated from the current RSS feed snapshot. Episodes without cue sheets are visible but disabled; run the processing workflow before enabling one.
 

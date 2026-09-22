@@ -29,7 +29,8 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/353-The_Hobbits_Other_99_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/the-hobbit-cards-for-the-other-99",
     "artwork": "https://static.libsyn.com/p/assets/6/2/d/d/62dd8b4d099f27c416c3140a3186d450/Thumbnail_2000x2000-20260825-pzzyls5srj.png",
-    "processed": false,
+    "cueSheet": "./data/hobbit-cards-for-the-other-99.cues.json",
+    "processed": true,
     "source": "Legendary Creature Podcast RSS"
   },
   {

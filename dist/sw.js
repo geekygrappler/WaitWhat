@@ -1,4 +1,4 @@
-const CACHE = "wait-what-shell-v6";
+const CACHE = "wait-what-shell-v9";
 const SHELL = [
   "./",
   "./index.html",
@@ -8,7 +8,8 @@ const SHELL = [
   "./manifest.webmanifest",
   "./icon.svg",
   "./data/episodes.json",
-  "./data/hobbit-legends-review.cues.json"
+  "./data/hobbit-legends-review.cues.json",
+  "./data/hobbit-cards-for-the-other-99.cues.json"
 ];
 
 self.addEventListener("install", (event) => {

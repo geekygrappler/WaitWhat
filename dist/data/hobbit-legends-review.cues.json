@@ -5,7 +5,7 @@
     "cardId": "88f0c189-c9ed-4ea3-ae62-3d8ac6c7fecf",
     "cardName": "Belladonna Took",
     "confidence": 1,
-    "verified": true,
+    "needsReview": false,
     "card": {
       "name": "Belladonna Took",
       "manaCost": "{1}{W}",
@@ -19,16 +19,26 @@
     "end": 473.339,
     "cardId": "6b8e6435-7de4-41d5-bc7d-8e24c11897d0",
     "cardName": "Bofur, Reliable Guardian // Concerted Care",
-    "confidence": 0.99,
-    "verified": true,
+    "confidence": 1,
+    "needsReview": false,
     "card": {
       "name": "Bofur, Reliable Guardian // Concerted Care",
       "manaCost": "{W} // {1}{W}",
       "typeLine": "Legendary Creature — Dwarf Scout // Instant — Adventure",
       "image": "https://cards.scryfall.io/normal/front/6/b/6b8e6435-7de4-41d5-bc7d-8e24c11897d0.jpg?1785496981",
       "faces": [
-        {"name":"Bofur, Reliable Guardian","manaCost":"{W}","typeLine":"Legendary Creature — Dwarf Scout","oracleText":"Lifelink"},
-        {"name":"Concerted Care","manaCost":"{1}{W}","typeLine":"Instant — Adventure","oracleText":"Target artifact or creature you control gains hexproof and indestructible until end of turn. (Then exile this card. You may cast the creature later from exile.)"}
+        {
+          "name": "Bofur, Reliable Guardian",
+          "manaCost": "{W}",
+          "typeLine": "Legendary Creature — Dwarf Scout",
+          "oracleText": "Lifelink"
+        },
+        {
+          "name": "Concerted Care",
+          "manaCost": "{1}{W}",
+          "typeLine": "Instant — Adventure",
+          "oracleText": "Target artifact or creature you control gains hexproof and indestructible until end of turn. (Then exile this card. You may cast the creature later from exile.)"
+        }
       ]
     }
   },
@@ -37,8 +47,8 @@
     "end": 615.214,
     "cardId": "99d27749-d16c-45e9-accc-6a01351c17f9",
     "cardName": "Dáin, Lord of the Iron Hills",
-    "confidence": 0.99,
-    "verified": true,
+    "confidence": 1,
+    "needsReview": false,
     "card": {
       "name": "Dáin, Lord of the Iron Hills",
       "manaCost": "{1}{W}",
@@ -52,8 +62,8 @@
     "end": 772.571,
     "cardId": "1805532f-6d99-47d0-9529-5f5831a7fdc8",
     "cardName": "Kíli the Resourceful",
-    "confidence": 0.99,
-    "verified": true,
+    "confidence": 1,
+    "needsReview": false,
     "card": {
       "name": "Kíli the Resourceful",
       "manaCost": "{1}{W}",
@@ -68,7 +78,7 @@
     "cardId": "911bd55d-00c7-4362-ba2d-eef0a9dadb6c",
     "cardName": "Ori, Plate Stacker",
     "confidence": 1,
-    "verified": true,
+    "needsReview": false,
     "card": {
       "name": "Ori, Plate Stacker",
       "manaCost": "{5}{W}{W}",
@@ -79,11 +89,11 @@
   },
   {
     "start": 938.47,
-    "end": 1248.714,
+    "end": 1255,
     "cardId": "c977fb5f-4436-41d0-af68-93b6d05897e5",
     "cardName": "The Queen of Dale",
     "confidence": 1,
-    "verified": true,
+    "needsReview": false,
     "card": {
       "name": "The Queen of Dale",
       "manaCost": "{1}{W}",
@@ -93,20 +103,75 @@
     }
   },
   {
+    "start": 1255,
+    "end": 1341,
+    "cardId": "c3540c92-60f3-4f32-89f2-4568d9c0fd4c",
+    "cardName": "Bilbo, Unexpected Adventurer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bilbo, Unexpected Adventurer",
+      "manaCost": "{3}{W}",
+      "typeLine": "Legendary Creature — Halfling Rogue",
+      "oracleText": "Bilbo can't be blocked by creatures with power 3 or greater.\nWhenever Bilbo deals combat damage to a player or battle, put up to one target nonland permanent card with mana value 3 or less from a graveyard onto the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/c/3/c3540c92-60f3-4f32-89f2-4568d9c0fd4c.jpg?1785323563"
+    }
+  },
+  {
+    "start": 1341,
+    "end": 1377,
+    "cardId": "b02142f3-5e55-40dc-a02c-9113fb7d763c",
+    "cardName": "Fíli the Pathfinder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fíli the Pathfinder",
+      "manaCost": "{3}{W}",
+      "typeLine": "Legendary Creature — Dwarf Scout",
+      "oracleText": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, creatures you control get +1/+1.\nWhenever Fíli or another nontoken Dwarf you control enters, create a 2/2 red Dwarf creature token.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b02142f3-5e55-40dc-a02c-9113fb7d763c.jpg?1785496367"
+    }
+  },
+  {
+    "start": 1377,
+    "end": 1423.955,
+    "cardId": "c5727af5-a487-4b16-8278-81c3c928c417",
+    "cardName": "Ori, Keeper of Songs",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ori, Keeper of Songs",
+      "manaCost": "{2}{W}",
+      "typeLine": "Legendary Creature — Dwarf Bard",
+      "oracleText": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, Ori gets +1/+0 and has vigilance.",
+      "image": "https://cards.scryfall.io/normal/front/c/5/c5727af5-a487-4b16-8278-81c3c928c417.jpg?1785323179"
+    }
+  },
+  {
     "start": 1423.955,
     "end": 1593.959,
     "cardId": "8bff0aa6-16d9-4c83-b598-ef00a3b33d2c",
     "cardName": "Bilbo, Luckwearer // Burglar's Plot",
-    "confidence": 0.98,
-    "verified": true,
+    "confidence": 1,
+    "needsReview": false,
     "card": {
       "name": "Bilbo, Luckwearer // Burglar's Plot",
       "manaCost": "{1}{U} // {4}{U}",
       "typeLine": "Legendary Creature — Halfling Rogue // Sorcery — Adventure",
       "image": "https://cards.scryfall.io/normal/front/8/b/8bff0aa6-16d9-4c83-b598-ef00a3b33d2c.jpg?1783902786",
       "faces": [
-        {"name":"Bilbo, Luckwearer","manaCost":"{1}{U}","typeLine":"Legendary Creature — Halfling Rogue","oracleText":"Bilbo can't be blocked.\nWhenever Bilbo deals combat damage to a player, draw a card, then discard a card."},
-        {"name":"Burglar's Plot","manaCost":"{4}{U}","typeLine":"Sorcery — Adventure","oracleText":"Exchange control of two target nonland permanents that share a card type. (Then exile this card. You may cast the creature later from exile.)"}
+        {
+          "name": "Bilbo, Luckwearer",
+          "manaCost": "{1}{U}",
+          "typeLine": "Legendary Creature — Halfling Rogue",
+          "oracleText": "Bilbo can't be blocked.\nWhenever Bilbo deals combat damage to a player, draw a card, then discard a card."
+        },
+        {
+          "name": "Burglar's Plot",
+          "manaCost": "{4}{U}",
+          "typeLine": "Sorcery — Adventure",
+          "oracleText": "Exchange control of two target nonland permanents that share a card type. (Then exile this card. You may cast the creature later from exile.)"
+        }
       ]
     }
   },
@@ -116,13 +181,883 @@
     "cardId": "484c7f83-8339-4ae1-8350-68ce1f7d05a3",
     "cardName": "Bilbo, Thief in the Night",
     "confidence": 1,
-    "verified": true,
+    "needsReview": false,
     "card": {
       "name": "Bilbo, Thief in the Night",
       "manaCost": "{1}{U}",
       "typeLine": "Legendary Creature — Halfling Rogue",
       "oracleText": "Spells you cast from anywhere other than your hand cost {1} less to cast.\nWhenever Bilbo attacks, you may cast an artifact, instant, or sorcery spell from your graveyard. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead.",
       "image": "https://cards.scryfall.io/normal/front/4/8/484c7f83-8339-4ae1-8350-68ce1f7d05a3.jpg?1783902786"
+    }
+  },
+  {
+    "start": 1819.184,
+    "end": 1978.576,
+    "cardId": "c659c9e5-5ec6-4c7f-80b2-e1782e6c3334",
+    "cardName": "Gandalf, Shadow's Foe",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gandalf, Shadow's Foe",
+      "manaCost": "{5}{U}{U}",
+      "typeLine": "Legendary Creature — Avatar Wizard",
+      "oracleText": "Vigilance\nWhen Gandalf enters, exile up to three target lands you control, then return them to the battlefield tapped under their owner's control.\nLandfall — Whenever a land you control enters, draw a card and put a +1/+1 counter on Gandalf.",
+      "image": "https://cards.scryfall.io/normal/front/c/6/c659c9e5-5ec6-4c7f-80b2-e1782e6c3334.jpg?1785323570"
+    }
+  },
+  {
+    "start": 1978.576,
+    "end": 2154.585,
+    "cardId": "1f8403a2-849c-4a59-b0ed-c8803995028d",
+    "cardName": "Gandalf, Wandering Wizard",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gandalf, Wandering Wizard",
+      "manaCost": "{4}{U}",
+      "typeLine": "Legendary Creature — Avatar Wizard",
+      "oracleText": "Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)\n{6}: Gandalf's owner shuffles him into their library and draws three cards.",
+      "image": "https://cards.scryfall.io/normal/front/1/f/1f8403a2-849c-4a59-b0ed-c8803995028d.jpg?1785496472"
+    }
+  },
+  {
+    "start": 2154.585,
+    "end": 2283,
+    "cardId": "fa0554fc-9448-4ae2-8712-4f4f7af3c7b4",
+    "cardName": "The Lord of the Eagles",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Lord of the Eagles",
+      "manaCost": "{7}{U}{U}",
+      "typeLine": "Legendary Creature — Bird Noble",
+      "oracleText": "Flash\nThis spell costs {X} less to cast, where X is the total power of creatures you control with flying.\nFlying",
+      "image": "https://cards.scryfall.io/normal/front/f/a/fa0554fc-9448-4ae2-8712-4f4f7af3c7b4.jpg?1784636060"
+    }
+  },
+  {
+    "start": 2283,
+    "end": 2306,
+    "cardId": "6a109b3e-9f5b-4625-abb7-6b992c10530b",
+    "cardName": "Bilbo Baggins, Burglar // Take a Glance",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bilbo Baggins, Burglar // Take a Glance",
+      "manaCost": "{2}{U} // {U}",
+      "typeLine": "Legendary Creature — Halfling Rogue // Sorcery — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/6/a/6a109b3e-9f5b-4625-abb7-6b992c10530b.jpg?1785323194",
+      "faces": [
+        {
+          "name": "Bilbo Baggins, Burglar",
+          "manaCost": "{2}{U}",
+          "typeLine": "Legendary Creature — Halfling Rogue",
+          "oracleText": "When Bilbo Baggins enters, draw a card."
+        },
+        {
+          "name": "Take a Glance",
+          "manaCost": "{U}",
+          "typeLine": "Sorcery — Adventure",
+          "oracleText": "Scry 2. (Then exile this card. You may cast the creature later from exile.)"
+        }
+      ]
+    }
+  },
+  {
+    "start": 2306,
+    "end": 2391.522,
+    "cardId": "fbcb310c-be73-46f8-8e65-8632454ccc6e",
+    "cardName": "Elrond, Moon-Reader",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elrond, Moon-Reader",
+      "manaCost": "{2}{U}",
+      "typeLine": "Legendary Creature — Elf Noble",
+      "oracleText": "Whenever you activate an ability of a creature, draw a card. This ability triggers only once each turn.\n{5}{U}{U}: Exile up to two other target nonland permanents you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/f/b/fbcb310c-be73-46f8-8e65-8632454ccc6e.jpg?1784376948"
+    }
+  },
+  {
+    "start": 2391.522,
+    "end": 2597.461,
+    "cardId": "135da718-affc-46ba-be57-c12c23b54dad",
+    "cardName": "Azog, Moria's Ruin",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Azog, Moria's Ruin",
+      "manaCost": "{2}{B}",
+      "typeLine": "Legendary Creature — Goblin Soldier",
+      "oracleText": "When Azog enters, destroy up to one other target creature. Its controller amasses Goblins X, where X is that creature's power. If you controlled that creature, draw a card. (To amass Goblins X, that player puts X +1/+1 counters on an Army they control. It's also a Goblin. If they don't control an Army, they create a 0/0 black Goblin Army creature token first.)",
+      "image": "https://cards.scryfall.io/normal/front/1/3/135da718-affc-46ba-be57-c12c23b54dad.jpg?1784798028"
+    }
+  },
+  {
+    "start": 2597.461,
+    "end": 2759.156,
+    "cardId": "bbdc7e37-c65a-497a-92b7-a30a6e369c71",
+    "cardName": "Gollum, Riddle Master",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gollum, Riddle Master",
+      "manaCost": "{1}{B}",
+      "typeLine": "Legendary Creature — Halfling Horror",
+      "oracleText": "As Gollum enters, choose odd or even. (Zero is even.)\nWhenever an opponent casts a spell with mana value of the chosen quality, choose one that hasn't been chosen —\n• Put a +1/+1 counter on Gollum.\n• Each opponent loses 2 life and you gain 2 life.\n• Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bbdc7e37-c65a-497a-92b7-a30a6e369c71.jpg?1784376959"
+    }
+  },
+  {
+    "start": 2759.156,
+    "end": 2987,
+    "cardId": "50d91ef3-6f5d-4255-8d47-be731b5dad30",
+    "cardName": "Gollum the Abandoned",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gollum the Abandoned",
+      "manaCost": "{1}{B}",
+      "typeLine": "Legendary Creature — Halfling Horror",
+      "oracleText": "Gollum can't block.\nWhen Gollum enters, exile up to one target card from an opponent's graveyard. Each opponent loses 2 life.\n{2}, Sacrifice an artifact or creature: Return this card from your graveyard to your hand. Activate only as a sorcery.",
+      "image": "https://cards.scryfall.io/normal/front/5/0/50d91ef3-6f5d-4255-8d47-be731b5dad30.jpg?1784733916"
+    }
+  },
+  {
+    "start": 2987,
+    "end": 3310,
+    "cardId": "3788ada6-34a9-41af-a31c-2d090550e503",
+    "cardName": "The Master of Lake-town",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Master of Lake-town",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Legendary Creature — Human Advisor",
+      "oracleText": "Deathtouch\nWhenever a player loses life, that player mills that many cards. (Damage causes loss of life.)\nWhen The Master of Lake-town dies, draw a card for each graveyard with seven or more cards in it.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/3788ada6-34a9-41af-a31c-2d090550e503.jpg?1784632114"
+    }
+  },
+  {
+    "start": 3310,
+    "end": 3484.214,
+    "cardId": "ed87b471-79f9-45ec-9188-69e970f6121e",
+    "cardName": "The Sackville-Bagginses",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Sackville-Bagginses",
+      "manaCost": "{1}{B}",
+      "typeLine": "Legendary Creature — Halfling Citizen",
+      "oracleText": "When The Sackville-Bagginses enter, you may sacrifice another creature or artifact. If you do, draw a card and create a Treasure token.\nWhenever you sacrifice a token, target opponent loses 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/e/d/ed87b471-79f9-45ec-9188-69e970f6121e.jpg?1784894871"
+    }
+  },
+  {
+    "start": 3484.214,
+    "end": 3521.05,
+    "cardId": "6cfaa182-3fec-4907-8814-b4d29c33cec3",
+    "cardName": "Gollum, Silent Slinker // Meager Meal",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gollum, Silent Slinker // Meager Meal",
+      "manaCost": "{3}{B} // {B}",
+      "typeLine": "Legendary Creature — Halfling Horror // Sorcery — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/6/c/6cfaa182-3fec-4907-8814-b4d29c33cec3.jpg?1785323234",
+      "faces": [
+        {
+          "name": "Gollum, Silent Slinker",
+          "manaCost": "{3}{B}",
+          "typeLine": "Legendary Creature — Halfling Horror",
+          "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)"
+        },
+        {
+          "name": "Meager Meal",
+          "manaCost": "{B}",
+          "typeLine": "Sorcery — Adventure",
+          "oracleText": "Put a +1/+1 counter on up to one target creature. Target player gains 2 life. (Then exile this card. You may cast the creature later from exile.)"
+        }
+      ]
+    }
+  },
+  {
+    "start": 3521.05,
+    "end": 3843.472,
+    "cardId": "42d7ca7b-c983-40fd-ad57-59f6972bb375",
+    "cardName": "Balin, Loremaster",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Balin, Loremaster",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Legendary Creature — Dwarf Bard",
+      "oracleText": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nWhenever Balin or another Dwarf you control enters, you may discard your hand. Draw X cards, where X is the number of cards discarded this way. If you have an enduring story, Balin deals X damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/4/2/42d7ca7b-c983-40fd-ad57-59f6972bb375.jpg?1785496498"
+    }
+  },
+  {
+    "start": 3843.472,
+    "end": 4038.267,
+    "cardId": "63c317e7-432c-4817-8db4-3670a1d84be3",
+    "cardName": "Bombur, Gentle Dreamer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bombur, Gentle Dreamer",
+      "manaCost": "{2}{R}",
+      "typeLine": "Legendary Creature — Dwarf Bard",
+      "oracleText": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nBombur doesn't untap during your untap step unless you have an enduring story.",
+      "image": "https://cards.scryfall.io/normal/front/6/3/63c317e7-432c-4817-8db4-3670a1d84be3.jpg?1785496185"
+    }
+  },
+  {
+    "start": 4038.267,
+    "end": 4223.953,
+    "cardId": "e1d12200-ae0b-4155-9853-3ffaf490c84c",
+    "cardName": "Fíli and Kíli, Joyous",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fíli and Kíli, Joyous",
+      "manaCost": "{2}{R}",
+      "typeLine": "Legendary Creature — Dwarf Bard",
+      "oracleText": "Haste\n{T}: Add {R}{R}. Spend this mana only to cast Dwarf, Equipment, and Saga spells.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1d12200-ae0b-4155-9853-3ffaf490c84c.jpg?1784377185"
+    }
+  },
+  {
+    "start": 4223.953,
+    "end": 4407.836,
+    "cardId": "9b0d29a1-7da9-4fb3-8536-8ff8d8acae0b",
+    "cardName": "Gandalf, Goblins' Bane // Flameshape",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gandalf, Goblins' Bane // Flameshape",
+      "manaCost": "{2}{R} // {1}{R}",
+      "typeLine": "Legendary Creature — Avatar Wizard // Sorcery — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/9/b/9b0d29a1-7da9-4fb3-8536-8ff8d8acae0b.jpg?1784376993",
+      "faces": [
+        {
+          "name": "Gandalf, Goblins' Bane",
+          "manaCost": "{2}{R}",
+          "typeLine": "Legendary Creature — Avatar Wizard",
+          "oracleText": "Whenever you cast a noncreature spell, Gandalf gets +1/+1 until end of turn and deals 1 damage to each opponent."
+        },
+        {
+          "name": "Flameshape",
+          "manaCost": "{1}{R}",
+          "typeLine": "Sorcery — Adventure",
+          "oracleText": "Look at the top two cards of your library and exile them face down. For as long as they remain exiled, you may play them if you control a Wizard."
+        }
+      ]
+    }
+  },
+  {
+    "start": 4407.836,
+    "end": 4666.995,
+    "cardId": "5793b8eb-2fc5-454d-8fa2-20346fef167a",
+    "cardName": "Glóin the Mighty // Easy Pickings",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Glóin the Mighty // Easy Pickings",
+      "manaCost": "{3}{R} // {2}{R}",
+      "typeLine": "Legendary Creature — Dwarf Warrior // Sorcery — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785324545",
+      "faces": [
+        {
+          "name": "Glóin the Mighty",
+          "manaCost": "{3}{R}",
+          "typeLine": "Legendary Creature — Dwarf Warrior",
+          "oracleText": "At the beginning of your first main phase, add {R}{R}."
+        },
+        {
+          "name": "Easy Pickings",
+          "manaCost": "{2}{R}",
+          "typeLine": "Sorcery — Adventure",
+          "oracleText": "Easy Pickings deals 1 damage to each creature your opponents control. (Then exile this card. You may cast the creature later from exile.)"
+        }
+      ]
+    }
+  },
+  {
+    "start": 4666.995,
+    "end": 4819.481,
+    "cardId": "419ca9e5-8413-4378-a4ef-eda5a1024218",
+    "cardName": "Smaug, the Great Calamity // Spew Flame",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Smaug, the Great Calamity // Spew Flame",
+      "manaCost": "{5}{R}{R} // {4}{R}",
+      "typeLine": "Legendary Creature — Dragon // Sorcery — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/4/1/419ca9e5-8413-4378-a4ef-eda5a1024218.jpg?1785497136",
+      "faces": [
+        {
+          "name": "Smaug, the Great Calamity",
+          "manaCost": "{5}{R}{R}",
+          "typeLine": "Legendary Creature — Dragon",
+          "oracleText": "Flying"
+        },
+        {
+          "name": "Spew Flame",
+          "manaCost": "{4}{R}",
+          "typeLine": "Sorcery — Adventure",
+          "oracleText": "Spew Flame deals 5 damage to target creature. (Then exile this card. You may cast the creature later from exile.)"
+        }
+      ]
+    }
+  },
+  {
+    "start": 4819.481,
+    "end": 5031.026,
+    "cardId": "6a5d8fad-2ffd-4645-8c49-907999b6cecf",
+    "cardName": "Smaug the Magnificent",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Smaug the Magnificent",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Legendary Creature — Dragon",
+      "oracleText": "Flying, haste\nWhenever Smaug attacks, he deals damage equal to the number of Treasures you control to any target.\nAt the beginning of your upkeep, create a Treasure token.",
+      "image": "https://cards.scryfall.io/normal/front/6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784"
+    }
+  },
+  {
+    "start": 5031.026,
+    "end": 5163,
+    "cardId": "5b402a0c-4861-4b58-83b6-c754624cb6ea",
+    "cardName": "Thorin, Company's Leader",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thorin, Company's Leader",
+      "manaCost": "{4}{R}",
+      "typeLine": "Legendary Creature — Dwarf Warrior",
+      "oracleText": "Whenever a Dwarf you control deals combat damage to a player or battle, create two Treasure tokens.\n{10}: Creatures you control gain double strike until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/5/b/5b402a0c-4861-4b58-83b6-c754624cb6ea.jpg?1785329731"
+    }
+  },
+  {
+    "start": 5163,
+    "end": 5191.319,
+    "cardId": "7112e460-9160-4535-ad94-93f1f4ac04cf",
+    "cardName": "Dáin Ironfoot",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dáin Ironfoot",
+      "manaCost": "{2}{R}",
+      "typeLine": "Legendary Creature — Dwarf Warrior",
+      "oracleText": "When Dáin enters, create a colorless Equipment artifact token named Axe with \"Equipped creature gets +1/+0\" and equip {2}. When you do, attach it to target creature you control.\nWhenever Dáin attacks, each equipped attacking creature gains double strike until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/7/1/7112e460-9160-4535-ad94-93f1f4ac04cf.jpg?1785236701"
+    }
+  },
+  {
+    "start": 5191.319,
+    "end": 5211.439,
+    "cardId": "d2f60ad0-c887-4585-85f8-afcf72fb80d0",
+    "cardName": "Dori, Bearer of Friends",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dori, Bearer of Friends",
+      "manaCost": "{2}{R}",
+      "typeLine": "Legendary Creature — Dwarf Warrior",
+      "oracleText": "Trample\nWhen Dori enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "image": "https://cards.scryfall.io/normal/front/d/2/d2f60ad0-c887-4585-85f8-afcf72fb80d0.jpg?1785323237"
+    }
+  },
+  {
+    "start": 5211.439,
+    "end": 5238,
+    "cardId": "7c5c6f1c-35cf-4172-b5a1-b73222b0723b",
+    "cardName": "Gandalf, Spark Starter",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gandalf, Spark Starter",
+      "manaCost": "{4}{R}{R}",
+      "typeLine": "Legendary Creature — Avatar Wizard",
+      "oracleText": "Reach\nWhen Gandalf enters, he deals 3 damage divided as you choose among one, two, or three targets.",
+      "image": "https://cards.scryfall.io/normal/front/7/c/7c5c6f1c-35cf-4172-b5a1-b73222b0723b.jpg?1784895032"
+    }
+  },
+  {
+    "start": 5238,
+    "end": 5259,
+    "cardId": "9984b9ef-e81c-48f4-aa33-0504171a2d3c",
+    "cardName": "Óin the Brave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Óin the Brave",
+      "manaCost": "{1}{R}",
+      "typeLine": "Legendary Creature — Dwarf Warrior",
+      "oracleText": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, Óin gets +1/+0 and has haste.\n{1}, {T}, Discard a card: Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/9/9/9984b9ef-e81c-48f4-aa33-0504171a2d3c.jpg?1785496200"
+    }
+  },
+  {
+    "start": 5259,
+    "end": 5302.63,
+    "cardId": "117347af-0dd7-4350-901d-8c8a81387e22",
+    "cardName": "Thorin, Mountain-king",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thorin, Mountain-king",
+      "manaCost": "{3}{R}",
+      "typeLine": "Legendary Creature — Dwarf Noble",
+      "oracleText": "Trample\nWhen Thorin enters, attach any number of target Equipment you control to target creature you control. When one or more Equipment become attached to that creature this way, that creature deals damage equal to its power to up to one target creature.",
+      "image": "https://cards.scryfall.io/normal/front/1/1/117347af-0dd7-4350-901d-8c8a81387e22.jpg?1783902784"
+    }
+  },
+  {
+    "start": 5302.63,
+    "end": 5489.817,
+    "cardId": "804589b7-3ef9-473d-97cc-c61a2d41f70d",
+    "cardName": "Beorn, Reluctant Host // Till and Tend",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beorn, Reluctant Host // Till and Tend",
+      "manaCost": "{4}{G} // {1}{G}",
+      "typeLine": "Legendary Creature — Human Bear Shapeshifter // Sorcery — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/8/0/804589b7-3ef9-473d-97cc-c61a2d41f70d.jpg?1785323267",
+      "faces": [
+        {
+          "name": "Beorn, Reluctant Host",
+          "manaCost": "{4}{G}",
+          "typeLine": "Legendary Creature — Human Bear Shapeshifter",
+          "oracleText": "Trample"
+        },
+        {
+          "name": "Till and Tend",
+          "manaCost": "{1}{G}",
+          "typeLine": "Sorcery — Adventure",
+          "oracleText": "You may play an additional land this turn. (Then exile this card. You may cast the creature later from exile.)"
+        }
+      ]
+    }
+  },
+  {
+    "start": 5489.817,
+    "end": 5640.635,
+    "cardId": "367d5f8b-77ee-47f7-bc71-972d62c280a9",
+    "cardName": "Beorn the Fierce",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beorn the Fierce",
+      "manaCost": "{3}{G}{G}",
+      "typeLine": "Legendary Creature — Bear Shapeshifter Warrior",
+      "oracleText": "Trample\nOther Bears you control get +2/+2.\nAt the beginning of combat on your turn, put a trample counter on up to one target creature you control. It becomes a Bear in addition to its other types. Then if you control three or more Bears, draw two cards.",
+      "image": "https://cards.scryfall.io/normal/front/3/6/367d5f8b-77ee-47f7-bc71-972d62c280a9.jpg?1784632151"
+    }
+  },
+  {
+    "start": 5640.635,
+    "end": 5810.738,
+    "cardId": "5741bbad-a6e4-45e0-b827-73f48c9975bf",
+    "cardName": "Radagast of Rhosgobel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Radagast of Rhosgobel",
+      "manaCost": "{2}{G}{G}",
+      "typeLine": "Legendary Creature — Avatar Wizard",
+      "oracleText": "The first creature spell you cast each turn costs {2} less to cast and can be cast as though it had flash.",
+      "image": "https://cards.scryfall.io/normal/front/5/7/5741bbad-a6e4-45e0-b827-73f48c9975bf.jpg?1785496313"
+    }
+  },
+  {
+    "start": 5810.738,
+    "end": 6162,
+    "cardId": "d876315f-b269-4254-a517-905c6e927462",
+    "cardName": "The Notary Hobbits",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Notary Hobbits",
+      "manaCost": "{3}{G}{G}",
+      "typeLine": "Legendary Creature — Halfling Advisor",
+      "oracleText": "When The Notary Hobbits enter, if they're not a token, create two tokens that are copies of them, except the tokens aren't legendary.\n{T}: Add {C} for each Halfling you control.",
+      "image": "https://cards.scryfall.io/normal/front/d/8/d876315f-b269-4254-a517-905c6e927462.jpg?1785412540"
+    }
+  },
+  {
+    "start": 6162,
+    "end": 6183,
+    "cardId": "84a95ac5-e2f6-4cf5-bc5e-ac4410168c06",
+    "cardName": "Bilbo, Fellow Conspirator",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bilbo, Fellow Conspirator",
+      "manaCost": "{2}{G}",
+      "typeLine": "Legendary Creature — Halfling Citizen",
+      "oracleText": "If you would create a Food token, instead create a Food token and a Treasure token.",
+      "image": "https://cards.scryfall.io/normal/front/8/4/84a95ac5-e2f6-4cf5-bc5e-ac4410168c06.jpg?1784377196"
+    }
+  },
+  {
+    "start": 6183,
+    "end": 6212,
+    "cardId": "985bd676-58c4-42c7-a570-1b413e9aa94c",
+    "cardName": "Galion, Elvenking's Butler",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Galion, Elvenking's Butler",
+      "manaCost": "{2}{G}{G}",
+      "typeLine": "Legendary Creature — Elf Advisor",
+      "oracleText": "Whenever Galion attacks, choose up to one other target creature you control. Its base power and toughness become equal to Galion's power and toughness until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/9/8/985bd676-58c4-42c7-a570-1b413e9aa94c.jpg?1785152142"
+    }
+  },
+  {
+    "start": 6212,
+    "end": 6436.663,
+    "cardId": "c05c2aa6-29c7-40f8-872e-91099b9225c4",
+    "cardName": "Bard, King of Dale",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bard, King of Dale",
+      "manaCost": "{4}{W}{U}",
+      "typeLine": "Legendary Creature — Human Noble Archer",
+      "oracleText": "Reach, vigilance\nIf you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.\nIf one or more tokens would be created under your control, twice that many of those tokens are created instead.",
+      "image": "https://cards.scryfall.io/normal/front/c/0/c05c2aa6-29c7-40f8-872e-91099b9225c4.jpg?1784377008"
+    }
+  },
+  {
+    "start": 6436.663,
+    "end": 6594.554,
+    "cardId": "55f7866a-6727-4ae0-a0c0-367f29b9cea1",
+    "cardName": "Bolg, Erebor's Reckoning",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bolg, Erebor's Reckoning",
+      "manaCost": "{4}{B}{R}",
+      "typeLine": "Legendary Creature — Goblin Soldier",
+      "oracleText": "Trample\nAt the beginning of each combat, other Goblins and Orcs you control get +2/+2 until end of turn. Creatures your opponents control get -1/-1 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/5/5/55f7866a-6727-4ae0-a0c0-367f29b9cea1.jpg?1785323584"
+    }
+  },
+  {
+    "start": 6594.554,
+    "end": 6709.002,
+    "cardId": "b3075281-fb5e-458b-8956-0d4ce01f710a",
+    "cardName": "Great Goblin, Foul-Hearted",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Great Goblin, Foul-Hearted",
+      "manaCost": "{3}{B}{R}",
+      "typeLine": "Legendary Creature — Goblin Noble",
+      "oracleText": "Whenever Great Goblin enters or attacks, amass Goblins 3. (Put three +1/+1 counters on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)\nArmies you control have trample.",
+      "image": "https://cards.scryfall.io/normal/front/b/3/b3075281-fb5e-458b-8956-0d4ce01f710a.jpg?1785323596"
+    }
+  },
+  {
+    "start": 6709.002,
+    "end": 6896.222,
+    "cardId": "55872bce-08ce-4d4f-8951-9fa230f3e160",
+    "cardName": "Smaug the Impenetrable",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Smaug the Impenetrable",
+      "manaCost": "{5}{B}{R}",
+      "typeLine": "Legendary Creature — Dragon",
+      "oracleText": "Flying, indestructible, haste\nWhenever Smaug is dealt noncombat damage, create that many Treasure tokens.",
+      "image": "https://cards.scryfall.io/normal/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221"
+    }
+  },
+  {
+    "start": 6896.222,
+    "end": 7214.106,
+    "cardId": "19cc91f0-e724-41ac-b6d8-9a293bd63b42",
+    "cardName": "Smaug, Wicked Worm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Smaug, Wicked Worm",
+      "manaCost": "{3}{B}{R}",
+      "typeLine": "Legendary Creature — Dragon",
+      "oracleText": "Flying\nWhen Smaug enters, create X tapped Treasure tokens, where X is the number of artifacts your opponents control.\nWhenever you cast a spell, if mana from a Treasure was spent to cast it, you draw a card and lose 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/1/9/19cc91f0-e724-41ac-b6d8-9a293bd63b42.jpg?1785323313"
+    }
+  },
+  {
+    "start": 7214.106,
+    "end": 7315.474,
+    "cardId": "78d8f53e-537d-4eaa-99e3-cac57fa53d22",
+    "cardName": "The Great Goblin",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Great Goblin",
+      "manaCost": "{1}{B/R}{B/R}",
+      "typeLine": "Legendary Creature — Goblin Noble",
+      "oracleText": "Whenever you put one or more counters on a Goblin, Orc, or Army you control, The Great Goblin deals 2 damage to target opponent.\nWhenever another Goblin, Orc, or Army you control dies, exile the top card of your library. You may play it until the end of your next turn.",
+      "image": "https://cards.scryfall.io/normal/front/7/8/78d8f53e-537d-4eaa-99e3-cac57fa53d22.jpg?1784798171"
+    }
+  },
+  {
+    "start": 7315.474,
+    "end": 7460,
+    "cardId": "67b99400-a53a-48c8-a4d0-21bf63274225",
+    "cardName": "Chief of the Wilds",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chief of the Wilds",
+      "manaCost": "{2}{B}{G}",
+      "typeLine": "Legendary Creature — Wolf",
+      "oracleText": "Menace\nWhenever another Wolf you control enters, put two +1/+1 counters on Chief of the Wilds.\nIf a triggered ability of another Wolf or battle you control triggers, that ability triggers an additional time.",
+      "image": "https://cards.scryfall.io/normal/front/6/7/67b99400-a53a-48c8-a4d0-21bf63274225.jpg?1785323587"
+    }
+  },
+  {
+    "start": 7460,
+    "end": 7601.493,
+    "cardId": "c397a298-bf7f-49d7-a26a-206ccf9e8120",
+    "cardName": "The Chief Warg",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Chief Warg",
+      "manaCost": "{2}{B}{G}",
+      "typeLine": "Legendary Creature — Wolf",
+      "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nFerocious — Whenever you attack while you control a creature with power 4 or greater, you draw a card and lose 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/c/3/c397a298-bf7f-49d7-a26a-206ccf9e8120.jpg?1784377030"
+    }
+  },
+  {
+    "start": 7601.493,
+    "end": 7823,
+    "cardId": "211a9764-3c60-46ba-bb53-e6692640ec8f",
+    "cardName": "Tom, Bert, and William",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tom, Bert, and William",
+      "manaCost": "{3}{B}{G}",
+      "typeLine": "Legendary Creature — Troll",
+      "oracleText": "{1}, Sacrifice another creature: Draw cards equal to the sacrificed creature's power, then discard a card.\nWhen Tom, Bert, and William die, if they were a creature, return them to the battlefield. They're an artifact. (They're no longer a creature.)",
+      "image": "https://cards.scryfall.io/normal/front/2/1/211a9764-3c60-46ba-bb53-e6692640ec8f.jpg?1783902784"
+    }
+  },
+  {
+    "start": 7823,
+    "end": 8014,
+    "cardId": "f0c5ea58-c6b0-4cf0-bc5e-45c9aa780b91",
+    "cardName": "Dáin of the Ancient Halls",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dáin of the Ancient Halls",
+      "manaCost": "{3}{R}{W}",
+      "typeLine": "Legendary Creature — Dwarf Noble",
+      "oracleText": "Vigilance, haste\nWhenever Dáin attacks, he deals damage equal to the number of Dwarves you control to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/f/0/f0c5ea58-c6b0-4cf0-bc5e-45c9aa780b91.jpg?1785323593"
+    }
+  },
+  {
+    "start": 8014,
+    "end": 8235.36,
+    "cardId": "196d9287-a37d-4b27-a83b-a5489a54f081",
+    "cardName": "Dwalin, Weaponmaster",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dwalin, Weaponmaster",
+      "manaCost": "{1}{R/W}",
+      "typeLine": "Legendary Creature — Dwarf Warrior",
+      "oracleText": "First strike\nWhenever Dwalin enters or attacks, put a hone counter on each Equipment you control. (Each hone counter on an Equipment grants +1/+0 to equipped creature.)",
+      "image": "https://cards.scryfall.io/normal/front/1/9/196d9287-a37d-4b27-a83b-a5489a54f081.jpg?1785496508"
+    }
+  },
+  {
+    "start": 8235.36,
+    "end": 8365.156,
+    "cardId": "b05adb48-980c-49a0-9ce6-7c7f3f20715d",
+    "cardName": "Nori, Teller of Tales",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Nori, Teller of Tales",
+      "manaCost": "{1}{R/W}",
+      "typeLine": "Legendary Creature — Dwarf Bard",
+      "oracleText": "Whenever Nori attacks, target attacking creature gains first strike until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b05adb48-980c-49a0-9ce6-7c7f3f20715d.jpg?1785323303"
+    }
+  },
+  {
+    "start": 8365.156,
+    "end": 8520.211,
+    "cardId": "773813a8-723f-4c26-9e0a-a01b2faada98",
+    "cardName": "Thorin, King of Durin's Folk",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thorin, King of Durin's Folk",
+      "manaCost": "{3}{R}{W}",
+      "typeLine": "Legendary Creature — Dwarf Noble",
+      "oracleText": "Whenever Thorin or another Dwarf you control enters, create a Treasure token.\nOther Dwarves you control get +1/+0 for each artifact token you control.",
+      "image": "https://cards.scryfall.io/normal/front/7/7/773813a8-723f-4c26-9e0a-a01b2faada98.jpg?1784377196"
+    }
+  },
+  {
+    "start": 8520.211,
+    "end": 8677.335,
+    "cardId": "c7e18609-d1ed-4829-be11-f2ce2cfcbc49",
+    "cardName": "Thorin Oakenshield",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thorin Oakenshield",
+      "manaCost": "{R}{W}",
+      "typeLine": "Legendary Creature — Dwarf Noble",
+      "oracleText": "Trample\nStoried (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, artifacts and creatures you control have ward {1}.",
+      "image": "https://cards.scryfall.io/normal/front/c/7/c7e18609-d1ed-4829-be11-f2ce2cfcbc49.jpg?1784377040"
+    }
+  },
+  {
+    "start": 8677.335,
+    "end": 8863,
+    "cardId": "481870ee-d1f7-421b-86e1-570ea933bbbc",
+    "cardName": "Thranduil, Sindarin Liege // Silvan Rally",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thranduil, Sindarin Liege // Silvan Rally",
+      "manaCost": "{2}{G/U}{G/U} // {1}{G/U}{G/U}",
+      "typeLine": "Legendary Creature — Elf Noble // Sorcery — Adventure",
+      "image": "https://cards.scryfall.io/normal/front/4/8/481870ee-d1f7-421b-86e1-570ea933bbbc.jpg?1785412747",
+      "faces": [
+        {
+          "name": "Thranduil, Sindarin Liege",
+          "manaCost": "{2}{G/U}{G/U}",
+          "typeLine": "Legendary Creature — Elf Noble",
+          "oracleText": "Other Elves you control get +1/+1.\nLandfall — Whenever a land you control enters, create a 1/1 green Elf creature token."
+        },
+        {
+          "name": "Silvan Rally",
+          "manaCost": "{1}{G/U}{G/U}",
+          "typeLine": "Sorcery — Adventure",
+          "oracleText": "Mill four cards, then put up to two land cards from among them into your hand. (Then exile this card. You may cast the creature later from exile.)"
+        }
+      ]
+    }
+  },
+  {
+    "start": 8863,
+    "end": 8986.01,
+    "cardId": "f742a14a-0c84-4225-a314-04d5c32fef08",
+    "cardName": "Gandalf, Party Guest",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gandalf, Party Guest",
+      "manaCost": "{1}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Avatar Wizard",
+      "oracleText": "At the beginning of combat on your turn, you may cast an instant or sorcery spell with mana value X or less from your hand without paying its mana cost, where X is twice the number of legendary Wizards you control.",
+      "image": "https://cards.scryfall.io/normal/front/f/7/f742a14a-0c84-4225-a314-04d5c32fef08.jpg?1784377185"
+    }
+  },
+  {
+    "start": 8986.01,
+    "end": 9109,
+    "cardId": "6b4c1515-6127-4d4b-bdd2-e38bb68693e7",
+    "cardName": "Thranduil the Strategist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thranduil the Strategist",
+      "manaCost": "{3}{G}{U}",
+      "typeLine": "Legendary Creature — Elf Noble",
+      "oracleText": "Other Elves you control have \"{T}: Add {G} or {U}.\"\nLandfall — Whenever a land you control enters, create a 1/1 green Elf creature token.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b4c1515-6127-4d4b-bdd2-e38bb68693e7.jpg?1785323601"
+    }
+  },
+  {
+    "start": 9109,
+    "end": 9122,
+    "cardId": "a5bf2146-0843-4e1b-ad07-29e3dc0e842f",
+    "cardName": "Bard, Heir of Girion",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bard, Heir of Girion",
+      "manaCost": "{2}{W}{U}",
+      "typeLine": "Legendary Creature — Human Archer",
+      "oracleText": "Reach, vigilance\nOther creatures you control get +1/+1.\nWhenever you attack, draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/a/5/a5bf2146-0843-4e1b-ad07-29e3dc0e842f.jpg?1785323579"
+    }
+  },
+  {
+    "start": 9122,
+    "end": 9151,
+    "cardId": "0b84e232-428c-424a-848c-ef95debc6e50",
+    "cardName": "Bard the Bowman",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bard the Bowman",
+      "manaCost": "{1}{W}{U}",
+      "typeLine": "Legendary Creature — Human Archer",
+      "oracleText": "Reach\nWhenever you draw your second card each turn, put a +1/+1 counter on target creature. It gains lifelink until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/0/b/0b84e232-428c-424a-848c-ef95debc6e50.jpg?1784377009"
+    }
+  },
+  {
+    "start": 9151,
+    "end": 9188,
+    "cardId": "7b2d2a7f-88e0-45a9-8579-a6736bcd66eb",
+    "cardName": "Bolg of the North",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bolg of the North",
+      "manaCost": "{3}{B}{R}",
+      "typeLine": "Legendary Creature — Goblin Soldier",
+      "oracleText": "When Bolg enters, you may sacrifice another creature. When you do, Bolg deals damage equal to that creature's power to another target creature. If excess damage was dealt this way, amass Goblins X, where X is that excess damage. (Put X +1/+1 counters on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)",
+      "image": "https://cards.scryfall.io/normal/front/7/b/7b2d2a7f-88e0-45a9-8579-a6736bcd66eb.jpg?1784377021"
+    }
+  },
+  {
+    "start": 9188,
+    "end": 9247,
+    "cardId": "ee88cc80-8fbf-451c-b2b8-09158426c26a",
+    "cardName": "Bifur, Melodic Rider",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bifur, Melodic Rider",
+      "manaCost": "{4}{R/W}{R/W}",
+      "typeLine": "Legendary Creature — Dwarf Bard",
+      "oracleText": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nWhenever Bifur enters or attacks, put a +1/+1 counter on target creature.\nAs long as you have an enduring story, if a triggered ability of a Dwarf you control triggers, that ability triggers an additional time.",
+      "image": "https://cards.scryfall.io/normal/front/e/e/ee88cc80-8fbf-451c-b2b8-09158426c26a.jpg?1784377019"
+    }
+  },
+  {
+    "start": 9247,
+    "cardId": "fe2fe8fa-3b99-44c1-bab9-922e5c864952",
+    "cardName": "Thranduil, the Elvenking",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thranduil, the Elvenking",
+      "manaCost": "{2}{B}{G}{U}",
+      "typeLine": "Legendary Creature — Elf Noble",
+      "oracleText": "Thranduil has all activated abilities of all Elf cards in your graveyard.\nWhenever another legendary Elf you control enters, draw two cards, then discard a card.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe2fe8fa-3b99-44c1-bab9-922e5c864952.jpg?1784377043"
     }
   }
 ]
