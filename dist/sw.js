@@ -1,4 +1,4 @@
-const CACHE = "wait-what-shell-v5";
+const CACHE = "wait-what-shell-v6";
 const SHELL = [
   "./",
   "./index.html",
