@@ -1,6 +1,6 @@
 # Wait, What?
 
-**Legendary Creature edition** — a mobile-first, installable web player for the Legendary Creature Podcast. The player uses the audio element's real `currentTime` to show the Magic card being discussed, so returning after a phone lock does not depend on background JavaScript timers.
+**Legendary Creature Edition** — a mobile-first, installable web player for the Legendary Creature Podcast. The player uses the audio element's real `currentTime` to show the Magic card being discussed, so returning after a phone lock does not depend on background JavaScript timers.
 
 ## First milestone
 

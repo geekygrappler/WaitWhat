@@ -155,7 +155,7 @@ function renderCueList(listId, cues, action) {
 
 function setupMediaSession(episode) {
   if (!("mediaSession" in navigator)) return;
-  navigator.mediaSession.metadata = new MediaMetadata({ title: episode.title, artist: "Legendary Creature Podcast", album: "Wait, What? — Legendary Creature edition" });
+  navigator.mediaSession.metadata = new MediaMetadata({ title: episode.title, artist: "Legendary Creature Podcast", album: "Wait, What? · Legendary Creature Edition" });
   navigator.mediaSession.setActionHandler("play", () => audio.play());
   navigator.mediaSession.setActionHandler("pause", () => audio.pause());
   navigator.mediaSession.setActionHandler("seekbackward", (details) => seekBy(-(details.seekOffset || 15)));
