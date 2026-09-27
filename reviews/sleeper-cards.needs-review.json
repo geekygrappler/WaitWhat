@@ -1,0 +1,29 @@
+[
+  {
+    "transcriptName": "Excise",
+    "start": 2943.28,
+    "reason": "The surrounding sentence is garbled and may refer to a different multiplayer removal spell, not the old card Excise.",
+    "resolvedName": "https://scryfall.com/card/mkc/17/unexplained-absence",
+    "resolvedAt": "2026-09-27T18:33:55.105Z",
+    "resolvedCardName": "Unexplained Absence",
+    "resolvedCardId": "71faaee5-70ff-449c-85c8-560eb189a0a7"
+  },
+  {
+    "transcriptName": "Flay",
+    "start": 2975.3,
+    "reason": "The described free sacrifice effect is almost certainly Flare of Malice; the transcript's 'flay off malice' exact-matches the wrong card.",
+    "resolvedName": "https://scryfall.com/card/mh3/95/flare-of-malice",
+    "resolvedAt": "2026-09-27T18:34:33.176Z",
+    "resolvedCardName": "Flare of Malice",
+    "resolvedCardId": "4ce156f8-6b0b-41ce-9e8f-b2735c757406"
+  },
+  {
+    "transcriptName": "Mishra",
+    "start": 3859.16,
+    "reason": "The audio appears to name Mishra's Bauble, transcribed as 'Mishra's Bobble'; the exact matcher only emitted the unrelated Mishra Vanguard entry.",
+    "resolvedName": "https://scryfall.com/card/2xm/274/mishras-bauble",
+    "resolvedAt": "2026-09-27T18:35:03.228Z",
+    "resolvedCardName": "Mishra's Bauble",
+    "resolvedCardId": "63afc3d1-7653-476e-838f-fc18d4a62a21"
+  }
+]

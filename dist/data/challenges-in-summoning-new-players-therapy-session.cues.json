@@ -1,0 +1,75 @@
+[
+  {
+    "start": 2355.58,
+    "cardId": "70f14b10-8129-4249-a267-8b4be5d9befa",
+    "cardName": "Astral Slide",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Astral Slide",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step.",
+      "image": "https://api.scryfall.com/cards/named?exact=Astral%20Slide&format=image&version=normal"
+    },
+    "end": 3256.28
+  },
+  {
+    "start": 3256.28,
+    "cardId": "d64e96bf-6815-462c-93b4-c9c22dc43eda",
+    "cardName": "By Invitation Only",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "By Invitation Only",
+      "manaCost": "{3}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose a number between 0 and 13. Each player sacrifices that many creatures of their choice.",
+      "image": "https://api.scryfall.com/cards/named?exact=By%20Invitation%20Only&format=image&version=normal"
+    },
+    "end": 3351.54
+  },
+  {
+    "start": 3351.54,
+    "cardId": "942407bf-862a-4a0b-b19d-b9f8ee833026",
+    "cardName": "Jasmine Boreal",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Jasmine Boreal",
+      "manaCost": "{3}{G}{W}",
+      "typeLine": "Legendary Creature — Human",
+      "image": "https://api.scryfall.com/cards/named?exact=Jasmine%20Boreal&format=image&version=normal"
+    },
+    "end": 3560.68
+  },
+  {
+    "start": 3560.68,
+    "cardId": "d13fc657-c6fc-4394-bc70-691050550226",
+    "cardName": "Sheltered by Ghosts",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sheltered by Ghosts",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature you control\nWhen this Aura enters, exile target nonland permanent an opponent controls until this Aura leaves the battlefield.\nEnchanted creature gets +1/+0 and has lifelink and ward {2}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sheltered%20by%20Ghosts&format=image&version=normal"
+    },
+    "end": 4053.82
+  },
+  {
+    "start": 4053.82,
+    "cardId": "605c1ee0-5e8a-4e0a-a99b-42a38873f822",
+    "cardName": "Welcoming Vampire",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Welcoming Vampire",
+      "manaCost": "{2}{W}",
+      "typeLine": "Creature — Vampire",
+      "oracleText": "Flying\nWhenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Welcoming%20Vampire&format=image&version=normal"
+    }
+  }
+]

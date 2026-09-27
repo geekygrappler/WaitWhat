@@ -7,7 +7,8 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/355-Therapy_-_Gathering_New_Players_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/challenges-in-summoning-new-players-therapy-session",
     "artwork": "https://static.libsyn.com/p/assets/f/f/2/7/ff271257e5afc4b9e5bbc093207a2619/Thumbnail_2000x2000-20260921-xnpvnifumj.png",
-    "processed": false,
+    "cueSheet": "./data/challenges-in-summoning-new-players-therapy-session.cues.json",
+    "processed": true,
     "source": "Legendary Creature Podcast RSS"
   },
   {
@@ -54,7 +55,8 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/351-Graveyard_Primer_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/graveyards-for-edh-series-introduction",
     "artwork": "https://static.libsyn.com/p/assets/b/e/0/c/be0c1bebc10d705916c3140a3186d450/Thumbnail_2000x2000-20260815-x2crsa1fhb.png",
-    "processed": false,
+    "cueSheet": "./data/graveyards-for-edh-series-introduction.cues.json",
+    "processed": true,
     "source": "Legendary Creature Podcast RSS"
   },
   {

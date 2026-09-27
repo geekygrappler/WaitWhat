@@ -1,0 +1,1049 @@
+[
+  {
+    "start": 195.4,
+    "cardId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+    "cardName": "The One Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The One Ring",
+      "manaCost": "{4}",
+      "typeLine": "Legendary Artifact",
+      "oracleText": "Indestructible\nWhen The One Ring enters, if you cast it, you gain protection from everything until your next turn.\nAt the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.\n{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20One%20Ring&format=image&version=normal"
+    },
+    "end": 197.18
+  },
+  {
+    "start": 197.18,
+    "cardId": "0bc7f093-bef0-4f1a-852c-4b75ebf54838",
+    "cardName": "Arcane Signet",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arcane Signet",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add one mana of any color in your commander's color identity.",
+      "image": "https://api.scryfall.com/cards/named?exact=Arcane%20Signet&format=image&version=normal"
+    },
+    "end": 207.7
+  },
+  {
+    "start": 207.7,
+    "cardId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+    "cardName": "The One Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The One Ring",
+      "manaCost": "{4}",
+      "typeLine": "Legendary Artifact",
+      "oracleText": "Indestructible\nWhen The One Ring enters, if you cast it, you gain protection from everything until your next turn.\nAt the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.\n{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20One%20Ring&format=image&version=normal"
+    },
+    "end": 245.68
+  },
+  {
+    "start": 245.68,
+    "cardId": "00c0543c-2a1f-4425-8283-4062d74a1637",
+    "cardName": "Solemn Simulacrum",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Solemn Simulacrum",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Golem",
+      "oracleText": "When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.\nWhen this creature dies, you may draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Solemn%20Simulacrum&format=image&version=normal"
+    },
+    "end": 256.54
+  },
+  {
+    "start": 256.54,
+    "cardId": "ca204b66-8d0c-431a-8d34-282f7c2d17da",
+    "cardName": "Lightning Greaves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Greaves",
+      "manaCost": "{2}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Greaves&format=image&version=normal"
+    },
+    "end": 400.12
+  },
+  {
+    "start": 400.12,
+    "cardId": "63c8f510-eba8-4f00-9f80-fbbc74801a4a",
+    "cardName": "Scampering Surveyor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Scampering Surveyor",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Gnome",
+      "oracleText": "When this creature enters, search your library for a basic land card or Cave card, put it onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Scampering%20Surveyor&format=image&version=normal"
+    },
+    "end": 479.84
+  },
+  {
+    "start": 479.84,
+    "cardId": "0f77c0c9-4dc4-489a-b547-e93287c4d1a5",
+    "cardName": "Eldritch Evolution",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Eldritch Evolution",
+      "manaCost": "{1}{G}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's mana value. Put that card onto the battlefield, then shuffle. Exile Eldritch Evolution.",
+      "image": "https://api.scryfall.com/cards/named?exact=Eldritch%20Evolution&format=image&version=normal"
+    },
+    "end": 506.14
+  },
+  {
+    "start": 506.14,
+    "cardId": "63c8f510-eba8-4f00-9f80-fbbc74801a4a",
+    "cardName": "Scampering Surveyor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Scampering Surveyor",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Gnome",
+      "oracleText": "When this creature enters, search your library for a basic land card or Cave card, put it onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Scampering%20Surveyor&format=image&version=normal"
+    },
+    "end": 585.9
+  },
+  {
+    "start": 585.9,
+    "cardId": "3640c29b-1534-4952-b297-619ade948431",
+    "cardName": "Roaming Throne",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Roaming Throne",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Golem",
+      "oracleText": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time.",
+      "image": "https://api.scryfall.com/cards/named?exact=Roaming%20Throne&format=image&version=normal"
+    },
+    "end": 620.58
+  },
+  {
+    "start": 620.58,
+    "cardId": "3640c29b-1534-4952-b297-619ade948431",
+    "cardName": "Roaming Throne",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Roaming Throne",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Golem",
+      "oracleText": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time.",
+      "image": "https://api.scryfall.com/cards/named?exact=Roaming%20Throne&format=image&version=normal"
+    },
+    "end": 650.66
+  },
+  {
+    "start": 650.66,
+    "cardId": "3640c29b-1534-4952-b297-619ade948431",
+    "cardName": "Roaming Throne",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Roaming Throne",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Golem",
+      "oracleText": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time.",
+      "image": "https://api.scryfall.com/cards/named?exact=Roaming%20Throne&format=image&version=normal"
+    },
+    "end": 806.82
+  },
+  {
+    "start": 806.82,
+    "cardId": "41e2790d-49f5-4e98-b8d9-04179f47f13a",
+    "cardName": "Edgar Markov",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Edgar Markov",
+      "manaCost": "{3}{R}{W}{B}",
+      "typeLine": "Legendary Creature — Vampire Knight",
+      "oracleText": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Edgar%20Markov&format=image&version=normal"
+    },
+    "end": 985.52
+  },
+  {
+    "start": 985.52,
+    "cardId": "afaef788-34d1-460b-b884-9d7ae6ddeb18",
+    "cardName": "Toxic Deluge",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Toxic Deluge",
+      "manaCost": "{2}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Toxic%20Deluge&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "afaef788-34d1-460b-b884-9d7ae6ddeb18",
+        "cardName": "Toxic Deluge",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Toxic Deluge",
+          "manaCost": "{2}{B}",
+          "typeLine": "Sorcery",
+          "oracleText": "As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn.",
+          "image": "https://api.scryfall.com/cards/named?exact=Toxic%20Deluge&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "d057289d-5e28-43d5-8ff3-4a1bc723477d",
+        "cardName": "Day of Judgment",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Day of Judgment",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Destroy all creatures.",
+          "image": "https://api.scryfall.com/cards/named?exact=Day%20of%20Judgment&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1158.08
+  },
+  {
+    "start": 1158.08,
+    "cardId": "c8b143ad-43ec-4e0d-a440-e348daa31391",
+    "cardName": "Swiftfoot Boots",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swiftfoot Boots",
+      "manaCost": "{2}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Swiftfoot%20Boots&format=image&version=normal"
+    },
+    "end": 1169.02
+  },
+  {
+    "start": 1169.02,
+    "cardId": "ca204b66-8d0c-431a-8d34-282f7c2d17da",
+    "cardName": "Lightning Greaves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Greaves",
+      "manaCost": "{2}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Greaves&format=image&version=normal"
+    },
+    "end": 1183.3
+  },
+  {
+    "start": 1183.3,
+    "cardId": "b1544f21-7e98-461b-aed5-e748b0168c52",
+    "cardName": "Swords to Plowshares",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swords to Plowshares",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+      "image": "https://api.scryfall.com/cards/named?exact=Swords%20to%20Plowshares&format=image&version=normal"
+    },
+    "end": 1203.52
+  },
+  {
+    "start": 1203.52,
+    "cardId": "ca204b66-8d0c-431a-8d34-282f7c2d17da",
+    "cardName": "Lightning Greaves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Greaves",
+      "manaCost": "{2}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Greaves&format=image&version=normal"
+    },
+    "end": 1242.46
+  },
+  {
+    "start": 1242.46,
+    "cardId": "d3438037-3efd-4ce0-88ec-6d48ab521992",
+    "cardName": "Mishra, Eminent One",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mishra, Eminent One",
+      "manaCost": "{2}{U}{B}{R}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "At the beginning of combat on your turn, create a token that's a copy of target noncreature artifact you control, except its name is Mishra's Warform and it's a 4/4 Construct artifact creature in addition to its other types. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/7/f/7f5b1daa-ec45-48de-9496-6ca5b491a0dc.jpg?1783919726"
+    },
+    "end": 1249.34
+  },
+  {
+    "start": 1249.34,
+    "cardId": "c8b143ad-43ec-4e0d-a440-e348daa31391",
+    "cardName": "Swiftfoot Boots",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swiftfoot Boots",
+      "manaCost": "{2}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Swiftfoot%20Boots&format=image&version=normal"
+    },
+    "end": 1353.94
+  },
+  {
+    "start": 1353.94,
+    "cardId": "f61680da-606e-4d16-b0a0-361aa5210901",
+    "cardName": "Chandra's Ignition",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chandra's Ignition",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Target creature you control deals damage equal to its power to each other creature and each opponent.",
+      "image": "https://api.scryfall.com/cards/named?exact=Chandra's%20Ignition&format=image&version=normal"
+    },
+    "end": 1366.58
+  },
+  {
+    "start": 1366.58,
+    "cardId": "c262e015-f379-484f-894f-1a1deb3c75cc",
+    "cardName": "Smoke Bomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Smoke Bomb",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "Flash\nAll creatures have shroud. (They can't be the targets of spells or abilities.)\nAt the beginning of your upkeep, sacrifice this artifact. When you do, target creature you control can't be blocked this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Smoke%20Bomb&format=image&version=normal"
+    },
+    "end": 1369.44
+  },
+  {
+    "start": 1369.44,
+    "cardId": "c8b143ad-43ec-4e0d-a440-e348daa31391",
+    "cardName": "Swiftfoot Boots",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swiftfoot Boots",
+      "manaCost": "{2}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Swiftfoot%20Boots&format=image&version=normal"
+    },
+    "end": 1459.3
+  },
+  {
+    "start": 1459.3,
+    "cardId": "301d1d8e-d3fc-4010-8b29-4724fa0b31cd",
+    "cardName": "Portal to Phyrexia",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Portal to Phyrexia",
+      "manaCost": "{9}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, each opponent sacrifices three creatures of their choice.\nAt the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control. It's a Phyrexian in addition to its other types.",
+      "image": "https://api.scryfall.com/cards/named?exact=Portal%20to%20Phyrexia&format=image&version=normal"
+    },
+    "end": 1528.84
+  },
+  {
+    "start": 1528.84,
+    "cardId": "d3438037-3efd-4ce0-88ec-6d48ab521992",
+    "cardName": "Mishra, Eminent One",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mishra, Eminent One",
+      "manaCost": "{2}{U}{B}{R}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "At the beginning of combat on your turn, create a token that's a copy of target noncreature artifact you control, except its name is Mishra's Warform and it's a 4/4 Construct artifact creature in addition to its other types. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/7/f/7f5b1daa-ec45-48de-9496-6ca5b491a0dc.jpg?1783919726"
+    },
+    "end": 1606.94
+  },
+  {
+    "start": 1606.94,
+    "cardId": "eecb3047-a563-441a-9175-200421981ac3",
+    "cardName": "Ugin, the Spirit Dragon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ugin, the Spirit Dragon",
+      "manaCost": "{8}",
+      "typeLine": "Legendary Planeswalker — Ugin",
+      "oracleText": "[+2]: Ugin deals 3 damage to any target.\n[−X]: Exile each permanent with mana value X or less that's one or more colors.\n[−10]: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ugin%2C%20the%20Spirit%20Dragon&format=image&version=normal"
+    },
+    "end": 1657.74
+  },
+  {
+    "start": 1657.74,
+    "cardId": "4eb813fd-2d5a-4b02-8193-662681ef4e7d",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Farewell&format=image&version=normal"
+    },
+    "end": 1785.28
+  },
+  {
+    "start": 1785.28,
+    "cardId": "4eb813fd-2d5a-4b02-8193-662681ef4e7d",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Farewell&format=image&version=normal"
+    },
+    "end": 2000.54
+  },
+  {
+    "start": 2000.54,
+    "cardId": "a784481f-eccb-4112-bb38-04a659319660",
+    "cardName": "Pitiless Plunderer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Pitiless Plunderer",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Human Pirate",
+      "oracleText": "Whenever another creature you control dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Pitiless%20Plunderer&format=image&version=normal"
+    },
+    "end": 2109.02
+  },
+  {
+    "start": 2109.02,
+    "cardId": "8b755881-a72d-4e21-a369-d2924eb4585a",
+    "cardName": "Cultivate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cultivate",
+      "manaCost": "{2}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Cultivate&format=image&version=normal"
+    },
+    "end": 2126.78
+  },
+  {
+    "start": 2126.78,
+    "cardId": "a0abd957-01a0-4aa9-8fc8-0e6840d21606",
+    "cardName": "Explosive Vegetation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Explosive Vegetation",
+      "manaCost": "{3}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Explosive%20Vegetation&format=image&version=normal"
+    },
+    "end": 2298.24
+  },
+  {
+    "start": 2298.24,
+    "cardId": "ca204b66-8d0c-431a-8d34-282f7c2d17da",
+    "cardName": "Lightning Greaves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Greaves",
+      "manaCost": "{2}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Greaves&format=image&version=normal"
+    },
+    "end": 2385.9
+  },
+  {
+    "start": 2385.9,
+    "cardId": "8539f295-5d58-4436-a73a-b9277c4c7795",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rampant%20Growth&format=image&version=normal"
+    },
+    "end": 2395.68
+  },
+  {
+    "start": 2395.68,
+    "cardId": "b2e950fb-cb7e-40a0-a311-5bbdd0477b29",
+    "cardName": "Sun Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sun Titan",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sun%20Titan&format=image&version=normal"
+    },
+    "end": 2482
+  },
+  {
+    "start": 2482,
+    "cardId": "00c0543c-2a1f-4425-8283-4062d74a1637",
+    "cardName": "Solemn Simulacrum",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Solemn Simulacrum",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Golem",
+      "oracleText": "When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.\nWhen this creature dies, you may draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Solemn%20Simulacrum&format=image&version=normal"
+    },
+    "end": 2501.8
+  },
+  {
+    "start": 2501.8,
+    "cardId": "b75ca527-4494-4957-b2e3-8c590df42e95",
+    "cardName": "Dauntless Scrapbot",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dauntless Scrapbot",
+      "manaCost": "{3}",
+      "typeLine": "Artifact Creature — Robot",
+      "oracleText": "When this creature enters, exile each opponent's graveyard. Create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Dauntless%20Scrapbot&format=image&version=normal"
+    },
+    "end": 2511.96
+  },
+  {
+    "start": 2511.96,
+    "cardId": "b395925b-2456-454e-9262-3b55c9f2799a",
+    "cardName": "Biomechan Engineer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Biomechan Engineer",
+      "manaCost": "{G}{U}",
+      "typeLine": "Creature — Insect Artificer",
+      "oracleText": "When this creature enters, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\n{8}: Draw two cards and create a 2/2 colorless Robot artifact creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Biomechan%20Engineer&format=image&version=normal"
+    },
+    "end": 2583.16
+  },
+  {
+    "start": 2583.16,
+    "cardId": "8539f295-5d58-4436-a73a-b9277c4c7795",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rampant%20Growth&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "8539f295-5d58-4436-a73a-b9277c4c7795",
+        "cardName": "Rampant Growth",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Rampant Growth",
+          "manaCost": "{1}{G}",
+          "typeLine": "Sorcery",
+          "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+          "image": "https://api.scryfall.com/cards/named?exact=Rampant%20Growth&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "ca9f9017-c952-4e89-b284-02396e6be0af",
+        "cardName": "Sand Scout",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Sand Scout",
+          "manaCost": "{1}{W}",
+          "typeLine": "Creature — Human Scout",
+          "oracleText": "When this creature enters, if an opponent controls more lands than you, search your library for a Desert card, put it onto the battlefield tapped, then shuffle.\nWhenever one or more land cards are put into your graveyard from anywhere, create a 1/1 red, green, and white Sand Warrior creature token. This ability triggers only once each turn.",
+          "image": "https://api.scryfall.com/cards/named?exact=Sand%20Scout&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2607.54
+  },
+  {
+    "start": 2607.54,
+    "cardId": "c23e5b80-08d2-4e24-9908-fe2aa4f30f6f",
+    "cardName": "Reliquary Tower",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Reliquary Tower",
+      "typeLine": "Land",
+      "oracleText": "You have no maximum hand size.\n{T}: Add {C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Reliquary%20Tower&format=image&version=normal"
+    },
+    "end": 2619.06
+  },
+  {
+    "start": 2619.06,
+    "cardId": "00c0543c-2a1f-4425-8283-4062d74a1637",
+    "cardName": "Solemn Simulacrum",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Solemn Simulacrum",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Golem",
+      "oracleText": "When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.\nWhen this creature dies, you may draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Solemn%20Simulacrum&format=image&version=normal"
+    },
+    "end": 2647.92
+  },
+  {
+    "start": 2647.92,
+    "cardId": "c23e5b80-08d2-4e24-9908-fe2aa4f30f6f",
+    "cardName": "Reliquary Tower",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Reliquary Tower",
+      "typeLine": "Land",
+      "oracleText": "You have no maximum hand size.\n{T}: Add {C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Reliquary%20Tower&format=image&version=normal"
+    },
+    "end": 2655.22
+  },
+  {
+    "start": 2655.22,
+    "cardId": "28b46183-c62f-47b1-9fee-3ba148202cab",
+    "cardName": "Crop Rotation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Crop Rotation",
+      "manaCost": "{G}",
+      "typeLine": "Instant",
+      "oracleText": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for a land card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Crop%20Rotation&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "28b46183-c62f-47b1-9fee-3ba148202cab",
+        "cardName": "Crop Rotation",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Crop Rotation",
+          "manaCost": "{G}",
+          "typeLine": "Instant",
+          "oracleText": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for a land card, put that card onto the battlefield, then shuffle.",
+          "image": "https://api.scryfall.com/cards/named?exact=Crop%20Rotation&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "9965d9c5-2ebf-4a6c-930e-55c5890979be",
+        "cardName": "Thought Vessel",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Thought Vessel",
+          "manaCost": "{2}",
+          "typeLine": "Artifact",
+          "oracleText": "You have no maximum hand size.\n{T}: Add {C}.",
+          "image": "https://api.scryfall.com/cards/named?exact=Thought%20Vessel&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2660.34
+  },
+  {
+    "start": 2660.34,
+    "cardId": "c23e5b80-08d2-4e24-9908-fe2aa4f30f6f",
+    "cardName": "Reliquary Tower",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Reliquary Tower",
+      "typeLine": "Land",
+      "oracleText": "You have no maximum hand size.\n{T}: Add {C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Reliquary%20Tower&format=image&version=normal"
+    },
+    "end": 2790.9
+  },
+  {
+    "start": 2790.9,
+    "cardId": "c23e5b80-08d2-4e24-9908-fe2aa4f30f6f",
+    "cardName": "Reliquary Tower",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Reliquary Tower",
+      "typeLine": "Land",
+      "oracleText": "You have no maximum hand size.\n{T}: Add {C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Reliquary%20Tower&format=image&version=normal"
+    },
+    "end": 2893.84
+  },
+  {
+    "start": 2893.84,
+    "cardId": "8c45bf9d-a017-43bf-9e32-67810a8a217b",
+    "cardName": "Talon Gates of Madara",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Talon Gates of Madara",
+      "typeLine": "Land — Gate",
+      "oracleText": "When this land enters, up to one target creature phases out.\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{4}: Put this card from your hand onto the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Talon%20Gates%20of%20Madara&format=image&version=normal"
+    },
+    "end": 2941.56
+  },
+  {
+    "start": 2941.56,
+    "cardId": "d21a89eb-7c5b-459a-acc7-12b20b13bf79",
+    "cardName": "Strip Mine",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Strip Mine",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target land.",
+      "image": "https://api.scryfall.com/cards/named?exact=Strip%20Mine&format=image&version=normal"
+    },
+    "end": 2965.56
+  },
+  {
+    "start": 2965.56,
+    "cardId": "4474ecee-0ec3-409b-90df-738d9313fe3c",
+    "cardName": "Urza's Cave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Urza's Cave",
+      "typeLine": "Land — Urza's Cave",
+      "oracleText": "{T}: Add {C}.\n{3}, {T}, Sacrifice this land: Search your library for a land card, put it onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Urza's%20Cave&format=image&version=normal"
+    },
+    "end": 2967.92
+  },
+  {
+    "start": 2967.92,
+    "cardId": "28b46183-c62f-47b1-9fee-3ba148202cab",
+    "cardName": "Crop Rotation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Crop Rotation",
+      "manaCost": "{G}",
+      "typeLine": "Instant",
+      "oracleText": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for a land card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Crop%20Rotation&format=image&version=normal"
+    },
+    "end": 2974.52
+  },
+  {
+    "start": 2974.52,
+    "cardId": "c23e5b80-08d2-4e24-9908-fe2aa4f30f6f",
+    "cardName": "Reliquary Tower",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Reliquary Tower",
+      "typeLine": "Land",
+      "oracleText": "You have no maximum hand size.\n{T}: Add {C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Reliquary%20Tower&format=image&version=normal"
+    },
+    "end": 3013.82
+  },
+  {
+    "start": 3013.82,
+    "cardId": "b3b00911-ece7-4484-bc36-f211ce72b6cc",
+    "cardName": "Stifle",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Stifle",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target activated or triggered ability. (Mana abilities can't be targeted.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Stifle&format=image&version=normal"
+    },
+    "end": 3074.02
+  },
+  {
+    "start": 3074.02,
+    "cardId": "d21a89eb-7c5b-459a-acc7-12b20b13bf79",
+    "cardName": "Strip Mine",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Strip Mine",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target land.",
+      "image": "https://api.scryfall.com/cards/named?exact=Strip%20Mine&format=image&version=normal"
+    },
+    "end": 3092.82
+  },
+  {
+    "start": 3092.82,
+    "cardId": "539f5396-d99a-417d-a84c-dff7930b5900",
+    "cardName": "Chromatic Lantern",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chromatic Lantern",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Chromatic%20Lantern&format=image&version=normal"
+    },
+    "end": 3125.22
+  },
+  {
+    "start": 3125.22,
+    "cardId": "539f5396-d99a-417d-a84c-dff7930b5900",
+    "cardName": "Chromatic Lantern",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chromatic Lantern",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Chromatic%20Lantern&format=image&version=normal"
+    },
+    "end": 3185.18
+  },
+  {
+    "start": 3185.18,
+    "cardId": "4eb813fd-2d5a-4b02-8193-662681ef4e7d",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Farewell&format=image&version=normal"
+    },
+    "end": 3193.04
+  },
+  {
+    "start": 3193.04,
+    "cardId": "539f5396-d99a-417d-a84c-dff7930b5900",
+    "cardName": "Chromatic Lantern",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chromatic Lantern",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Chromatic%20Lantern&format=image&version=normal"
+    },
+    "end": 3207.32
+  },
+  {
+    "start": 3207.32,
+    "cardId": "95c3976c-33f3-490b-bfd3-7f1af2fe0416",
+    "cardName": "Chromatic Orrery",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chromatic Orrery",
+      "manaCost": "{7}",
+      "typeLine": "Legendary Artifact",
+      "oracleText": "You may spend mana as though it were mana of any color.\n{T}: Add {C}{C}{C}{C}{C}.\n{5}, {T}: Draw a card for each color among permanents you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Chromatic%20Orrery&format=image&version=normal"
+    },
+    "end": 3221.66
+  },
+  {
+    "start": 3221.66,
+    "cardId": "539f5396-d99a-417d-a84c-dff7930b5900",
+    "cardName": "Chromatic Lantern",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chromatic Lantern",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Chromatic%20Lantern&format=image&version=normal"
+    },
+    "end": 3249.78
+  },
+  {
+    "start": 3249.78,
+    "cardId": "d0ee5bdc-2b69-4b73-9a20-ffcc18783b29",
+    "cardName": "Mana Confluence",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Confluence",
+      "typeLine": "Land",
+      "oracleText": "{T}, Pay 1 life: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mana%20Confluence&format=image&version=normal"
+    },
+    "end": 3267.84
+  },
+  {
+    "start": 3267.84,
+    "cardId": "3437d504-bf62-4c27-b15f-f6330182ff7e",
+    "cardName": "The World Tree",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The World Tree",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped.\n{T}: Add {G}.\nAs long as you control six or more lands, lands you control have \"{T}: Add one mana of any color.\"\n{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice this land: Search your library for any number of God cards, put them onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20World%20Tree&format=image&version=normal"
+    },
+    "end": 3325.06
+  },
+  {
+    "start": 3325.06,
+    "cardId": "539f5396-d99a-417d-a84c-dff7930b5900",
+    "cardName": "Chromatic Lantern",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chromatic Lantern",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Chromatic%20Lantern&format=image&version=normal"
+    },
+    "end": 3388.44
+  },
+  {
+    "start": 3388.44,
+    "cardId": "d3a0b660-358c-41bd-9cd2-41fbf3491b1a",
+    "cardName": "Birds of Paradise",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Birds of Paradise",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Bird",
+      "oracleText": "Flying\n{T}: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Birds%20of%20Paradise&format=image&version=normal"
+    },
+    "end": 3404.58
+  },
+  {
+    "start": 3404.58,
+    "cardId": "98492d7d-3b9e-4ae1-ac45-1b508d6d2670",
+    "cardName": "Coveted Jewel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Coveted Jewel",
+      "manaCost": "{6}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, draw three cards.\n{T}: Add three mana of any one color.\nWhenever one or more creatures an opponent controls attack you and aren't blocked, that player draws three cards and gains control of this artifact. Untap it.",
+      "image": "https://api.scryfall.com/cards/named?exact=Coveted%20Jewel&format=image&version=normal"
+    },
+    "end": 3419.08
+  },
+  {
+    "start": 3419.08,
+    "cardId": "d3438037-3efd-4ce0-88ec-6d48ab521992",
+    "cardName": "Mishra, Eminent One",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mishra, Eminent One",
+      "manaCost": "{2}{U}{B}{R}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "At the beginning of combat on your turn, create a token that's a copy of target noncreature artifact you control, except its name is Mishra's Warform and it's a 4/4 Construct artifact creature in addition to its other types. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/7/f/7f5b1daa-ec45-48de-9496-6ca5b491a0dc.jpg?1783919726"
+    },
+    "end": 3515.3
+  },
+  {
+    "start": 3515.3,
+    "cardId": "98492d7d-3b9e-4ae1-ac45-1b508d6d2670",
+    "cardName": "Coveted Jewel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Coveted Jewel",
+      "manaCost": "{6}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, draw three cards.\n{T}: Add three mana of any one color.\nWhenever one or more creatures an opponent controls attack you and aren't blocked, that player draws three cards and gains control of this artifact. Untap it.",
+      "image": "https://api.scryfall.com/cards/named?exact=Coveted%20Jewel&format=image&version=normal"
+    },
+    "end": 3546.12
+  },
+  {
+    "start": 3546.12,
+    "cardId": "98492d7d-3b9e-4ae1-ac45-1b508d6d2670",
+    "cardName": "Coveted Jewel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Coveted Jewel",
+      "manaCost": "{6}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, draw three cards.\n{T}: Add three mana of any one color.\nWhenever one or more creatures an opponent controls attack you and aren't blocked, that player draws three cards and gains control of this artifact. Untap it.",
+      "image": "https://api.scryfall.com/cards/named?exact=Coveted%20Jewel&format=image&version=normal"
+    },
+    "end": 3581.38
+  },
+  {
+    "start": 3581.38,
+    "cardId": "afaef788-34d1-460b-b884-9d7ae6ddeb18",
+    "cardName": "Toxic Deluge",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Toxic Deluge",
+      "manaCost": "{2}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Toxic%20Deluge&format=image&version=normal"
+    }
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "start": 1009.82,
+    "cardId": "ead1ee6a-e0da-46d5-89e8-31e8c0270bc2",
+    "cardName": "No More Lies",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "No More Lies",
+      "manaCost": "{W}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell unless its controller pays {3}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+      "image": "https://api.scryfall.com/cards/named?exact=No%20More%20Lies&format=image&version=normal"
+    },
+    "end": 1486.02
+  },
+  {
+    "start": 1486.02,
+    "cardId": "bd7c5a8b-cf62-41e1-a664-b16e3e5d142b",
+    "cardName": "Laughing Jasper Flint",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Laughing Jasper Flint",
+      "manaCost": "{1}{B}{R}",
+      "typeLine": "Legendary Creature — Lizard Rogue",
+      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
+      "image": "https://api.scryfall.com/cards/named?exact=Laughing%20Jasper%20Flint&format=image&version=normal"
+    },
+    "end": 1672.96
+  },
+  {
+    "start": 1672.96,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "end": 2317
+  },
+  {
+    "start": 2317,
+    "cardId": "f25351e3-539b-4bbc-b92d-6480acf4d722",
+    "cardName": "City of Brass",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "City of Brass",
+      "typeLine": "Land",
+      "oracleText": "Whenever this land becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=City%20of%20Brass&format=image&version=normal"
+    },
+    "end": 3056.9
+  },
+  {
+    "start": 3056.9,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+        "cardName": "Gleaming Splendor",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Gleaming Splendor",
+          "manaCost": "{1}{W}",
+          "typeLine": "Enchantment",
+          "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+          "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "153376c9-dffd-458c-8ce3-a4c8269bc4e9",
+        "cardName": "Smothering Tithe",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Smothering Tithe",
+          "manaCost": "{3}{W}",
+          "typeLine": "Enchantment",
+          "oracleText": "Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, you create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+          "image": "https://api.scryfall.com/cards/named?exact=Smothering%20Tithe&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 3074.42
+  },
+  {
+    "start": 3074.42,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "end": 3229.08
+  },
+  {
+    "start": 3229.08,
+    "cardId": "0bc7f093-bef0-4f1a-852c-4b75ebf54838",
+    "cardName": "Arcane Signet",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arcane Signet",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add one mana of any color in your commander's color identity.",
+      "image": "https://api.scryfall.com/cards/named?exact=Arcane%20Signet&format=image&version=normal"
+    },
+    "end": 3244.12
+  },
+  {
+    "start": 3244.12,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "end": 3283.28
+  },
+  {
+    "start": 3283.28,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "end": 3365.42
+  },
+  {
+    "start": 3365.42,
+    "cardId": "34b90d3e-f48c-41ff-b3e4-5cab7a9cd597",
+    "cardName": "Secret Rendezvous",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Secret Rendezvous",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "You and target opponent each draw three cards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Secret%20Rendezvous&format=image&version=normal"
+    },
+    "end": 3370.2
+  },
+  {
+    "start": 3370.2,
+    "cardId": "8b5cffd5-5db3-4151-9275-d91387554412",
+    "cardName": "Cut a Deal",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cut a Deal",
+      "manaCost": "{2}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each opponent draws a card, then you draw a card for each opponent who drew a card this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=Cut%20a%20Deal&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "8b5cffd5-5db3-4151-9275-d91387554412",
+        "cardName": "Cut a Deal",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Cut a Deal",
+          "manaCost": "{2}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Each opponent draws a card, then you draw a card for each opponent who drew a card this way.",
+          "image": "https://api.scryfall.com/cards/named?exact=Cut%20a%20Deal&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "34b90d3e-f48c-41ff-b3e4-5cab7a9cd597",
+        "cardName": "Secret Rendezvous",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Secret Rendezvous",
+          "manaCost": "{1}{W}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "You and target opponent each draw three cards.",
+          "image": "https://api.scryfall.com/cards/named?exact=Secret%20Rendezvous&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 3376.9
+  },
+  {
+    "start": 3376.9,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "end": 3382.7
+  },
+  {
+    "start": 3382.7,
+    "cardId": "34b90d3e-f48c-41ff-b3e4-5cab7a9cd597",
+    "cardName": "Secret Rendezvous",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Secret Rendezvous",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "You and target opponent each draw three cards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Secret%20Rendezvous&format=image&version=normal"
+    },
+    "end": 3386.98
+  },
+  {
+    "start": 3386.98,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "end": 3422.92
+  },
+  {
+    "start": 3422.92,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "end": 3435.56
+  },
+  {
+    "start": 3435.56,
+    "cardId": "153376c9-dffd-458c-8ce3-a4c8269bc4e9",
+    "cardName": "Smothering Tithe",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Smothering Tithe",
+      "manaCost": "{3}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, you create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Smothering%20Tithe&format=image&version=normal"
+    },
+    "end": 3468.08
+  },
+  {
+    "start": 3468.08,
+    "cardId": "c97361b5-af16-4a7b-af85-a429dbaf4ad2",
+    "cardName": "Mind Stone",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mind Stone",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mind%20Stone&format=image&version=normal"
+    },
+    "end": 3469.62
+  },
+  {
+    "start": 3469.62,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "end": 3540.94
+  },
+  {
+    "start": 3540.94,
+    "cardId": "0bc7f093-bef0-4f1a-852c-4b75ebf54838",
+    "cardName": "Arcane Signet",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arcane Signet",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add one mana of any color in your commander's color identity.",
+      "image": "https://api.scryfall.com/cards/named?exact=Arcane%20Signet&format=image&version=normal"
+    },
+    "end": 3550.56
+  },
+  {
+    "start": 3550.56,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "end": 3552.08
+  },
+  {
+    "start": 3552.08,
+    "cardId": "4eb813fd-2d5a-4b02-8193-662681ef4e7d",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Farewell&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "4eb813fd-2d5a-4b02-8193-662681ef4e7d",
+        "cardName": "Farewell",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Farewell",
+          "manaCost": "{4}{W}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+          "image": "https://api.scryfall.com/cards/named?exact=Farewell&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "0bc7f093-bef0-4f1a-852c-4b75ebf54838",
+        "cardName": "Arcane Signet",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Arcane Signet",
+          "manaCost": "{2}",
+          "typeLine": "Artifact",
+          "oracleText": "{T}: Add one mana of any color in your commander's color identity.",
+          "image": "https://api.scryfall.com/cards/named?exact=Arcane%20Signet&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 3560.28
+  },
+  {
+    "start": 3560.28,
+    "cardId": "c97361b5-af16-4a7b-af85-a429dbaf4ad2",
+    "cardName": "Mind Stone",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mind Stone",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mind%20Stone&format=image&version=normal"
+    },
+    "end": 3570.5
+  },
+  {
+    "start": 3570.5,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    }
+  }
+]

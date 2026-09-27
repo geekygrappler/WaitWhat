@@ -1,0 +1,336 @@
+[
+  {
+    "start": 1739.12,
+    "cardId": "4eb813fd-2d5a-4b02-8193-662681ef4e7d",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Farewell&format=image&version=normal"
+    },
+    "end": 1807.26
+  },
+  {
+    "start": 1807.26,
+    "cardId": "10e0b563-4dfc-4530-a010-0ba40bdf02ac",
+    "cardName": "Pinnacle Starcage",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Pinnacle Starcage",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, exile all artifacts and creatures with mana value 2 or less until this artifact leaves the battlefield.\n{6}{W}{W}: Put each card exiled with this artifact into its owner's graveyard, then create a 2/2 colorless Robot artifact creature token for each card put into a graveyard this way. Sacrifice this artifact.",
+      "image": "https://api.scryfall.com/cards/named?exact=Pinnacle%20Starcage&format=image&version=normal"
+    },
+    "end": 2598.14
+  },
+  {
+    "start": 2598.14,
+    "cardId": "2631130e-63e2-43a3-914a-648e76722203",
+    "cardName": "Fire Lord Azula",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fire Lord Azula",
+      "manaCost": "{1}{U}{B}{R}",
+      "typeLine": "Legendary Creature — Human Noble",
+      "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Fire%20Lord%20Azula&format=image&version=normal"
+    },
+    "end": 2608.14
+  },
+  {
+    "start": 2608.14,
+    "cardId": "b4872bac-5822-4c35-9b73-38c4e3ffa477",
+    "cardName": "Avatar Aang // Aang, Master of Elements",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Avatar Aang // Aang, Master of Elements",
+      "manaCost": "{R}{G}{W}{U}",
+      "typeLine": "Legendary Creature — Human Avatar Ally",
+      "oracleText": "Flying, firebending 2\nWhenever you waterbend, earthbend, firebend, or airbend, draw a card. Then if you've done all four this turn, transform Avatar Aang.",
+      "image": "https://api.scryfall.com/cards/named?exact=Avatar%20Aang%20%2F%2F%20Aang%2C%20Master%20of%20Elements&format=image&version=normal",
+      "faces": [
+        {
+          "name": "Avatar Aang",
+          "manaCost": "{R}{G}{W}{U}",
+          "typeLine": "Legendary Creature — Human Avatar Ally",
+          "oracleText": "Flying, firebending 2\nWhenever you waterbend, earthbend, firebend, or airbend, draw a card. Then if you've done all four this turn, transform Avatar Aang."
+        }
+      ]
+    },
+    "end": 2626.24
+  },
+  {
+    "start": 2626.24,
+    "cardId": "9e4fa592-71f8-4c71-8c91-78e6326cd736",
+    "cardName": "Doctor Doom",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doctor Doom",
+      "manaCost": "{4}{B}{B}",
+      "typeLine": "Legendary Creature — Human Scientist Villain",
+      "oracleText": "When Doctor Doom enters, create two 3/3 colorless Robot Villain artifact creature tokens named Doombot.\nAs long as you control an artifact creature or a Plan, Doctor Doom has indestructible.\nAt the beginning of your end step, you draw a card and lose 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doctor%20Doom&format=image&version=normal"
+    },
+    "end": 2705.46
+  },
+  {
+    "start": 2705.46,
+    "cardId": "2631130e-63e2-43a3-914a-648e76722203",
+    "cardName": "Fire Lord Azula",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fire Lord Azula",
+      "manaCost": "{1}{U}{B}{R}",
+      "typeLine": "Legendary Creature — Human Noble",
+      "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Fire%20Lord%20Azula&format=image&version=normal"
+    },
+    "end": 2863.46
+  },
+  {
+    "start": 2863.46,
+    "cardId": "f8966fd5-2926-4ba0-b7d6-cfea40cd4e05",
+    "cardName": "Earthbender Ascension",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Earthbender Ascension",
+      "manaCost": "{2}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, earthbend 2. Then search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\nLandfall — Whenever a land you control enters, put a quest counter on this enchantment. When you do, if it has four or more quest counters on it, put a +1/+1 counter on target creature you control. It gains trample until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Earthbender%20Ascension&format=image&version=normal"
+    },
+    "end": 2867.9
+  },
+  {
+    "start": 2867.9,
+    "cardId": "8bcbae66-1854-480e-a449-33e5389610ab",
+    "cardName": "Sapling Nursery",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sapling Nursery",
+      "manaCost": "{6}{G}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "Affinity for Forests (This spell costs {1} less to cast for each Forest you control.)\nLandfall — Whenever a land you control enters, create a 3/4 green Treefolk creature token with reach.\n{1}{G}, Exile this enchantment: Treefolk and Forests you control gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sapling%20Nursery&format=image&version=normal"
+    },
+    "end": 3012.44
+  },
+  {
+    "start": 3012.44,
+    "cardId": "de1ae205-ca5b-4d26-8194-ca85f1406e53",
+    "cardName": "Ba Sing Se",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ba Sing Se",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped unless you control a basic land.\n{T}: Add {G}.\n{2}{G}, {T}: Earthbend 2. Activate only as a sorcery. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Ba%20Sing%20Se&format=image&version=normal"
+    },
+    "end": 3016.66
+  },
+  {
+    "start": 3016.66,
+    "cardId": "dc857129-533c-41d1-8e8b-1c0443030d69",
+    "cardName": "Day of Black Sun",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Day of Black Sun",
+      "manaCost": "{X}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each creature with mana value X or less loses all abilities until end of turn. Destroy those creatures.",
+      "image": "https://api.scryfall.com/cards/named?exact=Day%20of%20Black%20Sun&format=image&version=normal"
+    },
+    "end": 3024.66
+  },
+  {
+    "start": 3024.66,
+    "cardId": "0127c13f-7b0f-44c3-8b35-97f306c5f239",
+    "cardName": "Strategic Betrayal",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Strategic Betrayal",
+      "manaCost": "{1}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Target opponent exiles a creature they control and their graveyard.",
+      "image": "https://api.scryfall.com/cards/named?exact=Strategic%20Betrayal&format=image&version=normal"
+    },
+    "end": 3032.98
+  },
+  {
+    "start": 3032.98,
+    "cardId": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+    "cardName": "Forest",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Forest",
+      "typeLine": "Basic Land — Forest",
+      "oracleText": "({T}: Add {G}.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Forest&format=image&version=normal"
+    },
+    "end": 3034.56
+  },
+  {
+    "start": 3034.56,
+    "cardId": "04e2afbe-0c08-42bc-93e6-662066a958bf",
+    "cardName": "Deadly Cover-Up",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Deadly Cover-Up",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "As an additional cost to cast this spell, you may collect evidence 6.\nDestroy all creatures. If evidence was collected, exile a card from an opponent's graveyard. Then search its owner's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=Deadly%20Cover-Up&format=image&version=normal"
+    },
+    "end": 3043.72
+  },
+  {
+    "start": 3043.72,
+    "cardId": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+    "cardName": "Forest",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Forest",
+      "typeLine": "Basic Land — Forest",
+      "oracleText": "({T}: Add {G}.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Forest&format=image&version=normal"
+    },
+    "end": 3072.62
+  },
+  {
+    "start": 3072.62,
+    "cardId": "8bcbae66-1854-480e-a449-33e5389610ab",
+    "cardName": "Sapling Nursery",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sapling Nursery",
+      "manaCost": "{6}{G}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "Affinity for Forests (This spell costs {1} less to cast for each Forest you control.)\nLandfall — Whenever a land you control enters, create a 3/4 green Treefolk creature token with reach.\n{1}{G}, Exile this enchantment: Treefolk and Forests you control gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sapling%20Nursery&format=image&version=normal"
+    },
+    "end": 3146.44
+  },
+  {
+    "start": 3146.44,
+    "cardId": "f8966fd5-2926-4ba0-b7d6-cfea40cd4e05",
+    "cardName": "Earthbender Ascension",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Earthbender Ascension",
+      "manaCost": "{2}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, earthbend 2. Then search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\nLandfall — Whenever a land you control enters, put a quest counter on this enchantment. When you do, if it has four or more quest counters on it, put a +1/+1 counter on target creature you control. It gains trample until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Earthbender%20Ascension&format=image&version=normal"
+    },
+    "end": 3149.32
+  },
+  {
+    "start": 3149.32,
+    "cardId": "8bcbae66-1854-480e-a449-33e5389610ab",
+    "cardName": "Sapling Nursery",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sapling Nursery",
+      "manaCost": "{6}{G}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "Affinity for Forests (This spell costs {1} less to cast for each Forest you control.)\nLandfall — Whenever a land you control enters, create a 3/4 green Treefolk creature token with reach.\n{1}{G}, Exile this enchantment: Treefolk and Forests you control gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sapling%20Nursery&format=image&version=normal"
+    },
+    "end": 3232.82
+  },
+  {
+    "start": 3232.82,
+    "cardId": "38877c68-b69b-4ee1-8e8f-5137a184a8f7",
+    "cardName": "Spell Snare",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spell Snare",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell with mana value 2.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spell%20Snare&format=image&version=normal"
+    },
+    "end": 3292.92
+  },
+  {
+    "start": 3292.92,
+    "cardId": "95ce305f-34bc-4d6d-b7ba-ffd4b2a25336",
+    "cardName": "Maelstrom Pulse",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Maelstrom Pulse",
+      "manaCost": "{1}{B}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy target nonland permanent and all other permanents with the same name as that permanent.",
+      "image": "https://api.scryfall.com/cards/named?exact=Maelstrom%20Pulse&format=image&version=normal"
+    },
+    "end": 3439.2
+  },
+  {
+    "start": 3439.2,
+    "cardId": "70538676-2ffb-4cad-827e-b55e81088678",
+    "cardName": "Dwarven Mauler",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dwarven Mauler",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Dwarf Warrior",
+      "oracleText": "Equip abilities you activate that target this creature cost {2} less to activate.",
+      "image": "https://api.scryfall.com/cards/named?exact=Dwarven%20Mauler&format=image&version=normal"
+    },
+    "end": 3704.98
+  },
+  {
+    "start": 3704.98,
+    "cardId": "d7dddeac-c6ed-4111-ba40-e2830c08d480",
+    "cardName": "Deceit",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Deceit",
+      "manaCost": "{4}{U/B}{U/B}",
+      "typeLine": "Creature — Elemental Incarnation",
+      "oracleText": "When this creature enters, if {U}{U} was spent to cast it, return up to one other target nonland permanent to its owner's hand.\nWhen this creature enters, if {B}{B} was spent to cast it, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nEvoke {U/B}{U/B}",
+      "image": "https://api.scryfall.com/cards/named?exact=Deceit&format=image&version=normal"
+    },
+    "end": 3722.88
+  },
+  {
+    "start": 3722.88,
+    "cardId": "4457ed35-7c10-48c8-9776-456485fdf070",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Bolt&format=image&version=normal"
+    }
+  }
+]

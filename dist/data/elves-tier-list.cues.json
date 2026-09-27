@@ -1,0 +1,1079 @@
+[
+  {
+    "start": 326.48,
+    "cardId": "c3b1b7bd-cff8-4275-b6d3-868f4e4b2cc0",
+    "cardName": "Wellwisher",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wellwisher",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf",
+      "oracleText": "{T}: You gain 1 life for each Elf on the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wellwisher&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "c3b1b7bd-cff8-4275-b6d3-868f4e4b2cc0",
+        "cardName": "Wellwisher",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Wellwisher",
+          "manaCost": "{1}{G}",
+          "typeLine": "Creature — Elf",
+          "oracleText": "{T}: You gain 1 life for each Elf on the battlefield.",
+          "image": "https://api.scryfall.com/cards/named?exact=Wellwisher&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "12da8ba3-ca60-44c8-8627-1b4af2a2c4a3",
+        "cardName": "Voice of the Woods",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Voice of the Woods",
+          "manaCost": "{3}{G}{G}",
+          "typeLine": "Creature — Elf",
+          "oracleText": "Tap five untapped Elves you control: Create a 7/7 green Elemental creature token with trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Voice%20of%20the%20Woods&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 369.3
+  },
+  {
+    "start": 369.3,
+    "cardId": "98295bdc-db58-4e1f-ad4c-63092aea207e",
+    "cardName": "Allosaurus Shepherd",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Allosaurus Shepherd",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Shaman",
+      "oracleText": "This spell can't be countered.\nGreen spells you control can't be countered.\n{4}{G}{G}: Until end of turn, each Elf creature you control has base power and toughness 5/5 and becomes a Dinosaur in addition to its other creature types.",
+      "image": "https://api.scryfall.com/cards/named?exact=Allosaurus%20Shepherd&format=image&version=normal"
+    },
+    "end": 477.44
+  },
+  {
+    "start": 477.44,
+    "cardId": "d09c9cba-fdd2-479b-ad5d-d05181c3e3f9",
+    "cardName": "Fierce Guardianship",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fierce Guardianship",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fierce%20Guardianship&format=image&version=normal"
+    },
+    "end": 658.4
+  },
+  {
+    "start": 658.4,
+    "cardId": "35b8fa77-4e85-418b-b335-cd1af127075c",
+    "cardName": "Fauna Shaman",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fauna Shaman",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Shaman",
+      "oracleText": "{G}, {T}, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fauna%20Shaman&format=image&version=normal"
+    },
+    "end": 776.7
+  },
+  {
+    "start": 776.7,
+    "cardId": "5da7eea8-bb9e-47ce-a554-8a1ee058bd7a",
+    "cardName": "Beast Whisperer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beast Whisperer",
+      "manaCost": "{2}{G}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Whenever you cast a creature spell, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Beast%20Whisperer&format=image&version=normal"
+    },
+    "end": 841.08
+  },
+  {
+    "start": 841.08,
+    "cardId": "9cb7f23f-322d-4a87-b6c6-15b9d446aef3",
+    "cardName": "Champions of the Perfect",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Champions of the Perfect",
+      "manaCost": "{3}{G}",
+      "typeLine": "Creature — Elf Warrior",
+      "oracleText": "As an additional cost to cast this spell, behold an Elf and exile it. (Exile an Elf you control or an Elf card from your hand.)\nWhenever you cast a creature spell, draw a card.\nWhen this creature leaves the battlefield, return the exiled card to its owner's hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Champions%20of%20the%20Perfect&format=image&version=normal"
+    },
+    "end": 845
+  },
+  {
+    "start": 845,
+    "cardId": "5da7eea8-bb9e-47ce-a554-8a1ee058bd7a",
+    "cardName": "Beast Whisperer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beast Whisperer",
+      "manaCost": "{2}{G}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Whenever you cast a creature spell, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Beast%20Whisperer&format=image&version=normal"
+    },
+    "end": 930.02
+  },
+  {
+    "start": 930.02,
+    "cardId": "5da7eea8-bb9e-47ce-a554-8a1ee058bd7a",
+    "cardName": "Beast Whisperer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beast Whisperer",
+      "manaCost": "{2}{G}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Whenever you cast a creature spell, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Beast%20Whisperer&format=image&version=normal"
+    },
+    "end": 979.12
+  },
+  {
+    "start": 979.12,
+    "cardId": "5da7eea8-bb9e-47ce-a554-8a1ee058bd7a",
+    "cardName": "Beast Whisperer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beast Whisperer",
+      "manaCost": "{2}{G}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Whenever you cast a creature spell, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Beast%20Whisperer&format=image&version=normal"
+    },
+    "end": 1010.32
+  },
+  {
+    "start": 1010.32,
+    "cardId": "0c23fefe-9891-4dd8-9bb1-eebdb3274e31",
+    "cardName": "Bloom Tender",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bloom Tender",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Vivid — {T}: For each color among permanents you control, add one mana of that color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Bloom%20Tender&format=image&version=normal"
+    },
+    "end": 1045.56
+  },
+  {
+    "start": 1045.56,
+    "cardId": "0c23fefe-9891-4dd8-9bb1-eebdb3274e31",
+    "cardName": "Bloom Tender",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bloom Tender",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Vivid — {T}: For each color among permanents you control, add one mana of that color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Bloom%20Tender&format=image&version=normal"
+    },
+    "end": 1171.22
+  },
+  {
+    "start": 1171.22,
+    "cardId": "0c23fefe-9891-4dd8-9bb1-eebdb3274e31",
+    "cardName": "Bloom Tender",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bloom Tender",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Vivid — {T}: For each color among permanents you control, add one mana of that color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Bloom%20Tender&format=image&version=normal"
+    },
+    "end": 1248.34
+  },
+  {
+    "start": 1248.34,
+    "cardId": "2c195485-83f9-424f-854a-50c4f5b04182",
+    "cardName": "Thranduil's Company",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thranduil's Company",
+      "manaCost": "{2}{G}{U}",
+      "typeLine": "Creature — Elf Soldier",
+      "oracleText": "As long as you control another Elf, you may play an additional land on each of your turns.\nLandfall — Whenever a land you control enters, put two +1/+1 counters on target creature you control. It gains vigilance until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Thranduil's%20Company&format=image&version=normal"
+    },
+    "end": 1262.28
+  },
+  {
+    "start": 1262.28,
+    "cardId": "5104053a-d394-4b00-82a4-60fd9f051a6e",
+    "cardName": "Fierce Empath",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fierce Empath",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf",
+      "oracleText": "When this creature enters, you may search your library for a creature card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fierce%20Empath&format=image&version=normal"
+    },
+    "end": 1389.08
+  },
+  {
+    "start": 1389.08,
+    "cardId": "68954295-54e3-4303-a6bc-fc4547a4e3a3",
+    "cardName": "Llanowar Elves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Llanowar Elves",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Add {G}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Llanowar%20Elves&format=image&version=normal"
+    },
+    "end": 1392.22
+  },
+  {
+    "start": 1392.22,
+    "cardId": "e87906d2-db1a-4e19-b910-adb4eb339945",
+    "cardName": "Urza, Lord High Artificer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Urza, Lord High Artificer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "When Urza enters, create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"\nTap an untapped artifact you control: Add {U}.\n{5}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/7/b/7b7a348a-51f7-4dc5-8fe7-1c70fea5e050.jpg?1783915686"
+    },
+    "end": 1582.4
+  },
+  {
+    "start": 1582.4,
+    "cardId": "68954295-54e3-4303-a6bc-fc4547a4e3a3",
+    "cardName": "Llanowar Elves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Llanowar Elves",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Add {G}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Llanowar%20Elves&format=image&version=normal"
+    },
+    "end": 1591.86
+  },
+  {
+    "start": 1591.86,
+    "cardId": "6e2c2423-d854-4478-99e6-64f29851f026",
+    "cardName": "Elvish Archdruid",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elvish Archdruid",
+      "manaCost": "{1}{G}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Other Elf creatures you control get +1/+1.\n{T}: Add {G} for each Elf you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Elvish%20Archdruid&format=image&version=normal"
+    },
+    "end": 1650.5
+  },
+  {
+    "start": 1650.5,
+    "cardId": "3f3b2c10-21f8-4e13-be83-4ef3fa36e123",
+    "cardName": "Elvish Mystic",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elvish Mystic",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Add {G}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Elvish%20Mystic&format=image&version=normal"
+    },
+    "end": 1783.96
+  },
+  {
+    "start": 1783.96,
+    "cardId": "3a198a16-17b9-481e-b516-5bc945c7e247",
+    "cardName": "Priest of Titania",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Priest of Titania",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Add {G} for each Elf on the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Priest%20of%20Titania&format=image&version=normal"
+    },
+    "end": 1836.3
+  },
+  {
+    "start": 1836.3,
+    "cardId": "5bd06f9e-9a42-455d-ad26-24bc04e51c7c",
+    "cardName": "Formidable Speaker",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Formidable Speaker",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "When this creature enters, you may discard a card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.\n{1}, {T}: Untap another target permanent.",
+      "image": "https://api.scryfall.com/cards/named?exact=Formidable%20Speaker&format=image&version=normal"
+    },
+    "end": 1938.42
+  },
+  {
+    "start": 1938.42,
+    "cardId": "3a198a16-17b9-481e-b516-5bc945c7e247",
+    "cardName": "Priest of Titania",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Priest of Titania",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Add {G} for each Elf on the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Priest%20of%20Titania&format=image&version=normal"
+    },
+    "end": 1983.34
+  },
+  {
+    "start": 1983.34,
+    "cardId": "7e40f37c-9a0c-40e0-b195-7ea94b12f798",
+    "cardName": "Elvish Champion",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elvish Champion",
+      "manaCost": "{1}{G}{G}",
+      "typeLine": "Creature — Elf",
+      "oracleText": "Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Elvish%20Champion&format=image&version=normal"
+    },
+    "end": 2148.26
+  },
+  {
+    "start": 2148.26,
+    "cardId": "5446c92f-ff22-4e9b-a2f6-e64c8560c1e0",
+    "cardName": "Zombie Master",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zombie Master",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Creature — Zombie",
+      "oracleText": "Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)\nOther Zombies have \"{B}: Regenerate this permanent.\"",
+      "image": "https://api.scryfall.com/cards/named?exact=Zombie%20Master&format=image&version=normal"
+    },
+    "end": 2253.48
+  },
+  {
+    "start": 2253.48,
+    "cardId": "6b0e23cf-7d68-4329-86db-7adc26abd86b",
+    "cardName": "Elvish Spirit Guide",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elvish Spirit Guide",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Spirit",
+      "oracleText": "Exile this creature from your hand: Add {G}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Elvish%20Spirit%20Guide&format=image&version=normal"
+    },
+    "end": 2348.08
+  },
+  {
+    "start": 2348.08,
+    "cardId": "ee6099b0-fb1f-42f1-b862-7708c6e36d05",
+    "cardName": "Lion's Eye Diamond",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lion's Eye Diamond",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "Discard your hand, Sacrifice this artifact: Add three mana of any one color. Activate only as an instant.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lion's%20Eye%20Diamond&format=image&version=normal"
+    },
+    "end": 2405.34
+  },
+  {
+    "start": 2405.34,
+    "cardId": "6b0e23cf-7d68-4329-86db-7adc26abd86b",
+    "cardName": "Elvish Spirit Guide",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elvish Spirit Guide",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Spirit",
+      "oracleText": "Exile this creature from your hand: Add {G}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Elvish%20Spirit%20Guide&format=image&version=normal"
+    },
+    "end": 2453.22
+  },
+  {
+    "start": 2453.22,
+    "cardId": "5da7eea8-bb9e-47ce-a554-8a1ee058bd7a",
+    "cardName": "Beast Whisperer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beast Whisperer",
+      "manaCost": "{2}{G}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Whenever you cast a creature spell, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Beast%20Whisperer&format=image&version=normal"
+    },
+    "end": 2474.68
+  },
+  {
+    "start": 2474.68,
+    "cardId": "6b0e23cf-7d68-4329-86db-7adc26abd86b",
+    "cardName": "Elvish Spirit Guide",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elvish Spirit Guide",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Spirit",
+      "oracleText": "Exile this creature from your hand: Add {G}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Elvish%20Spirit%20Guide&format=image&version=normal"
+    },
+    "end": 2481.24
+  },
+  {
+    "start": 2481.24,
+    "cardId": "32e5339e-9e4f-46f8-b305-f9d6d3ba8bb5",
+    "cardName": "Lotus Petal",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lotus Petal",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lotus%20Petal&format=image&version=normal"
+    },
+    "end": 2486.82
+  },
+  {
+    "start": 2486.82,
+    "cardId": "6b0e23cf-7d68-4329-86db-7adc26abd86b",
+    "cardName": "Elvish Spirit Guide",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elvish Spirit Guide",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Spirit",
+      "oracleText": "Exile this creature from your hand: Add {G}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Elvish%20Spirit%20Guide&format=image&version=normal"
+    },
+    "end": 2775.9399999999996
+  },
+  {
+    "start": 2775.9399999999996,
+    "cardId": "6ca2a89e-7032-4864-b4e9-66f3178f90ab",
+    "cardName": "Essence Warden",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Essence Warden",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Shaman",
+      "oracleText": "Whenever another creature enters, you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Essence%20Warden&format=image&version=normal"
+    },
+    "end": 2842.56
+  },
+  {
+    "start": 2842.56,
+    "cardId": "c3b1b7bd-cff8-4275-b6d3-868f4e4b2cc0",
+    "cardName": "Wellwisher",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wellwisher",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf",
+      "oracleText": "{T}: You gain 1 life for each Elf on the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wellwisher&format=image&version=normal"
+    },
+    "end": 2887.26
+  },
+  {
+    "start": 2887.26,
+    "cardId": "09070db6-01f6-4a8a-b167-a7825e6959f4",
+    "cardName": "Wolverine Riders",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wolverine Riders",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Creature — Elf Warrior",
+      "oracleText": "At the beginning of each upkeep, create a 1/1 green Elf Warrior creature token.\nWhenever another Elf you control enters, you gain life equal to its toughness.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wolverine%20Riders&format=image&version=normal"
+    },
+    "end": 2917.76
+  },
+  {
+    "start": 2917.76,
+    "cardId": "09070db6-01f6-4a8a-b167-a7825e6959f4",
+    "cardName": "Wolverine Riders",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wolverine Riders",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Creature — Elf Warrior",
+      "oracleText": "At the beginning of each upkeep, create a 1/1 green Elf Warrior creature token.\nWhenever another Elf you control enters, you gain life equal to its toughness.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wolverine%20Riders&format=image&version=normal"
+    },
+    "end": 2919.48
+  },
+  {
+    "start": 2919.48,
+    "cardId": "6ca2a89e-7032-4864-b4e9-66f3178f90ab",
+    "cardName": "Essence Warden",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Essence Warden",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Shaman",
+      "oracleText": "Whenever another creature enters, you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Essence%20Warden&format=image&version=normal"
+    },
+    "end": 2967.14
+  },
+  {
+    "start": 2967.14,
+    "cardId": "ee579a32-a048-4335-b966-231ba731cdea",
+    "cardName": "Phyrexian Arena",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Phyrexian Arena",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your upkeep, you draw a card and you lose 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Phyrexian%20Arena&format=image&version=normal"
+    },
+    "end": 3056
+  },
+  {
+    "start": 3056,
+    "cardId": "5bd06f9e-9a42-455d-ad26-24bc04e51c7c",
+    "cardName": "Formidable Speaker",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Formidable Speaker",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "When this creature enters, you may discard a card. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle.\n{1}, {T}: Untap another target permanent.",
+      "image": "https://api.scryfall.com/cards/named?exact=Formidable%20Speaker&format=image&version=normal"
+    },
+    "end": 3106.7
+  },
+  {
+    "start": 3106.7,
+    "cardId": "cce081eb-8820-415a-a7b2-3c5b9d4a2601",
+    "cardName": "Gala Greeters",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gala Greeters",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Alliance — Whenever another creature you control enters, choose one that hasn't been chosen this turn —\n• Put a +1/+1 counter on this creature.\n• Create a tapped Treasure token.\n• You gain 2 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gala%20Greeters&format=image&version=normal"
+    },
+    "end": 3220.46
+  },
+  {
+    "start": 3220.46,
+    "cardId": "bda83ef4-e345-495d-878c-4da171f997ba",
+    "cardName": "Elvish Warmaster",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elvish Warmaster",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Warrior",
+      "oracleText": "Whenever one or more other Elves you control enter, create a 1/1 green Elf Warrior creature token. This ability triggers only once each turn.\n{5}{G}{G}: Elves you control get +2/+2 and gain deathtouch until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Elvish%20Warmaster&format=image&version=normal"
+    },
+    "end": 3288.64
+  },
+  {
+    "start": 3288.64,
+    "cardId": "c6a3a882-a127-4590-93d7-679ef4313efe",
+    "cardName": "Elvish Visionary",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elvish Visionary",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Shaman",
+      "oracleText": "When this creature enters, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Elvish%20Visionary&format=image&version=normal"
+    },
+    "end": 3621.02
+  },
+  {
+    "start": 3621.02,
+    "cardId": "7bef91cd-df65-4135-86a6-d17b71470452",
+    "cardName": "Thranduil the Strategist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thranduil the Strategist",
+      "manaCost": "{3}{G}{U}",
+      "typeLine": "Legendary Creature — Elf Noble",
+      "oracleText": "Other Elves you control have \"{T}: Add {G} or {U}.\"\nLandfall — Whenever a land you control enters, create a 1/1 green Elf creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Thranduil%20the%20Strategist&format=image&version=normal"
+    },
+    "end": 3965.74
+  },
+  {
+    "start": 3965.74,
+    "cardId": "1e943e04-e213-4781-b1a7-935aad8790e1",
+    "cardName": "Intruder Alarm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Intruder Alarm",
+      "manaCost": "{2}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Creatures don't untap during their controllers' untap steps.\nWhenever a creature enters, untap all creatures.",
+      "image": "https://api.scryfall.com/cards/named?exact=Intruder%20Alarm&format=image&version=normal"
+    },
+    "end": 4039.1
+  },
+  {
+    "start": 4039.1,
+    "cardId": "68954295-54e3-4303-a6bc-fc4547a4e3a3",
+    "cardName": "Llanowar Elves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Llanowar Elves",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Add {G}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Llanowar%20Elves&format=image&version=normal"
+    },
+    "end": 4041.68
+  },
+  {
+    "start": 4041.68,
+    "cardId": "3f3b2c10-21f8-4e13-be83-4ef3fa36e123",
+    "cardName": "Elvish Mystic",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Elvish Mystic",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Add {G}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Elvish%20Mystic&format=image&version=normal"
+    },
+    "end": 4050.84
+  },
+  {
+    "start": 4050.84,
+    "cardId": "f9d3b046-0b95-4103-a630-4b3fb88bb60b",
+    "cardName": "Delighted Halfling",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Delighted Halfling",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Halfling Citizen",
+      "oracleText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can't be countered.",
+      "image": "https://api.scryfall.com/cards/named?exact=Delighted%20Halfling&format=image&version=normal"
+    },
+    "end": 4061.78
+  },
+  {
+    "start": 4061.78,
+    "cardId": "d3a0b660-358c-41bd-9cd2-41fbf3491b1a",
+    "cardName": "Birds of Paradise",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Birds of Paradise",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Bird",
+      "oracleText": "Flying\n{T}: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Birds%20of%20Paradise&format=image&version=normal"
+    },
+    "end": 4114
+  },
+  {
+    "start": 4114,
+    "cardId": "032ec6e2-6cc3-4a97-9cc7-3233f5e11904",
+    "cardName": "Reclamation Sage",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Reclamation Sage",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Shaman",
+      "oracleText": "When this creature enters, you may destroy target artifact or enchantment.",
+      "image": "https://api.scryfall.com/cards/named?exact=Reclamation%20Sage&format=image&version=normal"
+    },
+    "end": 4150.72
+  },
+  {
+    "start": 4150.72,
+    "cardId": "d740dbd9-8e90-4121-8d53-c6ddf5178d58",
+    "cardName": "Chomping Changeling",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chomping Changeling",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Shapeshifter",
+      "oracleText": "Changeling (This card is every creature type.)\nWhen this creature enters, destroy up to one target artifact or enchantment.",
+      "image": "https://api.scryfall.com/cards/named?exact=Chomping%20Changeling&format=image&version=normal"
+    },
+    "end": 4176.34
+  },
+  {
+    "start": 4176.34,
+    "cardId": "b655bee5-52d3-467e-b16c-cfc2edf2b1a1",
+    "cardName": "Arachnogenesis",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arachnogenesis",
+      "manaCost": "{2}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Create X 1/2 green Spider creature tokens with reach, where X is the number of creatures attacking you. Prevent all combat damage that would be dealt this turn by non-Spider creatures.",
+      "image": "https://api.scryfall.com/cards/named?exact=Arachnogenesis&format=image&version=normal"
+    },
+    "end": 4259.52
+  },
+  {
+    "start": 4259.52,
+    "cardId": "3ceca713-38de-4428-a4f1-2146f6e98393",
+    "cardName": "Rumor Gatherer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rumor Gatherer",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Elf Wizard",
+      "oracleText": "Alliance — Whenever another creature you control enters, scry 1. If this is the second time this ability has resolved this turn, draw a card instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rumor%20Gatherer&format=image&version=normal"
+    },
+    "end": 4394.96
+  },
+  {
+    "start": 4394.96,
+    "cardId": "3ceca713-38de-4428-a4f1-2146f6e98393",
+    "cardName": "Rumor Gatherer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rumor Gatherer",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Elf Wizard",
+      "oracleText": "Alliance — Whenever another creature you control enters, scry 1. If this is the second time this ability has resolved this turn, draw a card instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rumor%20Gatherer&format=image&version=normal"
+    },
+    "end": 4432.04
+  },
+  {
+    "start": 4432.04,
+    "cardId": "3ceca713-38de-4428-a4f1-2146f6e98393",
+    "cardName": "Rumor Gatherer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rumor Gatherer",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Elf Wizard",
+      "oracleText": "Alliance — Whenever another creature you control enters, scry 1. If this is the second time this ability has resolved this turn, draw a card instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rumor%20Gatherer&format=image&version=normal"
+    },
+    "end": 4461.62
+  },
+  {
+    "start": 4461.62,
+    "cardId": "01546b7d-a233-4176-8843-d732074dc5b6",
+    "cardName": "Doubling Season",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doubling Season",
+      "manaCost": "{4}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doubling%20Season&format=image&version=normal"
+    },
+    "end": 4475.28
+  },
+  {
+    "start": 4475.28,
+    "cardId": "ab8d5f5c-1976-4f77-8ed2-8d28ee666741",
+    "cardName": "Tireless Provisioner",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tireless Provisioner",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Scout",
+      "oracleText": "Landfall — Whenever a land you control enters, create a Food token or a Treasure token. (Food is an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\" Treasure is an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Tireless%20Provisioner&format=image&version=normal"
+    },
+    "end": 4859.02
+  },
+  {
+    "start": 4859.02,
+    "cardId": "3a198a16-17b9-481e-b516-5bc945c7e247",
+    "cardName": "Priest of Titania",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Priest of Titania",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Add {G} for each Elf on the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Priest%20of%20Titania&format=image&version=normal"
+    },
+    "end": 4889.32
+  },
+  {
+    "start": 4889.32,
+    "cardId": "1c857fa4-e823-494d-9ea4-7eb9e719c9b6",
+    "cardName": "Circle of Dreams Druid",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Circle of Dreams Druid",
+      "manaCost": "{G}{G}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Add {G} for each creature you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Circle%20of%20Dreams%20Druid&format=image&version=normal"
+    },
+    "end": 4946.34
+  },
+  {
+    "start": 4946.34,
+    "cardId": "8973bd99-20f8-4867-90ef-50392147ee1b",
+    "cardName": "Wood Elves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wood Elves",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Scout",
+      "oracleText": "When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wood%20Elves&format=image&version=normal"
+    },
+    "end": 4997.7
+  },
+  {
+    "start": 4997.7,
+    "cardId": "8973bd99-20f8-4867-90ef-50392147ee1b",
+    "cardName": "Wood Elves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wood Elves",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Scout",
+      "oracleText": "When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wood%20Elves&format=image&version=normal"
+    },
+    "end": 5015.58
+  },
+  {
+    "start": 5015.58,
+    "cardId": "4ce2357f-93e6-40ca-beca-8f4e15adc464",
+    "cardName": "Farhaven Elf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farhaven Elf",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "When this creature enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Farhaven%20Elf&format=image&version=normal"
+    },
+    "end": 5067.38
+  },
+  {
+    "start": 5067.38,
+    "cardId": "8539f295-5d58-4436-a73a-b9277c4c7795",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rampant%20Growth&format=image&version=normal"
+    },
+    "end": 5076.06
+  },
+  {
+    "start": 5076.06,
+    "cardId": "34b93a66-de1e-4133-a479-e0d90ba94a3a",
+    "cardName": "Mutable Explorer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mutable Explorer",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Shapeshifter",
+      "oracleText": "Changeling (This card is every creature type.)\nWhen this creature enters, create a tapped Mutavault token. (It's a land with \"{T}: Add {C}\" and \"{1}: This token becomes a 2/2 creature with all creature types until end of turn. It's still a land.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Mutable%20Explorer&format=image&version=normal"
+    },
+    "end": 5098.78
+  },
+  {
+    "start": 5098.78,
+    "cardId": "8973bd99-20f8-4867-90ef-50392147ee1b",
+    "cardName": "Wood Elves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wood Elves",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Scout",
+      "oracleText": "When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wood%20Elves&format=image&version=normal"
+    },
+    "end": 5176.98
+  },
+  {
+    "start": 5176.98,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 5279.34
+  },
+  {
+    "start": 5279.34,
+    "cardId": "17b29350-4f37-4552-8192-4856b15345f9",
+    "cardName": "Smuggler's Share",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Smuggler's Share",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of each end step, draw a card for each opponent who drew two or more cards this turn, then create a Treasure token for each opponent who had two or more lands enter the battlefield under their control this turn.",
+      "image": "https://cards.scryfall.io/normal/front/f/1/f1ced678-5cfd-49ff-9420-6ee52d5edf5a.jpg?1783913024"
+    },
+    "end": 5360.62
+  },
+  {
+    "start": 5360.62,
+    "cardId": "0b7f9c71-6f3c-4056-9bed-04b9f2296f3b",
+    "cardName": "Heritage Druid",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heritage Druid",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Tap three untapped Elves you control: Add {G}{G}{G}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heritage%20Druid&format=image&version=normal"
+    },
+    "end": 5399.18
+  },
+  {
+    "start": 5399.18,
+    "cardId": "0b7f9c71-6f3c-4056-9bed-04b9f2296f3b",
+    "cardName": "Heritage Druid",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heritage Druid",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Tap three untapped Elves you control: Add {G}{G}{G}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heritage%20Druid&format=image&version=normal"
+    },
+    "end": 5420.3
+  },
+  {
+    "start": 5420.3,
+    "cardId": "5fae52ed-1b84-406e-951d-b0d329dc48a7",
+    "cardName": "Glimpse of Nature",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Glimpse of Nature",
+      "manaCost": "{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Whenever you cast a creature spell this turn, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Glimpse%20of%20Nature&format=image&version=normal"
+    },
+    "end": 5518.96
+  },
+  {
+    "start": 5518.96,
+    "cardId": "8ad91f64-ccab-4edc-bd54-b2ee9267d614",
+    "cardName": "Lotus Cobra",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lotus Cobra",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Snake",
+      "oracleText": "Landfall — Whenever a land you control enters, add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lotus%20Cobra&format=image&version=normal"
+    },
+    "end": 5524.28
+  },
+  {
+    "start": 5524.28,
+    "cardId": "69fd4ddf-9ed8-4c56-bef3-9944daf05e4f",
+    "cardName": "Coiling Oracle",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Coiling Oracle",
+      "manaCost": "{G}{U}",
+      "typeLine": "Creature — Snake Elf Druid",
+      "oracleText": "When this creature enters, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Coiling%20Oracle&format=image&version=normal"
+    }
+  }
+]

@@ -7,7 +7,8 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/ba745603-b16b-4348-9c53-6aae9ef81fd7/mtggoldfish_podcast_606_TheRealityFractureCardsThatActuallyMatter.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
-    "processed": false,
+    "cueSheet": "./data/the-reality-fracture-cards-that-actually-matter.cues.json",
+    "processed": true,
     "source": "MTGGoldfish Podcast RSS"
   },
   {
@@ -18,7 +19,8 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/7a59fe1b-013b-4573-83ed-eaa75e59cc70/mtggoldfish_podcast_605_IsRealityFractureUncBait.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
-    "processed": false,
+    "cueSheet": "./data/is-reality-fracture-unc-bait.cues.json",
+    "processed": true,
     "source": "MTGGoldfish Podcast RSS"
   },
   {
@@ -29,7 +31,8 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/b0167851-0441-4851-8193-f2b7b49a7413/mtggoldfish_podcast_604_CanPauperSaveMagicTheGathering.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
-    "processed": false,
+    "cueSheet": "./data/can-pauper-save-magic-the-gathering.cues.json",
+    "processed": true,
     "source": "MTGGoldfish Podcast RSS"
   },
   {
@@ -40,7 +43,8 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/2e6a4e98-fcd7-42ea-956d-7eabeab0eba4/mtggoldfish_podcast_603_IsCommanderComingToArenaBadForCommander.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
-    "processed": false,
+    "cueSheet": "./data/is-commander-coming-to-arena-bad-for-commander.cues.json",
+    "processed": true,
     "source": "MTGGoldfish Podcast RSS"
   },
   {
@@ -51,7 +55,8 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/b25ecc3f-69c4-4615-8ede-6e43c223554f/mtggoldfish_podcast_602_HowDidMTGGetBeatByOnePieceAndRiftboundForCompPlay.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
-    "processed": false,
+    "cueSheet": "./data/how-did-mtg-get-beat-by-one-piece-riftbound-for-comp-play.cues.json",
+    "processed": true,
     "source": "MTGGoldfish Podcast RSS"
   },
   {

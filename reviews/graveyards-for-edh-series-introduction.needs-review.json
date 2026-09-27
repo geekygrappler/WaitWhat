@@ -1,0 +1,16 @@
+[
+  {
+    "transcriptName": "Bone Picker",
+    "start": 3452.28,
+    "reason": "The speakers correct themselves between Bone Picker and Bonehoard; the intended card is unclear."
+  },
+  {
+    "transcriptName": "Vorinclex",
+    "start": 634.72,
+    "reason": "Only the shared first name is spoken, so the intended Vorinclex printing cannot be selected safely.",
+    "resolvedName": "https://scryfall.com/card/ima/189/vorinclex-voice-of-hunger",
+    "resolvedAt": "2026-09-27T18:33:22.887Z",
+    "resolvedCardName": "Vorinclex, Voice of Hunger",
+    "resolvedCardId": "dbf0ad03-ab31-49d2-89b1-05b45948a61f"
+  }
+]

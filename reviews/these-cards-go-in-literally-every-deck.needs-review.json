@@ -1,0 +1,23 @@
+[
+  {
+    "transcriptName": "Mishra",
+    "starts": [
+      1242.46,
+      1528.84,
+      3419.08
+    ],
+    "reason": "Only Mishra's first name is spoken; selecting the catalogue's unrelated Mishra Vanguard entry would be misleading.",
+    "resolvedName": "https://scryfall.com/card/brc/1/mishra-eminent-one",
+    "resolvedAt": "2026-09-27T18:35:50.898Z",
+    "resolvedCardName": "Mishra, Eminent One",
+    "resolvedCardId": "d3438037-3efd-4ce0-88ec-6d48ab521992"
+  },
+  {
+    "transcriptName": "Urza",
+    "starts": [
+      682,
+      770.64
+    ],
+    "reason": "The discussion does not identify which Urza card is intended; the exact matcher maps the shared name to a Vanguard entry."
+  }
+]

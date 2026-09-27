@@ -1,0 +1,923 @@
+[
+  {
+    "start": 610.38,
+    "cardId": "636cc915-9d1b-4ffe-9e74-795b78663911",
+    "cardName": "Superior Spider-Man",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Superior Spider-Man",
+      "manaCost": "{2}{U}{B}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Mind Swap — You may have Superior Spider-Man enter as a copy of any creature card in a graveyard, except his name is Superior Spider-Man and he's a 4/4 Spider Human Hero in addition to his other types. When you do, exile that card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Superior%20Spider-Man&format=image&version=normal"
+    },
+    "end": 634.08
+  },
+  {
+    "start": 634.08,
+    "cardId": "9911c2f8-fafb-4979-898e-e86b726e3538",
+    "cardName": "Excruciator",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Excruciator",
+      "manaCost": "{6}{R}{R}",
+      "typeLine": "Creature — Avatar",
+      "oracleText": "Damage that would be dealt by this creature can't be prevented.",
+      "image": "https://api.scryfall.com/cards/named?exact=Excruciator&format=image&version=normal"
+    },
+    "end": 640.46
+  },
+  {
+    "start": 640.46,
+    "cardId": "89ca686a-7c72-4d8f-9290-e89635624a83",
+    "cardName": "Cavern of Souls",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cavern of Souls",
+      "typeLine": "Land",
+      "oracleText": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",
+      "image": "https://api.scryfall.com/cards/named?exact=Cavern%20of%20Souls&format=image&version=normal"
+    },
+    "end": 661
+  },
+  {
+    "start": 661,
+    "cardId": "02238355-9c84-4ae0-b850-269f460144a8",
+    "cardName": "Seasoned Pyromancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Seasoned Pyromancer",
+      "manaCost": "{1}{R}{R}",
+      "typeLine": "Creature — Human Shaman",
+      "oracleText": "When this creature enters, discard two cards, then draw two cards. For each nonland card discarded this way, create a 1/1 red Elemental creature token.\n{3}{R}{R}, Exile this card from your graveyard: Create two 1/1 red Elemental creature tokens.",
+      "image": "https://api.scryfall.com/cards/named?exact=Seasoned%20Pyromancer&format=image&version=normal"
+    },
+    "end": 754.7
+  },
+  {
+    "start": 754.7,
+    "cardId": "636cc915-9d1b-4ffe-9e74-795b78663911",
+    "cardName": "Superior Spider-Man",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Superior Spider-Man",
+      "manaCost": "{2}{U}{B}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Mind Swap — You may have Superior Spider-Man enter as a copy of any creature card in a graveyard, except his name is Superior Spider-Man and he's a 4/4 Spider Human Hero in addition to his other types. When you do, exile that card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Superior%20Spider-Man&format=image&version=normal"
+    },
+    "end": 804.56
+  },
+  {
+    "start": 804.56,
+    "cardId": "2251e34e-4ce8-4452-9dc6-d8cce8583996",
+    "cardName": "Stock Up",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Stock Up",
+      "manaCost": "{2}{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "Look at the top five cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.",
+      "image": "https://api.scryfall.com/cards/named?exact=Stock%20Up&format=image&version=normal"
+    },
+    "end": 883.66
+  },
+  {
+    "start": 883.66,
+    "cardId": "f02557b0-f422-48cb-875e-2c814c39967d",
+    "cardName": "Hellrider",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hellrider",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Creature — Devil",
+      "oracleText": "Haste\nWhenever a creature you control attacks, this creature deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://api.scryfall.com/cards/named?exact=Hellrider&format=image&version=normal"
+    },
+    "end": 909.68
+  },
+  {
+    "start": 909.68,
+    "cardId": "636cc915-9d1b-4ffe-9e74-795b78663911",
+    "cardName": "Superior Spider-Man",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Superior Spider-Man",
+      "manaCost": "{2}{U}{B}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Mind Swap — You may have Superior Spider-Man enter as a copy of any creature card in a graveyard, except his name is Superior Spider-Man and he's a 4/4 Spider Human Hero in addition to his other types. When you do, exile that card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Superior%20Spider-Man&format=image&version=normal"
+    },
+    "end": 1069.46
+  },
+  {
+    "start": 1069.46,
+    "cardId": "96c2d71e-0fc9-42aa-bc6b-6d0ae3f66f8b",
+    "cardName": "Hexing Squelcher",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hexing Squelcher",
+      "manaCost": "{1}{R}",
+      "typeLine": "Creature — Goblin Sorcerer",
+      "oracleText": "This spell can't be countered.\nWard—Pay 2 life.\nSpells you control can't be countered.\nOther creatures you control have \"Ward—Pay 2 life.\"",
+      "image": "https://api.scryfall.com/cards/named?exact=Hexing%20Squelcher&format=image&version=normal"
+    },
+    "end": 1179.9
+  },
+  {
+    "start": 1179.9,
+    "cardId": "22ba474e-f6e6-450d-a4cf-0739f0b51079",
+    "cardName": "Defense Grid",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Defense Grid",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "Each spell costs {3} more to cast except during its controller's turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Defense%20Grid&format=image&version=normal"
+    },
+    "end": 1193.18
+  },
+  {
+    "start": 1193.18,
+    "cardId": "d64b0848-0193-4025-ba62-63ecd8fb9f50",
+    "cardName": "Spell Pierce",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spell Pierce",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target noncreature spell unless its controller pays {2}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spell%20Pierce&format=image&version=normal"
+    },
+    "end": 1236.24
+  },
+  {
+    "start": 1236.24,
+    "cardId": "89ca686a-7c72-4d8f-9290-e89635624a83",
+    "cardName": "Cavern of Souls",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cavern of Souls",
+      "typeLine": "Land",
+      "oracleText": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",
+      "image": "https://api.scryfall.com/cards/named?exact=Cavern%20of%20Souls&format=image&version=normal"
+    },
+    "end": 1255.4
+  },
+  {
+    "start": 1255.4,
+    "cardId": "956381ba-6d37-4a8a-846c-bad79222dbee",
+    "cardName": "Force of Will",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Force of Will",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Force%20of%20Will&format=image&version=normal"
+    },
+    "end": 1262.3
+  },
+  {
+    "start": 1262.3,
+    "cardId": "89ca686a-7c72-4d8f-9290-e89635624a83",
+    "cardName": "Cavern of Souls",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cavern of Souls",
+      "typeLine": "Land",
+      "oracleText": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",
+      "image": "https://api.scryfall.com/cards/named?exact=Cavern%20of%20Souls&format=image&version=normal"
+    },
+    "end": 1266.84
+  },
+  {
+    "start": 1266.84,
+    "cardId": "002965be-a36f-4a09-9ce0-c6535bca1703",
+    "cardName": "Veil of Summer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Veil of Summer",
+      "manaCost": "{G}",
+      "typeLine": "Instant",
+      "oracleText": "Draw a card if an opponent has cast a blue or black spell this turn. Spells you control can't be countered this turn. You and permanents you control gain hexproof from blue and from black until end of turn. (You and they can't be the targets of blue or black spells or abilities your opponents control.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Veil%20of%20Summer&format=image&version=normal"
+    },
+    "end": 1284.04
+  },
+  {
+    "start": 1284.04,
+    "cardId": "96c2d71e-0fc9-42aa-bc6b-6d0ae3f66f8b",
+    "cardName": "Hexing Squelcher",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hexing Squelcher",
+      "manaCost": "{1}{R}",
+      "typeLine": "Creature — Goblin Sorcerer",
+      "oracleText": "This spell can't be countered.\nWard—Pay 2 life.\nSpells you control can't be countered.\nOther creatures you control have \"Ward—Pay 2 life.\"",
+      "image": "https://api.scryfall.com/cards/named?exact=Hexing%20Squelcher&format=image&version=normal"
+    },
+    "end": 1321.92
+  },
+  {
+    "start": 1321.92,
+    "cardId": "96c2d71e-0fc9-42aa-bc6b-6d0ae3f66f8b",
+    "cardName": "Hexing Squelcher",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hexing Squelcher",
+      "manaCost": "{1}{R}",
+      "typeLine": "Creature — Goblin Sorcerer",
+      "oracleText": "This spell can't be countered.\nWard—Pay 2 life.\nSpells you control can't be countered.\nOther creatures you control have \"Ward—Pay 2 life.\"",
+      "image": "https://api.scryfall.com/cards/named?exact=Hexing%20Squelcher&format=image&version=normal"
+    },
+    "end": 1356.5
+  },
+  {
+    "start": 1356.5,
+    "cardId": "82004860-e589-4e38-8d61-8c0210e4ea39",
+    "cardName": "Demonic Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Demonic Tutor",
+      "manaCost": "{1}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a card, put that card into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Demonic%20Tutor&format=image&version=normal"
+    },
+    "end": 1398.34
+  },
+  {
+    "start": 1398.34,
+    "cardId": "82004860-e589-4e38-8d61-8c0210e4ea39",
+    "cardName": "Demonic Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Demonic Tutor",
+      "manaCost": "{1}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a card, put that card into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Demonic%20Tutor&format=image&version=normal"
+    },
+    "end": 1417.62
+  },
+  {
+    "start": 1417.62,
+    "cardId": "37a18736-5fe2-4897-809b-013497bdd890",
+    "cardName": "Past in Flames",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Past in Flames",
+      "manaCost": "{3}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.\nFlashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Past%20in%20Flames&format=image&version=normal"
+    },
+    "end": 1422.84
+  },
+  {
+    "start": 1422.84,
+    "cardId": "3a59c882-8bb8-49ba-862f-125020dd5bec",
+    "cardName": "Empty the Warrens",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Empty the Warrens",
+      "manaCost": "{3}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Create two 1/1 red Goblin creature tokens.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Empty%20the%20Warrens&format=image&version=normal"
+    },
+    "end": 1450.48
+  },
+  {
+    "start": 1450.48,
+    "cardId": "6aec5b1f-cea6-4ec3-9759-e4544da8c52b",
+    "cardName": "Mastermind's Acquisition",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mastermind's Acquisition",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one —\n• Search your library for a card, put it into your hand, then shuffle.\n• Put a card you own from outside the game into your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mastermind's%20Acquisition&format=image&version=normal"
+    },
+    "end": 1575.12
+  },
+  {
+    "start": 1575.12,
+    "cardId": "82004860-e589-4e38-8d61-8c0210e4ea39",
+    "cardName": "Demonic Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Demonic Tutor",
+      "manaCost": "{1}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a card, put that card into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Demonic%20Tutor&format=image&version=normal"
+    },
+    "end": 1581.44
+  },
+  {
+    "start": 1581.44,
+    "cardId": "a20dd48d-d344-4db1-b0e9-a2b71c3cc9d1",
+    "cardName": "Karn, the Great Creator",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Karn, the Great Creator",
+      "manaCost": "{4}",
+      "typeLine": "Legendary Planeswalker — Karn",
+      "oracleText": "Activated abilities of artifacts your opponents control can't be activated.\n[+1]: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.\n[−2]: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Karn%2C%20the%20Great%20Creator&format=image&version=normal"
+    },
+    "end": 1604.78
+  },
+  {
+    "start": 1604.78,
+    "cardId": "ededbdae-d9dc-4206-9335-d7158f2d7700",
+    "cardName": "Vampiric Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Vampiric Tutor",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Search your library for a card, then shuffle and put that card on top. You lose 2 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Vampiric%20Tutor&format=image&version=normal"
+    },
+    "end": 1620.82
+  },
+  {
+    "start": 1620.82,
+    "cardId": "27a1f42c-0b86-4609-9609-1fa9cab7e7c9",
+    "cardName": "Profane Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Profane Tutor",
+      "typeLine": "Sorcery",
+      "oracleText": "Suspend 2—{1}{B} (Rather than cast this card from your hand, pay {1}{B} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)\nSearch your library for a card, put that card into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Profane%20Tutor&format=image&version=normal"
+    },
+    "end": 1629.22
+  },
+  {
+    "start": 1629.22,
+    "cardId": "4457ed35-7c10-48c8-9776-456485fdf070",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Bolt&format=image&version=normal"
+    },
+    "end": 1675.58
+  },
+  {
+    "start": 1675.58,
+    "cardId": "2251e34e-4ce8-4452-9dc6-d8cce8583996",
+    "cardName": "Stock Up",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Stock Up",
+      "manaCost": "{2}{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "Look at the top five cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.",
+      "image": "https://api.scryfall.com/cards/named?exact=Stock%20Up&format=image&version=normal"
+    },
+    "end": 1681.68
+  },
+  {
+    "start": 1681.68,
+    "cardId": "d057289d-5e28-43d5-8ff3-4a1bc723477d",
+    "cardName": "Day of Judgment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Day of Judgment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy all creatures.",
+      "image": "https://api.scryfall.com/cards/named?exact=Day%20of%20Judgment&format=image&version=normal"
+    },
+    "end": 1710.2
+  },
+  {
+    "start": 1710.2,
+    "cardId": "2251e34e-4ce8-4452-9dc6-d8cce8583996",
+    "cardName": "Stock Up",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Stock Up",
+      "manaCost": "{2}{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "Look at the top five cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.",
+      "image": "https://api.scryfall.com/cards/named?exact=Stock%20Up&format=image&version=normal"
+    },
+    "end": 1773.56
+  },
+  {
+    "start": 1773.56,
+    "cardId": "bd9b9772-f5f9-4c6b-913e-7193bea5d0a7",
+    "cardName": "Oblivion Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Oblivion Ring",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile another target nonland permanent.\nWhen this enchantment leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Oblivion%20Ring&format=image&version=normal"
+    },
+    "end": 1860.26
+  },
+  {
+    "start": 1860.26,
+    "cardId": "12db6263-75c2-442f-a1a5-7af7915f8f9f",
+    "cardName": "Umbral Collar Zealot",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Umbral Collar Zealot",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "Sacrifice another creature or artifact: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Umbral%20Collar%20Zealot&format=image&version=normal"
+    },
+    "end": 1980.6
+  },
+  {
+    "start": 1980.6,
+    "cardId": "a69a24d0-ca58-4a44-8af1-a3bd1608d2f9",
+    "cardName": "Raise the Past",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Raise the Past",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return all creature cards with mana value 2 or less from your graveyard to the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Raise%20the%20Past&format=image&version=normal"
+    },
+    "end": 2097.76
+  },
+  {
+    "start": 2097.76,
+    "cardId": "087f9ad7-e74f-40e2-8102-1ed2925d0418",
+    "cardName": "Rest in Peace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rest%20in%20Peace&format=image&version=normal"
+    },
+    "end": 2142.18
+  },
+  {
+    "start": 2142.18,
+    "cardId": "0b23d9aa-d4ed-4ccf-8810-4a4d11d6fb9c",
+    "cardName": "Lively Dirge",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lively Dirge",
+      "manaCost": "{1}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Spree (Choose one or more additional costs.)\n+ {1} — Search your library for a card, put it into your graveyard, then shuffle.\n+ {2} — Return up to two creature cards with total mana value 4 or less from your graveyard to the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lively%20Dirge&format=image&version=normal"
+    },
+    "end": 2222.56
+  },
+  {
+    "start": 2222.56,
+    "cardId": "1473580d-7cb2-48f5-a77d-08f49244c5e8",
+    "cardName": "Essence Channeler",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Essence Channeler",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Bat Cleric",
+      "oracleText": "As long as you've lost life this turn, this creature has flying and vigilance.\nWhenever you gain life, put a +1/+1 counter on this creature.\nWhen this creature dies, put its counters on target creature you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Essence%20Channeler&format=image&version=normal"
+    },
+    "end": 2245.24
+  },
+  {
+    "start": 2245.24,
+    "cardId": "2aa0e0e5-cb6d-4518-8eff-d29f935486e0",
+    "cardName": "Nourishing Shoal",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Nourishing Shoal",
+      "manaCost": "{X}{G}{G}",
+      "typeLine": "Instant — Arcane",
+      "oracleText": "You may exile a green card with mana value X from your hand rather than pay this spell's mana cost.\nYou gain X life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Nourishing%20Shoal&format=image&version=normal"
+    },
+    "end": 2350.9
+  },
+  {
+    "start": 2350.9,
+    "cardId": "f3fad295-1af2-4ecc-8546-b121ad6be27b",
+    "cardName": "Soul Warden",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Soul Warden",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "Whenever another creature enters, you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Soul%20Warden&format=image&version=normal"
+    },
+    "end": 2364.46
+  },
+  {
+    "start": 2364.46,
+    "cardId": "f2048140-b691-4753-8239-1aa75059e389",
+    "cardName": "Martyr of Sands",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Martyr of Sands",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "{1}, Reveal X white cards from your hand, Sacrifice this creature: You gain three times X life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Martyr%20of%20Sands&format=image&version=normal"
+    },
+    "end": 2431.56
+  },
+  {
+    "start": 2431.56,
+    "cardId": "2aa0e0e5-cb6d-4518-8eff-d29f935486e0",
+    "cardName": "Nourishing Shoal",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Nourishing Shoal",
+      "manaCost": "{X}{G}{G}",
+      "typeLine": "Instant — Arcane",
+      "oracleText": "You may exile a green card with mana value X from your hand rather than pay this spell's mana cost.\nYou gain X life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Nourishing%20Shoal&format=image&version=normal"
+    },
+    "end": 2519.46
+  },
+  {
+    "start": 2519.46,
+    "cardId": "59e7f2ae-4535-4191-98be-3e65b6b2befa",
+    "cardName": "Doom Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doom%20Blade&format=image&version=normal"
+    },
+    "end": 2523.74
+  },
+  {
+    "start": 2523.74,
+    "cardId": "3641d572-8335-4804-88ad-edf4dc67a8e4",
+    "cardName": "Heartless Act",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heartless Act",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one —\n• Destroy target creature with no counters on it.\n• Remove up to three counters from target creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heartless%20Act&format=image&version=normal"
+    },
+    "end": 2543.88
+  },
+  {
+    "start": 2543.88,
+    "cardId": "59e7f2ae-4535-4191-98be-3e65b6b2befa",
+    "cardName": "Doom Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doom%20Blade&format=image&version=normal"
+    },
+    "end": 2557.24
+  },
+  {
+    "start": 2557.24,
+    "cardId": "f8966fd5-2926-4ba0-b7d6-cfea40cd4e05",
+    "cardName": "Earthbender Ascension",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Earthbender Ascension",
+      "manaCost": "{2}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, earthbend 2. Then search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\nLandfall — Whenever a land you control enters, put a quest counter on this enchantment. When you do, if it has four or more quest counters on it, put a +1/+1 counter on target creature you control. It gains trample until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Earthbender%20Ascension&format=image&version=normal"
+    },
+    "end": 2586.72
+  },
+  {
+    "start": 2586.72,
+    "cardId": "776341cb-d2ec-423f-9250-92dc8bd8d503",
+    "cardName": "Bitter Triumph",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bitter Triumph",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "As an additional cost to cast this spell, discard a card or pay 3 life.\nDestroy target creature or planeswalker.",
+      "image": "https://api.scryfall.com/cards/named?exact=Bitter%20Triumph&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "776341cb-d2ec-423f-9250-92dc8bd8d503",
+        "cardName": "Bitter Triumph",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Bitter Triumph",
+          "manaCost": "{1}{B}",
+          "typeLine": "Instant",
+          "oracleText": "As an additional cost to cast this spell, discard a card or pay 3 life.\nDestroy target creature or planeswalker.",
+          "image": "https://api.scryfall.com/cards/named?exact=Bitter%20Triumph&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "2038138e-2e52-41e4-90fc-443fa054c5c0",
+        "cardName": "Shoot the Sheriff",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Shoot the Sheriff",
+          "manaCost": "{1}{B}",
+          "typeLine": "Instant",
+          "oracleText": "Destroy target non-outlaw creature. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Everyone else is fair game.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Shoot%20the%20Sheriff&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2621.2
+  },
+  {
+    "start": 2621.2,
+    "cardId": "522dd417-364b-44ab-8ca9-fb55db5f26a6",
+    "cardName": "Get Lost",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Get Lost",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature, enchantment, or planeswalker. Its controller creates two Map tokens. (They're artifacts with \"{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Get%20Lost&format=image&version=normal"
+    },
+    "end": 2664.46
+  },
+  {
+    "start": 2664.46,
+    "cardId": "522dd417-364b-44ab-8ca9-fb55db5f26a6",
+    "cardName": "Get Lost",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Get Lost",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature, enchantment, or planeswalker. Its controller creates two Map tokens. (They're artifacts with \"{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Get%20Lost&format=image&version=normal"
+    },
+    "end": 2675.98
+  },
+  {
+    "start": 2675.98,
+    "cardId": "2e467fab-e808-44d3-99bf-e3621baeb7cb",
+    "cardName": "Erode",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Erode",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature or planeswalker. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Erode&format=image&version=normal"
+    },
+    "end": 2835.8
+  },
+  {
+    "start": 2835.8,
+    "cardId": "59e7f2ae-4535-4191-98be-3e65b6b2befa",
+    "cardName": "Doom Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doom%20Blade&format=image&version=normal"
+    },
+    "end": 2893.18
+  },
+  {
+    "start": 2893.18,
+    "cardId": "a139eb7f-3853-490c-a839-35d0e5aed7b5",
+    "cardName": "Enlightened Confidant",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Enlightened Confidant",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Kor Cleric",
+      "oracleText": "Lifelink\nAt the beginning of your end step, if you gained life this turn, surveil 1. If you put a card with mana value less than or equal to the amount of life you gained this turn into your graveyard this way, put that card into your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Enlightened%20Confidant&format=image&version=normal"
+    },
+    "end": 3039.9
+  },
+  {
+    "start": 3039.9,
+    "cardId": "0d8730b5-f7ba-48b0-928d-d8b7685347d3",
+    "cardName": "Case of the Uneaten Feast",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Case of the Uneaten Feast",
+      "manaCost": "{W}",
+      "typeLine": "Enchantment — Case",
+      "oracleText": "Whenever a creature you control enters, you gain 1 life.\nTo solve — You've gained 5 or more life this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — Sacrifice this Case: Creature cards in your graveyard gain \"You may cast this card from your graveyard\" until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Case%20of%20the%20Uneaten%20Feast&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "0d8730b5-f7ba-48b0-928d-d8b7685347d3",
+        "cardName": "Case of the Uneaten Feast",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Case of the Uneaten Feast",
+          "manaCost": "{W}",
+          "typeLine": "Enchantment — Case",
+          "oracleText": "Whenever a creature you control enters, you gain 1 life.\nTo solve — You've gained 5 or more life this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — Sacrifice this Case: Creature cards in your graveyard gain \"You may cast this card from your graveyard\" until end of turn.",
+          "image": "https://api.scryfall.com/cards/named?exact=Case%20of%20the%20Uneaten%20Feast&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "cb68d1e4-36aa-4a00-b671-8959e7d526d4",
+        "cardName": "Lunar Convocation",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Lunar Convocation",
+          "manaCost": "{W}{B}",
+          "typeLine": "Enchantment",
+          "oracleText": "At the beginning of your end step, if you gained life this turn, each opponent loses 1 life.\nAt the beginning of your end step, if you gained and lost life this turn, create a 1/1 black Bat creature token with flying.\n{1}{B}, Pay 2 life: Draw a card.",
+          "image": "https://api.scryfall.com/cards/named?exact=Lunar%20Convocation&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 3055.98
+  },
+  {
+    "start": 3055.98,
+    "cardId": "fcb7c93c-46ab-49b5-a6e0-35d73f3be8f0",
+    "cardName": "Screaming Nemesis",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Screaming Nemesis",
+      "manaCost": "{2}{R}",
+      "typeLine": "Creature — Spirit",
+      "oracleText": "Haste\nWhenever this creature is dealt damage, it deals that much damage to any other target. If a player is dealt damage this way, they can't gain life for the rest of the game.",
+      "image": "https://api.scryfall.com/cards/named?exact=Screaming%20Nemesis&format=image&version=normal"
+    },
+    "end": 3558.72
+  },
+  {
+    "start": 3558.72,
+    "cardId": "c387f46f-ad91-4964-8dc6-acefe537fe3c",
+    "cardName": "Unsubstantiate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Unsubstantiate",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Return target spell or creature to its owner's hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Unsubstantiate&format=image&version=normal"
+    },
+    "end": 3639.54
+  },
+  {
+    "start": 3639.54,
+    "cardId": "f34b9bc4-7bfe-47fd-ba23-4eeeb46026eb",
+    "cardName": "Lightning Strike",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Strike",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Strike deals 3 damage to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Strike&format=image&version=normal"
+    },
+    "end": 3659.84
+  },
+  {
+    "start": 3659.84,
+    "cardId": "a1a49639-bcc4-4522-8862-c9fb13d40880",
+    "cardName": "Selesnya Charm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Selesnya Charm",
+      "manaCost": "{G}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one —\n• Target creature gets +2/+2 and gains trample until end of turn.\n• Exile target creature with power 5 or greater.\n• Create a 2/2 white Knight creature token with vigilance.",
+      "image": "https://api.scryfall.com/cards/named?exact=Selesnya%20Charm&format=image&version=normal"
+    },
+    "end": 3715.96
+  },
+  {
+    "start": 3715.96,
+    "cardId": "f34b9bc4-7bfe-47fd-ba23-4eeeb46026eb",
+    "cardName": "Lightning Strike",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Strike",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Strike deals 3 damage to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Strike&format=image&version=normal"
+    },
+    "end": 3743.72
+  },
+  {
+    "start": 3743.72,
+    "cardId": "7fd61a18-6e4f-40c5-aa00-3d101ec1ec82",
+    "cardName": "Stitcher's Supplier",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Stitcher's Supplier",
+      "manaCost": "{B}",
+      "typeLine": "Creature — Zombie",
+      "oracleText": "When this creature enters or dies, mill three cards. (Put the top three cards of your library into your graveyard.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Stitcher's%20Supplier&format=image&version=normal"
+    },
+    "end": 3809.06
+  },
+  {
+    "start": 3809.06,
+    "cardId": "45900b2f-f6a9-4c42-9642-008f3c1cf6dd",
+    "cardName": "Tarmogoyf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://api.scryfall.com/cards/named?exact=Tarmogoyf&format=image&version=normal"
+    }
+  }
+]

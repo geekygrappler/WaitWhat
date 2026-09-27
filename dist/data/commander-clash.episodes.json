@@ -19,7 +19,8 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/5822e0d3-7f1a-4049-b34f-759a9c94686f/commander_clash_podcast_269_colorless_cards_for_every_deck.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
+    "cueSheet": "./data/these-cards-go-in-literally-every-deck.cues.json",
+    "processed": true,
     "source": "MTGGoldfish Commander Clash Podcast RSS"
   },
   {
@@ -30,7 +31,8 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/2658567c-82a7-457b-83e7-b758a5e631f8/commander_clash_podcast_268_elves_tier_list.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
+    "cueSheet": "./data/elves-tier-list.cues.json",
+    "processed": true,
     "source": "MTGGoldfish Commander Clash Podcast RSS"
   },
   {
@@ -41,7 +43,8 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/189e1e74-c325-4671-9f58-6042807de3ee/commander_clash_podcast_267_sleeper_cards.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
+    "cueSheet": "./data/sleeper-cards.cues.json",
+    "processed": true,
     "source": "MTGGoldfish Commander Clash Podcast RSS"
   },
   {
@@ -52,7 +55,8 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/6909913b-0e2b-491a-bf44-ae73b7bf5cea/commander_clash_podcast_266_we_rank_all_protection_spells.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
+    "cueSheet": "./data/we-rank-all-protection-spells.cues.json",
+    "processed": true,
     "source": "MTGGoldfish Commander Clash Podcast RSS"
   },
   {

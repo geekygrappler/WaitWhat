@@ -1,0 +1,29 @@
+[
+  {
+    "transcriptName": "Purge Protection",
+    "starts": [
+      283.08,
+      739.9,
+      2041.08,
+      2091.18
+    ],
+    "reason": "The card is named clearly, but it is absent from the local AtomicCards catalogue; the matcher only emitted the unrelated one-word card Purge.",
+    "resolvedName": "https://scryfall.com/card/plst/BLC-11/perch-protection",
+    "resolvedAt": "2026-09-27T18:36:17.546Z",
+    "resolvedCardName": "Perch Protection",
+    "resolvedCardId": "295fe873-ecb5-4d5e-a73c-3af6c478afc5"
+  },
+  {
+    "transcriptName": "Wrap in Vigor",
+    "starts": [
+      3828.24,
+      3838.6,
+      3862.56
+    ],
+    "reason": "Whisper rendered the name as 'Rappin/warpin Vigor'; exact matching emitted the unrelated card Vigor rather than Wrap in Vigor.",
+    "resolvedName": "https://scryfall.com/card/cns/183/wrap-in-vigor",
+    "resolvedAt": "2026-09-27T18:36:49.279Z",
+    "resolvedCardName": "Wrap in Vigor",
+    "resolvedCardId": "39da2aa8-f4d9-44f6-a446-488beaec821f"
+  }
+]

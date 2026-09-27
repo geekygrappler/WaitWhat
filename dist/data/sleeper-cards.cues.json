@@ -1,0 +1,967 @@
+[
+  {
+    "start": 37.96,
+    "cardId": "f92c2d47-f2f7-43d9-acf3-0145bad1977d",
+    "cardName": "Fade Away",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fade Away",
+      "manaCost": "{2}{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "For each creature, its controller sacrifices a permanent of their choice unless they pay {1}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fade%20Away&format=image&version=normal"
+    },
+    "end": 510.56
+  },
+  {
+    "start": 510.56,
+    "cardId": "08c59e5e-d01c-49b7-a812-8ea75e9e945d",
+    "cardName": "Princess Yue",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Princess Yue",
+      "manaCost": "{2}{U}",
+      "typeLine": "Legendary Creature — Human Noble Ally",
+      "oracleText": "When Princess Yue dies, if she was a nonland creature, return this card to the battlefield tapped under your control. She's a land named Moon. She gains \"{T}: Add {C}.\" (She's still legendary.)\n{T}: Scry 2.",
+      "image": "https://api.scryfall.com/cards/named?exact=Princess%20Yue&format=image&version=normal"
+    },
+    "end": 598.12
+  },
+  {
+    "start": 598.12,
+    "cardId": "e30d5114-40d7-4dc5-8067-9c5e9625e097",
+    "cardName": "Contest of Claws",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Contest of Claws",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Target creature you control deals damage equal to its power to another target creature. If excess damage was dealt this way, discover X, where X is that excess damage. (Exile cards from the top of your library until you exile a nonland card with that mana value or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Contest%20of%20Claws&format=image&version=normal"
+    },
+    "end": 776.9
+  },
+  {
+    "start": 776.9,
+    "cardId": "071f5b4b-6a1e-4dc3-9c08-b79713191811",
+    "cardName": "Rocco, Street Chef",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rocco, Street Chef",
+      "manaCost": "{R}{G}{W}",
+      "typeLine": "Legendary Creature — Elf Druid",
+      "oracleText": "At the beginning of your end step, each player exiles the top card of their library. Until your next end step, each player may play the card they exiled this way.\nWhenever a player plays a land from exile or casts a spell from exile, you put a +1/+1 counter on target creature and create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Rocco%2C%20Street%20Chef&format=image&version=normal"
+    },
+    "end": 838.2
+  },
+  {
+    "start": 838.2,
+    "cardId": "4b1befff-48fa-47a3-832e-bdaf43495c02",
+    "cardName": "Ram Through",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ram Through",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Target creature you control deals damage equal to its power to target creature you don't control. If the creature you control has trample, excess damage is dealt to that creature's controller instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ram%20Through&format=image&version=normal"
+    },
+    "end": 1010.08
+  },
+  {
+    "start": 1010.08,
+    "cardId": "cd2791e8-0b61-49b8-8b72-ff2737df1049",
+    "cardName": "Vanishing",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Vanishing",
+      "manaCost": "{U}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\n{U}{U}: Enchanted creature phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during their next untap step.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Vanishing&format=image&version=normal"
+    },
+    "end": 1216.72
+  },
+  {
+    "start": 1216.72,
+    "cardId": "5912546a-acc2-448c-b042-64bdac5ec129",
+    "cardName": "Mind Control",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mind Control",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nYou control enchanted creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mind%20Control&format=image&version=normal"
+    },
+    "end": 1316.24
+  },
+  {
+    "start": 1316.24,
+    "cardId": "5912546a-acc2-448c-b042-64bdac5ec129",
+    "cardName": "Mind Control",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mind Control",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nYou control enchanted creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mind%20Control&format=image&version=normal"
+    },
+    "end": 1406.4
+  },
+  {
+    "start": 1406.4,
+    "cardId": "bccd8298-e056-4b91-b090-408c75467b92",
+    "cardName": "Ritual of the Machine",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ritual of the Machine",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nGain control of target nonartifact, nonblack creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ritual%20of%20the%20Machine&format=image&version=normal"
+    },
+    "end": 1446.84
+  },
+  {
+    "start": 1446.84,
+    "cardId": "cd0d7141-46d2-4aa3-bc77-6b3b4513803e",
+    "cardName": "Control Magic",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Control Magic",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nYou control enchanted creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Control%20Magic&format=image&version=normal"
+    },
+    "end": 1507.92
+  },
+  {
+    "start": 1507.92,
+    "cardId": "5912546a-acc2-448c-b042-64bdac5ec129",
+    "cardName": "Mind Control",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mind Control",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nYou control enchanted creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mind%20Control&format=image&version=normal"
+    },
+    "end": 1577.06
+  },
+  {
+    "start": 1577.06,
+    "cardId": "e3174070-542f-429e-9149-b572f6614537",
+    "cardName": "Soldevi Adnate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Soldevi Adnate",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "{T}, Sacrifice a black or artifact creature: Add an amount of {B} equal to the sacrificed creature's mana value.",
+      "image": "https://api.scryfall.com/cards/named?exact=Soldevi%20Adnate&format=image&version=normal"
+    },
+    "end": 1715.1
+  },
+  {
+    "start": 1715.1,
+    "cardId": "1bd584d5-4e11-428c-b51e-462e4292b07f",
+    "cardName": "Bygone Colossus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bygone Colossus",
+      "manaCost": "{9}",
+      "typeLine": "Artifact Creature — Robot Giant",
+      "oracleText": "Warp {3} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Bygone%20Colossus&format=image&version=normal"
+    },
+    "end": 1868.64
+  },
+  {
+    "start": 1868.64,
+    "cardId": "ca9f9017-c952-4e89-b284-02396e6be0af",
+    "cardName": "Sand Scout",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sand Scout",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Human Scout",
+      "oracleText": "When this creature enters, if an opponent controls more lands than you, search your library for a Desert card, put it onto the battlefield tapped, then shuffle.\nWhenever one or more land cards are put into your graveyard from anywhere, create a 1/1 red, green, and white Sand Warrior creature token. This ability triggers only once each turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sand%20Scout&format=image&version=normal"
+    },
+    "end": 1889.18
+  },
+  {
+    "start": 1889.18,
+    "cardId": "3be3d7e6-7860-438a-b8c8-ef154c18c163",
+    "cardName": "Arid Archway",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arid Archway",
+      "typeLine": "Land — Desert",
+      "oracleText": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand. If another Desert was returned this way, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\n{T}: Add {C}{C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Arid%20Archway&format=image&version=normal"
+    },
+    "end": 1916.56
+  },
+  {
+    "start": 1916.56,
+    "cardId": "e30d5114-40d7-4dc5-8067-9c5e9625e097",
+    "cardName": "Contest of Claws",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Contest of Claws",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Target creature you control deals damage equal to its power to another target creature. If excess damage was dealt this way, discover X, where X is that excess damage. (Exile cards from the top of your library until you exile a nonland card with that mana value or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Contest%20of%20Claws&format=image&version=normal"
+    },
+    "end": 1925.74
+  },
+  {
+    "start": 1925.74,
+    "cardId": "8539f295-5d58-4436-a73a-b9277c4c7795",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rampant%20Growth&format=image&version=normal"
+    },
+    "end": 1931.34
+  },
+  {
+    "start": 1931.34,
+    "cardId": "3be3d7e6-7860-438a-b8c8-ef154c18c163",
+    "cardName": "Arid Archway",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arid Archway",
+      "typeLine": "Land — Desert",
+      "oracleText": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand. If another Desert was returned this way, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\n{T}: Add {C}{C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Arid%20Archway&format=image&version=normal"
+    },
+    "end": 2122.44
+  },
+  {
+    "start": 2122.44,
+    "cardId": "852d4dc3-404d-4565-99e9-1eac8f6eca5e",
+    "cardName": "Desert of the Indomitable",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Desert of the Indomitable",
+      "typeLine": "Land — Desert",
+      "oracleText": "This land enters tapped.\n{T}: Add {G}.\nCycling {1}{G} ({1}{G}, Discard this card: Draw a card.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Desert%20of%20the%20Indomitable&format=image&version=normal"
+    },
+    "end": 2171.5
+  },
+  {
+    "start": 2171.5,
+    "cardId": "97407cd0-2bd2-4074-94d3-4ec3d243fa78",
+    "cardName": "Rishkar's Expertise",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rishkar's Expertise",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Draw cards equal to the greatest power among creatures you control.\nYou may cast a spell with mana value 5 or less from your hand without paying its mana cost.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rishkar's%20Expertise&format=image&version=normal"
+    },
+    "end": 2368.78
+  },
+  {
+    "start": 2368.78,
+    "cardId": "a55ef412-257b-4ecd-9440-4545521be938",
+    "cardName": "Exchange of Words",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Exchange of Words",
+      "manaCost": "{1}{U}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, choose two target creatures. For as long as this enchantment remains on the battlefield, exchange the text boxes of those creatures.",
+      "image": "https://api.scryfall.com/cards/named?exact=Exchange%20of%20Words&format=image&version=normal"
+    },
+    "end": 2436.2
+  },
+  {
+    "start": 2436.2,
+    "cardId": "b175e826-09e8-4fae-9f2e-b902f95b282d",
+    "cardName": "The Mind Stone",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Mind Stone",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Artifact — Infinity Stone",
+      "oracleText": "Indestructible\n{T}: Add {W}.\n{5}{W}, {T}: Harness The Mind Stone. (Once harnessed, its ∞ ability is active.)\n∞ — At the beginning of your end step, exile up to one other target nonland permanent you control, then return that card to the battlefield under its owner's control.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Mind%20Stone&format=image&version=normal"
+    },
+    "end": 2504
+  },
+  {
+    "start": 2504,
+    "cardId": "07a0cba9-8768-4fd9-a3d5-b0f83b4bf8e8",
+    "cardName": "Chaos Warp",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chaos Warp",
+      "manaCost": "{2}{R}",
+      "typeLine": "Instant",
+      "oracleText": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Chaos%20Warp&format=image&version=normal"
+    },
+    "end": 2535.86
+  },
+  {
+    "start": 2535.86,
+    "cardId": "a55ef412-257b-4ecd-9440-4545521be938",
+    "cardName": "Exchange of Words",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Exchange of Words",
+      "manaCost": "{1}{U}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, choose two target creatures. For as long as this enchantment remains on the battlefield, exchange the text boxes of those creatures.",
+      "image": "https://api.scryfall.com/cards/named?exact=Exchange%20of%20Words&format=image&version=normal"
+    },
+    "end": 2736.2
+  },
+  {
+    "start": 2736.2,
+    "cardId": "591edddc-3736-44cf-9719-117c24ff3980",
+    "cardName": "Make an Example",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Make an Example",
+      "manaCost": "{3}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each opponent separates the creatures they control into two piles. For each opponent, you choose one of their piles. Each opponent sacrifices the creatures in their chosen pile. (Piles can be empty.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Make%20an%20Example&format=image&version=normal"
+    },
+    "end": 2861.36
+  },
+  {
+    "start": 2861.36,
+    "cardId": "d57a8f0b-7989-4db5-8756-6f2690097252",
+    "cardName": "Damnation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Damnation",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy all creatures. They can't be regenerated.",
+      "image": "https://api.scryfall.com/cards/named?exact=Damnation&format=image&version=normal"
+    },
+    "end": 2943.28
+  },
+  {
+    "start": 2943.28,
+    "cardId": "71faaee5-70ff-449c-85c8-560eb189a0a7",
+    "cardName": "Unexplained Absence",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Unexplained Absence",
+      "manaCost": "{3}{W}",
+      "typeLine": "Instant",
+      "oracleText": "For each player, exile up to one target nonland permanent that player controls. For each permanent exiled this way, its controller cloaks the top card of their library. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Unexplained%20Absence&format=image&version=normal"
+    },
+    "end": 2975.3
+  },
+  {
+    "start": 2975.3,
+    "cardId": "4ce156f8-6b0b-41ce-9e8f-b2735c757406",
+    "cardName": "Flare of Malice",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flare of Malice",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Instant",
+      "oracleText": "You may sacrifice a nontoken black creature rather than pay this spell's mana cost.\nEach opponent sacrifices a creature or planeswalker with the greatest mana value among creatures and planeswalkers they control.",
+      "image": "https://cards.scryfall.io/normal/front/1/9/19efb9ce-62eb-4cbf-b01e-979f3fd09ba6.jpg?1783911280"
+    },
+    "end": 3015.02
+  },
+  {
+    "start": 3015.02,
+    "cardId": "f92c2d47-f2f7-43d9-acf3-0145bad1977d",
+    "cardName": "Fade Away",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fade Away",
+      "manaCost": "{2}{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "For each creature, its controller sacrifices a permanent of their choice unless they pay {1}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fade%20Away&format=image&version=normal"
+    },
+    "end": 3057.16
+  },
+  {
+    "start": 3057.16,
+    "cardId": "d2605782-09f1-4d52-b3e7-5ec1442bd9b5",
+    "cardName": "Micromancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Micromancer",
+      "manaCost": "{3}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, you may search your library for an instant or sorcery card with mana value 1, reveal it, put it into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Micromancer&format=image&version=normal"
+    },
+    "end": 3086.48
+  },
+  {
+    "start": 3086.48,
+    "cardId": "0fd57894-b917-41c8-a394-360d1d31b236",
+    "cardName": "Ephemerate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ephemerate",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature you control, then return it to the battlefield under its owner's control.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Ephemerate&format=image&version=normal"
+    },
+    "end": 3089.06
+  },
+  {
+    "start": 3089.06,
+    "cardId": "b1544f21-7e98-461b-aed5-e748b0168c52",
+    "cardName": "Swords to Plowshares",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swords to Plowshares",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+      "image": "https://api.scryfall.com/cards/named?exact=Swords%20to%20Plowshares&format=image&version=normal"
+    },
+    "end": 3090.5
+  },
+  {
+    "start": 3090.5,
+    "cardId": "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b",
+    "cardName": "Dark Ritual",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dark Ritual",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Add {B}{B}{B}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Dark%20Ritual&format=image&version=normal"
+    },
+    "end": 3100.28
+  },
+  {
+    "start": 3100.28,
+    "cardId": "282dfeaa-6243-4f92-838a-5cb54fa85184",
+    "cardName": "Three Steps Ahead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Three Steps Ahead",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Spree (Choose one or more additional costs.)\n+ {1}{U} — Counter target spell.\n+ {3} — Create a token that's a copy of target artifact or creature you control.\n+ {2} — Draw two cards, then discard a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Three%20Steps%20Ahead&format=image&version=normal"
+    },
+    "end": 3139.18
+  },
+  {
+    "start": 3139.18,
+    "cardId": "0fd57894-b917-41c8-a394-360d1d31b236",
+    "cardName": "Ephemerate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ephemerate",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature you control, then return it to the battlefield under its owner's control.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Ephemerate&format=image&version=normal"
+    },
+    "end": 3151.34
+  },
+  {
+    "start": 3151.34,
+    "cardId": "47a785ed-8095-4685-8daa-02c4e2b0ffcd",
+    "cardName": "Spellseeker",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spellseeker",
+      "manaCost": "{2}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, you may search your library for an instant or sorcery card with mana value 2 or less, reveal it, put it into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spellseeker&format=image&version=normal"
+    },
+    "end": 3158.84
+  },
+  {
+    "start": 3158.84,
+    "cardId": "c5229c17-b7be-4b05-b683-f2277edc4849",
+    "cardName": "Enlightened Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Enlightened Tutor",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.",
+      "image": "https://api.scryfall.com/cards/named?exact=Enlightened%20Tutor&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "c5229c17-b7be-4b05-b683-f2277edc4849",
+        "cardName": "Enlightened Tutor",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Enlightened Tutor",
+          "manaCost": "{W}",
+          "typeLine": "Instant",
+          "oracleText": "Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.",
+          "image": "https://api.scryfall.com/cards/named?exact=Enlightened%20Tutor&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "fb81f95c-70f8-4eb7-8d15-15d0ae23ec03",
+        "cardName": "Mystical Tutor",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Mystical Tutor",
+          "manaCost": "{U}",
+          "typeLine": "Instant",
+          "oracleText": "Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.",
+          "image": "https://api.scryfall.com/cards/named?exact=Mystical%20Tutor&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 3179.98
+  },
+  {
+    "start": 3179.98,
+    "cardId": "36cd2364-d113-47d1-b2c4-b088d9eb88dd",
+    "cardName": "Brainstorm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Brainstorm",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Draw three cards, then put two cards from your hand on top of your library in any order.",
+      "image": "https://api.scryfall.com/cards/named?exact=Brainstorm&format=image&version=normal"
+    },
+    "end": 3208.04
+  },
+  {
+    "start": 3208.04,
+    "cardId": "d2605782-09f1-4d52-b3e7-5ec1442bd9b5",
+    "cardName": "Micromancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Micromancer",
+      "manaCost": "{3}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, you may search your library for an instant or sorcery card with mana value 1, reveal it, put it into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Micromancer&format=image&version=normal"
+    },
+    "end": 3225.84
+  },
+  {
+    "start": 3225.84,
+    "cardId": "282dfeaa-6243-4f92-838a-5cb54fa85184",
+    "cardName": "Three Steps Ahead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Three Steps Ahead",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Spree (Choose one or more additional costs.)\n+ {1}{U} — Counter target spell.\n+ {3} — Create a token that's a copy of target artifact or creature you control.\n+ {2} — Draw two cards, then discard a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Three%20Steps%20Ahead&format=image&version=normal"
+    },
+    "end": 3259.36
+  },
+  {
+    "start": 3259.36,
+    "cardId": "8b755881-a72d-4e21-a369-d2924eb4585a",
+    "cardName": "Cultivate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cultivate",
+      "manaCost": "{2}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Cultivate&format=image&version=normal"
+    },
+    "end": 3290.08
+  },
+  {
+    "start": 3290.08,
+    "cardId": "b1544f21-7e98-461b-aed5-e748b0168c52",
+    "cardName": "Swords to Plowshares",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swords to Plowshares",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+      "image": "https://api.scryfall.com/cards/named?exact=Swords%20to%20Plowshares&format=image&version=normal"
+    },
+    "end": 3291.34
+  },
+  {
+    "start": 3291.34,
+    "cardId": "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b",
+    "cardName": "Dark Ritual",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dark Ritual",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Add {B}{B}{B}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Dark%20Ritual&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b",
+        "cardName": "Dark Ritual",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Dark Ritual",
+          "manaCost": "{B}",
+          "typeLine": "Instant",
+          "oracleText": "Add {B}{B}{B}.",
+          "image": "https://api.scryfall.com/cards/named?exact=Dark%20Ritual&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "0728b195-2dfe-4d73-91ae-e658a97b0b9a",
+        "cardName": "Hard Evidence",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Hard Evidence",
+          "manaCost": "{U}",
+          "typeLine": "Sorcery",
+          "oracleText": "Create a 0/3 blue Crab creature token.\nInvestigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+          "image": "https://api.scryfall.com/cards/named?exact=Hard%20Evidence&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 3300.78
+  },
+  {
+    "start": 3300.78,
+    "cardId": "28b46183-c62f-47b1-9fee-3ba148202cab",
+    "cardName": "Crop Rotation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Crop Rotation",
+      "manaCost": "{G}",
+      "typeLine": "Instant",
+      "oracleText": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for a land card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Crop%20Rotation&format=image&version=normal"
+    },
+    "end": 3303.06
+  },
+  {
+    "start": 3303.06,
+    "cardId": "debc69ea-372a-4720-838a-16856cd50b07",
+    "cardName": "March of Swirling Mist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "March of Swirling Mist",
+      "manaCost": "{X}{U}",
+      "typeLine": "Instant",
+      "oracleText": "As an additional cost to cast this spell, you may exile any number of blue cards from your hand. This spell costs {2} less to cast for each card exiled this way.\nUp to X target creatures phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during their next untap step.)",
+      "image": "https://api.scryfall.com/cards/named?exact=March%20of%20Swirling%20Mist&format=image&version=normal"
+    },
+    "end": 3304.98
+  },
+  {
+    "start": 3304.98,
+    "cardId": "282dfeaa-6243-4f92-838a-5cb54fa85184",
+    "cardName": "Three Steps Ahead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Three Steps Ahead",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Spree (Choose one or more additional costs.)\n+ {1}{U} — Counter target spell.\n+ {3} — Create a token that's a copy of target artifact or creature you control.\n+ {2} — Draw two cards, then discard a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Three%20Steps%20Ahead&format=image&version=normal"
+    },
+    "end": 3306.8
+  },
+  {
+    "start": 3306.8,
+    "cardId": "82506e51-3fe1-446f-83c9-69e67583cefc",
+    "cardName": "Slip Out the Back",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Slip Out the Back",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Put a +1/+1 counter on target creature. It phases out. (Treat it and anything attached to it as though they don't exist until its controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Slip%20Out%20the%20Back&format=image&version=normal"
+    },
+    "end": 3307.84
+  },
+  {
+    "start": 3307.84,
+    "cardId": "05849bd6-8f38-4031-be2b-e2aa03beb8cc",
+    "cardName": "Pongify",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Pongify",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature. It can't be regenerated. Its controller creates a 3/3 green Ape creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Pongify&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "05849bd6-8f38-4031-be2b-e2aa03beb8cc",
+        "cardName": "Pongify",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Pongify",
+          "manaCost": "{U}",
+          "typeLine": "Instant",
+          "oracleText": "Destroy target creature. It can't be regenerated. Its controller creates a 3/3 green Ape creature token.",
+          "image": "https://api.scryfall.com/cards/named?exact=Pongify&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "dc671205-f2fa-454f-9957-921a6069ad53",
+        "cardName": "High Tide",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "High Tide",
+          "manaCost": "{U}",
+          "typeLine": "Instant",
+          "oracleText": "Until end of turn, whenever a player taps an Island for mana, that player adds an additional {U}.",
+          "image": "https://api.scryfall.com/cards/named?exact=High%20Tide&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 3345.52
+  },
+  {
+    "start": 3345.52,
+    "cardId": "282dfeaa-6243-4f92-838a-5cb54fa85184",
+    "cardName": "Three Steps Ahead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Three Steps Ahead",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Spree (Choose one or more additional costs.)\n+ {1}{U} — Counter target spell.\n+ {3} — Create a token that's a copy of target artifact or creature you control.\n+ {2} — Draw two cards, then discard a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Three%20Steps%20Ahead&format=image&version=normal"
+    },
+    "end": 3353.18
+  },
+  {
+    "start": 3353.18,
+    "cardId": "8ddfc283-c9b4-41a5-af88-cf0068e986cc",
+    "cardName": "Swan Song",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swan Song",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying.",
+      "image": "https://api.scryfall.com/cards/named?exact=Swan%20Song&format=image&version=normal"
+    },
+    "end": 3375.78
+  },
+  {
+    "start": 3375.78,
+    "cardId": "d2605782-09f1-4d52-b3e7-5ec1442bd9b5",
+    "cardName": "Micromancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Micromancer",
+      "manaCost": "{3}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, you may search your library for an instant or sorcery card with mana value 1, reveal it, put it into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Micromancer&format=image&version=normal"
+    },
+    "end": 3407.7
+  },
+  {
+    "start": 3407.7,
+    "cardId": "32aee76a-e738-4898-985a-801d1cce15ea",
+    "cardName": "The Vision",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Vision",
+      "manaCost": "{4}",
+      "typeLine": "Legendary Artifact Creature — Robot Hero",
+      "oracleText": "Flying, vigilance\nWhenever you cast a noncreature spell, choose one that hasn't been chosen this turn —\n• Solar Beam — The Vision gains double strike until end of turn.\n• Density Control — The Vision gains indestructible until end of turn.\n• Technopathy — Draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Vision&format=image&version=normal"
+    },
+    "end": 3528.48
+  },
+  {
+    "start": 3528.48,
+    "cardId": "32aee76a-e738-4898-985a-801d1cce15ea",
+    "cardName": "The Vision",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Vision",
+      "manaCost": "{4}",
+      "typeLine": "Legendary Artifact Creature — Robot Hero",
+      "oracleText": "Flying, vigilance\nWhenever you cast a noncreature spell, choose one that hasn't been chosen this turn —\n• Solar Beam — The Vision gains double strike until end of turn.\n• Density Control — The Vision gains indestructible until end of turn.\n• Technopathy — Draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Vision&format=image&version=normal"
+    },
+    "end": 3572.88
+  },
+  {
+    "start": 3572.88,
+    "cardId": "32aee76a-e738-4898-985a-801d1cce15ea",
+    "cardName": "The Vision",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Vision",
+      "manaCost": "{4}",
+      "typeLine": "Legendary Artifact Creature — Robot Hero",
+      "oracleText": "Flying, vigilance\nWhenever you cast a noncreature spell, choose one that hasn't been chosen this turn —\n• Solar Beam — The Vision gains double strike until end of turn.\n• Density Control — The Vision gains indestructible until end of turn.\n• Technopathy — Draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Vision&format=image&version=normal"
+    },
+    "end": 3636.3
+  },
+  {
+    "start": 3636.3,
+    "cardId": "32aee76a-e738-4898-985a-801d1cce15ea",
+    "cardName": "The Vision",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Vision",
+      "manaCost": "{4}",
+      "typeLine": "Legendary Artifact Creature — Robot Hero",
+      "oracleText": "Flying, vigilance\nWhenever you cast a noncreature spell, choose one that hasn't been chosen this turn —\n• Solar Beam — The Vision gains double strike until end of turn.\n• Density Control — The Vision gains indestructible until end of turn.\n• Technopathy — Draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Vision&format=image&version=normal"
+    },
+    "end": 3859.16
+  },
+  {
+    "start": 3859.16,
+    "cardId": "63afc3d1-7653-476e-838f-fc18d4a62a21",
+    "cardName": "Mishra's Bauble",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mishra's Bauble",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Look at the top card of target player's library. Draw a card at the beginning of the next turn's upkeep.",
+      "image": "https://cards.scryfall.io/normal/front/4/5/45bbbf9b-8fee-4c32-a513-02dac6ac8a39.jpg?1783930102"
+    },
+    "end": 3868.74
+  },
+  {
+    "start": 3868.74,
+    "cardId": "8fcf50cd-e6d0-4516-850f-d42ee75dcc3a",
+    "cardName": "Expedition Map",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Expedition Map",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{2}, {T}, Sacrifice this artifact: Search your library for a land card, reveal it, put it into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Expedition%20Map&format=image&version=normal"
+    },
+    "end": 3883.78
+  },
+  {
+    "start": 3883.78,
+    "cardId": "2283e409-c6c7-4de9-899b-2b3caea5f35e",
+    "cardName": "Instant Ramen",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Instant Ramen",
+      "manaCost": "{2}",
+      "typeLine": "Artifact — Food",
+      "oracleText": "Flash\nWhen this artifact enters, draw a card.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Instant%20Ramen&format=image&version=normal"
+    },
+    "end": 3912.66
+  },
+  {
+    "start": 3912.66,
+    "cardId": "99678cc9-59c8-4358-b847-8c38ffb4a050",
+    "cardName": "Practiced Offense",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Practiced Offense",
+      "manaCost": "{2}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Put a +1/+1 counter on each creature target player controls. Target creature gains your choice of double strike or lifelink until end of turn.\nFlashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Practiced%20Offense&format=image&version=normal"
+    }
+  }
+]

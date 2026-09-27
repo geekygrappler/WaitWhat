@@ -1,0 +1,2223 @@
+[
+  {
+    "start": 283.08,
+    "cardId": "169a4a77-12ff-4997-9550-bdcd456aa2f7",
+    "cardName": "The Eagles Are Coming!",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Eagles Are Coming!",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Kicker {2}{W}{W} (You may pay an additional {2}{W}{W} as you cast this spell.)\nChoose target creature you own. If this spell was kicked, instead choose any number of target creatures you own. Return each chosen creature to your hand. At the beginning of the next upkeep, create a 4/4 white Bird Soldier creature token with flying for each creature returned to your hand this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Eagles%20Are%20Coming!&format=image&version=normal"
+    },
+    "end": 331.06,
+    "cards": [
+      {
+        "cardId": "169a4a77-12ff-4997-9550-bdcd456aa2f7",
+        "cardName": "The Eagles Are Coming!",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "The Eagles Are Coming!",
+          "manaCost": "{1}{W}",
+          "typeLine": "Instant",
+          "oracleText": "Kicker {2}{W}{W} (You may pay an additional {2}{W}{W} as you cast this spell.)\nChoose target creature you own. If this spell was kicked, instead choose any number of target creatures you own. Return each chosen creature to your hand. At the beginning of the next upkeep, create a 4/4 white Bird Soldier creature token with flying for each creature returned to your hand this way.",
+          "image": "https://api.scryfall.com/cards/named?exact=The%20Eagles%20Are%20Coming!&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "295fe873-ecb5-4d5e-a73c-3af6c478afc5",
+        "cardName": "Perch Protection",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Perch Protection",
+          "manaCost": "{4}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "Gift an extra turn (You may promise an opponent a gift as you cast this spell. If you do, they take an extra turn after this one.)\nCreate four 2/2 blue Bird creature tokens with flying. If the gift was promised, all permanents you control phase out, and until your next turn, your life total can't change and you gain protection from everything.\nExile Perch Protection.",
+          "image": "https://cards.scryfall.io/normal/front/f/3/f3afb862-c156-495b-a0df-4c4ed0bbc869.jpg?1787677318"
+        }
+      }
+    ]
+  },
+  {
+    "start": 331.06,
+    "cardId": "6bdc4996-f7d9-4dc4-b70a-aa63f6816b1d",
+    "cardName": "Glorious Protector",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Glorious Protector",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Creature — Angel Cleric",
+      "oracleText": "Flash\nFlying\nWhen this creature enters, you may exile any number of non-Angel creatures you control until this creature leaves the battlefield.\nForetell {2}{W}",
+      "image": "https://api.scryfall.com/cards/named?exact=Glorious%20Protector&format=image&version=normal"
+    },
+    "end": 362.16
+  },
+  {
+    "start": 362.16,
+    "cardId": "2679d0dd-ba30-4a1c-b6a0-b3ac6c790496",
+    "cardName": "Boros Charm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Boros Charm",
+      "manaCost": "{R}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one —\n• Boros Charm deals 4 damage to target player or planeswalker.\n• Permanents you control gain indestructible until end of turn.\n• Target creature gains double strike until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Boros%20Charm&format=image&version=normal"
+    },
+    "end": 378.84
+  },
+  {
+    "start": 378.84,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 413.56
+  },
+  {
+    "start": 413.56,
+    "cardId": "0d4ecdb1-ec90-497f-a7a4-1c68092b8757",
+    "cardName": "Teferi's Protection",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Teferi's Protection",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. (While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)\nExile Teferi's Protection.",
+      "image": "https://api.scryfall.com/cards/named?exact=Teferi's%20Protection&format=image&version=normal"
+    },
+    "end": 483.12
+  },
+  {
+    "start": 483.12,
+    "cardId": "169a4a77-12ff-4997-9550-bdcd456aa2f7",
+    "cardName": "The Eagles Are Coming!",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Eagles Are Coming!",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Kicker {2}{W}{W} (You may pay an additional {2}{W}{W} as you cast this spell.)\nChoose target creature you own. If this spell was kicked, instead choose any number of target creatures you own. Return each chosen creature to your hand. At the beginning of the next upkeep, create a 4/4 white Bird Soldier creature token with flying for each creature returned to your hand this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Eagles%20Are%20Coming!&format=image&version=normal"
+    },
+    "end": 508.28
+  },
+  {
+    "start": 508.28,
+    "cardId": "1e36a42f-58e2-49bc-8c14-7f75e1d8ef98",
+    "cardName": "Arcane Bombardment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arcane Bombardment",
+      "manaCost": "{4}{R}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever you cast your first instant or sorcery spell each turn, exile an instant or sorcery card at random from your graveyard. Then copy each card exiled with this enchantment. You may cast any number of the copies without paying their mana costs.",
+      "image": "https://api.scryfall.com/cards/named?exact=Arcane%20Bombardment&format=image&version=normal"
+    },
+    "end": 549.18
+  },
+  {
+    "start": 549.18,
+    "cardId": "0d4ecdb1-ec90-497f-a7a4-1c68092b8757",
+    "cardName": "Teferi's Protection",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Teferi's Protection",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. (While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)\nExile Teferi's Protection.",
+      "image": "https://api.scryfall.com/cards/named?exact=Teferi's%20Protection&format=image&version=normal"
+    },
+    "end": 556.32
+  },
+  {
+    "start": 556.32,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+        "cardName": "Clever Concealment",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Clever Concealment",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+        "cardName": "Flare of Fortitude",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Flare of Fortitude",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+          "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 559.2
+  },
+  {
+    "start": 559.2,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 572.22
+  },
+  {
+    "start": 572.22,
+    "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+    "cardName": "Flare of Fortitude",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flare of Fortitude",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+      "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+    },
+    "end": 595.16
+  },
+  {
+    "start": 595.16,
+    "cardId": "0d4ecdb1-ec90-497f-a7a4-1c68092b8757",
+    "cardName": "Teferi's Protection",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Teferi's Protection",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. (While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)\nExile Teferi's Protection.",
+      "image": "https://api.scryfall.com/cards/named?exact=Teferi's%20Protection&format=image&version=normal"
+    },
+    "end": 597.74
+  },
+  {
+    "start": 597.74,
+    "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+    "cardName": "Flare of Fortitude",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flare of Fortitude",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+      "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+    },
+    "end": 601.34
+  },
+  {
+    "start": 601.34,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+        "cardName": "Clever Concealment",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Clever Concealment",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+        "cardName": "Flare of Fortitude",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Flare of Fortitude",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+          "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 650.78
+  },
+  {
+    "start": 650.78,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 691.4
+  },
+  {
+    "start": 691.4,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 712.58
+  },
+  {
+    "start": 712.58,
+    "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+    "cardName": "Flare of Fortitude",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flare of Fortitude",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+      "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+    },
+    "end": 739.9
+  },
+  {
+    "start": 739.9,
+    "cardId": "295fe873-ecb5-4d5e-a73c-3af6c478afc5",
+    "cardName": "Perch Protection",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Perch Protection",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Gift an extra turn (You may promise an opponent a gift as you cast this spell. If you do, they take an extra turn after this one.)\nCreate four 2/2 blue Bird creature tokens with flying. If the gift was promised, all permanents you control phase out, and until your next turn, your life total can't change and you gain protection from everything.\nExile Perch Protection.",
+      "image": "https://cards.scryfall.io/normal/front/f/3/f3afb862-c156-495b-a0df-4c4ed0bbc869.jpg?1787677318"
+    },
+    "end": 740.96
+  },
+  {
+    "start": 740.96,
+    "cardId": "169a4a77-12ff-4997-9550-bdcd456aa2f7",
+    "cardName": "The Eagles Are Coming!",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Eagles Are Coming!",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Kicker {2}{W}{W} (You may pay an additional {2}{W}{W} as you cast this spell.)\nChoose target creature you own. If this spell was kicked, instead choose any number of target creatures you own. Return each chosen creature to your hand. At the beginning of the next upkeep, create a 4/4 white Bird Soldier creature token with flying for each creature returned to your hand this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Eagles%20Are%20Coming!&format=image&version=normal"
+    },
+    "end": 743.1
+  },
+  {
+    "start": 743.1,
+    "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+    "cardName": "Flare of Fortitude",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flare of Fortitude",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+      "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+    },
+    "end": 769.22
+  },
+  {
+    "start": 769.22,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 805.64
+  },
+  {
+    "start": 805.64,
+    "cardId": "4eb813fd-2d5a-4b02-8193-662681ef4e7d",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Farewell&format=image&version=normal"
+    },
+    "end": 822.12
+  },
+  {
+    "start": 822.12,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+        "cardName": "Clever Concealment",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Clever Concealment",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+        "cardName": "Flare of Fortitude",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Flare of Fortitude",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+          "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 899
+  },
+  {
+    "start": 899,
+    "cardId": "fd949f82-fc10-4e37-8aa9-6c7569fe3c55",
+    "cardName": "Akroma's Will",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Akroma's Will",
+      "manaCost": "{3}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Creatures you control gain flying, vigilance, and double strike until end of turn.\n• Creatures you control gain lifelink, indestructible, and protection from each color until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Akroma's%20Will&format=image&version=normal"
+    },
+    "end": 946.14
+  },
+  {
+    "start": 946.14,
+    "cardId": "fd949f82-fc10-4e37-8aa9-6c7569fe3c55",
+    "cardName": "Akroma's Will",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Akroma's Will",
+      "manaCost": "{3}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Creatures you control gain flying, vigilance, and double strike until end of turn.\n• Creatures you control gain lifelink, indestructible, and protection from each color until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Akroma's%20Will&format=image&version=normal"
+    },
+    "end": 1102.16
+  },
+  {
+    "start": 1102.16,
+    "cardId": "4e183439-17d2-47ff-9d99-5e22821d91e3",
+    "cardName": "Flawless Maneuver",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flawless Maneuver",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nCreatures you control gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Flawless%20Maneuver&format=image&version=normal"
+    },
+    "end": 1125.34
+  },
+  {
+    "start": 1125.34,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 1126.6
+  },
+  {
+    "start": 1126.6,
+    "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+    "cardName": "Flare of Fortitude",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flare of Fortitude",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+      "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+    },
+    "end": 1144.68
+  },
+  {
+    "start": 1144.68,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 1145.56
+  },
+  {
+    "start": 1145.56,
+    "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+    "cardName": "Flare of Fortitude",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flare of Fortitude",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+      "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+    },
+    "end": 1192.32
+  },
+  {
+    "start": 1192.32,
+    "cardId": "4e183439-17d2-47ff-9d99-5e22821d91e3",
+    "cardName": "Flawless Maneuver",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flawless Maneuver",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nCreatures you control gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Flawless%20Maneuver&format=image&version=normal"
+    },
+    "end": 1227.1599999999999
+  },
+  {
+    "start": 1227.1599999999999,
+    "cardId": "e3431dae-969c-4896-9f9e-a80e7bec4bdf",
+    "cardName": "Avatar's Wrath",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Avatar's Wrath",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose up to one target creature, then airbend all other creatures. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)\nUntil your next turn, your opponents can't cast spells from anywhere other than their hands.\nExile Avatar's Wrath.",
+      "image": "https://api.scryfall.com/cards/named?exact=Avatar's%20Wrath&format=image&version=normal"
+    },
+    "end": 1282.32
+  },
+  {
+    "start": 1282.32,
+    "cardId": "4eb813fd-2d5a-4b02-8193-662681ef4e7d",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Farewell&format=image&version=normal"
+    },
+    "end": 1369.58
+  },
+  {
+    "start": 1369.58,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+        "cardName": "Clever Concealment",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Clever Concealment",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+        "cardName": "Flare of Fortitude",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Flare of Fortitude",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+          "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1391.3999999999999
+  },
+  {
+    "start": 1391.3999999999999,
+    "cardId": "39213de3-6a4a-4879-a7f9-70f45013765e",
+    "cardName": "Everybody Lives!",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Everybody Lives!",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "All creatures gain hexproof and indestructible until end of turn. Players gain hexproof until end of turn. Players can't lose life this turn and players can't lose the game or win the game this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Everybody%20Lives!&format=image&version=normal"
+    },
+    "end": 1454.66
+  },
+  {
+    "start": 1454.66,
+    "cardId": "39213de3-6a4a-4879-a7f9-70f45013765e",
+    "cardName": "Everybody Lives!",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Everybody Lives!",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "All creatures gain hexproof and indestructible until end of turn. Players gain hexproof until end of turn. Players can't lose life this turn and players can't lose the game or win the game this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Everybody%20Lives!&format=image&version=normal"
+    },
+    "end": 1593.68
+  },
+  {
+    "start": 1593.68,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+        "cardName": "Clever Concealment",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Clever Concealment",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "e46d0b57-5eec-4ab6-b9a7-a5c5cc01cc34",
+        "cardName": "Galadriel's Dismissal",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Galadriel's Dismissal",
+          "manaCost": "{W}",
+          "typeLine": "Instant",
+          "oracleText": "Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)\nTarget creature phases out. If this spell was kicked, each creature target player controls phases out instead. (Treat phased-out creatures and anything attached to them as though they don't exist until their controller's next turn.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Galadriel's%20Dismissal&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1612.8
+  },
+  {
+    "start": 1612.8,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 1637.76
+  },
+  {
+    "start": 1637.76,
+    "cardId": "e46d0b57-5eec-4ab6-b9a7-a5c5cc01cc34",
+    "cardName": "Galadriel's Dismissal",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Galadriel's Dismissal",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)\nTarget creature phases out. If this spell was kicked, each creature target player controls phases out instead. (Treat phased-out creatures and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Galadriel's%20Dismissal&format=image&version=normal"
+    },
+    "end": 1644.42
+  },
+  {
+    "start": 1644.42,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 1648.18
+  },
+  {
+    "start": 1648.18,
+    "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+    "cardName": "Flare of Fortitude",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flare of Fortitude",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+      "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+    },
+    "end": 1717.3199999999997
+  },
+  {
+    "start": 1717.3199999999997,
+    "cardId": "ddbe0d17-5cac-417c-afc0-e4aebae83205",
+    "cardName": "Restoration Magic",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Restoration Magic",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Tiered (Choose one additional cost.)\n• Cure — {0} — Target permanent gains hexproof and indestructible until end of turn.\n• Cura — {1} — Target permanent gains hexproof and indestructible until end of turn. You gain 3 life.\n• Curaga — {3}{W} — Permanents you control gain hexproof and indestructible until end of turn. You gain 6 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Restoration%20Magic&format=image&version=normal"
+    },
+    "end": 1757.02
+  },
+  {
+    "start": 1757.02,
+    "cardId": "169a4a77-12ff-4997-9550-bdcd456aa2f7",
+    "cardName": "The Eagles Are Coming!",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Eagles Are Coming!",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Kicker {2}{W}{W} (You may pay an additional {2}{W}{W} as you cast this spell.)\nChoose target creature you own. If this spell was kicked, instead choose any number of target creatures you own. Return each chosen creature to your hand. At the beginning of the next upkeep, create a 4/4 white Bird Soldier creature token with flying for each creature returned to your hand this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Eagles%20Are%20Coming!&format=image&version=normal"
+    },
+    "end": 1854.36
+  },
+  {
+    "start": 1854.36,
+    "cardId": "a2ec1dd0-86c7-423d-b562-ed95b79bf8f7",
+    "cardName": "The Queen of Dale",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Queen of Dale",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Human Noble",
+      "oracleText": "Whenever an opponent casts their first noncreature spell each turn, you recruit. (Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Soldier creature token.)",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Queen%20of%20Dale&format=image&version=normal"
+    },
+    "end": 2012.1
+  },
+  {
+    "start": 2012.1,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 2013.28
+  },
+  {
+    "start": 2013.28,
+    "cardId": "169a4a77-12ff-4997-9550-bdcd456aa2f7",
+    "cardName": "The Eagles Are Coming!",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Eagles Are Coming!",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Kicker {2}{W}{W} (You may pay an additional {2}{W}{W} as you cast this spell.)\nChoose target creature you own. If this spell was kicked, instead choose any number of target creatures you own. Return each chosen creature to your hand. At the beginning of the next upkeep, create a 4/4 white Bird Soldier creature token with flying for each creature returned to your hand this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Eagles%20Are%20Coming!&format=image&version=normal"
+    },
+    "end": 2041.08
+  },
+  {
+    "start": 2041.08,
+    "cardId": "295fe873-ecb5-4d5e-a73c-3af6c478afc5",
+    "cardName": "Perch Protection",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Perch Protection",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Gift an extra turn (You may promise an opponent a gift as you cast this spell. If you do, they take an extra turn after this one.)\nCreate four 2/2 blue Bird creature tokens with flying. If the gift was promised, all permanents you control phase out, and until your next turn, your life total can't change and you gain protection from everything.\nExile Perch Protection.",
+      "image": "https://cards.scryfall.io/normal/front/f/3/f3afb862-c156-495b-a0df-4c4ed0bbc869.jpg?1787677318"
+    },
+    "end": 2091.18
+  },
+  {
+    "start": 2091.18,
+    "cardId": "295fe873-ecb5-4d5e-a73c-3af6c478afc5",
+    "cardName": "Perch Protection",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Perch Protection",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Gift an extra turn (You may promise an opponent a gift as you cast this spell. If you do, they take an extra turn after this one.)\nCreate four 2/2 blue Bird creature tokens with flying. If the gift was promised, all permanents you control phase out, and until your next turn, your life total can't change and you gain protection from everything.\nExile Perch Protection.",
+      "image": "https://cards.scryfall.io/normal/front/f/3/f3afb862-c156-495b-a0df-4c4ed0bbc869.jpg?1787677318"
+    },
+    "end": 2198.74
+  },
+  {
+    "start": 2198.74,
+    "cardId": "169a4a77-12ff-4997-9550-bdcd456aa2f7",
+    "cardName": "The Eagles Are Coming!",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Eagles Are Coming!",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Kicker {2}{W}{W} (You may pay an additional {2}{W}{W} as you cast this spell.)\nChoose target creature you own. If this spell was kicked, instead choose any number of target creatures you own. Return each chosen creature to your hand. At the beginning of the next upkeep, create a 4/4 white Bird Soldier creature token with flying for each creature returned to your hand this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Eagles%20Are%20Coming!&format=image&version=normal"
+    },
+    "end": 2251.56
+  },
+  {
+    "start": 2251.56,
+    "cardId": "8e04a5e0-e22c-430b-a39a-c9f38e16ea86",
+    "cardName": "Guardian of Faith",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guardian of Faith",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Spirit Knight",
+      "oracleText": "Flash\nVigilance\nWhen this creature enters, any number of other target creatures you control phase out. (Treat them and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Guardian%20of%20Faith&format=image&version=normal"
+    },
+    "end": 2265.96
+  },
+  {
+    "start": 2265.96,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 2285.5
+  },
+  {
+    "start": 2285.5,
+    "cardId": "8e04a5e0-e22c-430b-a39a-c9f38e16ea86",
+    "cardName": "Guardian of Faith",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guardian of Faith",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Spirit Knight",
+      "oracleText": "Flash\nVigilance\nWhen this creature enters, any number of other target creatures you control phase out. (Treat them and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Guardian%20of%20Faith&format=image&version=normal"
+    },
+    "end": 2357.1
+  },
+  {
+    "start": 2357.1,
+    "cardId": "71d785a9-ddc8-472e-a778-a551b444a4bd",
+    "cardName": "Selfless Spirit",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Selfless Spirit",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Spirit Cleric",
+      "oracleText": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Selfless%20Spirit&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "71d785a9-ddc8-472e-a778-a551b444a4bd",
+        "cardName": "Selfless Spirit",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Selfless Spirit",
+          "manaCost": "{1}{W}",
+          "typeLine": "Creature — Spirit Cleric",
+          "oracleText": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn.",
+          "image": "https://api.scryfall.com/cards/named?exact=Selfless%20Spirit&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "d72b57e5-1c6e-4f02-968f-7e2dd24f0d3c",
+        "cardName": "Boromir, Warden of the Tower",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Boromir, Warden of the Tower",
+          "manaCost": "{2}{W}",
+          "typeLine": "Legendary Creature — Human Soldier",
+          "oracleText": "Vigilance\nWhenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.\nSacrifice Boromir: Creatures you control gain indestructible until end of turn. The Ring tempts you.",
+          "image": "https://api.scryfall.com/cards/named?exact=Boromir%2C%20Warden%20of%20the%20Tower&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2359.62
+  },
+  {
+    "start": 2359.62,
+    "cardId": "eed5e0cc-8f88-4779-bf10-6a823c72df7f",
+    "cardName": "Spectacular Spider-Man",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spectacular Spider-Man",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Flash\n{1}: Spectacular Spider-Man gains flying until end of turn.\n{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spectacular%20Spider-Man&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "eed5e0cc-8f88-4779-bf10-6a823c72df7f",
+        "cardName": "Spectacular Spider-Man",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Spectacular Spider-Man",
+          "manaCost": "{1}{W}",
+          "typeLine": "Legendary Creature — Spider Human Hero",
+          "oracleText": "Flash\n{1}: Spectacular Spider-Man gains flying until end of turn.\n{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",
+          "image": "https://api.scryfall.com/cards/named?exact=Spectacular%20Spider-Man&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "71d785a9-ddc8-472e-a778-a551b444a4bd",
+        "cardName": "Selfless Spirit",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Selfless Spirit",
+          "manaCost": "{1}{W}",
+          "typeLine": "Creature — Spirit Cleric",
+          "oracleText": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn.",
+          "image": "https://api.scryfall.com/cards/named?exact=Selfless%20Spirit&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2375.18
+  },
+  {
+    "start": 2375.18,
+    "cardId": "8e04a5e0-e22c-430b-a39a-c9f38e16ea86",
+    "cardName": "Guardian of Faith",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guardian of Faith",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Spirit Knight",
+      "oracleText": "Flash\nVigilance\nWhen this creature enters, any number of other target creatures you control phase out. (Treat them and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Guardian%20of%20Faith&format=image&version=normal"
+    },
+    "end": 2383.94
+  },
+  {
+    "start": 2383.94,
+    "cardId": "eed5e0cc-8f88-4779-bf10-6a823c72df7f",
+    "cardName": "Spectacular Spider-Man",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spectacular Spider-Man",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Flash\n{1}: Spectacular Spider-Man gains flying until end of turn.\n{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spectacular%20Spider-Man&format=image&version=normal"
+    },
+    "end": 2388.36
+  },
+  {
+    "start": 2388.36,
+    "cardId": "8e04a5e0-e22c-430b-a39a-c9f38e16ea86",
+    "cardName": "Guardian of Faith",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guardian of Faith",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Spirit Knight",
+      "oracleText": "Flash\nVigilance\nWhen this creature enters, any number of other target creatures you control phase out. (Treat them and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Guardian%20of%20Faith&format=image&version=normal"
+    },
+    "end": 2393.16
+  },
+  {
+    "start": 2393.16,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 2416.6
+  },
+  {
+    "start": 2416.6,
+    "cardId": "71d785a9-ddc8-472e-a778-a551b444a4bd",
+    "cardName": "Selfless Spirit",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Selfless Spirit",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Spirit Cleric",
+      "oracleText": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Selfless%20Spirit&format=image&version=normal"
+    },
+    "end": 2424.24
+  },
+  {
+    "start": 2424.24,
+    "cardId": "b2e950fb-cb7e-40a0-a311-5bbdd0477b29",
+    "cardName": "Sun Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sun Titan",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sun%20Titan&format=image&version=normal"
+    },
+    "end": 2425.18
+  },
+  {
+    "start": 2425.18,
+    "cardId": "8e04a5e0-e22c-430b-a39a-c9f38e16ea86",
+    "cardName": "Guardian of Faith",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guardian of Faith",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Spirit Knight",
+      "oracleText": "Flash\nVigilance\nWhen this creature enters, any number of other target creatures you control phase out. (Treat them and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Guardian%20of%20Faith&format=image&version=normal"
+    },
+    "end": 2430.32
+  },
+  {
+    "start": 2430.32,
+    "cardId": "71d785a9-ddc8-472e-a778-a551b444a4bd",
+    "cardName": "Selfless Spirit",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Selfless Spirit",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Spirit Cleric",
+      "oracleText": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Selfless%20Spirit&format=image&version=normal"
+    },
+    "end": 2440.22
+  },
+  {
+    "start": 2440.22,
+    "cardId": "b2e950fb-cb7e-40a0-a311-5bbdd0477b29",
+    "cardName": "Sun Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sun Titan",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sun%20Titan&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "b2e950fb-cb7e-40a0-a311-5bbdd0477b29",
+        "cardName": "Sun Titan",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Sun Titan",
+          "manaCost": "{4}{W}{W}",
+          "typeLine": "Creature — Giant",
+          "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+          "image": "https://api.scryfall.com/cards/named?exact=Sun%20Titan&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "71d785a9-ddc8-472e-a778-a551b444a4bd",
+        "cardName": "Selfless Spirit",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Selfless Spirit",
+          "manaCost": "{1}{W}",
+          "typeLine": "Creature — Spirit Cleric",
+          "oracleText": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn.",
+          "image": "https://api.scryfall.com/cards/named?exact=Selfless%20Spirit&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "8e04a5e0-e22c-430b-a39a-c9f38e16ea86",
+        "cardName": "Guardian of Faith",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Guardian of Faith",
+          "manaCost": "{1}{W}{W}",
+          "typeLine": "Creature — Spirit Knight",
+          "oracleText": "Flash\nVigilance\nWhen this creature enters, any number of other target creatures you control phase out. (Treat them and anything attached to them as though they don't exist until their controller's next turn.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Guardian%20of%20Faith&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2452.82
+  },
+  {
+    "start": 2452.82,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 2460
+  },
+  {
+    "start": 2460,
+    "cardId": "8e04a5e0-e22c-430b-a39a-c9f38e16ea86",
+    "cardName": "Guardian of Faith",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guardian of Faith",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Spirit Knight",
+      "oracleText": "Flash\nVigilance\nWhen this creature enters, any number of other target creatures you control phase out. (Treat them and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Guardian%20of%20Faith&format=image&version=normal"
+    },
+    "end": 2465.74
+  },
+  {
+    "start": 2465.74,
+    "cardId": "71d785a9-ddc8-472e-a778-a551b444a4bd",
+    "cardName": "Selfless Spirit",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Selfless Spirit",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Spirit Cleric",
+      "oracleText": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Selfless%20Spirit&format=image&version=normal"
+    },
+    "end": 2474.86
+  },
+  {
+    "start": 2474.86,
+    "cardId": "8e04a5e0-e22c-430b-a39a-c9f38e16ea86",
+    "cardName": "Guardian of Faith",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guardian of Faith",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Spirit Knight",
+      "oracleText": "Flash\nVigilance\nWhen this creature enters, any number of other target creatures you control phase out. (Treat them and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Guardian%20of%20Faith&format=image&version=normal"
+    },
+    "end": 2481.74
+  },
+  {
+    "start": 2481.74,
+    "cardId": "71d785a9-ddc8-472e-a778-a551b444a4bd",
+    "cardName": "Selfless Spirit",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Selfless Spirit",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Spirit Cleric",
+      "oracleText": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Selfless%20Spirit&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "71d785a9-ddc8-472e-a778-a551b444a4bd",
+        "cardName": "Selfless Spirit",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Selfless Spirit",
+          "manaCost": "{1}{W}",
+          "typeLine": "Creature — Spirit Cleric",
+          "oracleText": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn.",
+          "image": "https://api.scryfall.com/cards/named?exact=Selfless%20Spirit&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "9d2460c3-8eeb-4f35-b6f6-748c478664c7",
+        "cardName": "Enduring Curiosity",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Enduring Curiosity",
+          "manaCost": "{2}{U}{U}",
+          "typeLine": "Enchantment Creature — Cat Glimmer",
+          "oracleText": "Flash\nWhenever a creature you control deals combat damage to a player, draw a card.\nWhen Enduring Curiosity dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Enduring%20Curiosity&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2495.58
+  },
+  {
+    "start": 2495.58,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+        "cardName": "Clever Concealment",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Clever Concealment",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "4ff07b7c-e97a-4b57-bcf1-2f22c37a8bd6",
+        "cardName": "Flare of Fortitude",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Flare of Fortitude",
+          "manaCost": "{2}{W}{W}",
+          "typeLine": "Instant",
+          "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+          "image": "https://api.scryfall.com/cards/named?exact=Flare%20of%20Fortitude&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2559.92
+  },
+  {
+    "start": 2559.92,
+    "cardId": "8e04a5e0-e22c-430b-a39a-c9f38e16ea86",
+    "cardName": "Guardian of Faith",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guardian of Faith",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Spirit Knight",
+      "oracleText": "Flash\nVigilance\nWhen this creature enters, any number of other target creatures you control phase out. (Treat them and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Guardian%20of%20Faith&format=image&version=normal"
+    },
+    "end": 2596.42
+  },
+  {
+    "start": 2596.42,
+    "cardId": "eed5e0cc-8f88-4779-bf10-6a823c72df7f",
+    "cardName": "Spectacular Spider-Man",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spectacular Spider-Man",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Flash\n{1}: Spectacular Spider-Man gains flying until end of turn.\n{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spectacular%20Spider-Man&format=image&version=normal"
+    },
+    "end": 2623.02
+  },
+  {
+    "start": 2623.02,
+    "cardId": "71d785a9-ddc8-472e-a778-a551b444a4bd",
+    "cardName": "Selfless Spirit",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Selfless Spirit",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Spirit Cleric",
+      "oracleText": "Flying\nSacrifice this creature: Creatures you control gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Selfless%20Spirit&format=image&version=normal"
+    },
+    "end": 2634.98
+  },
+  {
+    "start": 2634.98,
+    "cardId": "8e04a5e0-e22c-430b-a39a-c9f38e16ea86",
+    "cardName": "Guardian of Faith",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guardian of Faith",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Spirit Knight",
+      "oracleText": "Flash\nVigilance\nWhen this creature enters, any number of other target creatures you control phase out. (Treat them and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Guardian%20of%20Faith&format=image&version=normal"
+    },
+    "end": 2638.14
+  },
+  {
+    "start": 2638.14,
+    "cardId": "eed5e0cc-8f88-4779-bf10-6a823c72df7f",
+    "cardName": "Spectacular Spider-Man",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spectacular Spider-Man",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Flash\n{1}: Spectacular Spider-Man gains flying until end of turn.\n{1}, Sacrifice Spectacular Spider-Man: Creatures you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spectacular%20Spider-Man&format=image&version=normal"
+    },
+    "end": 2693.32
+  },
+  {
+    "start": 2693.32,
+    "cardId": "bcd56fbf-fde3-41c2-83f5-9636e92d2893",
+    "cardName": "Bulwark Ox",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bulwark Ox",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Ox Mount",
+      "oracleText": "Whenever this creature attacks while saddled, put a +1/+1 counter on target creature.\nSacrifice this creature: Creatures you control with counters on them gain hexproof and indestructible until end of turn.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Bulwark%20Ox&format=image&version=normal"
+    },
+    "end": 2719.34
+  },
+  {
+    "start": 2719.34,
+    "cardId": "cddccc2a-a76e-48b3-b4dd-dfeab89e1619",
+    "cardName": "Cosmic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cosmic Intervention",
+      "manaCost": "{3}{W}",
+      "typeLine": "Instant",
+      "oracleText": "If a permanent you control would be put into a graveyard from the battlefield this turn, exile it instead. Return it to the battlefield under its owner's control at the beginning of the next end step.\nForetell {1}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Cosmic%20Intervention&format=image&version=normal"
+    },
+    "end": 2764.08
+  },
+  {
+    "start": 2764.08,
+    "cardId": "0aae277e-e58e-4115-b5fd-0459451e17ec",
+    "cardName": "Willbender",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Willbender",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen this creature is turned face up, change the target of target spell or ability with a single target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Willbender&format=image&version=normal"
+    },
+    "end": 2888.22
+  },
+  {
+    "start": 2888.22,
+    "cardId": "169a4a77-12ff-4997-9550-bdcd456aa2f7",
+    "cardName": "The Eagles Are Coming!",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Eagles Are Coming!",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Kicker {2}{W}{W} (You may pay an additional {2}{W}{W} as you cast this spell.)\nChoose target creature you own. If this spell was kicked, instead choose any number of target creatures you own. Return each chosen creature to your hand. At the beginning of the next upkeep, create a 4/4 white Bird Soldier creature token with flying for each creature returned to your hand this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Eagles%20Are%20Coming!&format=image&version=normal"
+    },
+    "end": 2970.96
+  },
+  {
+    "start": 2970.96,
+    "cardId": "0634091a-a74c-4cea-b6d1-7324a725554a",
+    "cardName": "Eerie Interlude",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Eerie Interlude",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile any number of target creatures you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.",
+      "image": "https://api.scryfall.com/cards/named?exact=Eerie%20Interlude&format=image&version=normal"
+    },
+    "end": 2988.42
+  },
+  {
+    "start": 2988.42,
+    "cardId": "1eae48aa-f01d-4398-a68e-3b5af0542ab1",
+    "cardName": "Ultimate Magic: Holy",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ultimate Magic: Holy",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain indestructible until end of turn. If this spell was cast from exile, prevent all damage that would be dealt to you this turn.\nForetell {2}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Ultimate%20Magic%3A%20Holy&format=image&version=normal"
+    },
+    "end": 3030.38
+  },
+  {
+    "start": 3030.38,
+    "cardId": "cddccc2a-a76e-48b3-b4dd-dfeab89e1619",
+    "cardName": "Cosmic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cosmic Intervention",
+      "manaCost": "{3}{W}",
+      "typeLine": "Instant",
+      "oracleText": "If a permanent you control would be put into a graveyard from the battlefield this turn, exile it instead. Return it to the battlefield under its owner's control at the beginning of the next end step.\nForetell {1}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Cosmic%20Intervention&format=image&version=normal"
+    },
+    "end": 3060
+  },
+  {
+    "start": 3060,
+    "cardId": "f48f69c0-cca8-4f44-84cc-71e7cbbb9208",
+    "cardName": "Your Temple Is Under Attack",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Your Temple Is Under Attack",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one —\n• Pray for Protection — Creatures you control gain indestructible until end of turn.\n• Strike a Deal — You and target opponent each draw two cards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Your%20Temple%20Is%20Under%20Attack&format=image&version=normal"
+    },
+    "end": 3069.92
+  },
+  {
+    "start": 3069.92,
+    "cardId": "34b90d3e-f48c-41ff-b3e4-5cab7a9cd597",
+    "cardName": "Secret Rendezvous",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Secret Rendezvous",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "You and target opponent each draw three cards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Secret%20Rendezvous&format=image&version=normal"
+    },
+    "end": 3131.36
+  },
+  {
+    "start": 3131.36,
+    "cardId": "34b90d3e-f48c-41ff-b3e4-5cab7a9cd597",
+    "cardName": "Secret Rendezvous",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Secret Rendezvous",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "You and target opponent each draw three cards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Secret%20Rendezvous&format=image&version=normal"
+    },
+    "end": 3151.48
+  },
+  {
+    "start": 3151.48,
+    "cardId": "37c06f89-db36-4937-9404-2b07cd22e1a6",
+    "cardName": "Dawn's Truce",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dawn's Truce",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nYou and permanents you control gain hexproof until end of turn. If the gift was promised, permanents you control also gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Dawn's%20Truce&format=image&version=normal"
+    },
+    "end": 3158.34
+  },
+  {
+    "start": 3158.34,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 3195.12
+  },
+  {
+    "start": 3195.12,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 3298.22
+  },
+  {
+    "start": 3298.22,
+    "cardId": "37c06f89-db36-4937-9404-2b07cd22e1a6",
+    "cardName": "Dawn's Truce",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dawn's Truce",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nYou and permanents you control gain hexproof until end of turn. If the gift was promised, permanents you control also gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Dawn's%20Truce&format=image&version=normal"
+    },
+    "end": 3306.32
+  },
+  {
+    "start": 3306.32,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 3332.38
+  },
+  {
+    "start": 3332.38,
+    "cardId": "ddbe0d17-5cac-417c-afc0-e4aebae83205",
+    "cardName": "Restoration Magic",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Restoration Magic",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Tiered (Choose one additional cost.)\n• Cure — {0} — Target permanent gains hexproof and indestructible until end of turn.\n• Cura — {1} — Target permanent gains hexproof and indestructible until end of turn. You gain 3 life.\n• Curaga — {3}{W} — Permanents you control gain hexproof and indestructible until end of turn. You gain 6 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Restoration%20Magic&format=image&version=normal"
+    },
+    "end": 3382.3
+  },
+  {
+    "start": 3382.3,
+    "cardId": "37c06f89-db36-4937-9404-2b07cd22e1a6",
+    "cardName": "Dawn's Truce",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dawn's Truce",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nYou and permanents you control gain hexproof until end of turn. If the gift was promised, permanents you control also gain indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Dawn's%20Truce&format=image&version=normal"
+    },
+    "end": 3477.72
+  },
+  {
+    "start": 3477.72,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 3579.64
+  },
+  {
+    "start": 3579.64,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 3693.44
+  },
+  {
+    "start": 3693.44,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 3773.96
+  },
+  {
+    "start": 3773.96,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 3775.9
+  },
+  {
+    "start": 3775.9,
+    "cardId": "9b9a10ff-5a5d-4df8-88aa-18d84ff9117c",
+    "cardName": "Inspiring Call",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Inspiring Call",
+      "manaCost": "{2}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Inspiring%20Call&format=image&version=normal"
+    },
+    "end": 3828.24
+  },
+  {
+    "start": 3828.24,
+    "cardId": "39da2aa8-f4d9-44f6-a446-488beaec821f",
+    "cardName": "Wrap in Vigor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wrap in Vigor",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Regenerate each creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/9/2/92d53533-b10e-430a-a6f6-58ecb508be77.jpg?1783939340"
+    },
+    "end": 3835.72
+  },
+  {
+    "start": 3835.72,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 3862.56
+  },
+  {
+    "start": 3862.56,
+    "cardId": "39da2aa8-f4d9-44f6-a446-488beaec821f",
+    "cardName": "Wrap in Vigor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wrap in Vigor",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Regenerate each creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/9/2/92d53533-b10e-430a-a6f6-58ecb508be77.jpg?1783939340"
+    },
+    "end": 3877.72
+  },
+  {
+    "start": 3877.72,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 3897.68
+  },
+  {
+    "start": 3897.68,
+    "cardId": "14c8f55d-d177-4c25-a931-ebeb9e6062a0",
+    "cardName": "Grizzly Bears",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grizzly Bears",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Bear",
+      "image": "https://api.scryfall.com/cards/named?exact=Grizzly%20Bears&format=image&version=normal"
+    },
+    "end": 3917.24
+  },
+  {
+    "start": 3917.24,
+    "cardId": "b01d61cc-9844-4191-86a0-f2db6d42d6e5",
+    "cardName": "Damn",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Damn",
+      "manaCost": "{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy target creature. A creature destroyed this way can't be regenerated.\nOverload {2}{W}{W} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Damn&format=image&version=normal"
+    },
+    "end": 3961.08
+  },
+  {
+    "start": 3961.08,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 4011.64
+  },
+  {
+    "start": 4011.64,
+    "cardId": "e46d0b57-5eec-4ab6-b9a7-a5c5cc01cc34",
+    "cardName": "Galadriel's Dismissal",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Galadriel's Dismissal",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)\nTarget creature phases out. If this spell was kicked, each creature target player controls phases out instead. (Treat phased-out creatures and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Galadriel's%20Dismissal&format=image&version=normal"
+    },
+    "end": 4044.58
+  },
+  {
+    "start": 4044.58,
+    "cardId": "0de4171e-5908-408e-9852-25f148d0fb47",
+    "cardName": "Spectral Adversary",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spectral Adversary",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Spirit",
+      "oracleText": "Flash\nFlying\nWhen this creature enters, you may pay {1}{U} any number of times. When you pay this cost one or more times, put that many +1/+1 counters on this creature, then up to that many other target artifacts, creatures, and/or enchantments phase out.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spectral%20Adversary&format=image&version=normal"
+    },
+    "end": 4079.36
+  },
+  {
+    "start": 4079.36,
+    "cardId": "0de4171e-5908-408e-9852-25f148d0fb47",
+    "cardName": "Spectral Adversary",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spectral Adversary",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Spirit",
+      "oracleText": "Flash\nFlying\nWhen this creature enters, you may pay {1}{U} any number of times. When you pay this cost one or more times, put that many +1/+1 counters on this creature, then up to that many other target artifacts, creatures, and/or enchantments phase out.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spectral%20Adversary&format=image&version=normal"
+    },
+    "end": 4099.1
+  },
+  {
+    "start": 4099.1,
+    "cardId": "376fa374-ead1-4728-ab8b-aca230b72031",
+    "cardName": "Hide on the Ceiling",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hide on the Ceiling",
+      "manaCost": "{X}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Exile X target artifacts and/or creatures. Return the exiled cards to the battlefield under their owners' control at the beginning of the next end step.",
+      "image": "https://api.scryfall.com/cards/named?exact=Hide%20on%20the%20Ceiling&format=image&version=normal"
+    },
+    "end": 4130.28
+  },
+  {
+    "start": 4130.28,
+    "cardId": "debc69ea-372a-4720-838a-16856cd50b07",
+    "cardName": "March of Swirling Mist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "March of Swirling Mist",
+      "manaCost": "{X}{U}",
+      "typeLine": "Instant",
+      "oracleText": "As an additional cost to cast this spell, you may exile any number of blue cards from your hand. This spell costs {2} less to cast for each card exiled this way.\nUp to X target creatures phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during their next untap step.)",
+      "image": "https://api.scryfall.com/cards/named?exact=March%20of%20Swirling%20Mist&format=image&version=normal"
+    },
+    "end": 4154.96
+  },
+  {
+    "start": 4154.96,
+    "cardId": "376fa374-ead1-4728-ab8b-aca230b72031",
+    "cardName": "Hide on the Ceiling",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hide on the Ceiling",
+      "manaCost": "{X}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Exile X target artifacts and/or creatures. Return the exiled cards to the battlefield under their owners' control at the beginning of the next end step.",
+      "image": "https://api.scryfall.com/cards/named?exact=Hide%20on%20the%20Ceiling&format=image&version=normal"
+    },
+    "end": 4186.72
+  },
+  {
+    "start": 4186.72,
+    "cardId": "376fa374-ead1-4728-ab8b-aca230b72031",
+    "cardName": "Hide on the Ceiling",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hide on the Ceiling",
+      "manaCost": "{X}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Exile X target artifacts and/or creatures. Return the exiled cards to the battlefield under their owners' control at the beginning of the next end step.",
+      "image": "https://api.scryfall.com/cards/named?exact=Hide%20on%20the%20Ceiling&format=image&version=normal"
+    },
+    "end": 4217.6
+  },
+  {
+    "start": 4217.6,
+    "cardId": "285046f6-b3c4-4eb7-8712-9dffebabc762",
+    "cardName": "Waterbender's Restoration",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Waterbender's Restoration",
+      "manaCost": "{U}{U}",
+      "typeLine": "Instant — Lesson",
+      "oracleText": "As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nExile X target creatures you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.",
+      "image": "https://api.scryfall.com/cards/named?exact=Waterbender's%20Restoration&format=image&version=normal"
+    },
+    "end": 4236.58
+  },
+  {
+    "start": 4236.58,
+    "cardId": "376fa374-ead1-4728-ab8b-aca230b72031",
+    "cardName": "Hide on the Ceiling",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hide on the Ceiling",
+      "manaCost": "{X}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Exile X target artifacts and/or creatures. Return the exiled cards to the battlefield under their owners' control at the beginning of the next end step.",
+      "image": "https://api.scryfall.com/cards/named?exact=Hide%20on%20the%20Ceiling&format=image&version=normal"
+    },
+    "end": 4254.7
+  },
+  {
+    "start": 4254.7,
+    "cardId": "45bcebd0-5e93-4433-b92f-b4c161d04bd6",
+    "cardName": "Ripples of Potential",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ripples of Potential",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Proliferate, then choose any number of permanents you control that had a counter put on them this way. Those permanents phase out. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there. Treat phased-out permanents and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Ripples%20of%20Potential&format=image&version=normal"
+    },
+    "end": 4271.46
+  },
+  {
+    "start": 4271.46,
+    "cardId": "b2f43df5-ec64-4375-b67f-b198732ab0b1",
+    "cardName": "Change of Plans",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Change of Plans",
+      "manaCost": "{X}{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Each of X target creatures you control connive. You may have any number of them phase out. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature. Treat phased-out permanents and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Change%20of%20Plans&format=image&version=normal"
+    },
+    "end": 4302.48
+  },
+  {
+    "start": 4302.48,
+    "cardId": "b2f43df5-ec64-4375-b67f-b198732ab0b1",
+    "cardName": "Change of Plans",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Change of Plans",
+      "manaCost": "{X}{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Each of X target creatures you control connive. You may have any number of them phase out. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature. Treat phased-out permanents and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Change%20of%20Plans&format=image&version=normal"
+    },
+    "end": 4322.04
+  },
+  {
+    "start": 4322.04,
+    "cardId": "45bcebd0-5e93-4433-b92f-b4c161d04bd6",
+    "cardName": "Ripples of Potential",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ripples of Potential",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Proliferate, then choose any number of permanents you control that had a counter put on them this way. Those permanents phase out. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there. Treat phased-out permanents and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Ripples%20of%20Potential&format=image&version=normal"
+    },
+    "end": 4342.400000000001
+  },
+  {
+    "start": 4342.400000000001,
+    "cardId": "2daa5b89-e772-4a2b-ad52-bbbf148c7b2f",
+    "cardName": "Mutational Advantage",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mutational Advantage",
+      "manaCost": "{1}{G}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control with counters on them gain hexproof and indestructible until end of turn. Prevent all damage that would be dealt to those permanents this turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Mutational%20Advantage&format=image&version=normal"
+    },
+    "end": 4369.44
+  },
+  {
+    "start": 4369.44,
+    "cardId": "b2f43df5-ec64-4375-b67f-b198732ab0b1",
+    "cardName": "Change of Plans",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Change of Plans",
+      "manaCost": "{X}{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Each of X target creatures you control connive. You may have any number of them phase out. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature. Treat phased-out permanents and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Change%20of%20Plans&format=image&version=normal"
+    },
+    "end": 4430.5
+  },
+  {
+    "start": 4430.5,
+    "cardId": "9e4fa592-71f8-4c71-8c91-78e6326cd736",
+    "cardName": "Doctor Doom",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doctor Doom",
+      "manaCost": "{4}{B}{B}",
+      "typeLine": "Legendary Creature — Human Scientist Villain",
+      "oracleText": "When Doctor Doom enters, create two 3/3 colorless Robot Villain artifact creature tokens named Doombot.\nAs long as you control an artifact creature or a Plan, Doctor Doom has indestructible.\nAt the beginning of your end step, you draw a card and lose 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doctor%20Doom&format=image&version=normal"
+    },
+    "end": 4445.68
+  },
+  {
+    "start": 4445.68,
+    "cardId": "2679d0dd-ba30-4a1c-b6a0-b3ac6c790496",
+    "cardName": "Boros Charm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Boros Charm",
+      "manaCost": "{R}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one —\n• Boros Charm deals 4 damage to target player or planeswalker.\n• Permanents you control gain indestructible until end of turn.\n• Target creature gains double strike until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Boros%20Charm&format=image&version=normal"
+    },
+    "end": 4488.18
+  },
+  {
+    "start": 4488.18,
+    "cardId": "2679d0dd-ba30-4a1c-b6a0-b3ac6c790496",
+    "cardName": "Boros Charm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Boros Charm",
+      "manaCost": "{R}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one —\n• Boros Charm deals 4 damage to target player or planeswalker.\n• Permanents you control gain indestructible until end of turn.\n• Target creature gains double strike until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Boros%20Charm&format=image&version=normal"
+    },
+    "end": 4622.94
+  },
+  {
+    "start": 4622.94,
+    "cardId": "4eb813fd-2d5a-4b02-8193-662681ef4e7d",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Farewell&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "4eb813fd-2d5a-4b02-8193-662681ef4e7d",
+        "cardName": "Farewell",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Farewell",
+          "manaCost": "{4}{W}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+          "image": "https://api.scryfall.com/cards/named?exact=Farewell&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "2679d0dd-ba30-4a1c-b6a0-b3ac6c790496",
+        "cardName": "Boros Charm",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Boros Charm",
+          "manaCost": "{R}{W}",
+          "typeLine": "Instant",
+          "oracleText": "Choose one —\n• Boros Charm deals 4 damage to target player or planeswalker.\n• Permanents you control gain indestructible until end of turn.\n• Target creature gains double strike until end of turn.",
+          "image": "https://api.scryfall.com/cards/named?exact=Boros%20Charm&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 4758.32
+  },
+  {
+    "start": 4758.32,
+    "cardId": "f349f58b-8cc8-45e4-9565-2b46fdf976c9",
+    "cardName": "Trouble in Pairs",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Trouble in Pairs",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "If an opponent would begin an extra turn, that player skips that turn instead.\nWhenever an opponent attacks you with two or more creatures, draws their second card each turn, or casts their second spell each turn, you draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Trouble%20in%20Pairs&format=image&version=normal"
+    },
+    "end": 4769.12
+  },
+  {
+    "start": 4769.12,
+    "cardId": "5ece7d03-9ee7-4953-a06e-9d8e41874903",
+    "cardName": "Scavenger Grounds",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Scavenger Grounds",
+      "typeLine": "Land — Desert",
+      "oracleText": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Scavenger%20Grounds&format=image&version=normal"
+    },
+    "end": 4882.94
+  },
+  {
+    "start": 4882.94,
+    "cardId": "295fe873-ecb5-4d5e-a73c-3af6c478afc5",
+    "cardName": "Perch Protection",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Perch Protection",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Gift an extra turn (You may promise an opponent a gift as you cast this spell. If you do, they take an extra turn after this one.)\nCreate four 2/2 blue Bird creature tokens with flying. If the gift was promised, all permanents you control phase out, and until your next turn, your life total can't change and you gain protection from everything.\nExile Perch Protection.",
+      "image": "https://api.scryfall.com/cards/named?exact=Perch%20Protection&format=image&version=normal"
+    }
+  }
+]

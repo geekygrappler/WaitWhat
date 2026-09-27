@@ -1,0 +1,20 @@
+[
+  {
+    "transcriptName": "Smuggler's Share",
+    "start": 5279.34,
+    "reason": "The green protection effect described is likely Smuggler's Surprise, not the white card Smuggler's Share emitted by the exact transcript match.",
+    "resolvedName": "https://scryfall.com/card/mkc/84/smugglers-share",
+    "resolvedAt": "2026-09-27T18:29:14.574Z",
+    "resolvedCardName": "Smuggler's Share",
+    "resolvedCardId": "17b29350-4f37-4552-8192-4856b15345f9"
+  },
+  {
+    "transcriptName": "Urza",
+    "start": 1392.22,
+    "reason": "Only Urza's first name is spoken, so the intended Urza permanent cannot be identified safely.",
+    "resolvedName": "https://scryfall.com/card/cmm/130/urza-lord-high-artificer",
+    "resolvedAt": "2026-09-27T18:29:48.036Z",
+    "resolvedCardName": "Urza, Lord High Artificer",
+    "resolvedCardId": "e87906d2-db1a-4e19-b910-adb4eb339945"
+  }
+]

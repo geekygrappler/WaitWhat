@@ -22,6 +22,10 @@ Open `http://localhost:4173`. Run the fast timestamp-selection tests with:
 npm test
 ```
 
+The local development server also exposes `http://localhost:4173/reviews`, a human-review workspace that is intentionally absent from the deployable `dist/` directory. It shows each unresolved name beside the matching transcript and a ten-second audio clip. Saving a correction writes `resolvedName` and `resolvedAt` back to that episode's `reviews/*.needs-review.json` file.
+
+Paste the matching Scryfall card URL as the correction, then apply all completed reviews to their cue sheets with `npm run apply-reviews`. The command embeds canonical card data at the reviewed timestamps and adds each resolved name to the episode's approved-card list; review entries left blank are preserved and skipped.
+
 Refresh the static episode lists from all three RSS feeds:
 
 ```bash

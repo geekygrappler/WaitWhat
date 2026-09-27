@@ -1,0 +1,337 @@
+[
+  {
+    "start": 968.44,
+    "cardId": "37688720-03de-4eca-a82d-a0afe8d58adc",
+    "cardName": "Baleful Strix",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Baleful Strix",
+      "manaCost": "{U}{B}",
+      "typeLine": "Artifact Creature — Bird",
+      "oracleText": "Flying, deathtouch\nWhen this creature enters, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Baleful%20Strix&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "37688720-03de-4eca-a82d-a0afe8d58adc",
+        "cardName": "Baleful Strix",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Baleful Strix",
+          "manaCost": "{U}{B}",
+          "typeLine": "Artifact Creature — Bird",
+          "oracleText": "Flying, deathtouch\nWhen this creature enters, draw a card.",
+          "image": "https://api.scryfall.com/cards/named?exact=Baleful%20Strix&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "e666bae7-dd51-4921-8b89-7e8d423caba0",
+        "cardName": "Gigantosaurus",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Gigantosaurus",
+          "manaCost": "{G}{G}{G}{G}{G}",
+          "typeLine": "Creature — Dinosaur",
+          "image": "https://api.scryfall.com/cards/named?exact=Gigantosaurus&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 991.46
+  },
+  {
+    "start": 991.46,
+    "cardId": "e9da499c-fa43-4e94-8395-5c030ff39502",
+    "cardName": "Price of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Price of Progress",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.",
+      "image": "https://api.scryfall.com/cards/named?exact=Price%20of%20Progress&format=image&version=normal"
+    },
+    "end": 1001.4
+  },
+  {
+    "start": 1001.4,
+    "cardId": "37688720-03de-4eca-a82d-a0afe8d58adc",
+    "cardName": "Baleful Strix",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Baleful Strix",
+      "manaCost": "{U}{B}",
+      "typeLine": "Artifact Creature — Bird",
+      "oracleText": "Flying, deathtouch\nWhen this creature enters, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Baleful%20Strix&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "37688720-03de-4eca-a82d-a0afe8d58adc",
+        "cardName": "Baleful Strix",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Baleful Strix",
+          "manaCost": "{U}{B}",
+          "typeLine": "Artifact Creature — Bird",
+          "oracleText": "Flying, deathtouch\nWhen this creature enters, draw a card.",
+          "image": "https://api.scryfall.com/cards/named?exact=Baleful%20Strix&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "133c99c0-3652-410f-8100-68015a47af9f",
+        "cardName": "Dispatch",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Dispatch",
+          "manaCost": "{W}",
+          "typeLine": "Instant",
+          "oracleText": "Tap target creature.\nMetalcraft — If you control three or more artifacts, exile that creature.",
+          "image": "https://api.scryfall.com/cards/named?exact=Dispatch&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1078.26
+  },
+  {
+    "start": 1078.26,
+    "cardId": "e9da499c-fa43-4e94-8395-5c030ff39502",
+    "cardName": "Price of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Price of Progress",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.",
+      "image": "https://api.scryfall.com/cards/named?exact=Price%20of%20Progress&format=image&version=normal"
+    },
+    "end": 1182.62
+  },
+  {
+    "start": 1182.62,
+    "cardId": "37688720-03de-4eca-a82d-a0afe8d58adc",
+    "cardName": "Baleful Strix",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Baleful Strix",
+      "manaCost": "{U}{B}",
+      "typeLine": "Artifact Creature — Bird",
+      "oracleText": "Flying, deathtouch\nWhen this creature enters, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Baleful%20Strix&format=image&version=normal"
+    },
+    "end": 1335.84
+  },
+  {
+    "start": 1335.84,
+    "cardId": "37688720-03de-4eca-a82d-a0afe8d58adc",
+    "cardName": "Baleful Strix",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Baleful Strix",
+      "manaCost": "{U}{B}",
+      "typeLine": "Artifact Creature — Bird",
+      "oracleText": "Flying, deathtouch\nWhen this creature enters, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Baleful%20Strix&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "37688720-03de-4eca-a82d-a0afe8d58adc",
+        "cardName": "Baleful Strix",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Baleful Strix",
+          "manaCost": "{U}{B}",
+          "typeLine": "Artifact Creature — Bird",
+          "oracleText": "Flying, deathtouch\nWhen this creature enters, draw a card.",
+          "image": "https://api.scryfall.com/cards/named?exact=Baleful%20Strix&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "133c99c0-3652-410f-8100-68015a47af9f",
+        "cardName": "Dispatch",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Dispatch",
+          "manaCost": "{W}",
+          "typeLine": "Instant",
+          "oracleText": "Tap target creature.\nMetalcraft — If you control three or more artifacts, exile that creature.",
+          "image": "https://api.scryfall.com/cards/named?exact=Dispatch&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1367.4
+  },
+  {
+    "start": 1367.4,
+    "cardId": "37688720-03de-4eca-a82d-a0afe8d58adc",
+    "cardName": "Baleful Strix",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Baleful Strix",
+      "manaCost": "{U}{B}",
+      "typeLine": "Artifact Creature — Bird",
+      "oracleText": "Flying, deathtouch\nWhen this creature enters, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Baleful%20Strix&format=image&version=normal"
+    },
+    "end": 1412.02
+  },
+  {
+    "start": 1412.02,
+    "cardId": "37688720-03de-4eca-a82d-a0afe8d58adc",
+    "cardName": "Baleful Strix",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Baleful Strix",
+      "manaCost": "{U}{B}",
+      "typeLine": "Artifact Creature — Bird",
+      "oracleText": "Flying, deathtouch\nWhen this creature enters, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Baleful%20Strix&format=image&version=normal"
+    },
+    "end": 1500.62
+  },
+  {
+    "start": 1500.62,
+    "cardId": "133c99c0-3652-410f-8100-68015a47af9f",
+    "cardName": "Dispatch",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dispatch",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Tap target creature.\nMetalcraft — If you control three or more artifacts, exile that creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Dispatch&format=image&version=normal"
+    },
+    "end": 1533.62
+  },
+  {
+    "start": 1533.62,
+    "cardId": "e9da499c-fa43-4e94-8395-5c030ff39502",
+    "cardName": "Price of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Price of Progress",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.",
+      "image": "https://api.scryfall.com/cards/named?exact=Price%20of%20Progress&format=image&version=normal"
+    },
+    "end": 1587.72
+  },
+  {
+    "start": 1587.72,
+    "cardId": "37688720-03de-4eca-a82d-a0afe8d58adc",
+    "cardName": "Baleful Strix",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Baleful Strix",
+      "manaCost": "{U}{B}",
+      "typeLine": "Artifact Creature — Bird",
+      "oracleText": "Flying, deathtouch\nWhen this creature enters, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Baleful%20Strix&format=image&version=normal"
+    },
+    "end": 2254.74
+  },
+  {
+    "start": 2254.74,
+    "cardId": "c753e9e3-9374-4e3c-8622-94576a8c1da3",
+    "cardName": "Oubliette",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Oubliette",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, target creature phases out until this enchantment leaves the battlefield. Tap that creature as it phases in this way. (Auras and Equipment phase out with it. While permanents are phased out, they're treated as though they don't exist.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Oubliette&format=image&version=normal"
+    },
+    "end": 2883.56
+  },
+  {
+    "start": 2883.56,
+    "cardId": "d64b0848-0193-4025-ba62-63ecd8fb9f50",
+    "cardName": "Spell Pierce",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spell Pierce",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target noncreature spell unless its controller pays {2}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spell%20Pierce&format=image&version=normal"
+    },
+    "end": 2887.2999999999997
+  },
+  {
+    "start": 2887.2999999999997,
+    "cardId": "fa1b722a-109e-4a43-bd7b-818292728cb3",
+    "cardName": "Quench",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Quench",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell unless its controller pays {2}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Quench&format=image&version=normal"
+    },
+    "end": 2888.9
+  },
+  {
+    "start": 2888.9,
+    "cardId": "c61fe162-2202-4e56-9ba0-393547f9875f",
+    "cardName": "Mana Leak",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Leak",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell unless its controller pays {3}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mana%20Leak&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "c61fe162-2202-4e56-9ba0-393547f9875f",
+        "cardName": "Mana Leak",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Mana Leak",
+          "manaCost": "{1}{U}",
+          "typeLine": "Instant",
+          "oracleText": "Counter target spell unless its controller pays {3}.",
+          "image": "https://api.scryfall.com/cards/named?exact=Mana%20Leak&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "fa1b722a-109e-4a43-bd7b-818292728cb3",
+        "cardName": "Quench",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Quench",
+          "manaCost": "{1}{U}",
+          "typeLine": "Instant",
+          "oracleText": "Counter target spell unless its controller pays {2}.",
+          "image": "https://api.scryfall.com/cards/named?exact=Quench&format=image&version=normal"
+        }
+      }
+    ]
+  }
+]

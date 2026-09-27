@@ -1,0 +1,1414 @@
+[
+  {
+    "start": 360.46,
+    "cardId": "ef1fb174-9a34-43d0-8caf-9c1938147a12",
+    "cardName": "Burning Vengeance",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Burning Vengeance",
+      "manaCost": "{2}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever you cast a spell from your graveyard, this enchantment deals 2 damage to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Burning%20Vengeance&format=image&version=normal"
+    },
+    "end": 384.74
+  },
+  {
+    "start": 384.74,
+    "cardId": "2bb2eda7-3b38-4c56-870f-c3218a1056f5",
+    "cardName": "Snapcaster Mage",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Snapcaster Mage",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "Flash\nWhen this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Snapcaster%20Mage&format=image&version=normal"
+    },
+    "end": 594.36
+  },
+  {
+    "start": 594.36,
+    "cardId": "bdce1af0-3643-4e77-88f9-320206a191d4",
+    "cardName": "Zombie Infestation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zombie Infestation",
+      "manaCost": "{1}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "Discard two cards: Create a 2/2 black Zombie creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Zombie%20Infestation&format=image&version=normal"
+    },
+    "end": 605.92
+  },
+  {
+    "start": 605.92,
+    "cardId": "299fc083-0834-4064-8344-f895aff68867",
+    "cardName": "Entomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Entomb",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Search your library for a card, put that card into your graveyard, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Entomb&format=image&version=normal"
+    },
+    "end": 634.72
+  },
+  {
+    "start": 634.72,
+    "cardId": "dbf0ad03-ab31-49d2-89b1-05b45948a61f",
+    "cardName": "Vorinclex, Voice of Hunger",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Vorinclex, Voice of Hunger",
+      "manaCost": "{6}{G}{G}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Trample\nWhenever you tap a land for mana, add one mana of any type that land produced.\nWhenever an opponent taps a land for mana, that land doesn't untap during its controller's next untap step.",
+      "image": "https://cards.scryfall.io/normal/front/9/f/9fe3af8c-109d-486c-aa34-3f023abda5b7.jpg?1783935514"
+    },
+    "end": 640.1
+  },
+  {
+    "start": 640.1,
+    "cardId": "3d6fa57a-aa53-4b5c-b8af-a7612c823117",
+    "cardName": "Faithless Looting",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Faithless Looting",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Faithless%20Looting&format=image&version=normal"
+    },
+    "end": 647.18
+  },
+  {
+    "start": 647.18,
+    "cardId": "d48e1545-7997-45ed-83a1-aee45b3d3d20",
+    "cardName": "Unburial Rites",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Unburial Rites",
+      "manaCost": "{4}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return target creature card from your graveyard to the battlefield.\nFlashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Unburial%20Rites&format=image&version=normal"
+    },
+    "end": 689.7
+  },
+  {
+    "start": 689.7,
+    "cardId": "ef1fb174-9a34-43d0-8caf-9c1938147a12",
+    "cardName": "Burning Vengeance",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Burning Vengeance",
+      "manaCost": "{2}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever you cast a spell from your graveyard, this enchantment deals 2 damage to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Burning%20Vengeance&format=image&version=normal"
+    },
+    "end": 708.04
+  },
+  {
+    "start": 708.04,
+    "cardId": "310f141c-7f37-4729-aed6-dd9c09db448d",
+    "cardName": "Blood Artist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Blood Artist",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Vampire",
+      "oracleText": "Whenever this creature or another creature dies, target player loses 1 life and you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Blood%20Artist&format=image&version=normal"
+    },
+    "end": 736.04
+  },
+  {
+    "start": 736.04,
+    "cardId": "8ce2a750-1137-4f8d-803c-9aac30db4193",
+    "cardName": "Chancellor of the Dross",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chancellor of the Dross",
+      "manaCost": "{4}{B}{B}{B}",
+      "typeLine": "Creature — Phyrexian Vampire",
+      "oracleText": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent loses 3 life, then you gain life equal to the life lost this way.\nFlying, lifelink",
+      "image": "https://api.scryfall.com/cards/named?exact=Chancellor%20of%20the%20Dross&format=image&version=normal"
+    },
+    "end": 813.66
+  },
+  {
+    "start": 813.66,
+    "cardId": "310f141c-7f37-4729-aed6-dd9c09db448d",
+    "cardName": "Blood Artist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Blood Artist",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Vampire",
+      "oracleText": "Whenever this creature or another creature dies, target player loses 1 life and you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Blood%20Artist&format=image&version=normal"
+    },
+    "end": 849.02
+  },
+  {
+    "start": 849.02,
+    "cardId": "310f141c-7f37-4729-aed6-dd9c09db448d",
+    "cardName": "Blood Artist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Blood Artist",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Vampire",
+      "oracleText": "Whenever this creature or another creature dies, target player loses 1 life and you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Blood%20Artist&format=image&version=normal"
+    },
+    "end": 1229
+  },
+  {
+    "start": 1229,
+    "cardId": "59e7f2ae-4535-4191-98be-3e65b6b2befa",
+    "cardName": "Doom Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doom%20Blade&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "59e7f2ae-4535-4191-98be-3e65b6b2befa",
+        "cardName": "Doom Blade",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Doom Blade",
+          "manaCost": "{1}{B}",
+          "typeLine": "Instant",
+          "oracleText": "Destroy target nonblack creature.",
+          "image": "https://api.scryfall.com/cards/named?exact=Doom%20Blade&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "fa6e2a47-a8cb-4224-ae3e-f61c90477285",
+        "cardName": "Tragic Slip",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Tragic Slip",
+          "manaCost": "{B}",
+          "typeLine": "Instant",
+          "oracleText": "Target creature gets -1/-1 until end of turn.\nMorbid — That creature gets -13/-13 until end of turn instead if a creature died this turn.",
+          "image": "https://api.scryfall.com/cards/named?exact=Tragic%20Slip&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1240.94
+  },
+  {
+    "start": 1240.94,
+    "cardId": "aad212b2-57ba-4e70-869b-636842eb7a88",
+    "cardName": "Stab Wound",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Stab Wound",
+      "manaCost": "{2}{B}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nEnchanted creature gets -2/-2.\nAt the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Stab%20Wound&format=image&version=normal"
+    },
+    "end": 1438.92
+  },
+  {
+    "start": 1438.92,
+    "cardId": "d683d985-9888-4d21-8b5f-69e69ce4a03b",
+    "cardName": "Path to Exile",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Path to Exile",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Path%20to%20Exile&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "d683d985-9888-4d21-8b5f-69e69ce4a03b",
+        "cardName": "Path to Exile",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Path to Exile",
+          "manaCost": "{W}",
+          "typeLine": "Instant",
+          "oracleText": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+          "image": "https://api.scryfall.com/cards/named?exact=Path%20to%20Exile&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "70dc830e-d05b-4fc7-88dd-879e140b3fbf",
+        "cardName": "Reality Shift",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Reality Shift",
+          "manaCost": "{1}{U}",
+          "typeLine": "Instant",
+          "oracleText": "Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Reality%20Shift&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1474.46
+  },
+  {
+    "start": 1474.46,
+    "cardId": "7735eeba-693b-47e2-bd51-414379cf1016",
+    "cardName": "Beast Within",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beast Within",
+      "manaCost": "{2}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Beast%20Within&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "7735eeba-693b-47e2-bd51-414379cf1016",
+        "cardName": "Beast Within",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Beast Within",
+          "manaCost": "{2}{G}",
+          "typeLine": "Instant",
+          "oracleText": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token.",
+          "image": "https://api.scryfall.com/cards/named?exact=Beast%20Within&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "59e7f2ae-4535-4191-98be-3e65b6b2befa",
+        "cardName": "Doom Blade",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Doom Blade",
+          "manaCost": "{1}{B}",
+          "typeLine": "Instant",
+          "oracleText": "Destroy target nonblack creature.",
+          "image": "https://api.scryfall.com/cards/named?exact=Doom%20Blade&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1579.98
+  },
+  {
+    "start": 1579.98,
+    "cardId": "a91a3266-cadd-47a0-9b20-160307f14c07",
+    "cardName": "Archaeomancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archaeomancer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Archaeomancer&format=image&version=normal"
+    },
+    "end": 1750.14
+  },
+  {
+    "start": 1750.14,
+    "cardId": "3d6fa57a-aa53-4b5c-b8af-a7612c823117",
+    "cardName": "Faithless Looting",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Faithless Looting",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Faithless%20Looting&format=image&version=normal"
+    },
+    "end": 1782.58
+  },
+  {
+    "start": 1782.58,
+    "cardId": "3d6fa57a-aa53-4b5c-b8af-a7612c823117",
+    "cardName": "Faithless Looting",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Faithless Looting",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Faithless%20Looting&format=image&version=normal"
+    },
+    "end": 1816.1
+  },
+  {
+    "start": 1816.1,
+    "cardId": "3d6fa57a-aa53-4b5c-b8af-a7612c823117",
+    "cardName": "Faithless Looting",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Faithless Looting",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Faithless%20Looting&format=image&version=normal"
+    },
+    "end": 1824.54
+  },
+  {
+    "start": 1824.54,
+    "cardId": "1cb0610b-a731-42c2-b93f-0a29f63cebf4",
+    "cardName": "Thrill of Possibility",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thrill of Possibility",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Thrill%20of%20Possibility&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "1cb0610b-a731-42c2-b93f-0a29f63cebf4",
+        "cardName": "Thrill of Possibility",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Thrill of Possibility",
+          "manaCost": "{1}{R}",
+          "typeLine": "Instant",
+          "oracleText": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
+          "image": "https://api.scryfall.com/cards/named?exact=Thrill%20of%20Possibility&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "08becc07-28bc-4a2f-a6b0-28a2998d2f50",
+        "cardName": "Windfall",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Windfall",
+          "manaCost": "{2}{U}",
+          "typeLine": "Sorcery",
+          "oracleText": "Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.",
+          "image": "https://api.scryfall.com/cards/named?exact=Windfall&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1907.32
+  },
+  {
+    "start": 1907.32,
+    "cardId": "310f141c-7f37-4729-aed6-dd9c09db448d",
+    "cardName": "Blood Artist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Blood Artist",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Vampire",
+      "oracleText": "Whenever this creature or another creature dies, target player loses 1 life and you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Blood%20Artist&format=image&version=normal"
+    },
+    "end": 2006.72
+  },
+  {
+    "start": 2006.72,
+    "cardId": "74de3356-9779-40f9-9881-fe795a1d5bbd",
+    "cardName": "Dusk Mangler",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dusk Mangler",
+      "manaCost": "{5}{B}{B}",
+      "typeLine": "Creature — Horror",
+      "oracleText": "As an additional cost to cast this spell, sacrifice a creature, discard a card, or pay 4 life.\nWhen this creature enters, each opponent sacrifices a creature of their choice, discards a card, and loses 4 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Dusk%20Mangler&format=image&version=normal"
+    },
+    "end": 2008.64
+  },
+  {
+    "start": 2008.64,
+    "cardId": "aa1a6646-c1e6-4bff-9092-43ee3e137914",
+    "cardName": "Archon of Cruelty",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archon of Cruelty",
+      "manaCost": "{6}{B}{B}",
+      "typeLine": "Creature — Archon",
+      "oracleText": "Flying\nWhenever this creature enters or attacks, target opponent sacrifices a creature or planeswalker of their choice, discards a card, and loses 3 life. You draw a card and gain 3 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Archon%20of%20Cruelty&format=image&version=normal"
+    },
+    "end": 2075.98
+  },
+  {
+    "start": 2075.98,
+    "cardId": "5f079a75-899e-467d-b443-3b87ce2fb548",
+    "cardName": "Boros Reckoner",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Boros Reckoner",
+      "manaCost": "{R/W}{R/W}{R/W}",
+      "typeLine": "Creature — Minotaur Wizard",
+      "oracleText": "Whenever this creature is dealt damage, it deals that much damage to any target.\n{R/W}: This creature gains first strike until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Boros%20Reckoner&format=image&version=normal"
+    },
+    "end": 2191.38
+  },
+  {
+    "start": 2191.38,
+    "cardId": "153376c9-dffd-458c-8ce3-a4c8269bc4e9",
+    "cardName": "Smothering Tithe",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Smothering Tithe",
+      "manaCost": "{3}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, you create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Smothering%20Tithe&format=image&version=normal"
+    },
+    "end": 2307.2
+  },
+  {
+    "start": 2307.2,
+    "cardId": "cc187110-1148-4090-bbb8-e205694a39f5",
+    "cardName": "Counterspell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Counterspell",
+      "manaCost": "{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Counterspell&format=image&version=normal"
+    },
+    "end": 2483.42
+  },
+  {
+    "start": 2483.42,
+    "cardId": "480454a0-fb10-432b-a963-8b0c0ffc6680",
+    "cardName": "Sepulchral Primordial",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sepulchral Primordial",
+      "manaCost": "{5}{B}{B}",
+      "typeLine": "Creature — Avatar",
+      "oracleText": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhen this creature enters, for each opponent, you may put up to one target creature card from that player's graveyard onto the battlefield under your control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sepulchral%20Primordial&format=image&version=normal"
+    },
+    "end": 2589.18
+  },
+  {
+    "start": 2589.18,
+    "cardId": "8973bd99-20f8-4867-90ef-50392147ee1b",
+    "cardName": "Wood Elves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wood Elves",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Scout",
+      "oracleText": "When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wood%20Elves&format=image&version=normal"
+    },
+    "end": 2595
+  },
+  {
+    "start": 2595,
+    "cardId": "1593ea18-2f2f-4ab4-83fb-6ccc0bec8a90",
+    "cardName": "Kodama's Reach",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kodama's Reach",
+      "manaCost": "{2}{G}",
+      "typeLine": "Sorcery — Arcane",
+      "oracleText": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Kodama's%20Reach&format=image&version=normal"
+    },
+    "end": 2608.6
+  },
+  {
+    "start": 2608.6,
+    "cardId": "8973bd99-20f8-4867-90ef-50392147ee1b",
+    "cardName": "Wood Elves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wood Elves",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Scout",
+      "oracleText": "When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wood%20Elves&format=image&version=normal"
+    },
+    "end": 2707.24
+  },
+  {
+    "start": 2707.24,
+    "cardId": "51f9a6cc-8eb2-44ed-a2d9-913ac514ad67",
+    "cardName": "Bane of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bane of Progress",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "When this creature enters, destroy all artifacts and enchantments. Put a +1/+1 counter on this creature for each permanent destroyed this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=Bane%20of%20Progress&format=image&version=normal"
+    },
+    "end": 2717.42
+  },
+  {
+    "start": 2717.42,
+    "cardId": "2e728381-6db0-4c66-883d-82d718fef833",
+    "cardName": "My Precious // Allure of Power",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "My Precious // Allure of Power",
+      "manaCost": "{3}",
+      "typeLine": "Legendary Artifact — Equipment",
+      "oracleText": "Equipped creature has hexproof and can't be blocked.\nEquip—{2}, Pay 2 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=My%20Precious%20%2F%2F%20Allure%20of%20Power&format=image&version=normal",
+      "faces": [
+        {
+          "name": "My Precious",
+          "manaCost": "{3}",
+          "typeLine": "Legendary Artifact — Equipment",
+          "oracleText": "Equipped creature has hexproof and can't be blocked.\nEquip—{2}, Pay 2 life."
+        }
+      ]
+    },
+    "end": 2841.38
+  },
+  {
+    "start": 2841.38,
+    "cardId": "ededbdae-d9dc-4206-9335-d7158f2d7700",
+    "cardName": "Vampiric Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Vampiric Tutor",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Search your library for a card, then shuffle and put that card on top. You lose 2 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Vampiric%20Tutor&format=image&version=normal"
+    },
+    "end": 2864.46
+  },
+  {
+    "start": 2864.46,
+    "cardId": "7735eeba-693b-47e2-bd51-414379cf1016",
+    "cardName": "Beast Within",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beast Within",
+      "manaCost": "{2}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Beast%20Within&format=image&version=normal"
+    },
+    "end": 2875.52
+  },
+  {
+    "start": 2875.52,
+    "cardId": "087f9ad7-e74f-40e2-8102-1ed2925d0418",
+    "cardName": "Rest in Peace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rest%20in%20Peace&format=image&version=normal"
+    },
+    "end": 2910.1
+  },
+  {
+    "start": 2910.1,
+    "cardId": "b2e950fb-cb7e-40a0-a311-5bbdd0477b29",
+    "cardName": "Sun Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sun Titan",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sun%20Titan&format=image&version=normal"
+    },
+    "end": 2931.44
+  },
+  {
+    "start": 2931.44,
+    "cardId": "e3afc704-220f-498f-9eaa-0821b17dc24c",
+    "cardName": "Sakura-Tribe Elder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sakura-Tribe Elder",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Snake Shaman",
+      "oracleText": "Sacrifice this creature: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sakura-Tribe%20Elder&format=image&version=normal"
+    },
+    "end": 2947.2
+  },
+  {
+    "start": 2947.2,
+    "cardId": "2c11c72f-5b04-47d8-bdf8-8d9d197ebc1b",
+    "cardName": "Gift of Immortality",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gift of Immortality",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under its owner's control. Return this card to the battlefield attached to that creature at the beginning of the next end step.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gift%20of%20Immortality&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "2c11c72f-5b04-47d8-bdf8-8d9d197ebc1b",
+        "cardName": "Gift of Immortality",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Gift of Immortality",
+          "manaCost": "{2}{W}",
+          "typeLine": "Enchantment — Aura",
+          "oracleText": "Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under its owner's control. Return this card to the battlefield attached to that creature at the beginning of the next end step.",
+          "image": "https://api.scryfall.com/cards/named?exact=Gift%20of%20Immortality&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "e3afc704-220f-498f-9eaa-0821b17dc24c",
+        "cardName": "Sakura-Tribe Elder",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Sakura-Tribe Elder",
+          "manaCost": "{1}{G}",
+          "typeLine": "Creature — Snake Shaman",
+          "oracleText": "Sacrifice this creature: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+          "image": "https://api.scryfall.com/cards/named?exact=Sakura-Tribe%20Elder&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2966.8
+  },
+  {
+    "start": 2966.8,
+    "cardId": "f3abd4d1-a975-4e85-8684-aa0fce029670",
+    "cardName": "Grave Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grave Titan",
+      "manaCost": "{4}{B}{B}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens.",
+      "image": "https://api.scryfall.com/cards/named?exact=Grave%20Titan&format=image&version=normal"
+    },
+    "end": 2979.58
+  },
+  {
+    "start": 2979.58,
+    "cardId": "e3afc704-220f-498f-9eaa-0821b17dc24c",
+    "cardName": "Sakura-Tribe Elder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sakura-Tribe Elder",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Snake Shaman",
+      "oracleText": "Sacrifice this creature: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sakura-Tribe%20Elder&format=image&version=normal"
+    },
+    "end": 3006.06
+  },
+  {
+    "start": 3006.06,
+    "cardId": "2c11c72f-5b04-47d8-bdf8-8d9d197ebc1b",
+    "cardName": "Gift of Immortality",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gift of Immortality",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under its owner's control. Return this card to the battlefield attached to that creature at the beginning of the next end step.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gift%20of%20Immortality&format=image&version=normal"
+    },
+    "end": 3021.36
+  },
+  {
+    "start": 3021.36,
+    "cardId": "480454a0-fb10-432b-a963-8b0c0ffc6680",
+    "cardName": "Sepulchral Primordial",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sepulchral Primordial",
+      "manaCost": "{5}{B}{B}",
+      "typeLine": "Creature — Avatar",
+      "oracleText": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhen this creature enters, for each opponent, you may put up to one target creature card from that player's graveyard onto the battlefield under your control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sepulchral%20Primordial&format=image&version=normal"
+    },
+    "end": 3031.52
+  },
+  {
+    "start": 3031.52,
+    "cardId": "00c0543c-2a1f-4425-8283-4062d74a1637",
+    "cardName": "Solemn Simulacrum",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Solemn Simulacrum",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Golem",
+      "oracleText": "When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.\nWhen this creature dies, you may draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Solemn%20Simulacrum&format=image&version=normal"
+    },
+    "end": 3079
+  },
+  {
+    "start": 3079,
+    "cardId": "42fb1a1c-ab3d-4cdc-a6ff-a591f7481583",
+    "cardName": "Warstorm Surge",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Warstorm Surge",
+      "manaCost": "{5}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a creature you control enters, it deals damage equal to its power to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Warstorm%20Surge&format=image&version=normal"
+    },
+    "end": 3317
+  },
+  {
+    "start": 3317,
+    "cardId": "03efb4f3-b8e2-4441-824f-886dc40712c4",
+    "cardName": "Mesmeric Orb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mesmeric Orb",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "Whenever a permanent becomes untapped, that permanent's controller mills a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mesmeric%20Orb&format=image&version=normal"
+    },
+    "end": 3404.28
+  },
+  {
+    "start": 3404.28,
+    "cardId": "3d6fa57a-aa53-4b5c-b8af-a7612c823117",
+    "cardName": "Faithless Looting",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Faithless Looting",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Faithless%20Looting&format=image&version=normal"
+    },
+    "end": 3442.7
+  },
+  {
+    "start": 3442.7,
+    "cardId": "c7f1a49a-cc22-432f-bf3e-50ba61982b87",
+    "cardName": "Sewer Nemesis",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sewer Nemesis",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Horror",
+      "oracleText": "As this creature enters, choose a player.\nSewer Nemesis's power and toughness are each equal to the number of cards in the chosen player's graveyard.\nWhenever the chosen player casts a spell, that player mills a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sewer%20Nemesis&format=image&version=normal"
+    },
+    "end": 3524.42
+  },
+  {
+    "start": 3524.42,
+    "cardId": "03efb4f3-b8e2-4441-824f-886dc40712c4",
+    "cardName": "Mesmeric Orb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mesmeric Orb",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "Whenever a permanent becomes untapped, that permanent's controller mills a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mesmeric%20Orb&format=image&version=normal"
+    },
+    "end": 3690.44
+  },
+  {
+    "start": 3690.44,
+    "cardId": "8203c621-a1a0-4865-8c9a-0d4064c86107",
+    "cardName": "Buried Alive",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Buried Alive",
+      "manaCost": "{2}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for up to three creature cards, put them into your graveyard, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Buried%20Alive&format=image&version=normal"
+    },
+    "end": 3748.44
+  },
+  {
+    "start": 3748.44,
+    "cardId": "e005bc76-4985-4ec6-b9f6-cf6d0d9f5df4",
+    "cardName": "Stinkweed Imp",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Stinkweed Imp",
+      "manaCost": "{2}{B}",
+      "typeLine": "Creature — Imp",
+      "oracleText": "Flying\nWhenever this creature deals combat damage to a creature, destroy that creature.\nDredge 5 (If you would draw a card, you may mill five cards instead. If you do, return this card from your graveyard to your hand.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Stinkweed%20Imp&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "e005bc76-4985-4ec6-b9f6-cf6d0d9f5df4",
+        "cardName": "Stinkweed Imp",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Stinkweed Imp",
+          "manaCost": "{2}{B}",
+          "typeLine": "Creature — Imp",
+          "oracleText": "Flying\nWhenever this creature deals combat damage to a creature, destroy that creature.\nDredge 5 (If you would draw a card, you may mill five cards instead. If you do, return this card from your graveyard to your hand.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Stinkweed%20Imp&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "aa1a6646-c1e6-4bff-9092-43ee3e137914",
+        "cardName": "Archon of Cruelty",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Archon of Cruelty",
+          "manaCost": "{6}{B}{B}",
+          "typeLine": "Creature — Archon",
+          "oracleText": "Flying\nWhenever this creature enters or attacks, target opponent sacrifices a creature or planeswalker of their choice, discards a card, and loses 3 life. You draw a card and gain 3 life.",
+          "image": "https://api.scryfall.com/cards/named?exact=Archon%20of%20Cruelty&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 3789.58
+  },
+  {
+    "start": 3789.58,
+    "cardId": "aa1a6646-c1e6-4bff-9092-43ee3e137914",
+    "cardName": "Archon of Cruelty",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archon of Cruelty",
+      "manaCost": "{6}{B}{B}",
+      "typeLine": "Creature — Archon",
+      "oracleText": "Flying\nWhenever this creature enters or attacks, target opponent sacrifices a creature or planeswalker of their choice, discards a card, and loses 3 life. You draw a card and gain 3 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Archon%20of%20Cruelty&format=image&version=normal"
+    },
+    "end": 3971.22
+  },
+  {
+    "start": 3971.22,
+    "cardId": "1de1b591-a73f-4974-b507-8c63e07a0868",
+    "cardName": "Thassa's Oracle",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thassa's Oracle",
+      "manaCost": "{U}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Thassa's%20Oracle&format=image&version=normal"
+    },
+    "end": 3984.28
+  },
+  {
+    "start": 3984.28,
+    "cardId": "4d18bcba-a346-445e-a182-6cc30b7e066d",
+    "cardName": "Ashnod's Altar",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ashnod's Altar",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "Sacrifice a creature: Add {C}{C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ashnod's%20Altar&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "4d18bcba-a346-445e-a182-6cc30b7e066d",
+        "cardName": "Ashnod's Altar",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Ashnod's Altar",
+          "manaCost": "{3}",
+          "typeLine": "Artifact",
+          "oracleText": "Sacrifice a creature: Add {C}{C}.",
+          "image": "https://api.scryfall.com/cards/named?exact=Ashnod's%20Altar&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "b2e950fb-cb7e-40a0-a311-5bbdd0477b29",
+        "cardName": "Sun Titan",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Sun Titan",
+          "manaCost": "{4}{W}{W}",
+          "typeLine": "Creature — Giant",
+          "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+          "image": "https://api.scryfall.com/cards/named?exact=Sun%20Titan&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "c0d8fef4-65f4-4769-982d-b397d2b7e977",
+        "cardName": "Animate Dead",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Animate Dead",
+          "manaCost": "{1}{B}",
+          "typeLine": "Enchantment — Aura",
+          "oracleText": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+          "image": "https://api.scryfall.com/cards/named?exact=Animate%20Dead&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 3999.66
+  },
+  {
+    "start": 3999.66,
+    "cardId": "b2e950fb-cb7e-40a0-a311-5bbdd0477b29",
+    "cardName": "Sun Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sun Titan",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sun%20Titan&format=image&version=normal"
+    },
+    "end": 4003.48
+  },
+  {
+    "start": 4003.48,
+    "cardId": "c0d8fef4-65f4-4769-982d-b397d2b7e977",
+    "cardName": "Animate Dead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Animate Dead",
+      "manaCost": "{1}{B}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+      "image": "https://api.scryfall.com/cards/named?exact=Animate%20Dead&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "c0d8fef4-65f4-4769-982d-b397d2b7e977",
+        "cardName": "Animate Dead",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Animate Dead",
+          "manaCost": "{1}{B}",
+          "typeLine": "Enchantment — Aura",
+          "oracleText": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+          "image": "https://api.scryfall.com/cards/named?exact=Animate%20Dead&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "4d18bcba-a346-445e-a182-6cc30b7e066d",
+        "cardName": "Ashnod's Altar",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Ashnod's Altar",
+          "manaCost": "{3}",
+          "typeLine": "Artifact",
+          "oracleText": "Sacrifice a creature: Add {C}{C}.",
+          "image": "https://api.scryfall.com/cards/named?exact=Ashnod's%20Altar&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 4047.1
+  },
+  {
+    "start": 4047.1,
+    "cardId": "4d18bcba-a346-445e-a182-6cc30b7e066d",
+    "cardName": "Ashnod's Altar",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ashnod's Altar",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "Sacrifice a creature: Add {C}{C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ashnod's%20Altar&format=image&version=normal"
+    },
+    "end": 4061.62
+  },
+  {
+    "start": 4061.62,
+    "cardId": "b2e950fb-cb7e-40a0-a311-5bbdd0477b29",
+    "cardName": "Sun Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sun Titan",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sun%20Titan&format=image&version=normal"
+    },
+    "end": 4098.18
+  },
+  {
+    "start": 4098.18,
+    "cardId": "62dac700-49f7-4745-af67-37d2a81dcebc",
+    "cardName": "Scrap Mastery",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Scrap Mastery",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player exiles all artifact cards from their graveyard, then sacrifices all artifacts they control, then puts all cards they exiled this way onto the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Scrap%20Mastery&format=image&version=normal"
+    },
+    "end": 4255.9
+  },
+  {
+    "start": 4255.9,
+    "cardId": "b2e950fb-cb7e-40a0-a311-5bbdd0477b29",
+    "cardName": "Sun Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sun Titan",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sun%20Titan&format=image&version=normal"
+    },
+    "end": 4300.6
+  },
+  {
+    "start": 4300.6,
+    "cardId": "4b1bf05e-753e-4350-a913-894cf3cecc0c",
+    "cardName": "Fleshbag Marauder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fleshbag Marauder",
+      "manaCost": "{2}{B}",
+      "typeLine": "Creature — Zombie Warrior",
+      "oracleText": "When this creature enters, each player sacrifices a creature of their choice.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fleshbag%20Marauder&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "4b1bf05e-753e-4350-a913-894cf3cecc0c",
+        "cardName": "Fleshbag Marauder",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Fleshbag Marauder",
+          "manaCost": "{2}{B}",
+          "typeLine": "Creature — Zombie Warrior",
+          "oracleText": "When this creature enters, each player sacrifices a creature of their choice.",
+          "image": "https://api.scryfall.com/cards/named?exact=Fleshbag%20Marauder&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "1cb71772-592d-4dd1-91af-816933af760c",
+        "cardName": "Grave Venerations",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Grave Venerations",
+          "manaCost": "{3}{B}",
+          "typeLine": "Enchantment",
+          "oracleText": "When this enchantment enters, you become the monarch.\nAt the beginning of your end step, if you're the monarch, return up to one target creature card from your graveyard to your hand.\nWhenever a creature you control dies, each opponent loses 1 life and you gain 1 life.",
+          "image": "https://api.scryfall.com/cards/named?exact=Grave%20Venerations&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 4436.92
+  },
+  {
+    "start": 4436.92,
+    "cardId": "a46d96d9-8e59-4777-8208-7730b9e33240",
+    "cardName": "Doran, the Siege Tower",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doran, the Siege Tower",
+      "manaCost": "{W}{B}{G}",
+      "typeLine": "Legendary Creature — Treefolk Shaman",
+      "oracleText": "Each creature assigns combat damage equal to its toughness rather than its power.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doran%2C%20the%20Siege%20Tower&format=image&version=normal"
+    },
+    "end": 4597.48
+  },
+  {
+    "start": 4597.48,
+    "cardId": "2c11c72f-5b04-47d8-bdf8-8d9d197ebc1b",
+    "cardName": "Gift of Immortality",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gift of Immortality",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under its owner's control. Return this card to the battlefield attached to that creature at the beginning of the next end step.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gift%20of%20Immortality&format=image&version=normal"
+    },
+    "end": 4618.9
+  },
+  {
+    "start": 4618.9,
+    "cardId": "6f4ac4a4-53ec-4bc9-8f5c-d4b801d867b2",
+    "cardName": "Grave Pact",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grave Pact",
+      "manaCost": "{1}{B}{B}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a creature you control dies, each other player sacrifices a creature of their choice.",
+      "image": "https://api.scryfall.com/cards/named?exact=Grave%20Pact&format=image&version=normal"
+    },
+    "end": 4692.6
+  },
+  {
+    "start": 4692.6,
+    "cardId": "605c1ee0-5e8a-4e0a-a99b-42a38873f822",
+    "cardName": "Welcoming Vampire",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Welcoming Vampire",
+      "manaCost": "{2}{W}",
+      "typeLine": "Creature — Vampire",
+      "oracleText": "Flying\nWhenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Welcoming%20Vampire&format=image&version=normal"
+    },
+    "end": 4835.66
+  },
+  {
+    "start": 4835.66,
+    "cardId": "1cb71772-592d-4dd1-91af-816933af760c",
+    "cardName": "Grave Venerations",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grave Venerations",
+      "manaCost": "{3}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, you become the monarch.\nAt the beginning of your end step, if you're the monarch, return up to one target creature card from your graveyard to your hand.\nWhenever a creature you control dies, each opponent loses 1 life and you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Grave%20Venerations&format=image&version=normal"
+    },
+    "end": 4877.42
+  },
+  {
+    "start": 4877.42,
+    "cardId": "4b1bf05e-753e-4350-a913-894cf3cecc0c",
+    "cardName": "Fleshbag Marauder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fleshbag Marauder",
+      "manaCost": "{2}{B}",
+      "typeLine": "Creature — Zombie Warrior",
+      "oracleText": "When this creature enters, each player sacrifices a creature of their choice.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fleshbag%20Marauder&format=image&version=normal"
+    },
+    "end": 5133.2
+  },
+  {
+    "start": 5133.2,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 5284.72
+  },
+  {
+    "start": 5284.72,
+    "cardId": "51f9a6cc-8eb2-44ed-a2d9-913ac514ad67",
+    "cardName": "Bane of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bane of Progress",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "When this creature enters, destroy all artifacts and enchantments. Put a +1/+1 counter on this creature for each permanent destroyed this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=Bane%20of%20Progress&format=image&version=normal"
+    },
+    "end": 5466.64
+  },
+  {
+    "start": 5466.64,
+    "cardId": "1cb71772-592d-4dd1-91af-816933af760c",
+    "cardName": "Grave Venerations",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grave Venerations",
+      "manaCost": "{3}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, you become the monarch.\nAt the beginning of your end step, if you're the monarch, return up to one target creature card from your graveyard to your hand.\nWhenever a creature you control dies, each opponent loses 1 life and you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Grave%20Venerations&format=image&version=normal"
+    },
+    "end": 5473.46
+  },
+  {
+    "start": 5473.46,
+    "cardId": "a91a3266-cadd-47a0-9b20-160307f14c07",
+    "cardName": "Archaeomancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archaeomancer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Archaeomancer&format=image&version=normal"
+    },
+    "end": 5506.96
+  },
+  {
+    "start": 5506.96,
+    "cardId": "b2e950fb-cb7e-40a0-a311-5bbdd0477b29",
+    "cardName": "Sun Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sun Titan",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sun%20Titan&format=image&version=normal"
+    },
+    "end": 5636.16
+  },
+  {
+    "start": 5636.16,
+    "cardId": "306593b0-6ea8-476f-a3f2-e17876c1bab4",
+    "cardName": "Ancient Grudge",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ancient Grudge",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target artifact.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Ancient%20Grudge&format=image&version=normal"
+    },
+    "end": 5647.12
+  },
+  {
+    "start": 5647.12,
+    "cardId": "15f8049c-f21d-4cd0-aa81-1a533936cf77",
+    "cardName": "Torch Fiend",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Torch Fiend",
+      "manaCost": "{1}{R}",
+      "typeLine": "Creature — Devil",
+      "oracleText": "{R}, Sacrifice this creature: Destroy target artifact.",
+      "image": "https://api.scryfall.com/cards/named?exact=Torch%20Fiend&format=image&version=normal"
+    },
+    "end": 5712.88
+  },
+  {
+    "start": 5712.88,
+    "cardId": "1573f7f9-672c-421a-b1ac-3d0d8aea59ca",
+    "cardName": "Tormod's Crypt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tormod's Crypt",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Exile target player's graveyard.",
+      "image": "https://api.scryfall.com/cards/named?exact=Tormod's%20Crypt&format=image&version=normal"
+    },
+    "end": 5716.5
+  },
+  {
+    "start": 5716.5,
+    "cardId": "087f9ad7-e74f-40e2-8102-1ed2925d0418",
+    "cardName": "Rest in Peace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rest%20in%20Peace&format=image&version=normal"
+    }
+  }
+]
