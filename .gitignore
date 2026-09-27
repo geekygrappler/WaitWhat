@@ -2,3 +2,4 @@
 .cache/
 processing/
 *.mp3
+catalog/AtomicCards.json

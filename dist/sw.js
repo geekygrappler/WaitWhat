@@ -1,15 +1,20 @@
-const CACHE = "wait-what-shell-v9";
+const CACHE = "wait-what-shell-v16";
 const SHELL = [
   "./",
   "./index.html",
-  "./styles.css",
-  "./app.js",
-  "./core.js",
+  "./styles.css?v=14",
+  "./app.js?v=14",
+  "./core.js?v=13",
   "./manifest.webmanifest",
   "./icon.svg",
+  "./data/shows.json",
   "./data/episodes.json",
+  "./data/mtggoldfish.episodes.json",
+  "./data/commander-clash.episodes.json",
+  "./data/commander-clash-most-annoying.cues.json",
   "./data/hobbit-legends-review.cues.json",
-  "./data/hobbit-cards-for-the-other-99.cues.json"
+  "./data/hobbit-cards-for-the-other-99.cues.json",
+  "./data/commanders-with-keywords-to-support-bottom-up-builds.cues.json"
 ];
 
 self.addEventListener("install", (event) => {

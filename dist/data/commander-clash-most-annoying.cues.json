@@ -1,0 +1,485 @@
+[
+  {
+    "start": 153.78,
+    "cardId": "176508ba-c107-4694-8dd7-ea34fca3b299",
+    "cardName": "Allosaurus Rider",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Allosaurus Rider",
+      "manaCost": "{5}{G}{G}",
+      "typeLine": "Creature — Elf Warrior",
+      "oracleText": "You may exile two green cards from your hand rather than pay this spell's mana cost.\nAllosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Allosaurus%20Rider&format=image&version=normal"
+    },
+    "end": 289.28
+  },
+  {
+    "start": 289.28,
+    "cardId": "cc187110-1148-4090-bbb8-e205694a39f5",
+    "cardName": "Counterspell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Counterspell",
+      "manaCost": "{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Counterspell&format=image&version=normal"
+    },
+    "end": 335.1
+  },
+  {
+    "start": 335.1,
+    "cardId": "4b96c22a-0d5b-44fd-b326-5f3ffcc3917b",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Deadpool%2C%20Trading%20Card&format=image&version=normal"
+    },
+    "end": 473.44
+  },
+  {
+    "start": 473.44,
+    "cardId": "7b459306-149b-4f43-abc1-2dd70c748c0e",
+    "cardName": "Ravenous Chupacabra",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ravenous Chupacabra",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Creature — Beast Horror",
+      "oracleText": "When this creature enters, destroy target creature an opponent controls.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ravenous%20Chupacabra&format=image&version=normal"
+    },
+    "end": 557.44
+  },
+  {
+    "start": 557.44,
+    "cardId": "59e7f2ae-4535-4191-98be-3e65b6b2befa",
+    "cardName": "Doom Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doom%20Blade&format=image&version=normal"
+    },
+    "end": 755.62
+  },
+  {
+    "start": 755.62,
+    "cardId": "087f9ad7-e74f-40e2-8102-1ed2925d0418",
+    "cardName": "Rest in Peace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rest%20in%20Peace&format=image&version=normal"
+    },
+    "end": 768.46
+  },
+  {
+    "start": 768.46,
+    "cardId": "3ea060d8-449c-4a5e-8883-b45bd7707b5b",
+    "cardName": "Season of Gathering",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Season of Gathering",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose up to five {P} worth of modes. You may choose the same mode more than once.\n{P} — Put a +1/+1 counter on a creature you control. It gains vigilance and trample until end of turn.\n{P}{P} — Choose artifact or enchantment. Destroy all permanents of the chosen type.\n{P}{P}{P} — Draw cards equal to the greatest power among creatures you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Season%20of%20Gathering&format=image&version=normal"
+    },
+    "end": 782.82
+  },
+  {
+    "start": 782.82,
+    "cardId": "fe725b27-49ef-41bc-91f9-9cd9871ad863",
+    "cardName": "Shattering Spree",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Shattering Spree",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Replicate {R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nDestroy target artifact.",
+      "image": "https://api.scryfall.com/cards/named?exact=Shattering%20Spree&format=image&version=normal"
+    },
+    "end": 1128.86
+  },
+  {
+    "start": 1128.86,
+    "cardId": "08c59e5e-d01c-49b7-a812-8ea75e9e945d",
+    "cardName": "Princess Yue",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Princess Yue",
+      "manaCost": "{2}{U}",
+      "typeLine": "Legendary Creature — Human Noble Ally",
+      "oracleText": "When Princess Yue dies, if she was a nonland creature, return this card to the battlefield tapped under your control. She's a land named Moon. She gains \"{T}: Add {C}.\" (She's still legendary.)\n{T}: Scry 2.",
+      "image": "https://api.scryfall.com/cards/named?exact=Princess%20Yue&format=image&version=normal"
+    },
+    "end": 1212.92
+  },
+  {
+    "start": 1212.92,
+    "cardId": "fa716557-8e75-4617-8310-ab23a9ca1af1",
+    "cardName": "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
+      "manaCost": "{4}{R}",
+      "typeLine": "Legendary Artifact Creature — Robot",
+      "oracleText": "More Than Meets the Eye {2}{R} (You may cast this card converted for {2}{R}.)\nDouble strike, haste\nAt the beginning of each opponent's upkeep, you may have that player gain control of Slicer until end of turn. If you do, untap Slicer, goad it, and it can't be sacrificed this turn. If you don't, convert it.",
+      "image": "https://api.scryfall.com/cards/named?exact=Slicer%2C%20Hired%20Muscle%20%2F%2F%20Slicer%2C%20High-Speed%20Antagonist&format=image&version=normal",
+      "faces": [
+        {
+          "name": "Slicer, Hired Muscle",
+          "manaCost": "{4}{R}",
+          "typeLine": "Legendary Artifact Creature — Robot",
+          "oracleText": "More Than Meets the Eye {2}{R} (You may cast this card converted for {2}{R}.)\nDouble strike, haste\nAt the beginning of each opponent's upkeep, you may have that player gain control of Slicer until end of turn. If you do, untap Slicer, goad it, and it can't be sacrificed this turn. If you don't, convert it."
+        }
+      ]
+    },
+    "end": 1500.5200000000002
+  },
+  {
+    "start": 1500.5200000000002,
+    "cardId": "35fe3c61-8eaa-465d-ac34-63efda72fef2",
+    "cardName": "Scrambleverse",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Scrambleverse",
+      "manaCost": "{6}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "For each nonland permanent, choose a player at random. Then each player gains control of each permanent for which they were chosen. Untap those permanents.",
+      "image": "https://api.scryfall.com/cards/named?exact=Scrambleverse&format=image&version=normal"
+    },
+    "end": 1862.04
+  },
+  {
+    "start": 1862.04,
+    "cardId": "dd4cf149-2fae-40e5-b50b-639f6bcec65e",
+    "cardName": "Thousand-Year Storm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thousand-Year Storm",
+      "manaCost": "{4}{U}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.",
+      "image": "https://api.scryfall.com/cards/named?exact=Thousand-Year%20Storm&format=image&version=normal"
+    },
+    "end": 2015.32
+  },
+  {
+    "start": 2015.32,
+    "cardId": "cbc93912-2c36-4554-9b42-1dcca059fbb5",
+    "cardName": "Feywild Visitor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Feywild Visitor",
+      "manaCost": "{2}{U}",
+      "typeLine": "Legendary Enchantment — Background",
+      "oracleText": "Commander creatures you own have \"Whenever one or more nontoken creatures you control deal combat damage to a player, you create a 1/1 blue Faerie Dragon creature token with flying.\"",
+      "image": "https://api.scryfall.com/cards/named?exact=Feywild%20Visitor&format=image&version=normal"
+    },
+    "end": 2389.54
+  },
+  {
+    "start": 2389.54,
+    "cardId": "70dbe8a9-505d-41c2-9b5b-a991d13ab459",
+    "cardName": "Child of Alara",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Child of Alara",
+      "manaCost": "{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Avatar",
+      "oracleText": "Trample\nWhen Child of Alara dies, destroy all nonland permanents. They can't be regenerated.",
+      "image": "https://api.scryfall.com/cards/named?exact=Child%20of%20Alara&format=image&version=normal"
+    },
+    "end": 2427.04
+  },
+  {
+    "start": 2427.04,
+    "cardId": "70dbe8a9-505d-41c2-9b5b-a991d13ab459",
+    "cardName": "Child of Alara",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Child of Alara",
+      "manaCost": "{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Avatar",
+      "oracleText": "Trample\nWhen Child of Alara dies, destroy all nonland permanents. They can't be regenerated.",
+      "image": "https://api.scryfall.com/cards/named?exact=Child%20of%20Alara&format=image&version=normal"
+    },
+    "end": 2463.64
+  },
+  {
+    "start": 2463.64,
+    "cardId": "70dbe8a9-505d-41c2-9b5b-a991d13ab459",
+    "cardName": "Child of Alara",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Child of Alara",
+      "manaCost": "{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Avatar",
+      "oracleText": "Trample\nWhen Child of Alara dies, destroy all nonland permanents. They can't be regenerated.",
+      "image": "https://api.scryfall.com/cards/named?exact=Child%20of%20Alara&format=image&version=normal"
+    },
+    "end": 2545.94
+  },
+  {
+    "start": 2545.94,
+    "cardId": "49479778-c4c0-43ba-a7b7-45f00d067462",
+    "cardName": "Maze's End",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Maze's End",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped.\n{T}: Add {C}.\n{3}, {T}, Return this land to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle. If you control ten or more Gates with different names, you win the game.",
+      "image": "https://api.scryfall.com/cards/named?exact=Maze's%20End&format=image&version=normal"
+    },
+    "end": 2559.28
+  },
+  {
+    "start": 2559.28,
+    "cardId": "70dbe8a9-505d-41c2-9b5b-a991d13ab459",
+    "cardName": "Child of Alara",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Child of Alara",
+      "manaCost": "{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Avatar",
+      "oracleText": "Trample\nWhen Child of Alara dies, destroy all nonland permanents. They can't be regenerated.",
+      "image": "https://api.scryfall.com/cards/named?exact=Child%20of%20Alara&format=image&version=normal"
+    },
+    "end": 2639.36
+  },
+  {
+    "start": 2639.36,
+    "cardId": "c9ed8b01-959a-47d6-891e-0abbdccf6e4f",
+    "cardName": "Armageddon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Armageddon",
+      "manaCost": "{3}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy all lands.",
+      "image": "https://api.scryfall.com/cards/named?exact=Armageddon&format=image&version=normal"
+    },
+    "end": 2676.56
+  },
+  {
+    "start": 2676.56,
+    "cardId": "94fac5fe-97d5-4c12-a80c-8efff9d853ae",
+    "cardName": "Blood Moon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Blood Moon",
+      "manaCost": "{2}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Nonbasic lands are Mountains.",
+      "image": "https://api.scryfall.com/cards/named?exact=Blood%20Moon&format=image&version=normal"
+    },
+    "end": 2859.24
+  },
+  {
+    "start": 2859.24,
+    "cardId": "39213de3-6a4a-4879-a7f9-70f45013765e",
+    "cardName": "Everybody Lives!",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Everybody Lives!",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "All creatures gain hexproof and indestructible until end of turn. Players gain hexproof until end of turn. Players can't lose life this turn and players can't lose the game or win the game this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Everybody%20Lives!&format=image&version=normal"
+    },
+    "end": 3119.62
+  },
+  {
+    "start": 3119.62,
+    "cardId": "09ef446c-a13d-49d9-a94c-cd5f5a2d440b",
+    "cardName": "Displacer Kitten",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Displacer Kitten",
+      "manaCost": "{3}{U}",
+      "typeLine": "Creature — Cat Beast",
+      "oracleText": "Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Displacer%20Kitten&format=image&version=normal"
+    },
+    "end": 3151.92
+  },
+  {
+    "start": 3151.92,
+    "cardId": "c9ed8b01-959a-47d6-891e-0abbdccf6e4f",
+    "cardName": "Armageddon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Armageddon",
+      "manaCost": "{3}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy all lands.",
+      "image": "https://api.scryfall.com/cards/named?exact=Armageddon&format=image&version=normal"
+    },
+    "end": 3179.9
+  },
+  {
+    "start": 3179.9,
+    "cardId": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+    "cardName": "Forest",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Forest",
+      "typeLine": "Basic Land — Forest",
+      "oracleText": "({T}: Add {G}.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Forest&format=image&version=normal"
+    },
+    "end": 3239.66
+  },
+  {
+    "start": 3239.66,
+    "cardId": "a75445d3-1303-4bb5-89ad-26ea93fecd48",
+    "cardName": "Evolving Wilds",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Evolving Wilds",
+      "typeLine": "Land",
+      "oracleText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Evolving%20Wilds&format=image&version=normal"
+    },
+    "end": 3255.98
+  },
+  {
+    "start": 3255.98,
+    "cardId": "1bd3e453-aa21-4ee6-95c2-d6d920ee8e7a",
+    "cardName": "Terramorphic Expanse",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Terramorphic Expanse",
+      "typeLine": "Land",
+      "oracleText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Terramorphic%20Expanse&format=image&version=normal"
+    },
+    "end": 3323.26
+  },
+  {
+    "start": 3323.26,
+    "cardId": "aa219936-661b-4ccb-8741-78b70cff2b1a",
+    "cardName": "Feather, the Redeemed",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Feather, the Redeemed",
+      "manaCost": "{R}{W}{W}",
+      "typeLine": "Legendary Creature — Angel",
+      "oracleText": "Flying\nWhenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step.",
+      "image": "https://api.scryfall.com/cards/named?exact=Feather%2C%20the%20Redeemed&format=image&version=normal"
+    },
+    "end": 3374.12
+  },
+  {
+    "start": 3374.12,
+    "cardId": "f8c2d9c5-6fe6-4698-9972-83cdd625d94b",
+    "cardName": "Defiant Strike",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Defiant Strike",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Target creature gets +1/+0 until end of turn.\nDraw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Defiant%20Strike&format=image&version=normal"
+    },
+    "end": 3395.52
+  },
+  {
+    "start": 3395.52,
+    "cardId": "cc187110-1148-4090-bbb8-e205694a39f5",
+    "cardName": "Counterspell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Counterspell",
+      "manaCost": "{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Counterspell&format=image&version=normal"
+    },
+    "end": 3555.84
+  },
+  {
+    "start": 3555.84,
+    "cardId": "c1909d70-d8f4-4c54-8587-0a910f123238",
+    "cardName": "Shelter",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Shelter",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Target creature you control gains protection from the color of your choice until end of turn.\nDraw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Shelter&format=image&version=normal"
+    },
+    "end": 3576.74
+  },
+  {
+    "start": 3576.74,
+    "cardId": "957413ae-e756-4afe-886a-b57bf59d5f8d",
+    "cardName": "Feather, Radiant Arbiter",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Feather, Radiant Arbiter",
+      "manaCost": "{R}{W}{W}",
+      "typeLine": "Legendary Creature — Angel",
+      "oracleText": "Flying, lifelink\nWhenever you cast a noncreature spell that targets only Feather, you may choose any number of other creatures that spell could target and pay {2} for each of those creatures. If you do, for each of those creatures, copy that spell. The copy targets that creature. (Copies of permanent spells become tokens.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Feather%2C%20Radiant%20Arbiter&format=image&version=normal"
+    },
+    "end": 3805.42
+  },
+  {
+    "start": 3805.42,
+    "cardId": "0e488c6c-aae2-450f-b969-7bb5a1b37a66",
+    "cardName": "Persistent Petitioners",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Persistent Petitioners",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Human Advisor",
+      "oracleText": "{1}, {T}: Target player mills a card. (They put the top card of their library into their graveyard.)\nTap four untapped Advisors you control: Target player mills twelve cards.\nA deck can have any number of cards named Persistent Petitioners.",
+      "image": "https://api.scryfall.com/cards/named?exact=Persistent%20Petitioners&format=image&version=normal"
+    }
+  }
+]

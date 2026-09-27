@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { cueAtTime, recentCues, upcomingCues, cardImage, formatTime } from "../dist/core.js";
+import { cueAtTime, recentCues, upcomingCues, cardImage, cardsForCue, formatTime } from "../dist/core.js";
 
 const cues = [
   { start: 10, end: 20, cardId: "a", card: { image: "a.jpg" } },
@@ -32,4 +32,9 @@ test("returns upcoming distinct cards in chronological order", () => {
 test("falls back to a face image and formats long time", () => {
   assert.equal(cardImage(cues[2].card), "c.jpg");
   assert.equal(formatTime(9721), "2:42:01");
+});
+
+test("exposes grouped and legacy cue cards through one interface", () => {
+  assert.deepEqual(cardsForCue(cues[0]).map((option) => option.cardId), ["a"]);
+  assert.deepEqual(cardsForCue({ cards: [{ cardId: "a" }, { cardId: "b" }] }).map((option) => option.cardId), ["a", "b"]);
 });

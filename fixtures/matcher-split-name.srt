@@ -1,0 +1,7 @@
+1
+00:00:08,000 --> 00:00:11,000
+Let us talk about Gavi,
+
+2
+00:00:11,000 --> 00:00:14,000
+Nest Warden and cycling.

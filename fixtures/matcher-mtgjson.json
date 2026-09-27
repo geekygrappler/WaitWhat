@@ -1,0 +1,23 @@
+{
+  "meta": { "date": "2026-07-31", "version": "5.3.0+20260731" },
+  "data": {
+    "Gavi, Nest Warden": [{
+      "colorIdentity": ["U", "R", "W"],
+      "identifiers": { "scryfallOracleId": "1af1a80c-8028-4234-b6fd-25bbf67d549a" },
+      "manaCost": "{2}{U}{R}{W}",
+      "name": "Gavi, Nest Warden",
+      "printings": ["C20"],
+      "text": "You may pay {0} rather than pay the cycling cost of the first card you cycle each turn.",
+      "type": "Legendary Creature — Human Shaman"
+    }],
+    "Arcane Signet": [{
+      "colorIdentity": [],
+      "identifiers": { "scryfallOracleId": "6f0e5677-06ae-4b47-b209-28c1db0f0197" },
+      "manaCost": "{2}",
+      "name": "Arcane Signet",
+      "printings": ["CMM"],
+      "text": "{T}: Add one mana of any color in your commander's color identity.",
+      "type": "Artifact"
+    }]
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "name": "Wait, What? Legendary Creature Edition",
+  "name": "Wait, What? Magic Podcast Companion",
   "short_name": "Wait, What?",
-  "description": "See the Magic card being discussed while listening to Legendary Creature Podcast.",
+  "description": "Browse Magic podcasts and see the card being discussed in reviewed episodes.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

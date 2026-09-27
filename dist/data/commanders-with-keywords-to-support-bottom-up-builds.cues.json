@@ -1,0 +1,618 @@
+[
+  {
+    "start": 412.78,
+    "cardId": "716a3bb8-04bd-41f5-a568-131f175e00a6",
+    "cardName": "Gavi, Nest Warden",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gavi, Nest Warden",
+      "manaCost": "{2}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Human Shaman",
+      "oracleText": "You may pay {0} rather than pay the cycling cost of the first card you cycle each turn.\nWhenever you draw your second card each turn, create a 2/2 red and white Dinosaur Cat creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gavi%2C%20Nest%20Warden&format=image&version=normal"
+    },
+    "end": 559.1199999999999
+  },
+  {
+    "start": 559.1199999999999,
+    "cardId": "ae120613-97d6-4393-b39d-c3e6c076f5d6",
+    "cardName": "Deflecting Swat",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Deflecting Swat",
+      "manaCost": "{2}{R}",
+      "typeLine": "Instant",
+      "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nYou may choose new targets for target spell or ability.",
+      "image": "https://api.scryfall.com/cards/named?exact=Deflecting%20Swat&format=image&version=normal"
+    },
+    "end": 742.22
+  },
+  {
+    "start": 742.22,
+    "cardId": "716a3bb8-04bd-41f5-a568-131f175e00a6",
+    "cardName": "Gavi, Nest Warden",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gavi, Nest Warden",
+      "manaCost": "{2}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Human Shaman",
+      "oracleText": "You may pay {0} rather than pay the cycling cost of the first card you cycle each turn.\nWhenever you draw your second card each turn, create a 2/2 red and white Dinosaur Cat creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gavi%2C%20Nest%20Warden&format=image&version=normal"
+    },
+    "end": 978.34
+  },
+  {
+    "start": 978.34,
+    "cardId": "87b22b09-4f6d-4bc5-9cfc-663e4c7c6981",
+    "cardName": "The Ur-Dragon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Ur-Dragon",
+      "manaCost": "{4}{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Dragon Avatar",
+      "oracleText": "Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast.\nFlying\nWhenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Ur-Dragon&format=image&version=normal"
+    },
+    "end": 1456.74
+  },
+  {
+    "start": 1456.74,
+    "cardId": "a91a3266-cadd-47a0-9b20-160307f14c07",
+    "cardName": "Archaeomancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archaeomancer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Archaeomancer&format=image&version=normal"
+    },
+    "end": 2981.17
+  },
+  {
+    "start": 2981.17,
+    "cardId": "8a05ec32-7b0c-4f23-a4f7-413301c2a70a",
+    "cardName": "Coastal Piracy",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Coastal Piracy",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a creature you control deals combat damage to an opponent, you may draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Coastal%20Piracy&format=image&version=normal"
+    },
+    "end": 3439.99
+  },
+  {
+    "start": 3439.99,
+    "cardId": "0bc7f093-bef0-4f1a-852c-4b75ebf54838",
+    "cardName": "Arcane Signet",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arcane Signet",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add one mana of any color in your commander's color identity.",
+      "image": "https://api.scryfall.com/cards/named?exact=Arcane%20Signet&format=image&version=normal"
+    },
+    "end": 3657.01
+  },
+  {
+    "start": 3657.01,
+    "cardId": "ad0070db-6454-41cb-861f-8f5b8fc2a3b8",
+    "cardName": "Ghostly Flicker",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ghostly Flicker",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ghostly%20Flicker&format=image&version=normal"
+    },
+    "end": 3703.49
+  },
+  {
+    "start": 3703.49,
+    "cardId": "0fd57894-b917-41c8-a394-360d1d31b236",
+    "cardName": "Ephemerate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ephemerate",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature you control, then return it to the battlefield under its owner's control.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Ephemerate&format=image&version=normal"
+    },
+    "end": 3706.35
+  },
+  {
+    "start": 3706.35,
+    "cardId": "3aeba3c2-5517-4870-8802-29b0fa70ffae",
+    "cardName": "Semester's End",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Semester's End",
+      "manaCost": "{3}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile any number of target creatures and/or planeswalkers you control. At the beginning of the next end step, return each of them to the battlefield under its owner's control. Each of them enters with an additional +1/+1 counter on it if it's a creature and an additional loyalty counter on it if it's a planeswalker.",
+      "image": "https://api.scryfall.com/cards/named?exact=Semester's%20End&format=image&version=normal"
+    },
+    "end": 3728.37
+  },
+  {
+    "start": 3728.37,
+    "cardId": "0fd57894-b917-41c8-a394-360d1d31b236",
+    "cardName": "Ephemerate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ephemerate",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature you control, then return it to the battlefield under its owner's control.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Ephemerate&format=image&version=normal"
+    },
+    "end": 3810.99
+  },
+  {
+    "start": 3810.99,
+    "cardId": "1edd4f50-05ee-43e0-a288-c26666910c8b",
+    "cardName": "Ardent Elementalist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ardent Elementalist",
+      "manaCost": "{3}{R}",
+      "typeLine": "Creature — Human Shaman",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ardent%20Elementalist&format=image&version=normal"
+    },
+    "end": 3910.69
+  },
+  {
+    "start": 3910.69,
+    "cardId": "d00607b1-77ce-4b89-ad04-763d0d390c5c",
+    "cardName": "Revolutionist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Revolutionist",
+      "manaCost": "{5}{R}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.\nMadness {3}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Revolutionist&format=image&version=normal"
+    },
+    "end": 3953.15
+  },
+  {
+    "start": 3953.15,
+    "cardId": "8973bd99-20f8-4867-90ef-50392147ee1b",
+    "cardName": "Wood Elves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wood Elves",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Scout",
+      "oracleText": "When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wood%20Elves&format=image&version=normal"
+    },
+    "end": 3957.55
+  },
+  {
+    "start": 3957.55,
+    "cardId": "5bb32efd-9e58-4021-bbda-4ffccfa1d601",
+    "cardName": "Druid of Purification",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Druid of Purification",
+      "manaCost": "{3}{G}",
+      "typeLine": "Creature — Human Druid",
+      "oracleText": "When this creature enters, starting with you, each player may choose an artifact or enchantment you don't control. Destroy each permanent chosen this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=Druid%20of%20Purification&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "5bb32efd-9e58-4021-bbda-4ffccfa1d601",
+        "cardName": "Druid of Purification",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Druid of Purification",
+          "manaCost": "{3}{G}",
+          "typeLine": "Creature — Human Druid",
+          "oracleText": "When this creature enters, starting with you, each player may choose an artifact or enchantment you don't control. Destroy each permanent chosen this way.",
+          "image": "https://api.scryfall.com/cards/named?exact=Druid%20of%20Purification&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "51f9a6cc-8eb2-44ed-a2d9-913ac514ad67",
+        "cardName": "Bane of Progress",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Bane of Progress",
+          "manaCost": "{4}{G}{G}",
+          "typeLine": "Creature — Elemental",
+          "oracleText": "When this creature enters, destroy all artifacts and enchantments. Put a +1/+1 counter on this creature for each permanent destroyed this way.",
+          "image": "https://api.scryfall.com/cards/named?exact=Bane%20of%20Progress&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 4036.95
+  },
+  {
+    "start": 4036.95,
+    "cardId": "51f9a6cc-8eb2-44ed-a2d9-913ac514ad67",
+    "cardName": "Bane of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bane of Progress",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "When this creature enters, destroy all artifacts and enchantments. Put a +1/+1 counter on this creature for each permanent destroyed this way.",
+      "image": "https://api.scryfall.com/cards/named?exact=Bane%20of%20Progress&format=image&version=normal"
+    },
+    "end": 4072.43
+  },
+  {
+    "start": 4072.43,
+    "cardId": "4c2b10ba-1930-4da8-9570-c89b2e239e3e",
+    "cardName": "Palladia-Mors, the Ruiner",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Palladia-Mors, the Ruiner",
+      "manaCost": "{3}{R}{G}{W}",
+      "typeLine": "Legendary Creature — Elder Dragon",
+      "oracleText": "Flying, vigilance, trample\nPalladia-Mors, the Ruiner has hexproof if it hasn't dealt damage yet.",
+      "image": "https://api.scryfall.com/cards/named?exact=Palladia-Mors%2C%20the%20Ruiner&format=image&version=normal"
+    },
+    "end": 4531.07
+  },
+  {
+    "start": 4531.07,
+    "cardId": "ddcd8a0a-7ac3-4400-a16f-8bb5aa50994e",
+    "cardName": "Ezrim, Agency Chief",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ezrim, Agency Chief",
+      "manaCost": "{1}{W}{W}{U}{U}",
+      "typeLine": "Legendary Creature — Archon Detective",
+      "oracleText": "Flying\nWhen Ezrim enters, investigate twice. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\n{1}, Sacrifice an artifact: Ezrim gains your choice of vigilance, lifelink, or hexproof until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ezrim%2C%20Agency%20Chief&format=image&version=normal"
+    },
+    "end": 4544.69
+  },
+  {
+    "start": 4544.69,
+    "cardId": "d05db2c1-a19a-4803-8e8a-fa2f9b798181",
+    "cardName": "Bard, King of Dale",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bard, King of Dale",
+      "manaCost": "{4}{W}{U}",
+      "typeLine": "Legendary Creature — Human Noble Archer",
+      "oracleText": "Reach, vigilance\nIf you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.\nIf one or more tokens would be created under your control, twice that many of those tokens are created instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Bard%2C%20King%20of%20Dale&format=image&version=normal"
+    },
+    "end": 4691.95
+  },
+  {
+    "start": 4691.95,
+    "cardId": "e1d294e8-67b1-4a4a-86b8-f98f28a327d9",
+    "cardName": "Promise of Loyalty",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Promise of Loyalty",
+      "manaCost": "{4}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player puts a vow counter on a creature they control and sacrifices the rest. Each of those creatures can't attack you or planeswalkers you control for as long as it has a vow counter on it.",
+      "image": "https://api.scryfall.com/cards/named?exact=Promise%20of%20Loyalty&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "e1d294e8-67b1-4a4a-86b8-f98f28a327d9",
+        "cardName": "Promise of Loyalty",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Promise of Loyalty",
+          "manaCost": "{4}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Each player puts a vow counter on a creature they control and sacrifices the rest. Each of those creatures can't attack you or planeswalkers you control for as long as it has a vow counter on it.",
+          "image": "https://api.scryfall.com/cards/named?exact=Promise%20of%20Loyalty&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "822ef47e-3f1b-40a6-8c5c-fea3d7deba5b",
+        "cardName": "Single Combat",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Single Combat",
+          "manaCost": "{3}{W}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Each player chooses a creature or planeswalker they control, then sacrifices the rest. Players can't cast creature or planeswalker spells until the end of your next turn.",
+          "image": "https://api.scryfall.com/cards/named?exact=Single%20Combat&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 5028.85
+  },
+  {
+    "start": 5028.85,
+    "cardId": "98a389f4-2905-47f3-b60e-3d4afb3e5cb0",
+    "cardName": "Enduring Innocence",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Enduring Innocence",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Enchantment Creature — Sheep Glimmer",
+      "oracleText": "Lifelink\nWhenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.\nWhen Enduring Innocence dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Enduring%20Innocence&format=image&version=normal"
+    },
+    "end": 5059.41
+  },
+  {
+    "start": 5059.41,
+    "cardId": "f3d48efa-910a-4872-a5b1-a353c5dbce99",
+    "cardName": "Pinnacle Monk // Mystic Peak",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Pinnacle Monk // Mystic Peak",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Creature — Djinn Monk",
+      "oracleText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Pinnacle%20Monk%20%2F%2F%20Mystic%20Peak&format=image&version=normal",
+      "faces": [
+        {
+          "name": "Pinnacle Monk",
+          "manaCost": "{3}{R}{R}",
+          "typeLine": "Creature — Djinn Monk",
+          "oracleText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen this creature enters, return target instant or sorcery card from your graveyard to your hand."
+        }
+      ]
+    },
+    "end": 5062.55
+  },
+  {
+    "start": 5062.55,
+    "cardId": "1edd4f50-05ee-43e0-a288-c26666910c8b",
+    "cardName": "Ardent Elementalist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ardent Elementalist",
+      "manaCost": "{3}{R}",
+      "typeLine": "Creature — Human Shaman",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ardent%20Elementalist&format=image&version=normal"
+    },
+    "end": 5156.75
+  },
+  {
+    "start": 5156.75,
+    "cardId": "240e85d3-e495-4877-8609-4b4056c402f7",
+    "cardName": "Victimize",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Victimize",
+      "manaCost": "{2}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.",
+      "image": "https://api.scryfall.com/cards/named?exact=Victimize&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "240e85d3-e495-4877-8609-4b4056c402f7",
+        "cardName": "Victimize",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Victimize",
+          "manaCost": "{2}{B}",
+          "typeLine": "Sorcery",
+          "oracleText": "Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.",
+          "image": "https://api.scryfall.com/cards/named?exact=Victimize&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "eea18c55-8695-4ba1-9b38-3e7638692f5f",
+        "cardName": "Saw in Half",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Saw in Half",
+          "manaCost": "{2}{B}",
+          "typeLine": "Instant",
+          "oracleText": "Destroy target creature. If that creature dies this way, its controller creates two tokens that are copies of that creature, except their power is half that creature's power and their toughness is half that creature's toughness. Round up each time.",
+          "image": "https://api.scryfall.com/cards/named?exact=Saw%20in%20Half&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 5260.67
+  },
+  {
+    "start": 5260.67,
+    "cardId": "1edd4f50-05ee-43e0-a288-c26666910c8b",
+    "cardName": "Ardent Elementalist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ardent Elementalist",
+      "manaCost": "{3}{R}",
+      "typeLine": "Creature — Human Shaman",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ardent%20Elementalist&format=image&version=normal"
+    },
+    "end": 5298.130000000001
+  },
+  {
+    "start": 5298.130000000001,
+    "cardId": "3aeba3c2-5517-4870-8802-29b0fa70ffae",
+    "cardName": "Semester's End",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Semester's End",
+      "manaCost": "{3}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile any number of target creatures and/or planeswalkers you control. At the beginning of the next end step, return each of them to the battlefield under its owner's control. Each of them enters with an additional +1/+1 counter on it if it's a creature and an additional loyalty counter on it if it's a planeswalker.",
+      "image": "https://api.scryfall.com/cards/named?exact=Semester's%20End&format=image&version=normal"
+    },
+    "end": 5348.95
+  },
+  {
+    "start": 5348.95,
+    "cardId": "8973bd99-20f8-4867-90ef-50392147ee1b",
+    "cardName": "Wood Elves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wood Elves",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Scout",
+      "oracleText": "When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wood%20Elves&format=image&version=normal"
+    },
+    "end": 5451.55
+  },
+  {
+    "start": 5451.55,
+    "cardId": "1e943e04-e213-4781-b1a7-935aad8790e1",
+    "cardName": "Intruder Alarm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Intruder Alarm",
+      "manaCost": "{2}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Creatures don't untap during their controllers' untap steps.\nWhenever a creature enters, untap all creatures.",
+      "image": "https://api.scryfall.com/cards/named?exact=Intruder%20Alarm&format=image&version=normal"
+    },
+    "end": 5727.95
+  },
+  {
+    "start": 5727.95,
+    "cardId": "7e00b0cd-d212-4604-ba07-da21f4fe00b0",
+    "cardName": "Sram, Senior Edificer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sram, Senior Edificer",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Dwarf Advisor",
+      "oracleText": "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sram%2C%20Senior%20Edificer&format=image&version=normal"
+    },
+    "end": 5736.05
+  },
+  {
+    "start": 5736.05,
+    "cardId": "987a0b61-2ce4-47bd-8f5e-1e7bf01d0869",
+    "cardName": "Sergeant John Benton",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sergeant John Benton",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Creature — Human Soldier",
+      "oracleText": "Trample, haste\nShare Intelligence — Whenever Sergeant John Benton deals combat damage to a player, you and that player each draw that many cards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sergeant%20John%20Benton&format=image&version=normal"
+    },
+    "end": 5945.59
+  },
+  {
+    "start": 5945.59,
+    "cardId": "92f6c063-a740-4c3c-a60a-569fd298854d",
+    "cardName": "Sphere of Safety",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sphere of Safety",
+      "manaCost": "{4}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Creatures can't attack you or planeswalkers you control unless their controller pays {X} for each of those creatures, where X is the number of enchantments you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sphere%20of%20Safety&format=image&version=normal"
+    },
+    "end": 5950.75
+  },
+  {
+    "start": 5950.75,
+    "cardId": "abd62af0-c17d-4f62-af15-9ea83037b990",
+    "cardName": "Privileged Position",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Privileged Position",
+      "manaCost": "{2}{G/W}{G/W}{G/W}",
+      "typeLine": "Enchantment",
+      "oracleText": "({G/W} can be paid with either {G} or {W}.)\nOther permanents you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Privileged%20Position&format=image&version=normal"
+    },
+    "end": 5973.59
+  },
+  {
+    "start": 5973.59,
+    "cardId": "b9538d53-480b-481a-abbf-83ab17e1a45b",
+    "cardName": "No Mercy",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "No Mercy",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a creature deals damage to you, destroy it.",
+      "image": "https://api.scryfall.com/cards/named?exact=No%20Mercy&format=image&version=normal"
+    },
+    "end": 5980.85
+  },
+  {
+    "start": 5980.85,
+    "cardId": "e828b189-0e8f-43b8-b909-4c23e742e028",
+    "cardName": "Ghostly Prison",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ghostly Prison",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ghostly%20Prison&format=image&version=normal"
+    },
+    "end": 6224.93
+  },
+  {
+    "start": 6224.93,
+    "cardId": "e828b189-0e8f-43b8-b909-4c23e742e028",
+    "cardName": "Ghostly Prison",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ghostly Prison",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ghostly%20Prison&format=image&version=normal"
+    }
+  }
+]

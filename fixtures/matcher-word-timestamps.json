@@ -1,0 +1,21 @@
+{
+  "segments": [
+    {
+      "start": 8,
+      "end": 16,
+      "text": "Let us talk about Gavi, Nest Warden and Arcane Signet.",
+      "words": [
+        { "word": " Let", "start": 8, "end": 8.2 },
+        { "word": " us", "start": 8.2, "end": 8.4 },
+        { "word": " talk", "start": 8.4, "end": 8.7 },
+        { "word": " about", "start": 8.7, "end": 9 },
+        { "word": " Gavi,", "start": 12, "end": 12.4 },
+        { "word": " Nest", "start": 12.4, "end": 12.7 },
+        { "word": " Warden", "start": 12.7, "end": 13.2 },
+        { "word": " and", "start": 13.2, "end": 13.4 },
+        { "word": " Arcane", "start": 13.4, "end": 13.8 },
+        { "word": " Signet.", "start": 13.8, "end": 14.2 }
+      ]
+    }
+  ]
+}

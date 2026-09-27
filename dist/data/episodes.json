@@ -18,7 +18,8 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/354-Keyword_Commanders_for_Indirect_Support_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/commanders-with-keywords-to-support-bottom-up-builds",
     "artwork": "https://static.libsyn.com/p/assets/a/a/2/b/aa2b91a1b35c2d28d959afa2a1bf1c87/354-Thumbnail_2000x2000.png",
-    "processed": false,
+    "cueSheet": "./data/commanders-with-keywords-to-support-bottom-up-builds.cues.json",
+    "processed": true,
     "source": "Legendary Creature Podcast RSS"
   },
   {

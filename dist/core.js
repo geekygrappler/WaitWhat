@@ -44,6 +44,11 @@ export function cardImage(card) {
   return card?.image || card?.faces?.find((face) => face.image)?.image || "";
 }
 
+export function cardsForCue(cue) {
+  if (!cue) return [];
+  return cue.cards?.length ? cue.cards : [{ cardId: cue.cardId, cardName: cue.cardName, card: cue.card }];
+}
+
 export function formatTime(value) {
   if (!Number.isFinite(value)) return "0:00";
   const seconds = Math.max(0, Math.floor(value));

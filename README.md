@@ -1,12 +1,12 @@
 # Wait, What?
 
-**Legendary Creature Edition** — a mobile-first, installable web player for the Legendary Creature Podcast. The player uses the audio element's real `currentTime` to show the Magic card being discussed, so returning after a phone lock does not depend on background JavaScript timers.
+An installable, mobile-first web player for **Legendary Creature Podcast**, **MTGGoldfish Podcast**, and **MTGGoldfish Commander Clash Podcast**. A landing page and persistent podcast selector make each show independently browsable. The player uses the audio element's real `currentTime` to show the Magic card being discussed, so returning after a phone lock does not depend on background JavaScript timers.
 
 ## First milestone
 
 The prototype is wired to both **The Hobbit | Legends Review** and **The Hobbit | Cards for the Other 99** from August 2026. It plays the episodes' Libsyn enclosures and includes reviewed full-episode cue sheets generated from the publisher's timestamped transcripts. The publisher's transcripts and player refer to the same Libsyn episode assets.
 
-The episode selector is populated from the current RSS feed snapshot. Episodes without cue sheets are visible but disabled; run the processing workflow before enabling one.
+Each episode selector is populated from its current RSS feed snapshot. Episodes without cue sheets remain playable and show a clear card-syncing-pending state; run the processing workflow to add synchronized cards.
 
 ## Run locally
 
@@ -22,11 +22,13 @@ Open `http://localhost:4173`. Run the fast timestamp-selection tests with:
 npm test
 ```
 
-Refresh the static episode list from the RSS feed:
+Refresh the static episode lists from all three RSS feeds:
 
 ```bash
 npm run refresh-feed
 ```
+
+Refresh only one feed with `--show=legendary-creature`, `--show=mtggoldfish`, or `--show=commander-clash`.
 
 No application server, database, account, or API key is required during playback.
 
@@ -59,6 +61,21 @@ npm run process-episode -- \
 
 For an existing audio file, use `--audio episode.mp3`. For a publisher-provided transcript or a prior transcription, use `--transcript episode.srt`; both SRT and Whisper JSON are accepted. The bulk catalogue is cached in `.cache/scryfall/` and subsequent runs do not make per-card API calls.
 
+To match every correctly transcribed card name against TurnZero's local MTGJSON catalogue, use the AtomicCards file without a set filter:
+
+```bash
+npm run process-episode -- \
+  --transcript episode.srt \
+  --catalogue catalog/AtomicCards.json \
+  --sets all \
+  --exact-only \
+  --output dist/data/episode.cues.json
+```
+
+MTGJSON does not carry a preferred printing image in `AtomicCards.json`, so generated cues use Scryfall's exact-name image endpoint while all names, rules text, mana costs, and type lines come from the local catalogue.
+
+Exact spelling alone is not enough for common words that are also card names (for example `Consider`) or the first face of a split card (for example `Down // Dirty`). After reviewing matches in context, save the accepted canonical names as a JSON array and pass it with `--approved-cards reviews/episode.approved-cards.json`. This makes a reviewed cue sheet reproducible without hand-editing generated JSON.
+
 Review generated cues, correct or remove low-confidence items, add the final cue-sheet path to `dist/data/episodes.json`, and set that episode's `processed` field to `true`. The matcher can tolerate whole-name transcription errors such as "Keeley the Resourceful" because it scores word windows, but it never emits a cue unless the result maps to an actual Scryfall record.
 
 Double-faced and Adventure layouts are retained through `card_faces`; the UI renders face-specific rules and falls back to a face image when top-level `image_uris` is absent.
@@ -84,9 +101,9 @@ The app also reconciles on `seeking`, `seeked`, `play`, `playing`, `pageshow`, w
 ## Project layout
 
 - `dist/` — deployable static PWA.
-- `dist/data/` — RSS snapshot and static cue sheets.
-- `scripts/fetch-rss.mjs` — RSS ingestion.
+- `dist/data/` — show catalogue, per-show RSS snapshots, and static cue sheets.
+- `scripts/fetch-rss.mjs` — multi-feed RSS ingestion.
 - `scripts/process-episode.mjs` — audio download, transcription orchestration, bulk-catalogue matching, and cue generation.
 - `tests/` — cue selection, history, image fallback, and time-formatting tests.
 
-Scryfall card data and images are used in accordance with Scryfall's public API guidance. This is an unofficial fan prototype and is not affiliated with Legendary Creature Podcast, Wizards of the Coast, or Scryfall.
+Scryfall card data and images are used in accordance with Scryfall's public API guidance. This is an unofficial fan prototype and is not affiliated with Legendary Creature Podcast, MTGGoldfish, Wizards of the Coast, or Scryfall.

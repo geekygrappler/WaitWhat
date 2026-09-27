@@ -5,24 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#ff6b00" />
     <meta name="apple-mobile-web-app-title" content="Wait, What?" />
-    <meta name="description" content="Listen to Legendary Creature Podcast with the current Magic card in view." />
+    <meta name="description" content="Listen to Magic podcasts with the current card in view." />
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icon.svg" />
-    <link rel="stylesheet" href="./styles.css" />
-    <title>Wait, What? Legendary Creature Edition</title>
+    <link rel="stylesheet" href="./styles.css?v=14" />
+    <title>Wait, What? Magic Podcast Companion</title>
   </head>
   <body>
     <header class="topbar">
-      <a class="brand" href="./" aria-label="Wait, What? home">
+      <a id="brand-link" class="brand" href="./" aria-label="Wait, What? podcast home">
         <span class="brand-mark">WW</span>
-        <span class="brand-copy"><strong>Wait, What?</strong> <small>Legendary Creature Edition</small></span>
+        <span class="brand-copy"><strong>Wait, What?</strong> <small id="brand-edition">Magic podcast companion</small></span>
       </a>
-      <label class="episode-picker">
+      <nav class="podcast-nav" aria-label="Podcast navigation">
+        <label class="sr-only" for="show-select">Select podcast</label>
+        <select id="show-select" aria-label="Select podcast"></select>
+      </nav>
+      <label id="episode-picker" class="episode-picker" hidden>
         <select id="episode-select" aria-label="Select episode"></select>
       </label>
     </header>
 
-    <main class="app-shell">
+    <main id="landing" class="landing">
+      <div class="landing-intro">
+        <p class="section-kicker">Choose a feed</p>
+        <h1>What are we listening to?</h1>
+        <p>Pick a podcast to browse its latest episodes. Episodes with reviewed cue sheets will follow the conversation with the current Magic card.</p>
+      </div>
+      <div id="show-grid" class="show-grid"></div>
+    </main>
+
+    <main id="app-shell" class="app-shell" hidden>
       <section class="now-card" aria-labelledby="card-title">
         <div class="section-kicker"><span class="live-dot"></span>Now discussing</div>
         <div id="card-stage" class="card-stage" aria-live="polite">
@@ -35,7 +48,7 @@
         </div>
       </section>
 
-      <aside class="recent-panel" aria-labelledby="recent-title">
+      <aside id="recent-panel" class="recent-panel" aria-labelledby="recent-title">
         <div class="recent-heading">
           <div>
             <p class="section-kicker">On the trail</p>
@@ -57,12 +70,12 @@
       </aside>
     </main>
 
-    <section class="player" aria-label="Audio player">
+    <section id="player" class="player" aria-label="Audio player" hidden>
       <div class="episode-line">
         <img id="episode-art" alt="" />
         <div>
           <div id="episode-title" class="episode-title"><span>Loading episode…</span></div>
-          <span id="episode-status">Legendary Creature Podcast</span>
+          <span id="episode-status">Podcast episode</span>
         </div>
       </div>
       <div class="timeline-row">
@@ -89,6 +102,6 @@
     </section>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js"></script>
+    <script type="module" src="./app.js?v=14"></script>
   </body>
 </html>

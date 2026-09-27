@@ -1,0 +1,29 @@
+[
+  {
+    "id": "legendary-creature",
+    "title": "Legendary Creature Podcast",
+    "shortTitle": "Legendary Creature",
+    "description": "Commander theory, deck building, and set reviews.",
+    "feedUrl": "https://legendarycreaturepocast.libsyn.com/rss",
+    "episodesUrl": "./data/episodes.json",
+    "artwork": "https://ssl-static.libsyn.com/p/assets/b/8/9/9/b899fe0c20eeaa35/legendary_creature_itunes_1400.jpg"
+  },
+  {
+    "id": "mtggoldfish",
+    "title": "MTGGoldfish Podcast",
+    "shortTitle": "MTGGoldfish",
+    "description": "Weekly Magic news, formats, previews, and community questions.",
+    "feedUrl": "https://www.mtggoldfish.com/podcasts/feed.rss",
+    "episodesUrl": "./data/mtggoldfish.episodes.json",
+    "artwork": ""
+  },
+  {
+    "id": "commander-clash",
+    "title": "MTGGoldfish Commander Clash Podcast",
+    "shortTitle": "Commander Clash",
+    "description": "Commander discussion, rankings, cards, and table talk.",
+    "feedUrl": "https://www.mtggoldfish.com/podcasts/feed_commander_clash.rss",
+    "episodesUrl": "./data/commander-clash.episodes.json",
+    "artwork": ""
+  }
+]

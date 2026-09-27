@@ -18,19 +18,35 @@ await mkdir(cacheDir, { recursive: true });
 const audioPath = args.audio ? path.resolve(args.audio) : args.url ? await downloadAudio(args.url, processingDir) : null;
 const transcriptPath = args.transcript ? path.resolve(args.transcript) : await transcribe(audioPath, processingDir, args.model || "turbo");
 const segments = await loadSegments(transcriptPath);
-const catalogue = await loadCatalogue(cacheDir, args.catalogue);
-const setFilter = new Set((args.sets || "hob,hoc").split(",").map((set) => set.trim().toLowerCase()).filter(Boolean));
-const cards = preferredCards(catalogue.filter((card) => card.lang === "en" && (!setFilter.size || setFilter.has(card.set))));
+const catalogue = normalizeCatalogue(await loadCatalogue(cacheDir, args.catalogue));
+const requestedSets = args.sets ?? "hob,hoc";
+const setFilter = new Set(/^(all|\*)$/i.test(requestedSets) ? [] : requestedSets.split(",").map((set) => set.trim().toLowerCase()).filter(Boolean));
+const approvedCards = args["approved-cards"]
+  ? new Set(JSON.parse(await readFile(path.resolve(args["approved-cards"]), "utf8")))
+  : null;
+const cards = preferredCards(catalogue.filter((card) => card.lang === "en" && (!setFilter.size || setFilter.has(card.set))))
+  .filter((card) => !approvedCards || approvedCards.has(card.name));
 const threshold = Number(args.threshold || 0.84);
-const matches = matchSegments(segments, cards, threshold);
-const cues = collapseMatches(matches).map(({ segment, card, confidence }) => ({
-  start: segment.start,
-  cardId: card.id,
-  cardName: card.name,
-  confidence: Number(confidence.toFixed(3)),
-  needsReview: confidence < 0.94,
-  card: compactCard(card)
-}));
+const matches = matchSegments(segments, cards, threshold, Boolean(args["exact-only"]));
+const cues = groupMatches(collapseMatches(matches)).map((group) => {
+  const [{ segment, card, confidence }] = group;
+  const cards = group.map((match) => ({
+    cardId: match.card.id,
+    cardName: match.card.name,
+    confidence: Number(match.confidence.toFixed(3)),
+    needsReview: match.confidence < 0.94,
+    card: compactCard(match.card)
+  }));
+  return {
+    start: segment.start,
+    cardId: card.id,
+    cardName: card.name,
+    confidence: Number(confidence.toFixed(3)),
+    needsReview: confidence < 0.94,
+    card: compactCard(card),
+    ...(cards.length > 1 ? { cards } : {})
+  };
+});
 cues.forEach((cue, index) => { cue.end = cues[index + 1]?.start; });
 
 const output = path.resolve(args.output || "dist/data/generated.cues.json");
@@ -59,16 +75,22 @@ async function downloadAudio(url, outputDir) {
 async function loadSegments(filePath) {
   const text = await readFile(filePath, "utf8");
   if (filePath.endsWith(".srt")) {
-    return text.replace(/^\uFEFF/, "").split(/\r?\n\r?\n/).map((block) => {
+    return text.replace(/^\uFEFF/, "").split(/\r?\n\r?\n/).map((block, sourceIndex) => {
       const lines = block.split(/\r?\n/);
       const timing = lines.find((line) => line.includes(" --> "));
       if (!timing) return null;
       const [start, end] = timing.split(" --> ").map(srtTime);
-      return { start, end, text: lines.slice(lines.indexOf(timing) + 1).join(" ") };
+      return { start, end, text: lines.slice(lines.indexOf(timing) + 1).join(" "), sourceIndex };
     }).filter(Boolean);
   }
   const json = JSON.parse(text);
-  return (json.segments || json).map((segment) => ({ start: Number(segment.start), end: Number(segment.end), text: segment.text || "" }));
+  return (json.segments || json).map((segment, sourceIndex) => ({
+    start: Number(segment.start),
+    end: Number(segment.end),
+    text: segment.text || "",
+    sourceIndex,
+    words: segment.words?.map((word) => ({ text: word.word || word.text || "", start: Number(word.start), end: Number(word.end) }))
+  }));
 }
 
 async function loadCatalogue(cache, suppliedPath) {
@@ -85,6 +107,33 @@ async function loadCatalogue(cache, suppliedPath) {
   return JSON.parse(await readFile(destination, "utf8"));
 }
 
+function normalizeCatalogue(catalogue) {
+  if (Array.isArray(catalogue)) return catalogue;
+  if (!catalogue?.data || Array.isArray(catalogue.data) || typeof catalogue.data !== "object") {
+    throw new Error("Catalogue must be a Scryfall array or an MTGJSON AtomicCards data object");
+  }
+  return Object.entries(catalogue.data).flatMap(([canonicalName, entries]) => (entries || []).map((entry) => {
+    const name = entry.name || canonicalName;
+    const oracleId = entry.identifiers?.scryfallOracleId;
+    return {
+      id: oracleId || `mtgjson:${normalize(name)}`,
+      name,
+      lang: "en",
+      set: entry.printings?.[0]?.toLowerCase(),
+      mana_cost: entry.manaCost,
+      type_line: entry.type,
+      oracle_text: entry.text,
+      image_uris: { normal: `https://api.scryfall.com/cards/named?exact=${encodeURIComponent(name)}&format=image&version=normal` },
+      card_faces: entry.faceName ? [{
+        name: entry.faceName,
+        mana_cost: entry.manaCost,
+        type_line: entry.type,
+        oracle_text: entry.text
+      }] : undefined
+    };
+  }));
+}
+
 function preferredCards(cards) {
   const byName = new Map();
   for (const card of cards) {
@@ -94,12 +143,14 @@ function preferredCards(cards) {
   return [...byName.values()].filter((card) => normalize(card.name.split(" // ")[0]).length >= 4);
 }
 
-function matchSegments(segments, cards, threshold) {
-  const results = [];
+function matchSegments(segments, cards, threshold, exactOnly = false) {
   const matchableCards = cards.map((card) => {
     const primary = normalize(card.name.split(" // ")[0]);
-    return { card, primary, phoneticKeys: new Set(primary.split(" ").map(soundex)) };
+    return { card, primary, words: primary.split(" "), phoneticKeys: new Set(primary.split(" ").map(soundex)) };
   });
+  const results = exactMatches(segments, matchableCards);
+  if (exactOnly) return results;
+  const exactSegments = new Set(results.map((result) => result.segment));
   const cardsByPhoneticKey = new Map();
   for (const candidate of matchableCards) {
     for (const key of candidate.phoneticKeys) {
@@ -109,15 +160,9 @@ function matchSegments(segments, cards, threshold) {
     }
   }
   for (let index = 0; index < segments.length; index += 1) {
-    const windowText = normalize(segments.slice(index, index + 3).map((segment) => segment.text).join(" "));
+    if (exactSegments.has(segments[index])) continue;
+    const windowText = normalize(segments[index].text);
     let best = null;
-    for (const candidate of matchableCards) {
-      if (windowText.includes(candidate.primary) && (!best || candidate.primary.length > best.primary.length)) best = candidate;
-    }
-    if (best) {
-      results.push({ segment: segments[index], card: best.card, confidence: 1 });
-      continue;
-    }
     const candidates = new Set();
     for (const word of windowText.split(" ")) {
       for (const candidate of cardsByPhoneticKey.get(soundex(word)) || []) candidates.add(candidate);
@@ -127,6 +172,33 @@ function matchSegments(segments, cards, threshold) {
       if (score >= threshold && (!best || score > best.confidence)) best = { ...candidate, confidence: score };
     }
     if (best) results.push({ segment: segments[index], card: best.card, confidence: best.confidence });
+  }
+  return results.sort((a, b) => a.segment.start - b.segment.start);
+}
+
+function exactMatches(segments, cards) {
+  const byFirstWord = new Map();
+  for (const candidate of cards) {
+    const matches = byFirstWord.get(candidate.words[0]) || [];
+    matches.push(candidate);
+    byFirstWord.set(candidate.words[0], matches);
+  }
+  for (const matches of byFirstWord.values()) matches.sort((a, b) => b.words.length - a.words.length);
+
+  const tokens = segments.flatMap((segment, segmentIndex) => segment.words?.length
+    ? segment.words.flatMap((timedWord) => normalize(timedWord.text).split(" ").filter(Boolean).map((word) => ({ word, start: timedWord.start, segment, segmentIndex })))
+    : normalize(segment.text).split(" ").filter(Boolean).map((word) => ({ word, start: segment.start, segment, segmentIndex })));
+  const results = [];
+  for (let index = 0; index < tokens.length; index += 1) {
+    const candidates = byFirstWord.get(tokens[index].word) || [];
+    for (const candidate of candidates) {
+      const slice = tokens.slice(index, index + candidate.words.length);
+      if (slice.length !== candidate.words.length || slice.at(-1).segmentIndex - slice[0].segmentIndex > 2) continue;
+      if (candidate.words.every((word, wordIndex) => slice[wordIndex].word === word)) {
+        results.push({ segment: { ...tokens[index].segment, start: tokens[index].start }, card: candidate.card, confidence: 1 });
+        break;
+      }
+    }
   }
   return results;
 }
@@ -185,6 +257,17 @@ function collapseMatches(matches) {
   return result;
 }
 
+function groupMatches(matches, maximumSpan = 8) {
+  const groups = [];
+  for (const match of matches) {
+    const current = groups.at(-1);
+    const first = current?.[0];
+    if (first && first.segment.sourceIndex === match.segment.sourceIndex && match.segment.start - first.segment.start <= maximumSpan) current.push(match);
+    else groups.push([match]);
+  }
+  return groups;
+}
+
 function compactCard(card) {
   return {
     name: card.name,
@@ -199,4 +282,4 @@ function compactCard(card) {
 function normalize(text) { return text.toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, " ").trim(); }
 function srtTime(value) { const [clock, ms] = value.trim().split(","); const [hours, minutes, seconds] = clock.split(":").map(Number); return hours * 3600 + minutes * 60 + seconds + Number(ms) / 1000; }
 function parseArgs(values) { const parsed = {}; for (let index = 0; index < values.length; index += 1) { const key = values[index]; if (key.startsWith("--")) parsed[key.slice(2)] = values[index + 1]?.startsWith("--") ? true : values[++index]; } return parsed; }
-function usage() { console.error("Usage: npm run process-episode -- --url AUDIO_URL --output dist/data/episode.cues.json [--sets hob,hoc]\n   or: npm run process-episode -- --audio episode.mp3 --output dist/data/episode.cues.json\n   or: npm run process-episode -- --transcript episode.srt --output dist/data/episode.cues.json"); process.exit(1); }
+function usage() { console.error("Usage: npm run process-episode -- --url AUDIO_URL --output dist/data/episode.cues.json [--sets hob,hoc]\n   or: npm run process-episode -- --audio episode.mp3 --output dist/data/episode.cues.json\n   or: npm run process-episode -- --transcript episode.srt --catalogue AtomicCards.json --sets all --exact-only [--approved-cards review.json] --output dist/data/episode.cues.json"); process.exit(1); }
