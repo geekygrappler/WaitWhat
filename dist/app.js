@@ -5,7 +5,7 @@ const audio = $("audio");
 const timeline = $("timeline");
 const playButton = $("play");
 const playIcon = $("play-icon");
-const state = { shows: [], show: null, episodes: [], episode: null, cues: [], activeCueId: null, activeCue: null, focusedCue: null, cardOptionIndex: 0, recentSignature: "", upcomingSignature: "", scrubbing: false, toastTimer: null };
+const state = { shows: [], show: null, episodes: [], episode: null, cues: [], activeCueId: null, activeCue: null, focusedCue: null, focusedFromPlaybackCueKey: null, cardOptionIndex: 0, recentSignature: "", upcomingSignature: "", scrubbing: false, toastTimer: null };
 
 async function init() {
   state.shows = await fetch("./data/shows.json").then(checkResponse).then((response) => response.json());
@@ -86,6 +86,7 @@ async function loadEpisode(episode) {
   state.activeCueId = null;
   state.activeCue = null;
   state.focusedCue = null;
+  state.focusedFromPlaybackCueKey = null;
   state.recentSignature = "";
   state.upcomingSignature = "";
   audio.src = episode.audioUrl;
@@ -119,7 +120,7 @@ function bindControls() {
 
   timeline.addEventListener("pointerdown", () => { state.scrubbing = true; });
   timeline.addEventListener("input", () => {
-    state.focusedCue = null;
+    clearFocusedCue();
     $("elapsed").textContent = formatTime(Number(timeline.value));
     renderAtTime(Number(timeline.value));
   });
@@ -146,7 +147,7 @@ function togglePlayback() {
 function seekBy(delta) { seekTo((audio.currentTime || 0) + delta, !audio.paused); }
 function seekTo(time, resume = false) {
   if (!state.episode) return;
-  state.focusedCue = null;
+  clearFocusedCue();
   audio.currentTime = Math.max(0, Math.min(time, audio.duration || state.episode.duration));
   reconcileFromAudio();
   if (resume) audio.play().catch(() => {});
@@ -177,6 +178,7 @@ function renderAtTime(time) {
     return;
   }
   const cue = cueAtTime(state.cues, time);
+  if (state.focusedCue && playbackCueKey(cue) !== state.focusedFromPlaybackCueKey) clearFocusedCue();
   if (!state.focusedCue) {
     const cueId = cue?.cardId || `empty-${Math.floor(time)}`;
     if (state.activeCueId !== cueId) {
@@ -271,12 +273,22 @@ function renderCueList(listId, cues) {
 
 function focusCue(cue) {
   state.focusedCue = cue;
+  state.focusedFromPlaybackCueKey = playbackCueKey(cueAtTime(state.cues, Number(audio.currentTime) || 0));
   state.activeCueId = `focused-${cue.start}-${cue.cardId}`;
   state.activeCue = cue;
   state.cardOptionIndex = 0;
   renderCard(cue);
   updateCardContext();
   syncCueListSelection();
+}
+
+function clearFocusedCue() {
+  state.focusedCue = null;
+  state.focusedFromPlaybackCueKey = null;
+}
+
+function playbackCueKey(cue) {
+  return cue ? `${cue.start}:${cue.cardId}` : null;
 }
 
 function updateCardContext() {
