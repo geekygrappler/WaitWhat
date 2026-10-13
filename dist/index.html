@@ -8,7 +8,7 @@
     <meta name="description" content="Listen to Magic podcasts with the current card in view." />
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icon.svg" />
-    <link rel="stylesheet" href="./styles.css?v=14" />
+    <link rel="stylesheet" href="./styles.css?v=15" />
     <title>Wait, What? Magic Podcast Companion</title>
   </head>
   <body>
@@ -37,7 +37,7 @@
 
     <main id="app-shell" class="app-shell" hidden>
       <section class="now-card" aria-labelledby="card-title">
-        <div class="section-kicker"><span class="live-dot"></span>Now discussing</div>
+        <div class="section-kicker"><span class="live-dot"></span><span id="card-context">Now discussing</span></div>
         <div id="card-stage" class="card-stage" aria-live="polite">
           <div class="empty-card">
             <div class="empty-card-glyph">⌁</div>
@@ -54,7 +54,7 @@
             <p class="section-kicker">On the trail</p>
             <h2 id="recent-title">Recently mentioned</h2>
           </div>
-          <span class="tap-hint">Tap to replay</span>
+          <span class="tap-hint">Tap a card to preview</span>
         </div>
         <ol id="recent-list" class="recent-list"></ol>
         <p id="recent-empty" class="recent-empty">Cards will collect here as the conversation moves on.</p>
@@ -62,7 +62,7 @@
         <div class="upcoming-section" aria-labelledby="upcoming-title">
           <div class="recent-heading">
             <h2 id="upcoming-title">Up ahead</h2>
-            <span class="tap-hint">Tap to skip</span>
+            <span class="tap-hint">Tap a card to preview</span>
           </div>
           <ol id="upcoming-list" class="recent-list upcoming-list"></ol>
           <p id="upcoming-empty" class="recent-empty">No more reviewed card mentions in this episode.</p>
@@ -102,6 +102,6 @@
     </section>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=14"></script>
+    <script type="module" src="./app.js?v=15"></script>
   </body>
 </html>

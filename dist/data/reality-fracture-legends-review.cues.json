@@ -1,0 +1,1081 @@
+[
+  {
+    "start": 220.58,
+    "cardId": "b0db02cb-d029-46d5-9df2-dee980047758",
+    "cardName": "Dack Fayden, Helping Hand",
+    "confidence": 0.946,
+    "needsReview": false,
+    "card": {
+      "name": "Dack Fayden, Helping Hand",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Legendary Creature — Human Advisor",
+      "oracleText": "When Dack Fayden enters, reveal cards from the top of your library until you reveal X creature cards, where X is the number of opponents you have. Put those creature cards onto the battlefield, then shuffle. They're goaded for the rest of the game. For each of those permanents, choose a different opponent. Each opponent gains control of the permanent for which they were chosen.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0db02cb-d029-46d5-9df2-dee980047758.jpg?1789644199"
+    },
+    "end": 506.04
+  },
+  {
+    "start": 506.04,
+    "cardId": "b0db02cb-d029-46d5-9df2-dee980047758",
+    "cardName": "Dack Fayden, Helping Hand",
+    "confidence": 0.946,
+    "needsReview": false,
+    "card": {
+      "name": "Dack Fayden, Helping Hand",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Legendary Creature — Human Advisor",
+      "oracleText": "When Dack Fayden enters, reveal cards from the top of your library until you reveal X creature cards, where X is the number of opponents you have. Put those creature cards onto the battlefield, then shuffle. They're goaded for the rest of the game. For each of those permanents, choose a different opponent. Each opponent gains control of the permanent for which they were chosen.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0db02cb-d029-46d5-9df2-dee980047758.jpg?1789644199"
+    },
+    "end": 510.38
+  },
+  {
+    "start": 510.38,
+    "cardId": "a9f3aa55-908f-42db-8135-4201433df850",
+    "cardName": "Ghalta the Immovable",
+    "confidence": 0.967,
+    "needsReview": false,
+    "card": {
+      "name": "Ghalta the Immovable",
+      "manaCost": "{8}{W}",
+      "typeLine": "Legendary Creature — Elder Dinosaur",
+      "oracleText": "This spell costs {X} less to cast, where X is the greatest toughness among creatures you control.\nCreatures you control can attack as though they didn't have defender.\nEach creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9f3aa55-908f-42db-8135-4201433df850.jpg?1789014423"
+    },
+    "end": 938.44
+  },
+  {
+    "start": 938.44,
+    "cardId": "a9f3aa55-908f-42db-8135-4201433df850",
+    "cardName": "Ghalta the Immovable",
+    "confidence": 0.967,
+    "needsReview": false,
+    "card": {
+      "name": "Ghalta the Immovable",
+      "manaCost": "{8}{W}",
+      "typeLine": "Legendary Creature — Elder Dinosaur",
+      "oracleText": "This spell costs {X} less to cast, where X is the greatest toughness among creatures you control.\nCreatures you control can attack as though they didn't have defender.\nEach creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9f3aa55-908f-42db-8135-4201433df850.jpg?1789014423"
+    },
+    "end": 1488.18
+  },
+  {
+    "start": 1488.18,
+    "cardId": "a022d35a-9d24-4818-9ff3-a522cfcb178e",
+    "cardName": "Ob Nixilis, the Ascended",
+    "confidence": 0.913,
+    "needsReview": false,
+    "card": {
+      "name": "Ob Nixilis, the Ascended",
+      "manaCost": "{5}{W}{W}",
+      "typeLine": "Legendary Creature — Angel",
+      "oracleText": "Flying\nWhen Ob Nixilis enters, destroy all tapped creatures your opponents control. You gain 1 life for each creature destroyed this way.\nAt the beginning of each end step, if you gained life this turn, create a 4/4 white Angel creature token with flying.",
+      "image": "https://cards.scryfall.io/normal/front/a/0/a022d35a-9d24-4818-9ff3-a522cfcb178e.jpg?1789644205"
+    },
+    "end": 1684.1
+  },
+  {
+    "start": 1684.1,
+    "cardId": "699874e3-1ccf-4a6c-8371-61040de82d08",
+    "cardName": "Rescue Girl, First Responder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rescue Girl, First Responder",
+      "manaCost": "{2}{W}",
+      "typeLine": "Legendary Creature — Human Cleric",
+      "oracleText": "Flying\n{T}: Return another target permanent you control to its owner's hand. Activate only during your turn.",
+      "image": "https://cards.scryfall.io/normal/front/6/9/699874e3-1ccf-4a6c-8371-61040de82d08.jpg?1789645598"
+    },
+    "end": 1952.56
+  },
+  {
+    "start": 1952.56,
+    "cardId": "699874e3-1ccf-4a6c-8371-61040de82d08",
+    "cardName": "Rescue Girl, First Responder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rescue Girl, First Responder",
+      "manaCost": "{2}{W}",
+      "typeLine": "Legendary Creature — Human Cleric",
+      "oracleText": "Flying\n{T}: Return another target permanent you control to its owner's hand. Activate only during your turn.",
+      "image": "https://cards.scryfall.io/normal/front/6/9/699874e3-1ccf-4a6c-8371-61040de82d08.jpg?1789645598"
+    },
+    "end": 1983.8000000000002
+  },
+  {
+    "start": 1983.8000000000002,
+    "cardId": "ccbe92a5-42bc-4228-9d5a-212df2f5dc15",
+    "cardName": "Yuriko, Blade of the Mighty",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Yuriko, Blade of the Mighty",
+      "manaCost": "{3}{W}",
+      "typeLine": "Legendary Creature — Human Samurai",
+      "oracleText": "During combat, players can't cast spells or activate abilities that aren't mana abilities.\nWhenever a creature you control attacks a player alone, it gains double strike until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/c/c/ccbe92a5-42bc-4228-9d5a-212df2f5dc15.jpg?1789128047"
+    },
+    "end": 2226.96
+  },
+  {
+    "start": 2226.96,
+    "cardId": "ccbe92a5-42bc-4228-9d5a-212df2f5dc15",
+    "cardName": "Yuriko, Blade of the Mighty",
+    "confidence": 0.867,
+    "needsReview": false,
+    "card": {
+      "name": "Yuriko, Blade of the Mighty",
+      "manaCost": "{3}{W}",
+      "typeLine": "Legendary Creature — Human Samurai",
+      "oracleText": "During combat, players can't cast spells or activate abilities that aren't mana abilities.\nWhenever a creature you control attacks a player alone, it gains double strike until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/c/c/ccbe92a5-42bc-4228-9d5a-212df2f5dc15.jpg?1789128047"
+    },
+    "end": 2233.18
+  },
+  {
+    "start": 2233.18,
+    "cardId": "9c334530-0880-46b5-a358-9603eee3cecf",
+    "cardName": "Geist of Saint Thalia",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Geist of Saint Thalia",
+      "manaCost": "{1}{U}",
+      "typeLine": "Legendary Creature — Spirit Cleric",
+      "oracleText": "Flying\nNoncreature spells you cast cost {1} less to cast.",
+      "image": "https://cards.scryfall.io/normal/front/9/c/9c334530-0880-46b5-a358-9603eee3cecf.jpg?1789128026"
+    },
+    "end": 2405.28
+  },
+  {
+    "start": 2405.28,
+    "cardId": "9c334530-0880-46b5-a358-9603eee3cecf",
+    "cardName": "Geist of Saint Thalia",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Geist of Saint Thalia",
+      "manaCost": "{1}{U}",
+      "typeLine": "Legendary Creature — Spirit Cleric",
+      "oracleText": "Flying\nNoncreature spells you cast cost {1} less to cast.",
+      "image": "https://cards.scryfall.io/normal/front/9/c/9c334530-0880-46b5-a358-9603eee3cecf.jpg?1789128026"
+    },
+    "end": 2415.38
+  },
+  {
+    "start": 2415.38,
+    "cardId": "a5183681-447b-4023-91f7-00e9338f4417",
+    "cardName": "Lyra, Tolarian Archangel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lyra, Tolarian Archangel",
+      "manaCost": "{1}{U}{U}",
+      "typeLine": "Legendary Creature — Angel Wizard",
+      "oracleText": "Flying\nAt the beginning of each end step, if you've drawn three or more cards this turn, create a 3/3 blue Angel creature token with flying.\n{3}{U}{U}: Until end of turn, whenever Lyra deals combat damage to a player, draw two cards.",
+      "image": "https://cards.scryfall.io/normal/front/a/5/a5183681-447b-4023-91f7-00e9338f4417.jpg?1789128032"
+    },
+    "end": 2702.52
+  },
+  {
+    "start": 2702.52,
+    "cardId": "a5183681-447b-4023-91f7-00e9338f4417",
+    "cardName": "Lyra, Tolarian Archangel",
+    "confidence": 0.852,
+    "needsReview": false,
+    "card": {
+      "name": "Lyra, Tolarian Archangel",
+      "manaCost": "{1}{U}{U}",
+      "typeLine": "Legendary Creature — Angel Wizard",
+      "oracleText": "Flying\nAt the beginning of each end step, if you've drawn three or more cards this turn, create a 3/3 blue Angel creature token with flying.\n{3}{U}{U}: Until end of turn, whenever Lyra deals combat damage to a player, draw two cards.",
+      "image": "https://cards.scryfall.io/normal/front/a/5/a5183681-447b-4023-91f7-00e9338f4417.jpg?1789128032"
+    },
+    "end": 2706.58
+  },
+  {
+    "start": 2706.58,
+    "cardId": "a3a2edbb-d144-4670-acad-17316cea98d2",
+    "cardName": "Fblthp, Impossibly Lost",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fblthp, Impossibly Lost",
+      "manaCost": "{1}{U}",
+      "typeLine": "Legendary Creature — Homunculus",
+      "oracleText": "When one or more of your opponents are dealt combat damage during your turn, draw two cards. If your library has no cards in it, you win the game. Fblthp's owner shuffles him into their library. (If you draw from an empty library this way, you still win the game.)",
+      "image": "https://cards.scryfall.io/normal/front/a/3/a3a2edbb-d144-4670-acad-17316cea98d2.jpg?1789127697"
+    },
+    "end": 2827.16
+  },
+  {
+    "start": 2827.16,
+    "cardId": "a3a2edbb-d144-4670-acad-17316cea98d2",
+    "cardName": "Fblthp, Impossibly Lost",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fblthp, Impossibly Lost",
+      "manaCost": "{1}{U}",
+      "typeLine": "Legendary Creature — Homunculus",
+      "oracleText": "When one or more of your opponents are dealt combat damage during your turn, draw two cards. If your library has no cards in it, you win the game. Fblthp's owner shuffles him into their library. (If you draw from an empty library this way, you still win the game.)",
+      "image": "https://cards.scryfall.io/normal/front/a/3/a3a2edbb-d144-4670-acad-17316cea98d2.jpg?1789127697"
+    },
+    "end": 2836.96
+  },
+  {
+    "start": 2836.96,
+    "cardId": "6d7d8fa7-ce69-4a8c-9af0-55571393a244",
+    "cardName": "Samut, Tyrant of Naktamun",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Samut, Tyrant of Naktamun",
+      "manaCost": "{1}{U}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Instant and sorcery spells you control have split second. (As long as a spell with split second is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)",
+      "image": "https://cards.scryfall.io/normal/front/6/d/6d7d8fa7-ce69-4a8c-9af0-55571393a244.jpg?1789729644"
+    },
+    "end": 3210.26
+  },
+  {
+    "start": 3210.26,
+    "cardId": "8e3a2239-9348-4639-9318-e9e35b2cf86b",
+    "cardName": "Arni, Humble Scribe",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arni, Humble Scribe",
+      "manaCost": "{2}{U}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Whenever another nontoken creature you control enters, untap Arni.\n{T}: Draw a card, then discard a card.",
+      "image": "https://cards.scryfall.io/normal/front/8/e/8e3a2239-9348-4639-9318-e9e35b2cf86b.jpg?1789568409"
+    },
+    "end": 3654.34
+  },
+  {
+    "start": 3654.34,
+    "cardId": "8e3a2239-9348-4639-9318-e9e35b2cf86b",
+    "cardName": "Arni, Humble Scribe",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arni, Humble Scribe",
+      "manaCost": "{2}{U}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Whenever another nontoken creature you control enters, untap Arni.\n{T}: Draw a card, then discard a card.",
+      "image": "https://cards.scryfall.io/normal/front/8/e/8e3a2239-9348-4639-9318-e9e35b2cf86b.jpg?1789568409"
+    },
+    "end": 3662.02
+  },
+  {
+    "start": 3662.02,
+    "cardId": "00af4e87-5576-4a43-9422-4c35b2b66775",
+    "cardName": "Ruric Thar, Biomagus",
+    "confidence": 0.966,
+    "needsReview": false,
+    "card": {
+      "name": "Ruric Thar, Biomagus",
+      "manaCost": "{4}{U}{U}",
+      "typeLine": "Legendary Creature — Ogre Crab Wizard",
+      "oracleText": "Flying\nProwess, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn twice.)\nWhenever Ruric Thar becomes the target of a spell or ability an opponent controls, draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/0/0/00af4e87-5576-4a43-9422-4c35b2b66775.jpg?1789127229"
+    },
+    "end": 3922.12
+  },
+  {
+    "start": 3922.12,
+    "cardId": "a349800f-b634-4e74-a9d9-185df37ad909",
+    "cardName": "Traxos, Academy Guardian",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Traxos, Academy Guardian",
+      "manaCost": "{3}{U}",
+      "typeLine": "Legendary Artifact Creature — Dragon Construct",
+      "oracleText": "This spell costs {2} less to cast if you've cast a noncreature spell this turn.\nFlying, vigilance\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+      "image": "https://cards.scryfall.io/normal/front/a/3/a349800f-b634-4e74-a9d9-185df37ad909.jpg?1789568451"
+    },
+    "end": 4168.18
+  },
+  {
+    "start": 4168.18,
+    "cardId": "45e81487-8b8c-480b-922a-eaa9edc7201d",
+    "cardName": "Yuriko, Hope from the Shadows",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Yuriko, Hope from the Shadows",
+      "manaCost": "{U}",
+      "typeLine": "Legendary Creature — Human Ninja",
+      "oracleText": "Flash\nWhen Yuriko enters, choose one —\n• Target creature gets -X/-0 until end of turn, where X is the number of cards in your graveyard.\n• Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+      "image": "https://cards.scryfall.io/normal/front/4/5/45e81487-8b8c-480b-922a-eaa9edc7201d.jpg?1789127717"
+    },
+    "end": 4365.5599999999995
+  },
+  {
+    "start": 4365.5599999999995,
+    "cardId": "45e81487-8b8c-480b-922a-eaa9edc7201d",
+    "cardName": "Yuriko, Hope from the Shadows",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Yuriko, Hope from the Shadows",
+      "manaCost": "{U}",
+      "typeLine": "Legendary Creature — Human Ninja",
+      "oracleText": "Flash\nWhen Yuriko enters, choose one —\n• Target creature gets -X/-0 until end of turn, where X is the number of cards in your graveyard.\n• Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+      "image": "https://cards.scryfall.io/normal/front/4/5/45e81487-8b8c-480b-922a-eaa9edc7201d.jpg?1789127717"
+    },
+    "end": 4383.860000000001
+  },
+  {
+    "start": 4383.860000000001,
+    "cardId": "ff65f46b-0f82-49b8-93b9-7ac0243ce941",
+    "cardName": "Avacyn, Angel of Horror",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Avacyn, Angel of Horror",
+      "manaCost": "{5}{B}{B}{B}",
+      "typeLine": "Legendary Creature — Angel",
+      "oracleText": "Flying, deathtouch\nWhenever Avacyn or another nontoken creature you control dies, return that card to the battlefield under your control at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/f/f/ff65f46b-0f82-49b8-93b9-7ac0243ce941.jpg?1789644252"
+    },
+    "end": 4687.1
+  },
+  {
+    "start": 4687.1,
+    "cardId": "ff65f46b-0f82-49b8-93b9-7ac0243ce941",
+    "cardName": "Avacyn, Angel of Horror",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Avacyn, Angel of Horror",
+      "manaCost": "{5}{B}{B}{B}",
+      "typeLine": "Legendary Creature — Angel",
+      "oracleText": "Flying, deathtouch\nWhenever Avacyn or another nontoken creature you control dies, return that card to the battlefield under your control at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/f/f/ff65f46b-0f82-49b8-93b9-7ac0243ce941.jpg?1789644252"
+    },
+    "end": 4693.82
+  },
+  {
+    "start": 4693.82,
+    "cardId": "1eb25a6c-d6b4-465d-990e-f1ab86b26b69",
+    "cardName": "Liliana the Repentant",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Liliana the Repentant",
+      "manaCost": "{1}{B}",
+      "typeLine": "Legendary Creature — Human Warlock",
+      "oracleText": "Whenever another creature or planeswalker you control enters, mill two cards.\nExhaust — {5}{B}: Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter on Liliana. Activate only as a sorcery. (Activate each exhaust ability only once.)",
+      "image": "https://cards.scryfall.io/normal/front/1/e/1eb25a6c-d6b4-465d-990e-f1ab86b26b69.jpg?1788329273"
+    },
+    "end": 4923.26
+  },
+  {
+    "start": 4923.26,
+    "cardId": "1eb25a6c-d6b4-465d-990e-f1ab86b26b69",
+    "cardName": "Liliana the Repentant",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Liliana the Repentant",
+      "manaCost": "{1}{B}",
+      "typeLine": "Legendary Creature — Human Warlock",
+      "oracleText": "Whenever another creature or planeswalker you control enters, mill two cards.\nExhaust — {5}{B}: Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter on Liliana. Activate only as a sorcery. (Activate each exhaust ability only once.)",
+      "image": "https://cards.scryfall.io/normal/front/1/e/1eb25a6c-d6b4-465d-990e-f1ab86b26b69.jpg?1788329273"
+    },
+    "end": 4930.08
+  },
+  {
+    "start": 4930.08,
+    "cardId": "2f47ddf7-35b6-4205-8045-f057914c5f64",
+    "cardName": "Tinybones, Pocket Nuisance",
+    "confidence": 0.962,
+    "needsReview": false,
+    "card": {
+      "name": "Tinybones, Pocket Nuisance",
+      "manaCost": "{2}{B}",
+      "typeLine": "Legendary Creature — Skeleton Rogue",
+      "oracleText": "When Tinybones enters, each opponent discards a card.\nWhenever a player discards one or more cards, Tinybones deals 1 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/2/f/2f47ddf7-35b6-4205-8045-f057914c5f64.jpg?1788329294"
+    },
+    "end": 5152.36
+  },
+  {
+    "start": 5152.36,
+    "cardId": "c985b0d1-25bd-4069-aab7-a566ff27a8f6",
+    "cardName": "Gideon the Oathless",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gideon the Oathless",
+      "manaCost": "{2}{B}",
+      "typeLine": "Legendary Creature — Human Mercenary",
+      "oracleText": "Ward—Discard a card.\nWhenever a creature an opponent controls enters, Gideon deals 1 damage to that player.\nWhenever an opponent activates a loyalty ability, Gideon deals 1 damage to that player.",
+      "image": "https://cards.scryfall.io/normal/front/c/9/c985b0d1-25bd-4069-aab7-a566ff27a8f6.jpg?1789127990"
+    },
+    "end": 5478.9
+  },
+  {
+    "start": 5478.9,
+    "cardId": "c985b0d1-25bd-4069-aab7-a566ff27a8f6",
+    "cardName": "Gideon the Oathless",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gideon the Oathless",
+      "manaCost": "{2}{B}",
+      "typeLine": "Legendary Creature — Human Mercenary",
+      "oracleText": "Ward—Discard a card.\nWhenever a creature an opponent controls enters, Gideon deals 1 damage to that player.\nWhenever an opponent activates a loyalty ability, Gideon deals 1 damage to that player.",
+      "image": "https://cards.scryfall.io/normal/front/c/9/c985b0d1-25bd-4069-aab7-a566ff27a8f6.jpg?1789127990"
+    },
+    "end": 5515.120000000001
+  },
+  {
+    "start": 5515.120000000001,
+    "cardId": "e8c1ce21-b77d-40bf-9ed1-478604e71f5f",
+    "cardName": "Jiang Yanggu, Alone",
+    "confidence": 0.964,
+    "needsReview": false,
+    "card": {
+      "name": "Jiang Yanggu, Alone",
+      "manaCost": "{4}{R}",
+      "typeLine": "Legendary Creature — Human Berserker",
+      "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nWhenever a creature you control attacks a player alone, discard a card, then draw a card. Then put a +1/+1 counter on that creature for each card you've discarded this turn.",
+      "image": "https://cards.scryfall.io/normal/front/e/8/e8c1ce21-b77d-40bf-9ed1-478604e71f5f.jpg?1789014416"
+    },
+    "end": 5666.48
+  },
+  {
+    "start": 5666.48,
+    "cardId": "54f64e95-5a97-4d7c-9939-7f33a3165562",
+    "cardName": "Koth, the Geomancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Koth, the Geomancer",
+      "manaCost": "{2}{R}",
+      "typeLine": "Legendary Creature — Human Warrior",
+      "oracleText": "Reach\nLandfall — Whenever a land you control enters, Koth deals 1 damage to each opponent. If that land is a Mountain, add {R}.",
+      "image": "https://cards.scryfall.io/normal/front/5/4/54f64e95-5a97-4d7c-9939-7f33a3165562.jpg?1789470892"
+    },
+    "end": 5875.76
+  },
+  {
+    "start": 5875.76,
+    "cardId": "54f64e95-5a97-4d7c-9939-7f33a3165562",
+    "cardName": "Koth, the Geomancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Koth, the Geomancer",
+      "manaCost": "{2}{R}",
+      "typeLine": "Legendary Creature — Human Warrior",
+      "oracleText": "Reach\nLandfall — Whenever a land you control enters, Koth deals 1 damage to each opponent. If that land is a Mountain, add {R}.",
+      "image": "https://cards.scryfall.io/normal/front/5/4/54f64e95-5a97-4d7c-9939-7f33a3165562.jpg?1789470892"
+    },
+    "end": 5886.84
+  },
+  {
+    "start": 5886.84,
+    "cardId": "ba920f23-f05c-410e-8516-c93abedf1d4d",
+    "cardName": "Samut, Hazoret's Champion",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Samut, Hazoret's Champion",
+      "manaCost": "{1}{R}",
+      "typeLine": "Legendary Creature — Human Warrior Cleric",
+      "oracleText": "Creatures you control have haste.",
+      "image": "https://cards.scryfall.io/normal/front/b/a/ba920f23-f05c-410e-8516-c93abedf1d4d.jpg?1789729662"
+    },
+    "end": 6184.14
+  },
+  {
+    "start": 6184.14,
+    "cardId": "f93da73c-ca8b-438e-8387-6109dac3fc1a",
+    "cardName": "Marwyn, the Clearcutter",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Marwyn, the Clearcutter",
+      "manaCost": "{R}",
+      "typeLine": "Legendary Creature — Elf Warrior",
+      "oracleText": "{2}, {T}, Sacrifice an artifact or land: Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/f/9/f93da73c-ca8b-438e-8387-6109dac3fc1a.jpg?1789644549"
+    },
+    "end": 6231.6
+  },
+  {
+    "start": 6231.6,
+    "cardId": "f93da73c-ca8b-438e-8387-6109dac3fc1a",
+    "cardName": "Marwyn, the Clearcutter",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Marwyn, the Clearcutter",
+      "manaCost": "{R}",
+      "typeLine": "Legendary Creature — Elf Warrior",
+      "oracleText": "{2}, {T}, Sacrifice an artifact or land: Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/f/9/f93da73c-ca8b-438e-8387-6109dac3fc1a.jpg?1789644549"
+    },
+    "end": 6360.14
+  },
+  {
+    "start": 6360.14,
+    "cardId": "f93da73c-ca8b-438e-8387-6109dac3fc1a",
+    "cardName": "Marwyn, the Clearcutter",
+    "confidence": 0.913,
+    "needsReview": false,
+    "card": {
+      "name": "Marwyn, the Clearcutter",
+      "manaCost": "{R}",
+      "typeLine": "Legendary Creature — Elf Warrior",
+      "oracleText": "{2}, {T}, Sacrifice an artifact or land: Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/f/9/f93da73c-ca8b-438e-8387-6109dac3fc1a.jpg?1789644549"
+    },
+    "end": 6366.42
+  },
+  {
+    "start": 6366.42,
+    "cardId": "5c5afd5f-6f37-4c3e-83f0-68fdcea98810",
+    "cardName": "Tomik, Izzet Sparkmage",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tomik, Izzet Sparkmage",
+      "manaCost": "{1}{R}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nIf a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.",
+      "image": "https://cards.scryfall.io/normal/front/5/c/5c5afd5f-6f37-4c3e-83f0-68fdcea98810.jpg?1789729773"
+    },
+    "end": 6582.56
+  },
+  {
+    "start": 6582.56,
+    "cardId": "ff0bc30f-9d20-458e-808f-bdc2825905a5",
+    "cardName": "Pia, Aether Ascetic",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Pia, Aether Ascetic",
+      "manaCost": "{2}{G}",
+      "typeLine": "Legendary Creature — Human Druid",
+      "oracleText": "When Pia enters, you may discard a card. If you do, search your library for an enchantment card, reveal it, put it into your hand, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/f/f/ff0bc30f-9d20-458e-808f-bdc2825905a5.jpg?1789387120"
+    },
+    "end": 6729.06
+  },
+  {
+    "start": 6729.06,
+    "cardId": "ff0bc30f-9d20-458e-808f-bdc2825905a5",
+    "cardName": "Pia, Aether Ascetic",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Pia, Aether Ascetic",
+      "manaCost": "{2}{G}",
+      "typeLine": "Legendary Creature — Human Druid",
+      "oracleText": "When Pia enters, you may discard a card. If you do, search your library for an enchantment card, reveal it, put it into your hand, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/f/f/ff0bc30f-9d20-458e-808f-bdc2825905a5.jpg?1789387120"
+    },
+    "end": 7015.92
+  },
+  {
+    "start": 7015.92,
+    "cardId": "1d535b5f-c916-4f16-89a7-9477578826d2",
+    "cardName": "Ghalta the Unstoppable",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Ghalta the Unstoppable",
+      "manaCost": "{8}{G}",
+      "typeLine": "Legendary Creature — Elder Dinosaur",
+      "oracleText": "This spell costs {X} less to cast, where X is the greatest power among creatures you control.\nTrample\nOther creatures you control have trample.",
+      "image": "https://cards.scryfall.io/normal/front/1/d/1d535b5f-c916-4f16-89a7-9477578826d2.jpg?1788878290"
+    },
+    "end": 7107.26
+  },
+  {
+    "start": 7107.26,
+    "cardId": "edea6f70-a5a7-475d-b7f2-97933d0f32cf",
+    "cardName": "Titanbones, Towering Heart",
+    "confidence": 0.962,
+    "needsReview": false,
+    "card": {
+      "name": "Titanbones, Towering Heart",
+      "manaCost": "{3}{G}",
+      "typeLine": "Legendary Creature — Skeleton Druid",
+      "oracleText": "Reach\nWhenever you gain life, put two +1/+1 counters on Titanbones.\nWhen you discard this card, you gain 3 life.",
+      "image": "https://cards.scryfall.io/normal/front/e/d/edea6f70-a5a7-475d-b7f2-97933d0f32cf.jpg?1788329375"
+    },
+    "end": 7132.299999999999
+  },
+  {
+    "start": 7132.299999999999,
+    "cardId": "986f9e98-9d8d-428b-9187-860745cf3269",
+    "cardName": "Denzilore Fatehold",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Denzilore Fatehold",
+      "manaCost": "{1}{W}{U}{U}",
+      "typeLine": "Legendary Creature — Elder Sphinx",
+      "oracleText": "Flash\nFlying\nWhenever you scry or surveil, put a +1/+1 counter on each creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/9/8/986f9e98-9d8d-428b-9187-860745cf3269.jpg?1788878215"
+    },
+    "end": 7405.54
+  },
+  {
+    "start": 7405.54,
+    "cardId": "986f9e98-9d8d-428b-9187-860745cf3269",
+    "cardName": "Denzilore Fatehold",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Denzilore Fatehold",
+      "manaCost": "{1}{W}{U}{U}",
+      "typeLine": "Legendary Creature — Elder Sphinx",
+      "oracleText": "Flash\nFlying\nWhenever you scry or surveil, put a +1/+1 counter on each creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/9/8/986f9e98-9d8d-428b-9187-860745cf3269.jpg?1788878215"
+    },
+    "end": 7413.64
+  },
+  {
+    "start": 7413.64,
+    "cardId": "a7ad622a-42ff-48fa-ae95-12e0a5bd9387",
+    "cardName": "Uldaros Theorix",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Uldaros Theorix",
+      "manaCost": "{3}{U}{B}{B}",
+      "typeLine": "Legendary Creature — Elder Sphinx",
+      "oracleText": "Flying\nWhen Uldaros Theorix enters, if you cast him, exile up to one target nonland card of each card type from your graveyard. Copy those cards. You may cast any number of spells with total mana value 6 or less from among the copies without paying their mana costs. (Permanent spells cast this way become tokens.)",
+      "image": "https://cards.scryfall.io/normal/front/a/7/a7ad622a-42ff-48fa-ae95-12e0a5bd9387.jpg?1788878220"
+    },
+    "end": 7541.82
+  },
+  {
+    "start": 7541.82,
+    "cardId": "6471b135-33a8-4005-9a07-ebb74e0bf145",
+    "cardName": "Ingris Stingerquill",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ingris Stingerquill",
+      "manaCost": "{B}{R}{R}",
+      "typeLine": "Legendary Creature — Elder Sphinx",
+      "oracleText": "Flying\nWhenever a creature you control attacks, that creature deals 1 damage to each opponent.\n{4}: Create a 2/2 colorless Wizard Soldier creature token named Cadet. Then creatures you control gain haste until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/6/4/6471b135-33a8-4005-9a07-ebb74e0bf145.jpg?1788878212"
+    },
+    "end": 7726.98
+  },
+  {
+    "start": 7726.98,
+    "cardId": "6471b135-33a8-4005-9a07-ebb74e0bf145",
+    "cardName": "Ingris Stingerquill",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ingris Stingerquill",
+      "manaCost": "{B}{R}{R}",
+      "typeLine": "Legendary Creature — Elder Sphinx",
+      "oracleText": "Flying\nWhenever a creature you control attacks, that creature deals 1 damage to each opponent.\n{4}: Create a 2/2 colorless Wizard Soldier creature token named Cadet. Then creatures you control gain haste until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/6/4/6471b135-33a8-4005-9a07-ebb74e0bf145.jpg?1788878212"
+    },
+    "end": 7735.04
+  },
+  {
+    "start": 7735.04,
+    "cardId": "f17d2792-b075-4c47-ad38-e7a7eaee5f8c",
+    "cardName": "Aerid Konstrari",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Aerid Konstrari",
+      "manaCost": "{1}{R}{G}{G}",
+      "typeLine": "Legendary Creature — Elder Sphinx",
+      "oracleText": "Flying\nWhen Aerid Konstrari enters or dies, create a Heartwood token. (It's a red and green artifact with \"{T}: Add {R} or {G}.\")\n{6}: Create a Heartwood token. Then Aerid Konstrari gets +X/+0 until end of turn, where X is the number of artifacts you control.",
+      "image": "https://cards.scryfall.io/normal/front/f/1/f17d2792-b075-4c47-ad38-e7a7eaee5f8c.jpg?1788878199"
+    },
+    "end": 7824.900000000001
+  },
+  {
+    "start": 7824.900000000001,
+    "cardId": "f17d2792-b075-4c47-ad38-e7a7eaee5f8c",
+    "cardName": "Aerid Konstrari",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Aerid Konstrari",
+      "manaCost": "{1}{R}{G}{G}",
+      "typeLine": "Legendary Creature — Elder Sphinx",
+      "oracleText": "Flying\nWhen Aerid Konstrari enters or dies, create a Heartwood token. (It's a red and green artifact with \"{T}: Add {R} or {G}.\")\n{6}: Create a Heartwood token. Then Aerid Konstrari gets +X/+0 until end of turn, where X is the number of artifacts you control.",
+      "image": "https://cards.scryfall.io/normal/front/f/1/f17d2792-b075-4c47-ad38-e7a7eaee5f8c.jpg?1788878199"
+    },
+    "end": 7913.56
+  },
+  {
+    "start": 7913.56,
+    "cardId": "f17d2792-b075-4c47-ad38-e7a7eaee5f8c",
+    "cardName": "Aerid Konstrari",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Aerid Konstrari",
+      "manaCost": "{1}{R}{G}{G}",
+      "typeLine": "Legendary Creature — Elder Sphinx",
+      "oracleText": "Flying\nWhen Aerid Konstrari enters or dies, create a Heartwood token. (It's a red and green artifact with \"{T}: Add {R} or {G}.\")\n{6}: Create a Heartwood token. Then Aerid Konstrari gets +X/+0 until end of turn, where X is the number of artifacts you control.",
+      "image": "https://cards.scryfall.io/normal/front/f/1/f17d2792-b075-4c47-ad38-e7a7eaee5f8c.jpg?1788878199"
+    },
+    "end": 7923.72
+  },
+  {
+    "start": 7923.72,
+    "cardId": "2d6ff182-a853-4898-895b-072c89324ca7",
+    "cardName": "Kwia Vigorbloom",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kwia Vigorbloom",
+      "manaCost": "{3}{G}{W}{W}",
+      "typeLine": "Legendary Creature — Elder Sphinx",
+      "oracleText": "Flying, vigilance, lifelink, ward {2}\nWhenever you gain life, create a colorless artifact token named Lotus with \"{T}, Sacrifice this token: Add three mana of any one color.\" This ability triggers only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/2/d/2d6ff182-a853-4898-895b-072c89324ca7.jpg?1788878236"
+    },
+    "end": 8225.8
+  },
+  {
+    "start": 8225.8,
+    "cardId": "2d6ff182-a853-4898-895b-072c89324ca7",
+    "cardName": "Kwia Vigorbloom",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kwia Vigorbloom",
+      "manaCost": "{3}{G}{W}{W}",
+      "typeLine": "Legendary Creature — Elder Sphinx",
+      "oracleText": "Flying, vigilance, lifelink, ward {2}\nWhenever you gain life, create a colorless artifact token named Lotus with \"{T}, Sacrifice this token: Add three mana of any one color.\" This ability triggers only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/2/d/2d6ff182-a853-4898-895b-072c89324ca7.jpg?1788878236"
+    },
+    "end": 8233.46
+  },
+  {
+    "start": 8233.46,
+    "cardId": "0ad0e168-ac5c-4e1b-83f2-0488067a58d7",
+    "cardName": "Niv-Mizzet, Ghost Counsel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Niv-Mizzet, Ghost Counsel",
+      "manaCost": "{2}{W}{W}{B}{B}",
+      "typeLine": "Legendary Creature — Spirit Dragon",
+      "oracleText": "Flying\nWhenever you gain life, you may pay that much life. If you do, draw that many cards.\n{T}: Each opponent loses 1 life and you gain 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/0/a/0ad0e168-ac5c-4e1b-83f2-0488067a58d7.jpg?1789644348"
+    },
+    "end": 8321.9
+  },
+  {
+    "start": 8321.9,
+    "cardId": "0ad0e168-ac5c-4e1b-83f2-0488067a58d7",
+    "cardName": "Niv-Mizzet, Ghost Counsel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Niv-Mizzet, Ghost Counsel",
+      "manaCost": "{2}{W}{W}{B}{B}",
+      "typeLine": "Legendary Creature — Spirit Dragon",
+      "oracleText": "Flying\nWhenever you gain life, you may pay that much life. If you do, draw that many cards.\n{T}: Each opponent loses 1 life and you gain 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/0/a/0ad0e168-ac5c-4e1b-83f2-0488067a58d7.jpg?1789644348"
+    },
+    "end": 8669.62
+  },
+  {
+    "start": 8669.62,
+    "cardId": "0ad0e168-ac5c-4e1b-83f2-0488067a58d7",
+    "cardName": "Niv-Mizzet, Ghost Counsel",
+    "confidence": 0.917,
+    "needsReview": false,
+    "card": {
+      "name": "Niv-Mizzet, Ghost Counsel",
+      "manaCost": "{2}{W}{W}{B}{B}",
+      "typeLine": "Legendary Creature — Spirit Dragon",
+      "oracleText": "Flying\nWhenever you gain life, you may pay that much life. If you do, draw that many cards.\n{T}: Each opponent loses 1 life and you gain 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/0/a/0ad0e168-ac5c-4e1b-83f2-0488067a58d7.jpg?1789644348"
+    },
+    "end": 8676.54
+  },
+  {
+    "start": 8676.54,
+    "cardId": "28d84ef6-e190-46d4-882d-1cea5e111e2a",
+    "cardName": "Saheeli, Jewel of Avishkar",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Saheeli, Jewel of Avishkar",
+      "manaCost": "{2}{U}{R}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "Thopters you control have haste.\nWhenever you cast a noncreature spell, create a 1/1 colorless Thopter artifact creature token with flying.",
+      "image": "https://cards.scryfall.io/normal/front/2/8/28d84ef6-e190-46d4-882d-1cea5e111e2a.jpg?1789644883"
+    },
+    "end": 8812.64
+  },
+  {
+    "start": 8812.64,
+    "cardId": "28d84ef6-e190-46d4-882d-1cea5e111e2a",
+    "cardName": "Saheeli, Jewel of Avishkar",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Saheeli, Jewel of Avishkar",
+      "manaCost": "{2}{U}{R}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "Thopters you control have haste.\nWhenever you cast a noncreature spell, create a 1/1 colorless Thopter artifact creature token with flying.",
+      "image": "https://cards.scryfall.io/normal/front/2/8/28d84ef6-e190-46d4-882d-1cea5e111e2a.jpg?1789644883"
+    },
+    "end": 8823.52
+  },
+  {
+    "start": 8823.52,
+    "cardId": "d9e9d9a8-86c2-4e58-b818-466247725259",
+    "cardName": "The Ur-Sphinx",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Ur-Sphinx",
+      "manaCost": "{6}{W}{U}{B}",
+      "typeLine": "Legendary Creature — Sphinx Avatar",
+      "oracleText": "Eminence — As long as The Ur-Sphinx is in the command zone or on the battlefield, other Sphinx spells you cast cost {1} less to cast.\nFlying\nWhenever one or more Sphinxes you control attack, each player mills that many cards. For each player, you may cast a card that player milled this way without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/d/9/d9e9d9a8-86c2-4e58-b818-466247725259.jpg?1789644369"
+    },
+    "end": 9210.72
+  },
+  {
+    "start": 9210.72,
+    "cardId": "f3869752-eade-4e7a-8dd1-68cafb9e10be",
+    "cardName": "Vraska, Soul of Stone",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Vraska, Soul of Stone",
+      "manaCost": "{U}{R}{W}",
+      "typeLine": "Legendary Creature — Gorgon Wizard",
+      "oracleText": "Artifact creatures you control have vigilance.\nWhenever you cast a noncreature spell, create a 1/1 colorless Sculpture Treasure artifact creature token with \"{T}, Sacrifice this token: Add one mana of any color.\"",
+      "image": "https://cards.scryfall.io/normal/front/f/3/f3869752-eade-4e7a-8dd1-68cafb9e10be.jpg?1789128008"
+    },
+    "end": 9332.8
+  },
+  {
+    "start": 9332.8,
+    "cardId": "55cd03d9-2535-4cf3-a8b2-1418e1190f4a",
+    "cardName": "Jace, Multiverse Architect",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Jace, Multiverse Architect",
+      "manaCost": "{1}{W}{U}{B}{R}",
+      "typeLine": "Legendary Planeswalker — Jace",
+      "oracleText": "At the beginning of combat on each opponent's turn, they may pay {2}. If they don't, creatures they control can't attack Jaces you control this turn.\n+1: Draw two cards, then put a card from your hand on the bottom of your library.\n−3: Exile another target planeswalker or creature you control. Reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.\nJace, Multiverse Architect can be your commander.",
+      "image": "https://cards.scryfall.io/normal/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.jpg?1789644316"
+    },
+    "end": 9754.74
+  },
+  {
+    "start": 9754.74,
+    "cardId": "e969d1f3-9595-498b-81cb-6cf4df2cad5d",
+    "cardName": "Nissa, Leyline Tamer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Nissa, Leyline Tamer",
+      "manaCost": "{3}{W}{U}{B}{R}",
+      "typeLine": "Legendary Creature — Elf Wizard",
+      "oracleText": "Deathtouch, vigilance\nLandfall — Whenever a land you control enters, draw a card. Then if this is the first time this ability has resolved this turn, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e969d1f3-9595-498b-81cb-6cf4df2cad5d.jpg?1789644323"
+    },
+    "end": 10049.16
+  },
+  {
+    "start": 10049.16,
+    "cardId": "3abcae65-5b21-4c98-adad-34b8bc76ea3a",
+    "cardName": "Karn, Gilded Guardian",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Karn, Gilded Guardian",
+      "manaCost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+      "typeLine": "Legendary Artifact Creature — Golem",
+      "oracleText": "Vigilance, trample\nWhen Karn enters, draw a card for each color among other artifacts you control.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3abcae65-5b21-4c98-adad-34b8bc76ea3a.jpg?1789014541"
+    },
+    "end": 10103.5
+  },
+  {
+    "start": 10103.5,
+    "cardId": "3abcae65-5b21-4c98-adad-34b8bc76ea3a",
+    "cardName": "Karn, Gilded Guardian",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Karn, Gilded Guardian",
+      "manaCost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+      "typeLine": "Legendary Artifact Creature — Golem",
+      "oracleText": "Vigilance, trample\nWhen Karn enters, draw a card for each color among other artifacts you control.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3abcae65-5b21-4c98-adad-34b8bc76ea3a.jpg?1789014541"
+    },
+    "end": 10165.26
+  },
+  {
+    "start": 10165.26,
+    "cardId": "3abcae65-5b21-4c98-adad-34b8bc76ea3a",
+    "cardName": "Karn, Gilded Guardian",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Karn, Gilded Guardian",
+      "manaCost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+      "typeLine": "Legendary Artifact Creature — Golem",
+      "oracleText": "Vigilance, trample\nWhen Karn enters, draw a card for each color among other artifacts you control.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3abcae65-5b21-4c98-adad-34b8bc76ea3a.jpg?1789014541"
+    },
+    "end": 10279.48
+  },
+  {
+    "start": 10279.48,
+    "cardId": "3abcae65-5b21-4c98-adad-34b8bc76ea3a",
+    "cardName": "Karn, Gilded Guardian",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Karn, Gilded Guardian",
+      "manaCost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+      "typeLine": "Legendary Artifact Creature — Golem",
+      "oracleText": "Vigilance, trample\nWhen Karn enters, draw a card for each color among other artifacts you control.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3abcae65-5b21-4c98-adad-34b8bc76ea3a.jpg?1789014541"
+    },
+    "end": 10288.42
+  },
+  {
+    "start": 10288.42,
+    "cardId": "6529d399-677e-45a6-ac3e-12a0b10f6c37",
+    "cardName": "Tam, the Possibility",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tam, the Possibility",
+      "manaCost": "{1}{G}{U}",
+      "typeLine": "Legendary Creature — Gorgon Wizard",
+      "oracleText": "Planeswalker spells you cast cost {1} less to cast.\n{W}{U}{B}{R}{G}, {T}: Proliferate X times, where X is the number of planeswalker types among planeswalkers you control. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+      "image": "https://cards.scryfall.io/normal/front/6/5/6529d399-677e-45a6-ac3e-12a0b10f6c37.jpg?1789644886"
+    },
+    "end": 10602.98
+  },
+  {
+    "start": 10602.98,
+    "cardId": "0d52b0fd-60a4-4e90-bc4a-3200493779d3",
+    "cardName": "Tamiyo, Upriser Crowned",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Tamiyo, Upriser Crowned",
+      "manaCost": "{4}{R}{W}",
+      "typeLine": "Legendary Creature — Moonfolk Warrior",
+      "oracleText": "Flying, double strike, haste\nWhen Tamiyo enters, you become the monarch.\nWhenever one or more creatures deal combat damage to you while you're the monarch, tap those creatures and put a stun counter on each of them.",
+      "image": "https://cards.scryfall.io/normal/front/0/d/0d52b0fd-60a4-4e90-bc4a-3200493779d3.jpg?1789644358"
+    },
+    "end": 10810.38
+  },
+  {
+    "start": 10810.38,
+    "cardId": "0d52b0fd-60a4-4e90-bc4a-3200493779d3",
+    "cardName": "Tamiyo, Upriser Crowned",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tamiyo, Upriser Crowned",
+      "manaCost": "{4}{R}{W}",
+      "typeLine": "Legendary Creature — Moonfolk Warrior",
+      "oracleText": "Flying, double strike, haste\nWhen Tamiyo enters, you become the monarch.\nWhenever one or more creatures deal combat damage to you while you're the monarch, tap those creatures and put a stun counter on each of them.",
+      "image": "https://cards.scryfall.io/normal/front/0/d/0d52b0fd-60a4-4e90-bc4a-3200493779d3.jpg?1789644358"
+    },
+    "end": 10813.74
+  },
+  {
+    "start": 10813.74,
+    "cardId": "8151f5f5-e9f6-4fbe-b543-f456ebf22aa5",
+    "cardName": "Kiora of Salt and Sand",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kiora of Salt and Sand",
+      "manaCost": "{1}{G}{U}",
+      "typeLine": "Legendary Creature — Merfolk Noble",
+      "oracleText": "Whenever you attack, if you've activated a loyalty ability this turn, untap target attacking creature. It can't be blocked this turn.\nPlaneswalkers you control have \"[−8]: Create an 8/8 blue Leviathan creature token with hexproof.\"",
+      "image": "https://cards.scryfall.io/normal/front/8/1/8151f5f5-e9f6-4fbe-b543-f456ebf22aa5.jpg?1789127745"
+    },
+    "end": 11015.56
+  },
+  {
+    "start": 11015.56,
+    "cardId": "8151f5f5-e9f6-4fbe-b543-f456ebf22aa5",
+    "cardName": "Kiora of Salt and Sand",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kiora of Salt and Sand",
+      "manaCost": "{1}{G}{U}",
+      "typeLine": "Legendary Creature — Merfolk Noble",
+      "oracleText": "Whenever you attack, if you've activated a loyalty ability this turn, untap target attacking creature. It can't be blocked this turn.\nPlaneswalkers you control have \"[−8]: Create an 8/8 blue Leviathan creature token with hexproof.\"",
+      "image": "https://cards.scryfall.io/normal/front/8/1/8151f5f5-e9f6-4fbe-b543-f456ebf22aa5.jpg?1789127745"
+    },
+    "end": 11036.08
+  },
+  {
+    "start": 11036.08,
+    "cardId": "c3192390-1518-49fc-8716-f2c7a0384f39",
+    "cardName": "Codie, Ravenous Codex",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Codie, Ravenous Codex",
+      "manaCost": "{3}",
+      "typeLine": "Legendary Artifact Creature — Book Construct",
+      "oracleText": "Whenever you cast a prepared spell, copy it. You may choose new targets for the copy.\n{W}{U}{B}{R}{G}, {T}: Each creature you control becomes prepared. (Only creatures with prepare spells can become prepared.)",
+      "image": "https://cards.scryfall.io/normal/front/c/3/c3192390-1518-49fc-8716-f2c7a0384f39.jpg?1789646811"
+    },
+    "end": 11340.86
+  },
+  {
+    "start": 11340.86,
+    "cardId": "f4ff6bf9-89a9-4c2a-84a2-d4ceb7168adf",
+    "cardName": "Ginger, Queen of Sweets",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ginger, Queen of Sweets",
+      "manaCost": "{6}",
+      "typeLine": "Legendary Artifact Creature — Food Noble",
+      "oracleText": "When Ginger enters, you become the monarch.\n{2}, {T}, Sacrifice Ginger: You gain 6 life.\nAt the beginning of each upkeep, if you're the monarch, create a Gingerbrute token. (It's a {1} 1/1 Food Golem artifact creature with haste, \"{1}: This token can't be blocked this turn except by creatures with haste,\" and \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+      "image": "https://cards.scryfall.io/normal/front/f/4/f4ff6bf9-89a9-4c2a-84a2-d4ceb7168adf.jpg?1790343341"
+    },
+    "end": 11421.5
+  },
+  {
+    "start": 11421.5,
+    "cardId": "f4ff6bf9-89a9-4c2a-84a2-d4ceb7168adf",
+    "cardName": "Ginger, Queen of Sweets",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ginger, Queen of Sweets",
+      "manaCost": "{6}",
+      "typeLine": "Legendary Artifact Creature — Food Noble",
+      "oracleText": "When Ginger enters, you become the monarch.\n{2}, {T}, Sacrifice Ginger: You gain 6 life.\nAt the beginning of each upkeep, if you're the monarch, create a Gingerbrute token. (It's a {1} 1/1 Food Golem artifact creature with haste, \"{1}: This token can't be blocked this turn except by creatures with haste,\" and \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+      "image": "https://cards.scryfall.io/normal/front/f/4/f4ff6bf9-89a9-4c2a-84a2-d4ceb7168adf.jpg?1790343341"
+    }
+  }
+]

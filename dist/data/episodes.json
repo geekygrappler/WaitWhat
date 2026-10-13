@@ -1,5 +1,28 @@
 [
   {
+    "id": "reality-fracture-legends-review",
+    "title": "Reality Fracture | Legends Review",
+    "published": "2026-10-13T04:21:00.000Z",
+    "duration": 11701,
+    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/357-Reality_Fracture_Legends_mixdown.mp3?dest-id=534396",
+    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/reality-fracture-legends-review",
+    "artwork": "https://static.libsyn.com/p/assets/c/0/d/2/c0d20129b353f46388c4a68c3ddbc4f2/357-Thumbnail_2000x2000.png",
+    "cueSheet": "./data/reality-fracture-legends-review.cues.json",
+    "processed": true,
+    "source": "Legendary Creature Podcast RSS"
+  },
+  {
+    "id": "one-s-relationship-with-optimizing-in-edh",
+    "title": "One's Relationship with Optimizing in EDH",
+    "published": "2026-09-30T05:42:00.000Z",
+    "duration": 7861,
+    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/356-Optimization_Unpacked_mixdown.mp3?dest-id=534396",
+    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/ones-relationship-with-optimizing-in-edh",
+    "artwork": "https://static.libsyn.com/p/assets/c/2/6/f/c26f41a0df7e94d788c4a68c3ddbc4f2/356_Thumbnail_2000x2000.png",
+    "processed": false,
+    "source": "Legendary Creature Podcast RSS"
+  },
+  {
     "id": "challenges-in-summoning-new-players-therapy-session",
     "title": "Challenges in Summoning New Players | Therapy Session",
     "published": "2026-09-21T04:04:00.000Z",
@@ -199,28 +222,6 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/338-Spellslinger_U_High_MV_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/spellslinger-university-school-of-high-mana-value",
     "artwork": "https://static.libsyn.com/p/assets/3/3/2/c/332c980e1c688dc3d959afa2a1bf1c87/338-Title_Image_Thumbnail.png",
-    "processed": false,
-    "source": "Legendary Creature Podcast RSS"
-  },
-  {
-    "id": "spellslinger-university-school-of-low-mana-value",
-    "title": "Spellslinger University | School of Low Mana Value",
-    "published": "2026-03-10T04:29:00.000Z",
-    "duration": 7891,
-    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/337-Spellslinger_Low_MV_School_mixdown.mp3?dest-id=534396",
-    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/spellslinger-university-school-of-low-mana-value",
-    "artwork": "https://static.libsyn.com/p/assets/2/a/9/8/2a986c1369715daed959afa2a1bf1c87/337-Title_Image_Thumbnail.png",
-    "processed": false,
-    "source": "Legendary Creature Podcast RSS"
-  },
-  {
-    "id": "enchantment-decks-by-listeners",
-    "title": "Enchantment Decks by Listeners",
-    "published": "2026-02-27T18:19:00.000Z",
-    "duration": 6841,
-    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/336-Listener_Enchantment_Decks_mixdown.mp3?dest-id=534396",
-    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/enchantment-decks-by-listeners",
-    "artwork": "https://static.libsyn.com/p/assets/b/c/0/1/bc01e3375ff13932d959afa2a1bf1c87/336-Title_Image_Thumbnail.png",
     "processed": false,
     "source": "Legendary Creature Podcast RSS"
   }

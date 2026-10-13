@@ -5,7 +5,7 @@ const audio = $("audio");
 const timeline = $("timeline");
 const playButton = $("play");
 const playIcon = $("play-icon");
-const state = { shows: [], show: null, episodes: [], episode: null, cues: [], activeCueId: null, activeCue: null, cardOptionIndex: 0, recentSignature: "", upcomingSignature: "", scrubbing: false, toastTimer: null };
+const state = { shows: [], show: null, episodes: [], episode: null, cues: [], activeCueId: null, activeCue: null, focusedCue: null, cardOptionIndex: 0, recentSignature: "", upcomingSignature: "", scrubbing: false, toastTimer: null };
 
 async function init() {
   state.shows = await fetch("./data/shows.json").then(checkResponse).then((response) => response.json());
@@ -84,6 +84,8 @@ async function loadEpisode(episode) {
   state.episode = episode;
   state.cues = episode.cueSheet ? await fetch(episode.cueSheet).then(checkResponse).then((response) => response.json()) : [];
   state.activeCueId = null;
+  state.activeCue = null;
+  state.focusedCue = null;
   state.recentSignature = "";
   state.upcomingSignature = "";
   audio.src = episode.audioUrl;
@@ -117,6 +119,7 @@ function bindControls() {
 
   timeline.addEventListener("pointerdown", () => { state.scrubbing = true; });
   timeline.addEventListener("input", () => {
+    state.focusedCue = null;
     $("elapsed").textContent = formatTime(Number(timeline.value));
     renderAtTime(Number(timeline.value));
   });
@@ -143,6 +146,7 @@ function togglePlayback() {
 function seekBy(delta) { seekTo((audio.currentTime || 0) + delta, !audio.paused); }
 function seekTo(time, resume = false) {
   if (!state.episode) return;
+  state.focusedCue = null;
   audio.currentTime = Math.max(0, Math.min(time, audio.duration || state.episode.duration));
   reconcileFromAudio();
   if (resume) audio.play().catch(() => {});
@@ -169,18 +173,23 @@ function renderAtTime(time) {
       state.activeCueId = "pending";
       renderPendingEpisode();
     }
+    updateCardContext();
     return;
   }
   const cue = cueAtTime(state.cues, time);
-  const cueId = cue?.cardId || `empty-${Math.floor(time)}`;
-  if (state.activeCueId !== cueId) {
-    state.activeCueId = cueId;
-    state.activeCue = cue;
-    state.cardOptionIndex = 0;
-    renderCard(cue);
+  if (!state.focusedCue) {
+    const cueId = cue?.cardId || `empty-${Math.floor(time)}`;
+    if (state.activeCueId !== cueId) {
+      state.activeCueId = cueId;
+      state.activeCue = cue;
+      state.cardOptionIndex = 0;
+      renderCard(cue);
+    }
   }
   renderRecent(time);
   renderUpcoming(time);
+  updateCardContext();
+  syncCueListSelection();
 }
 
 function renderPendingEpisode() {
@@ -239,23 +248,45 @@ function bindCardSwitcher(optionCount) {
 
 function renderRecent(time) {
   const recent = recentCues(state.cues, time, 5);
-  const signature = recent.map((cue) => cue.cardId).join("|");
+  const signature = recent.map((cue) => `${cue.start}:${cue.cardId}`).join("|");
   if (signature === state.recentSignature) return;
   state.recentSignature = signature;
-  renderCueList("recent-list", recent, "Jump back to");
+  renderCueList("recent-list", recent);
   $("recent-empty").hidden = recent.length > 0;
 }
 function renderUpcoming(time) {
   const upcoming = upcomingCues(state.cues, time, 5);
-  const signature = upcoming.map((cue) => cue.cardId).join("|");
+  const signature = upcoming.map((cue) => `${cue.start}:${cue.cardId}`).join("|");
   if (signature === state.upcomingSignature) return;
   state.upcomingSignature = signature;
-  renderCueList("upcoming-list", upcoming, "Skip ahead to");
+  renderCueList("upcoming-list", upcoming);
   $("upcoming-empty").hidden = upcoming.length > 0;
 }
-function renderCueList(listId, cues, action) {
-  $(listId).innerHTML = cues.map((cue) => `<li class="recent-item"><button type="button" data-start="${cue.start}" aria-label="${action} ${escapeHtml(cue.cardName)} at ${formatTime(cue.start)}"><img src="${escapeHtml(cardImage(cue.card))}" alt="" loading="lazy" /><span class="recent-name">${escapeHtml(shortName(cue.cardName))}${cardsForCue(cue).length > 1 ? ` <small>+${cardsForCue(cue).length - 1}</small>` : ""}</span><span class="recent-time">${formatTime(cue.start)}</span></button></li>`).join("");
-  $(listId).querySelectorAll("button").forEach((button) => button.addEventListener("click", () => seekTo(Number(button.dataset.start), true)));
+function renderCueList(listId, cues) {
+  const list = $(listId);
+  list.innerHTML = cues.map((cue) => `<li class="recent-item"><button class="cue-preview" type="button" data-start="${cue.start}" aria-label="Show ${escapeHtml(cue.cardName)} without changing playback" aria-pressed="false"><img src="${escapeHtml(cardImage(cue.card))}" alt="" loading="lazy" /><span class="recent-name">${escapeHtml(shortName(cue.cardName))}${cardsForCue(cue).length > 1 ? ` <small>+${cardsForCue(cue).length - 1}</small>` : ""}</span></button><button class="cue-jump" type="button" aria-label="Skip to the mention of ${escapeHtml(cue.cardName)} at ${formatTime(cue.start)}"><span>Skip to</span><span class="recent-time">${formatTime(cue.start)}</span></button></li>`).join("");
+  list.querySelectorAll(".cue-preview").forEach((button, index) => button.addEventListener("click", () => focusCue(cues[index])));
+  list.querySelectorAll(".cue-jump").forEach((button, index) => button.addEventListener("click", () => seekTo(cues[index].start, true)));
+}
+
+function focusCue(cue) {
+  state.focusedCue = cue;
+  state.activeCueId = `focused-${cue.start}-${cue.cardId}`;
+  state.activeCue = cue;
+  state.cardOptionIndex = 0;
+  renderCard(cue);
+  updateCardContext();
+  syncCueListSelection();
+}
+
+function updateCardContext() {
+  $("card-context").textContent = state.focusedCue ? "Card preview" : "Now discussing";
+}
+
+function syncCueListSelection() {
+  document.querySelectorAll(".cue-preview").forEach((button) => {
+    button.setAttribute("aria-pressed", String(Boolean(state.focusedCue) && Number(button.dataset.start) === state.focusedCue.start));
+  });
 }
 
 function setupMediaSession(episode) {
