@@ -1,0 +1,1035 @@
+[
+  {
+    "start": 275.34,
+    "cardId": "4ef583ab-e0a0-4e4b-bd65-af766038b1fd",
+    "cardName": "Ghost Vacuum",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ghost Vacuum",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Exile target card from a graveyard.\n{6}, {T}, Sacrifice this artifact: Put each creature card exiled with this artifact onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ghost%20Vacuum&format=image&version=normal"
+    },
+    "end": 476.62
+  },
+  {
+    "start": 476.62,
+    "cardId": "5a0eb270-b142-45da-87a2-2f1c4e25db17",
+    "cardName": "Chandra's Spitfire",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chandra's Spitfire",
+      "manaCost": "{2}{R}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "Flying\nWhenever an opponent is dealt noncombat damage, this creature gets +3/+0 until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Chandra's%20Spitfire&format=image&version=normal"
+    },
+    "end": 501.96
+  },
+  {
+    "start": 501.96,
+    "cardId": "f02557b0-f422-48cb-875e-2c814c39967d",
+    "cardName": "Hellrider",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hellrider",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Creature — Devil",
+      "oracleText": "Haste\nWhenever a creature you control attacks, this creature deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://api.scryfall.com/cards/named?exact=Hellrider&format=image&version=normal"
+    },
+    "end": 547.52
+  },
+  {
+    "start": 547.52,
+    "cardId": "759af941-f6a3-4726-91f2-9b1e4e55ea71",
+    "cardName": "Hypnotic Specter",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hypnotic Specter",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Creature — Specter",
+      "oracleText": "Flying\nWhenever this creature deals damage to an opponent, that player discards a card at random.",
+      "image": "https://api.scryfall.com/cards/named?exact=Hypnotic%20Specter&format=image&version=normal"
+    },
+    "end": 560.26
+  },
+  {
+    "start": 560.26,
+    "cardId": "68b51d58-7566-4a26-8c31-8da32799bea7",
+    "cardName": "Thief of Sanity",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thief of Sanity",
+      "manaCost": "{1}{U}{B}",
+      "typeLine": "Creature — Specter",
+      "oracleText": "Flying\nWhenever this creature deals combat damage to a player, look at the top three cards of that player's library, exile one of them face down, then put the rest into their graveyard. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Thief%20of%20Sanity&format=image&version=normal"
+    },
+    "end": 567.44
+  },
+  {
+    "start": 567.44,
+    "cardId": "759af941-f6a3-4726-91f2-9b1e4e55ea71",
+    "cardName": "Hypnotic Specter",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hypnotic Specter",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Creature — Specter",
+      "oracleText": "Flying\nWhenever this creature deals damage to an opponent, that player discards a card at random.",
+      "image": "https://api.scryfall.com/cards/named?exact=Hypnotic%20Specter&format=image&version=normal"
+    },
+    "end": 578.3
+  },
+  {
+    "start": 578.3,
+    "cardId": "af6438b9-3fde-45c9-af69-dff686c1e0de",
+    "cardName": "Virtue of Courage // Embereth Blaze",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Virtue of Courage // Embereth Blaze",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a source you control deals noncombat damage to an opponent, you may exile that many cards from the top of your library. You may play those cards this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Virtue%20of%20Courage%20%2F%2F%20Embereth%20Blaze&format=image&version=normal",
+      "faces": [
+        {
+          "name": "Virtue of Courage",
+          "manaCost": "{3}{R}{R}",
+          "typeLine": "Enchantment",
+          "oracleText": "Whenever a source you control deals noncombat damage to an opponent, you may exile that many cards from the top of your library. You may play those cards this turn."
+        }
+      ]
+    },
+    "end": 633.32
+  },
+  {
+    "start": 633.32,
+    "cardId": "7e4a1286-cac6-491f-a32d-64fb98d35de2",
+    "cardName": "Stigma Lasher",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Stigma Lasher",
+      "manaCost": "{R}{R}",
+      "typeLine": "Creature — Elemental Shaman",
+      "oracleText": "Wither (This deals damage to creatures in the form of -1/-1 counters.)\nWhenever this creature deals damage to a player, that player can't gain life for the rest of the game.",
+      "image": "https://api.scryfall.com/cards/named?exact=Stigma%20Lasher&format=image&version=normal"
+    },
+    "end": 663.82
+  },
+  {
+    "start": 663.82,
+    "cardId": "8a09d4a2-4796-4a15-ab75-a3a0b717f62d",
+    "cardName": "Ares, God of War",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ares, God of War",
+      "manaCost": "{1}{B}{R}",
+      "typeLine": "Legendary Creature — God Warrior Villain",
+      "oracleText": "Ares attacks each combat if able.\nWhenever an attacking creature you control dies, return that card to its owner's hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ares%2C%20God%20of%20War&format=image&version=normal"
+    },
+    "end": 669.76
+  },
+  {
+    "start": 669.76,
+    "cardId": "f02557b0-f422-48cb-875e-2c814c39967d",
+    "cardName": "Hellrider",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hellrider",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Creature — Devil",
+      "oracleText": "Haste\nWhenever a creature you control attacks, this creature deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://api.scryfall.com/cards/named?exact=Hellrider&format=image&version=normal"
+    },
+    "end": 699.48
+  },
+  {
+    "start": 699.48,
+    "cardId": "170a5dbc-6a43-4715-9501-178b1eb7b08c",
+    "cardName": "Helping Hand",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Helping Hand",
+      "manaCost": "{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.",
+      "image": "https://api.scryfall.com/cards/named?exact=Helping%20Hand&format=image&version=normal"
+    },
+    "end": 758.88
+  },
+  {
+    "start": 758.88,
+    "cardId": "dfbd3afc-9905-4cff-a4f4-df08a4d0a7fa",
+    "cardName": "Restoration Angel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Restoration Angel",
+      "manaCost": "{3}{W}",
+      "typeLine": "Creature — Angel",
+      "oracleText": "Flash\nFlying\nWhen this creature enters, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Restoration%20Angel&format=image&version=normal"
+    },
+    "end": 831.22
+  },
+  {
+    "start": 831.22,
+    "cardId": "b34080fe-69d1-4cc9-9feb-c37762f26a23",
+    "cardName": "Immortal Obligation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Immortal Obligation",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Return target creature card from an opponent's graveyard to the battlefield under their control with a duty counter on it. For as long as that creature has a duty counter on it, it is goaded, can't attack you or a permanent you control, and can't block creatures you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Immortal%20Obligation&format=image&version=normal"
+    },
+    "end": 870.86
+  },
+  {
+    "start": 870.86,
+    "cardId": "c22e5fc6-9b4e-4197-b472-70d168eb4330",
+    "cardName": "Redemption Arc",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Redemption Arc",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nEnchanted creature has indestructible and is goaded. (It attacks each combat if able and attacks a player other than you if able.)\n{1}{W}: Exile enchanted creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Redemption%20Arc&format=image&version=normal"
+    },
+    "end": 1200.56
+  },
+  {
+    "start": 1200.56,
+    "cardId": "87b22b09-4f6d-4bc5-9cfc-663e4c7c6981",
+    "cardName": "The Ur-Dragon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Ur-Dragon",
+      "manaCost": "{4}{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Dragon Avatar",
+      "oracleText": "Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast.\nFlying\nWhenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Ur-Dragon&format=image&version=normal"
+    },
+    "end": 1294.38
+  },
+  {
+    "start": 1294.38,
+    "cardId": "f0864dbb-4d91-4282-a774-7b225e649ca8",
+    "cardName": "Planar Chaos",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Planar Chaos",
+      "manaCost": "{2}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your upkeep, flip a coin. If you lose the flip, sacrifice this enchantment.\nWhenever a player casts a spell, that player flips a coin. If they lose the flip, counter that spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Planar%20Chaos&format=image&version=normal"
+    },
+    "end": 1374.46
+  },
+  {
+    "start": 1374.46,
+    "cardId": "87b22b09-4f6d-4bc5-9cfc-663e4c7c6981",
+    "cardName": "The Ur-Dragon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Ur-Dragon",
+      "manaCost": "{4}{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Dragon Avatar",
+      "oracleText": "Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast.\nFlying\nWhenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Ur-Dragon&format=image&version=normal"
+    },
+    "end": 1442.82
+  },
+  {
+    "start": 1442.82,
+    "cardId": "ea904852-6322-4a24-9145-190acfce54ec",
+    "cardName": "Arjun, the Shifting Flame",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arjun, the Shifting Flame",
+      "manaCost": "{4}{U}{R}",
+      "typeLine": "Legendary Creature — Sphinx Wizard",
+      "oracleText": "Flying\nWhenever you cast a spell, put the cards in your hand on the bottom of your library in any order, then draw that many cards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Arjun%2C%20the%20Shifting%20Flame&format=image&version=normal"
+    },
+    "end": 1524.14
+  },
+  {
+    "start": 1524.14,
+    "cardId": "361b0d7f-1e43-45c5-92c2-92baacaf326f",
+    "cardName": "Pile On",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Pile On",
+      "manaCost": "{3}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy target creature or planeswalker. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Pile%20On&format=image&version=normal"
+    },
+    "end": 1708.56
+  },
+  {
+    "start": 1708.56,
+    "cardId": "34b93a66-de1e-4133-a479-e0d90ba94a3a",
+    "cardName": "Mutable Explorer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mutable Explorer",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Shapeshifter",
+      "oracleText": "Changeling (This card is every creature type.)\nWhen this creature enters, create a tapped Mutavault token. (It's a land with \"{T}: Add {C}\" and \"{1}: This token becomes a 2/2 creature with all creature types until end of turn. It's still a land.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Mutable%20Explorer&format=image&version=normal"
+    },
+    "end": 1710.28
+  },
+  {
+    "start": 1710.28,
+    "cardId": "446db5a4-21b0-44c1-b12b-d365313dd67a",
+    "cardName": "Clifftop Lookout",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clifftop Lookout",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Frog Scout",
+      "oracleText": "Reach\nWhen this creature enters, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest on the bottom of your library in a random order.",
+      "image": "https://api.scryfall.com/cards/named?exact=Clifftop%20Lookout&format=image&version=normal"
+    },
+    "end": 1722.52
+  },
+  {
+    "start": 1722.52,
+    "cardId": "0f77c0c9-4dc4-489a-b547-e93287c4d1a5",
+    "cardName": "Eldritch Evolution",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Eldritch Evolution",
+      "manaCost": "{1}{G}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's mana value. Put that card onto the battlefield, then shuffle. Exile Eldritch Evolution.",
+      "image": "https://api.scryfall.com/cards/named?exact=Eldritch%20Evolution&format=image&version=normal"
+    },
+    "end": 1786.64
+  },
+  {
+    "start": 1786.64,
+    "cardId": "44cf5ef4-2b0f-4d9d-bf87-8835424721d0",
+    "cardName": "Evolutionary Leap",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Evolutionary Leap",
+      "manaCost": "{1}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "{G}, Sacrifice a creature: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.",
+      "image": "https://api.scryfall.com/cards/named?exact=Evolutionary%20Leap&format=image&version=normal"
+    },
+    "end": 1788.12
+  },
+  {
+    "start": 1788.12,
+    "cardId": "00c0543c-2a1f-4425-8283-4062d74a1637",
+    "cardName": "Solemn Simulacrum",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Solemn Simulacrum",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Golem",
+      "oracleText": "When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.\nWhen this creature dies, you may draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Solemn%20Simulacrum&format=image&version=normal"
+    },
+    "end": 1840.7
+  },
+  {
+    "start": 1840.7,
+    "cardId": "23467047-6dba-4498-b783-1ebc4f74b8c2",
+    "cardName": "Ancient Tomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ancient Tomb",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}{C}. This land deals 2 damage to you.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ancient%20Tomb&format=image&version=normal"
+    },
+    "end": 1887.48
+  },
+  {
+    "start": 1887.48,
+    "cardId": "22c75ad5-237c-4dbd-bbc4-3058a3db408f",
+    "cardName": "Beanstalk Giant // Fertile Footsteps",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beanstalk Giant // Fertile Footsteps",
+      "manaCost": "{6}{G}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Beanstalk Giant's power and toughness are each equal to the number of lands you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Beanstalk%20Giant%20%2F%2F%20Fertile%20Footsteps&format=image&version=normal",
+      "faces": [
+        {
+          "name": "Beanstalk Giant",
+          "manaCost": "{6}{G}",
+          "typeLine": "Creature — Giant",
+          "oracleText": "Beanstalk Giant's power and toughness are each equal to the number of lands you control."
+        }
+      ]
+    },
+    "end": 1923.54
+  },
+  {
+    "start": 1923.54,
+    "cardId": "ad9b7fbc-61c8-43ee-a65c-99206fd1e4df",
+    "cardName": "Maelstrom Wanderer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Maelstrom Wanderer",
+      "manaCost": "{5}{G}{U}{R}",
+      "typeLine": "Legendary Creature — Elemental",
+      "oracleText": "Creatures you control have haste.\nCascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Maelstrom%20Wanderer&format=image&version=normal"
+    },
+    "end": 2033.16
+  },
+  {
+    "start": 2033.16,
+    "cardId": "22c75ad5-237c-4dbd-bbc4-3058a3db408f",
+    "cardName": "Beanstalk Giant // Fertile Footsteps",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beanstalk Giant // Fertile Footsteps",
+      "manaCost": "{6}{G}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Beanstalk Giant's power and toughness are each equal to the number of lands you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Beanstalk%20Giant%20%2F%2F%20Fertile%20Footsteps&format=image&version=normal",
+      "faces": [
+        {
+          "name": "Beanstalk Giant",
+          "manaCost": "{6}{G}",
+          "typeLine": "Creature — Giant",
+          "oracleText": "Beanstalk Giant's power and toughness are each equal to the number of lands you control."
+        }
+      ]
+    },
+    "end": 2056.12
+  },
+  {
+    "start": 2056.12,
+    "cardId": "4567a528-75f0-4ea6-b927-3a500caf76ac",
+    "cardName": "Arbor Elf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arbor Elf",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Untap target Forest.",
+      "image": "https://api.scryfall.com/cards/named?exact=Arbor%20Elf&format=image&version=normal"
+    },
+    "end": 2058.42
+  },
+  {
+    "start": 2058.42,
+    "cardId": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+    "cardName": "Forest",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Forest",
+      "typeLine": "Basic Land — Forest",
+      "oracleText": "({T}: Add {G}.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Forest&format=image&version=normal"
+    },
+    "end": 2068.14
+  },
+  {
+    "start": 2068.14,
+    "cardId": "22c75ad5-237c-4dbd-bbc4-3058a3db408f",
+    "cardName": "Beanstalk Giant // Fertile Footsteps",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beanstalk Giant // Fertile Footsteps",
+      "manaCost": "{6}{G}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Beanstalk Giant's power and toughness are each equal to the number of lands you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Beanstalk%20Giant%20%2F%2F%20Fertile%20Footsteps&format=image&version=normal",
+      "faces": [
+        {
+          "name": "Beanstalk Giant",
+          "manaCost": "{6}{G}",
+          "typeLine": "Creature — Giant",
+          "oracleText": "Beanstalk Giant's power and toughness are each equal to the number of lands you control."
+        }
+      ]
+    },
+    "end": 2206.18
+  },
+  {
+    "start": 2206.18,
+    "cardId": "2a8e14be-6f93-428d-a204-e2399dc93797",
+    "cardName": "Shrieking Drake",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Shrieking Drake",
+      "manaCost": "{U}",
+      "typeLine": "Creature — Drake",
+      "oracleText": "Flying\nWhen this creature enters, return a creature you control to its owner's hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Shrieking%20Drake&format=image&version=normal"
+    },
+    "end": 2231.52
+  },
+  {
+    "start": 2231.52,
+    "cardId": "5cd2fd32-4da2-40eb-b003-c0b9a9ec91c1",
+    "cardName": "Cloudstone Curio",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cloudstone Curio",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "Whenever a nonartifact permanent you control enters, you may return another permanent you control that shares a permanent type with it to its owner's hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Cloudstone%20Curio&format=image&version=normal"
+    },
+    "end": 2295.24
+  },
+  {
+    "start": 2295.24,
+    "cardId": "09ef446c-a13d-49d9-a94c-cd5f5a2d440b",
+    "cardName": "Displacer Kitten",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Displacer Kitten",
+      "manaCost": "{3}{U}",
+      "typeLine": "Creature — Cat Beast",
+      "oracleText": "Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Displacer%20Kitten&format=image&version=normal"
+    },
+    "end": 2339.82
+  },
+  {
+    "start": 2339.82,
+    "cardId": "09ef446c-a13d-49d9-a94c-cd5f5a2d440b",
+    "cardName": "Displacer Kitten",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Displacer Kitten",
+      "manaCost": "{3}{U}",
+      "typeLine": "Creature — Cat Beast",
+      "oracleText": "Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Displacer%20Kitten&format=image&version=normal"
+    },
+    "end": 2449.82
+  },
+  {
+    "start": 2449.82,
+    "cardId": "4eb813fd-2d5a-4b02-8193-662681ef4e7d",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Farewell&format=image&version=normal"
+    },
+    "end": 2452.34
+  },
+  {
+    "start": 2452.34,
+    "cardId": "310f141c-7f37-4729-aed6-dd9c09db448d",
+    "cardName": "Blood Artist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Blood Artist",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Vampire",
+      "oracleText": "Whenever this creature or another creature dies, target player loses 1 life and you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Blood%20Artist&format=image&version=normal"
+    },
+    "end": 2655.52
+  },
+  {
+    "start": 2655.52,
+    "cardId": "45900b2f-f6a9-4c42-9642-008f3c1cf6dd",
+    "cardName": "Tarmogoyf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://api.scryfall.com/cards/named?exact=Tarmogoyf&format=image&version=normal"
+    },
+    "end": 2698.86
+  },
+  {
+    "start": 2698.86,
+    "cardId": "c387f46f-ad91-4964-8dc6-acefe537fe3c",
+    "cardName": "Unsubstantiate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Unsubstantiate",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Return target spell or creature to its owner's hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Unsubstantiate&format=image&version=normal"
+    },
+    "end": 2858.66
+  },
+  {
+    "start": 2858.66,
+    "cardId": "8539f295-5d58-4436-a73a-b9277c4c7795",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rampant%20Growth&format=image&version=normal"
+    },
+    "end": 3062.8
+  },
+  {
+    "start": 3062.8,
+    "cardId": "38a55562-1e2d-4240-9454-219a4a25d38d",
+    "cardName": "Lord Windgrace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lord Windgrace",
+      "manaCost": "{2}{B}{R}{G}",
+      "typeLine": "Legendary Planeswalker — Windgrace",
+      "oracleText": "[+2]: Discard a card, then draw a card. If a land card is discarded this way, draw an additional card.\n[−3]: Return up to two target land cards from your graveyard to the battlefield.\n[−11]: Destroy up to six target nonland permanents, then create six 2/2 green Cat Warrior creature tokens with forestwalk.\nLord Windgrace can be your commander.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lord%20Windgrace&format=image&version=normal"
+    },
+    "end": 3073.5
+  },
+  {
+    "start": 3073.5,
+    "cardId": "d21a89eb-7c5b-459a-acc7-12b20b13bf79",
+    "cardName": "Strip Mine",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Strip Mine",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target land.",
+      "image": "https://api.scryfall.com/cards/named?exact=Strip%20Mine&format=image&version=normal"
+    },
+    "end": 3211.32
+  },
+  {
+    "start": 3211.32,
+    "cardId": "cc187110-1148-4090-bbb8-e205694a39f5",
+    "cardName": "Counterspell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Counterspell",
+      "manaCost": "{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Counterspell&format=image&version=normal"
+    },
+    "end": 3224.06
+  },
+  {
+    "start": 3224.06,
+    "cardId": "d0259f7d-9bd7-4722-8fb9-439768308516",
+    "cardName": "Darksteel Angel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Darksteel Angel",
+      "manaCost": "{9}",
+      "typeLine": "Artifact Creature — Angel",
+      "oracleText": "Flying, indestructible\nYou can't lose the game and your opponents can't win the game.\nCreatures you control can't have -1/-1 counters put on them.",
+      "image": "https://api.scryfall.com/cards/named?exact=Darksteel%20Angel&format=image&version=normal"
+    },
+    "end": 3248.52
+  },
+  {
+    "start": 3248.52,
+    "cardId": "b148578c-c0bf-4785-b97c-4b6f83028008",
+    "cardName": "Platinum Angel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Platinum Angel",
+      "manaCost": "{7}",
+      "typeLine": "Artifact Creature — Angel",
+      "oracleText": "Flying\nYou can't lose the game and your opponents can't win the game.",
+      "image": "https://api.scryfall.com/cards/named?exact=Platinum%20Angel&format=image&version=normal"
+    },
+    "end": 3276.7
+  },
+  {
+    "start": 3276.7,
+    "cardId": "d683d985-9888-4d21-8b5f-69e69ce4a03b",
+    "cardName": "Path to Exile",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Path to Exile",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Path%20to%20Exile&format=image&version=normal"
+    },
+    "end": 3367.08
+  },
+  {
+    "start": 3367.08,
+    "cardId": "cb814e16-acf7-41d5-a357-1323dcc369f3",
+    "cardName": "Devoted Druid",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Devoted Druid",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Add {G}.\nPut a -1/-1 counter on this creature: Untap this creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Devoted%20Druid&format=image&version=normal"
+    },
+    "end": 3414.4
+  },
+  {
+    "start": 3414.4,
+    "cardId": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+    "cardName": "Blasphemous Act",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Blasphemous Act",
+      "manaCost": "{8}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Blasphemous%20Act&format=image&version=normal"
+    },
+    "end": 3474.82
+  },
+  {
+    "start": 3474.82,
+    "cardId": "7a2484a9-04fd-41a0-8224-610c1c07ed10",
+    "cardName": "Blasphemous Act",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Blasphemous Act",
+      "manaCost": "{8}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Blasphemous%20Act&format=image&version=normal"
+    },
+    "end": 3482.46
+  },
+  {
+    "start": 3482.46,
+    "cardId": "b01d61cc-9844-4191-86a0-f2db6d42d6e5",
+    "cardName": "Damn",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Damn",
+      "manaCost": "{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy target creature. A creature destroyed this way can't be regenerated.\nOverload {2}{W}{W} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Damn&format=image&version=normal"
+    },
+    "end": 3579.44
+  },
+  {
+    "start": 3579.44,
+    "cardId": "fb81f95c-70f8-4eb7-8d15-15d0ae23ec03",
+    "cardName": "Mystical Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mystical Tutor",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mystical%20Tutor&format=image&version=normal"
+    },
+    "end": 3751.58
+  },
+  {
+    "start": 3751.58,
+    "cardId": "a8abd966-de7b-46a3-8ac7-8747ab35653a",
+    "cardName": "Wheel of Fortune",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wheel of Fortune",
+      "manaCost": "{2}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player discards their hand, then draws seven cards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wheel%20of%20Fortune&format=image&version=normal"
+    },
+    "end": 3960.68
+  },
+  {
+    "start": 3960.68,
+    "cardId": "fae37e28-e137-4177-b973-fa8b4dd8f409",
+    "cardName": "Generous Gift",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Generous Gift",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target permanent. Its controller creates a 3/3 green Elephant creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Generous%20Gift&format=image&version=normal"
+    },
+    "end": 4045.6
+  },
+  {
+    "start": 4045.6,
+    "cardId": "fae37e28-e137-4177-b973-fa8b4dd8f409",
+    "cardName": "Generous Gift",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Generous Gift",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target permanent. Its controller creates a 3/3 green Elephant creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Generous%20Gift&format=image&version=normal"
+    },
+    "end": 4051.36
+  },
+  {
+    "start": 4051.36,
+    "cardId": "c0864adb-e9aa-40b6-91ff-a0646193e887",
+    "cardName": "Helpful Hunter",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Helpful Hunter",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Cat",
+      "oracleText": "When this creature enters, draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Helpful%20Hunter&format=image&version=normal"
+    },
+    "end": 4058.74
+  },
+  {
+    "start": 4058.74,
+    "cardId": "b148578c-c0bf-4785-b97c-4b6f83028008",
+    "cardName": "Platinum Angel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Platinum Angel",
+      "manaCost": "{7}",
+      "typeLine": "Artifact Creature — Angel",
+      "oracleText": "Flying\nYou can't lose the game and your opponents can't win the game.",
+      "image": "https://api.scryfall.com/cards/named?exact=Platinum%20Angel&format=image&version=normal"
+    },
+    "end": 4193.04
+  },
+  {
+    "start": 4193.04,
+    "cardId": "615927c2-3fb0-4e64-a1a7-55fb56de1423",
+    "cardName": "Soul Shatter",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Soul Shatter",
+      "manaCost": "{2}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Each opponent sacrifices a creature or planeswalker with the greatest mana value among creatures and planeswalkers they control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Soul%20Shatter&format=image&version=normal"
+    },
+    "end": 4310.22
+  },
+  {
+    "start": 4310.22,
+    "cardId": "f3fad295-1af2-4ecc-8546-b121ad6be27b",
+    "cardName": "Soul Warden",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Soul Warden",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "Whenever another creature enters, you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Soul%20Warden&format=image&version=normal"
+    },
+    "end": 4332.16
+  },
+  {
+    "start": 4332.16,
+    "cardId": "bfcdf563-c6e5-4a54-bb63-4aba219b94e2",
+    "cardName": "Beacon of Immortality",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Beacon of Immortality",
+      "manaCost": "{5}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Double target player's life total. Shuffle Beacon of Immortality into its owner's library.",
+      "image": "https://api.scryfall.com/cards/named?exact=Beacon%20of%20Immortality&format=image&version=normal"
+    },
+    "end": 4358.8
+  },
+  {
+    "start": 4358.8,
+    "cardId": "f70f1f2e-7277-4bc9-b0bb-b44a1da2c62f",
+    "cardName": "Feed the Clan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Feed the Clan",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "You gain 5 life.\nFerocious — You gain 10 life instead if you control a creature with power 4 or greater.",
+      "image": "https://api.scryfall.com/cards/named?exact=Feed%20the%20Clan&format=image&version=normal"
+    },
+    "end": 4370.18
+  },
+  {
+    "start": 4370.18,
+    "cardId": "f3fad295-1af2-4ecc-8546-b121ad6be27b",
+    "cardName": "Soul Warden",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Soul Warden",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "Whenever another creature enters, you gain 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Soul%20Warden&format=image&version=normal"
+    },
+    "end": 4444.38
+  },
+  {
+    "start": 4444.38,
+    "cardId": "f2048140-b691-4753-8239-1aa75059e389",
+    "cardName": "Martyr of Sands",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Martyr of Sands",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "{1}, Reveal X white cards from your hand, Sacrifice this creature: You gain three times X life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Martyr%20of%20Sands&format=image&version=normal"
+    },
+    "end": 4463.48
+  },
+  {
+    "start": 4463.48,
+    "cardId": "53987a39-c18c-4c13-b1ea-fd1b2a369f9e",
+    "cardName": "Whip of Erebos",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Whip of Erebos",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Legendary Enchantment Artifact",
+      "oracleText": "Creatures you control have lifelink.\n{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery.",
+      "image": "https://api.scryfall.com/cards/named?exact=Whip%20of%20Erebos&format=image&version=normal"
+    },
+    "end": 4584.28
+  },
+  {
+    "start": 4584.28,
+    "cardId": "0d4ecdb1-ec90-497f-a7a4-1c68092b8757",
+    "cardName": "Teferi's Protection",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Teferi's Protection",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Until your next turn, your life total can't change and you gain protection from everything. All permanents you control phase out. (While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)\nExile Teferi's Protection.",
+      "image": "https://api.scryfall.com/cards/named?exact=Teferi's%20Protection&format=image&version=normal"
+    },
+    "end": 4760.6
+  },
+  {
+    "start": 4760.6,
+    "cardId": "caa208bd-92e9-40ec-95c0-86e89d4facbb",
+    "cardName": "Copy Land",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Copy Land",
+      "manaCost": "{2}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "You may have this enchantment enter as a copy of any land on the battlefield, except it's an enchantment in addition to its other types.",
+      "image": "https://api.scryfall.com/cards/named?exact=Copy%20Land&format=image&version=normal"
+    },
+    "end": 4786.16
+  },
+  {
+    "start": 4786.16,
+    "cardId": "fd4f0315-567a-4cc5-bc7e-88a9d2cee910",
+    "cardName": "Improvisation Capstone",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Improvisation Capstone",
+      "manaCost": "{5}{R}{R}",
+      "typeLine": "Sorcery — Lesson",
+      "oracleText": "Exile cards from the top of your library until you exile cards with total mana value 4 or greater. You may cast any number of spells from among them without paying their mana costs.\nParadigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Improvisation%20Capstone&format=image&version=normal"
+    },
+    "end": 5027.26
+  },
+  {
+    "start": 5027.26,
+    "cardId": "002cd9b4-efce-429f-82cd-d37352d2e932",
+    "cardName": "Wasp, Shrinking Savior",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wasp, Shrinking Savior",
+      "manaCost": "{2}{U}",
+      "typeLine": "Legendary Creature — Human Hero",
+      "oracleText": "Flying\nWhenever Wasp attacks, up to one other target creature gets -3/-0 until your next turn. Then draw a card for each creature with power less than 0 on the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Wasp%2C%20Shrinking%20Savior&format=image&version=normal"
+    }
+  }
+]

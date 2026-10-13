@@ -3,7 +3,7 @@
     {
       "start": 8,
       "end": 16,
-      "text": "Let us talk about Gavi, Nest Warden and Arcane Signet.",
+      "text": "Let us talk about Gavi, Nest Warden and Arcane Signet in a Forest.",
       "words": [
         { "word": " Let", "start": 8, "end": 8.2 },
         { "word": " us", "start": 8.2, "end": 8.4 },
@@ -14,7 +14,10 @@
         { "word": " Warden", "start": 12.7, "end": 13.2 },
         { "word": " and", "start": 13.2, "end": 13.4 },
         { "word": " Arcane", "start": 13.4, "end": 13.8 },
-        { "word": " Signet.", "start": 13.8, "end": 14.2 }
+        { "word": " Signet", "start": 13.8, "end": 14.2 },
+        { "word": " in", "start": 14.2, "end": 14.4 },
+        { "word": " a", "start": 14.4, "end": 14.5 },
+        { "word": " Forest.", "start": 14.5, "end": 15.0 }
       ]
     }
   ]

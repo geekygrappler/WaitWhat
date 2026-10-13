@@ -36,6 +36,20 @@ Refresh only one feed with `--show=legendary-creature`, `--show=mtggoldfish`, or
 
 No application server, database, account, or API key is required during playback.
 
+## Automatic episode publishing
+
+`npm run update-new-episodes` compares the live feeds with the checked-in snapshots and processes only episodes published after each snapshot's current head. It downloads each new enclosure, creates a word-timestamped transcript with MLX Whisper, generates a cue sheet, validates the batch, and updates the feed files transactionally. Completed downloads and transcripts in `processing/` are reused after an interrupted run.
+
+The unattended matcher prioritizes precision: it accepts exact multiword card names and previously reviewed one-word names, while excluding known card names that are also common podcast phrases. Update `reviews/automation-one-word-cards.json` and `reviews/automation-card-blocklist.json` as the reviewed corpus evolves. Fuzzy matching remains available through the manual processing and review workflow.
+
+On Apple silicon, install `mlx` and `mlx-whisper` in a Python environment, then run:
+
+```bash
+WAITWHAT_TRANSCRIBE_PYTHON=/path/to/venv/bin/python npm run update-new-episodes
+```
+
+Add `-- --publish` to require a clean `main` worktree, fast-forward from `origin/main`, run the tests, commit the generated episode files, and push them. The existing GitHub Actions workflow deploys `dist/` to GitHub Pages after that push.
+
 ## Install on a phone
 
 - iPhone/iPad: open the HTTPS deployment in Safari, use **Share → Add to Home Screen**, then launch the installed app.

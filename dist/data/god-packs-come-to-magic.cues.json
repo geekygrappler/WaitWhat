@@ -1,0 +1,151 @@
+[
+  {
+    "start": 731.64,
+    "cardId": "eec81460-899d-4b4c-b33c-ce2ca704df17",
+    "cardName": "Crude Bent Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Crude Bent Blade",
+      "manaCost": "{2}{B}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "When this Equipment enters, target opponent sacrifices a creature of their choice.\nEquipped creature gets +2/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Crude%20Bent%20Blade&format=image&version=normal"
+    },
+    "end": 1335
+  },
+  {
+    "start": 1335,
+    "cardId": "51092634-308e-4779-aa51-182715dbc734",
+    "cardName": "March of the Machines",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "March of the Machines",
+      "manaCost": "{3}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Each noncreature artifact is an artifact creature with power and toughness each equal to its mana value. (Equipment that's a creature can't equip a creature.)",
+      "image": "https://api.scryfall.com/cards/named?exact=March%20of%20the%20Machines&format=image&version=normal"
+    },
+    "end": 1711.02
+  },
+  {
+    "start": 1711.02,
+    "cardId": "d85f70d8-272a-4f62-8e71-92507782db0a",
+    "cardName": "The Collector",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Collector",
+      "manaCost": "{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Human Gamer",
+      "oracleText": "Whenever you cast a signed spell or play a signed land, copy it. (A signed card is a card signed by its artist, designer, or someone else it's strongly associated with.)\nDiscard a signed card: Destroy target creature with a name that has a five or fewer letter length difference from the person who signed the discarded card.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Collector&format=image&version=normal"
+    },
+    "end": 2422.36
+  },
+  {
+    "start": 2422.36,
+    "cardId": "16437a83-be52-44cd-a768-a767c9347eb2",
+    "cardName": "Fatal Push",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fatal Push",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fatal%20Push&format=image&version=normal"
+    },
+    "end": 2615.34
+  },
+  {
+    "start": 2615.34,
+    "cardId": "6c1d22d4-f28e-4041-a9b6-1575e8929b61",
+    "cardName": "Nexus of Fate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Nexus of Fate",
+      "manaCost": "{5}{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Take an extra turn after this one.\nIf Nexus of Fate would be put into a graveyard from anywhere, reveal Nexus of Fate and shuffle it into its owner's library instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Nexus%20of%20Fate&format=image&version=normal"
+    },
+    "end": 2968.2
+  },
+  {
+    "start": 2968.2,
+    "cardId": "9be1d4b1-064d-4051-aafc-ca48def28e3b",
+    "cardName": "Impossible Man",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Impossible Man",
+      "manaCost": "{2}{U}",
+      "typeLine": "Legendary Creature — Alien Shapeshifter",
+      "oracleText": "Flying\n{2}{U}: Impossible Man becomes a copy of another target permanent until end of turn, except his name is Impossible Man.",
+      "image": "https://api.scryfall.com/cards/named?exact=Impossible%20Man&format=image&version=normal"
+    },
+    "end": 2978.12
+  },
+  {
+    "start": 2978.12,
+    "cardId": "8f8fd2ba-df0e-49bd-a916-cc4f50b9fa24",
+    "cardName": "Earthbending Student",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Earthbending Student",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Human Warrior Ally",
+      "oracleText": "When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nLand creatures you control have vigilance. (Attacking doesn't cause them to tap.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Earthbending%20Student&format=image&version=normal"
+    },
+    "end": 3019.48
+  },
+  {
+    "start": 3019.48,
+    "cardId": "7615157b-af2a-41b9-801e-aca56c485ebd",
+    "cardName": "Land Station",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Land Station",
+      "manaCost": "{1}{G}",
+      "typeLine": "Artifact — Spacecraft",
+      "oracleText": "When this Spacecraft enters, reveal a basic land card from outside the game and put it into your hand. (remembering that the nearest land station may be behind you).\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.)\n10+ | Flying\nThis creature gets +1/+1 for each basic land you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Land%20Station&format=image&version=normal"
+    },
+    "end": 3194.7
+  },
+  {
+    "start": 3194.7,
+    "cardId": "6662968e-ca9e-454c-be44-24ad10e43d3e",
+    "cardName": "Unstoppable Slasher",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Unstoppable Slasher",
+      "manaCost": "{2}{B}",
+      "typeLine": "Creature — Zombie Assassin",
+      "oracleText": "Deathtouch\nWhenever this creature deals combat damage to a player, they lose half their life, rounded up.\nWhen this creature dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it.",
+      "image": "https://api.scryfall.com/cards/named?exact=Unstoppable%20Slasher&format=image&version=normal"
+    },
+    "end": 3344.64
+  },
+  {
+    "start": 3344.64,
+    "cardId": "97435e03-2fff-4fe0-8fa9-69ab0a046a33",
+    "cardName": "Unbreakable Formation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Unbreakable Formation",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Creatures you control gain indestructible until end of turn.\nAddendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Unbreakable%20Formation&format=image&version=normal"
+    }
+  }
+]

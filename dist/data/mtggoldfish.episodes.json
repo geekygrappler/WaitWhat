@@ -1,5 +1,41 @@
 [
   {
+    "id": "is-jace-the-next-100-card",
+    "title": "Is Jace the Next $100 Card?",
+    "published": "2026-10-12T21:48:20.000Z",
+    "duration": 3562,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/a19d1dce-af98-483c-aba9-cbb8e68644e2/mtggoldfish_podcast_609_IsJaceTheNext$100Card.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
+    "processed": true,
+    "source": "MTGGoldfish Podcast RSS",
+    "cueSheet": "./data/is-jace-the-next-100-card.cues.json"
+  },
+  {
+    "id": "god-packs-come-to-magic",
+    "title": "God Packs Come to Magic",
+    "published": "2026-10-05T22:01:15.000Z",
+    "duration": 3503,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/879cba01-f1d1-42b2-a53a-86ddeff04f78/mtggoldfish_podcast_608_GodPacksComeToMagic.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
+    "processed": true,
+    "source": "MTGGoldfish Podcast RSS",
+    "cueSheet": "./data/god-packs-come-to-magic.cues.json"
+  },
+  {
+    "id": "do-you-cheat-at-prerelease",
+    "title": "Do You Cheat At Prerelease?",
+    "published": "2026-09-28T20:11:24.000Z",
+    "duration": 3783,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/5159ed69-1d17-4345-81da-a6bf4033aedb/mtggoldfish_podcast_607_DoYouCheatAtPrerelease_.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
+    "processed": true,
+    "source": "MTGGoldfish Podcast RSS",
+    "cueSheet": "./data/do-you-cheat-at-prerelease.cues.json"
+  },
+  {
     "id": "the-reality-fracture-cards-that-actually-matter",
     "title": "The Reality Fracture Cards that Actually Matter",
     "published": "2026-09-21T20:07:12.000Z",
@@ -186,39 +222,6 @@
     "published": "2026-06-01T20:48:24.000Z",
     "duration": 3800,
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/e0f93cf2-566a-4f7e-b91b-6bfcc31aef76/mtggoldfish_podcast_590_MikuMikuPinkertons.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
-    "processed": false,
-    "source": "MTGGoldfish Podcast RSS"
-  },
-  {
-    "id": "magic-fixes-the-marvel-problem",
-    "title": "Magic Fixes the Marvel Problem",
-    "published": "2026-05-25T22:56:53.000Z",
-    "duration": 3546,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/dd375991-d660-41c8-81ea-497eed9bf473/mtggoldfish_podcast_589_MagicFixesTheMarvelProblem.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
-    "processed": false,
-    "source": "MTGGoldfish Podcast RSS"
-  },
-  {
-    "id": "boomer-cards-unbanned-in-modern",
-    "title": "Boomer Cards Unbanned in Modern",
-    "published": "2026-05-18T22:23:16.000Z",
-    "duration": 3575,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/6939a2b1-930b-4001-a9a5-84441ad38b78/mtggoldfish_podcast_588_BoomerCardsUnbannedInModern.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
-    "processed": false,
-    "source": "MTGGoldfish Podcast RSS"
-  },
-  {
-    "id": "you-traded-a-dual-land-for-what",
-    "title": "You Traded a Dual Land for WHAT?",
-    "published": "2026-05-11T20:37:25.000Z",
-    "duration": 3831,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/b1cc29c3-7986-4bb6-a5cf-7738d1faf52b/mttgoldfish_podcast_587_YouTradedADualLandForWHAT.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
     "processed": false,

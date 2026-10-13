@@ -24,8 +24,16 @@ const setFilter = new Set(/^(all|\*)$/i.test(requestedSets) ? [] : requestedSets
 const approvedCards = args["approved-cards"]
   ? new Set(JSON.parse(await readFile(path.resolve(args["approved-cards"]), "utf8")))
   : null;
+const oneWordAllowlist = args["one-word-allowlist"]
+  ? new Set(JSON.parse(await readFile(path.resolve(args["one-word-allowlist"]), "utf8")))
+  : null;
+const blockedCards = args["blocked-cards"]
+  ? new Set(JSON.parse(await readFile(path.resolve(args["blocked-cards"]), "utf8")))
+  : null;
 const cards = preferredCards(catalogue.filter((card) => card.lang === "en" && (!setFilter.size || setFilter.has(card.set))))
-  .filter((card) => !approvedCards || approvedCards.has(card.name));
+  .filter((card) => !approvedCards || approvedCards.has(card.name))
+  .filter((card) => !oneWordAllowlist || normalize(card.name.split(" // ")[0]).includes(" ") || oneWordAllowlist.has(card.name))
+  .filter((card) => !blockedCards || !blockedCards.has(card.name));
 const threshold = Number(args.threshold || 0.84);
 const matches = matchSegments(segments, cards, threshold, Boolean(args["exact-only"]));
 const cues = groupMatches(collapseMatches(matches)).map((group) => {

@@ -1,0 +1,575 @@
+[
+  {
+    "start": 148.06,
+    "cardId": "2df3187b-4b91-4de9-9b26-d48a30700cec",
+    "cardName": "Splinter Twin",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Splinter Twin",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nEnchanted creature has \"{T}: Create a token that's a copy of this creature, except it has haste. Exile that token at the beginning of the next end step.\"",
+      "image": "https://api.scryfall.com/cards/named?exact=Splinter%20Twin&format=image&version=normal"
+    },
+    "end": 578.24
+  },
+  {
+    "start": 578.24,
+    "cardId": "f34b9bc4-7bfe-47fd-ba23-4eeeb46026eb",
+    "cardName": "Lightning Strike",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Strike",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Strike deals 3 damage to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Strike&format=image&version=normal"
+    },
+    "end": 722.46
+  },
+  {
+    "start": 722.46,
+    "cardId": "03df6a57-37c9-46d3-83b3-4a6240100714",
+    "cardName": "Hero's Downfall",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hero's Downfall",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature or planeswalker.",
+      "image": "https://api.scryfall.com/cards/named?exact=Hero's%20Downfall&format=image&version=normal"
+    },
+    "end": 745.7
+  },
+  {
+    "start": 745.7,
+    "cardId": "61b6b1d1-4350-41c1-ac47-835b2831f24a",
+    "cardName": "Jeskai Revelation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Jeskai Revelation",
+      "manaCost": "{4}{U}{R}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Return target spell or permanent to its owner's hand. Jeskai Revelation deals 4 damage to any target. Create two 1/1 white Monk creature tokens with prowess. Draw two cards. You gain 4 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Jeskai%20Revelation&format=image&version=normal"
+    },
+    "end": 768.78
+  },
+  {
+    "start": 768.78,
+    "cardId": "19cf5798-4600-4a66-b1c7-de77bde157d0",
+    "cardName": "Tablet of Discovery",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tablet of Discovery",
+      "manaCost": "{2}{R}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)\n{T}: Add {R}.\n{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",
+      "image": "https://api.scryfall.com/cards/named?exact=Tablet%20of%20Discovery&format=image&version=normal"
+    },
+    "end": 908.08
+  },
+  {
+    "start": 908.08,
+    "cardId": "41820f91-27cf-41c0-bb5e-9adf6845a6a4",
+    "cardName": "Phyrexian Obliterator",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Phyrexian Obliterator",
+      "manaCost": "{B}{B}{B}{B}",
+      "typeLine": "Creature — Phyrexian Horror",
+      "oracleText": "Trample\nWhenever a source deals damage to this creature, that source's controller sacrifices that many permanents of their choice.",
+      "image": "https://api.scryfall.com/cards/named?exact=Phyrexian%20Obliterator&format=image&version=normal"
+    },
+    "end": 929.44
+  },
+  {
+    "start": 929.44,
+    "cardId": "a139eb7f-3853-490c-a839-35d0e5aed7b5",
+    "cardName": "Enlightened Confidant",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Enlightened Confidant",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Kor Cleric",
+      "oracleText": "Lifelink\nAt the beginning of your end step, if you gained life this turn, surveil 1. If you put a card with mana value less than or equal to the amount of life you gained this turn into your graveyard this way, put that card into your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Enlightened%20Confidant&format=image&version=normal"
+    },
+    "end": 1005.84
+  },
+  {
+    "start": 1005.84,
+    "cardId": "a139eb7f-3853-490c-a839-35d0e5aed7b5",
+    "cardName": "Enlightened Confidant",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Enlightened Confidant",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Kor Cleric",
+      "oracleText": "Lifelink\nAt the beginning of your end step, if you gained life this turn, surveil 1. If you put a card with mana value less than or equal to the amount of life you gained this turn into your graveyard this way, put that card into your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Enlightened%20Confidant&format=image&version=normal"
+    },
+    "end": 1014.42
+  },
+  {
+    "start": 1014.42,
+    "cardId": "45900b2f-f6a9-4c42-9642-008f3c1cf6dd",
+    "cardName": "Tarmogoyf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://api.scryfall.com/cards/named?exact=Tarmogoyf&format=image&version=normal"
+    },
+    "end": 1027.68
+  },
+  {
+    "start": 1027.68,
+    "cardId": "4457ed35-7c10-48c8-9776-456485fdf070",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Bolt&format=image&version=normal"
+    },
+    "end": 1111.86
+  },
+  {
+    "start": 1111.86,
+    "cardId": "087f9ad7-e74f-40e2-8102-1ed2925d0418",
+    "cardName": "Rest in Peace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rest%20in%20Peace&format=image&version=normal"
+    },
+    "end": 1248.72
+  },
+  {
+    "start": 1248.72,
+    "cardId": "bd7c5a8b-cf62-41e1-a664-b16e3e5d142b",
+    "cardName": "Laughing Jasper Flint",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Laughing Jasper Flint",
+      "manaCost": "{1}{B}{R}",
+      "typeLine": "Legendary Creature — Lizard Rogue",
+      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
+      "image": "https://api.scryfall.com/cards/named?exact=Laughing%20Jasper%20Flint&format=image&version=normal"
+    },
+    "end": 1282.12
+  },
+  {
+    "start": 1282.12,
+    "cardId": "bd7c5a8b-cf62-41e1-a664-b16e3e5d142b",
+    "cardName": "Laughing Jasper Flint",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Laughing Jasper Flint",
+      "manaCost": "{1}{B}{R}",
+      "typeLine": "Legendary Creature — Lizard Rogue",
+      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
+      "image": "https://api.scryfall.com/cards/named?exact=Laughing%20Jasper%20Flint&format=image&version=normal"
+    },
+    "end": 1285.82
+  },
+  {
+    "start": 1285.82,
+    "cardId": "37e90cab-d904-4387-9d18-62f125c38c46",
+    "cardName": "Master of Arms",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Master of Arms",
+      "manaCost": "{2}{W}",
+      "typeLine": "Creature — Human Soldier",
+      "oracleText": "First strike\n{1}{W}: Tap target creature blocking this creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Master%20of%20Arms&format=image&version=normal"
+    },
+    "end": 1292.2
+  },
+  {
+    "start": 1292.2,
+    "cardId": "bd7c5a8b-cf62-41e1-a664-b16e3e5d142b",
+    "cardName": "Laughing Jasper Flint",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Laughing Jasper Flint",
+      "manaCost": "{1}{B}{R}",
+      "typeLine": "Legendary Creature — Lizard Rogue",
+      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
+      "image": "https://api.scryfall.com/cards/named?exact=Laughing%20Jasper%20Flint&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "bd7c5a8b-cf62-41e1-a664-b16e3e5d142b",
+        "cardName": "Laughing Jasper Flint",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Laughing Jasper Flint",
+          "manaCost": "{1}{B}{R}",
+          "typeLine": "Legendary Creature — Lizard Rogue",
+          "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
+          "image": "https://api.scryfall.com/cards/named?exact=Laughing%20Jasper%20Flint&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "5facb256-b993-43f8-b971-b3a59a7434bf",
+        "cardName": "Last Laugh",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Last Laugh",
+          "manaCost": "{2}{B}{B}",
+          "typeLine": "Enchantment",
+          "oracleText": "Whenever a permanent other than this enchantment is put into a graveyard from the battlefield, this enchantment deals 1 damage to each creature and each player.\nWhen no creatures are on the battlefield, sacrifice this enchantment.",
+          "image": "https://api.scryfall.com/cards/named?exact=Last%20Laugh&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1324.82
+  },
+  {
+    "start": 1324.82,
+    "cardId": "087f9ad7-e74f-40e2-8102-1ed2925d0418",
+    "cardName": "Rest in Peace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rest%20in%20Peace&format=image&version=normal"
+    },
+    "end": 1489.12
+  },
+  {
+    "start": 1489.12,
+    "cardId": "45900b2f-f6a9-4c42-9642-008f3c1cf6dd",
+    "cardName": "Tarmogoyf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://api.scryfall.com/cards/named?exact=Tarmogoyf&format=image&version=normal"
+    },
+    "end": 1918.36
+  },
+  {
+    "start": 1918.36,
+    "cardId": "16437a83-be52-44cd-a768-a767c9347eb2",
+    "cardName": "Fatal Push",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fatal Push",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fatal%20Push&format=image&version=normal"
+    },
+    "end": 2015.3
+  },
+  {
+    "start": 2015.3,
+    "cardId": "eec81460-899d-4b4c-b33c-ce2ca704df17",
+    "cardName": "Crude Bent Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Crude Bent Blade",
+      "manaCost": "{2}{B}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "When this Equipment enters, target opponent sacrifices a creature of their choice.\nEquipped creature gets +2/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Crude%20Bent%20Blade&format=image&version=normal"
+    },
+    "end": 2048.1
+  },
+  {
+    "start": 2048.1,
+    "cardId": "8aac06d0-c353-4af9-a243-feb59b9d0c54",
+    "cardName": "Malicious Intent",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Malicious Intent",
+      "manaCost": "{1}{R}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nEnchanted creature has \"{T}: Target creature can't block this turn.\"",
+      "image": "https://api.scryfall.com/cards/named?exact=Malicious%20Intent&format=image&version=normal"
+    },
+    "end": 2223.5
+  },
+  {
+    "start": 2223.5,
+    "cardId": "a139eb7f-3853-490c-a839-35d0e5aed7b5",
+    "cardName": "Enlightened Confidant",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Enlightened Confidant",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Kor Cleric",
+      "oracleText": "Lifelink\nAt the beginning of your end step, if you gained life this turn, surveil 1. If you put a card with mana value less than or equal to the amount of life you gained this turn into your graveyard this way, put that card into your hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Enlightened%20Confidant&format=image&version=normal"
+    },
+    "end": 2938.54
+  },
+  {
+    "start": 2938.54,
+    "cardId": "fc734a75-93bf-448b-b347-810ae835fe49",
+    "cardName": "Archangel's Light",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archangel's Light",
+      "manaCost": "{7}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "You gain 2 life for each card in your graveyard, then shuffle your graveyard into your library.",
+      "image": "https://api.scryfall.com/cards/named?exact=Archangel's%20Light&format=image&version=normal"
+    },
+    "end": 3003.56
+  },
+  {
+    "start": 3003.56,
+    "cardId": "52159875-354c-47f9-bb1c-cd65395fcc68",
+    "cardName": "Fiery Emancipation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fiery Emancipation",
+      "manaCost": "{3}{R}{R}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "If a source you control would deal damage to a permanent or player, it deals triple that damage to that permanent or player instead.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fiery%20Emancipation&format=image&version=normal"
+    },
+    "end": 3064.2
+  },
+  {
+    "start": 3064.2,
+    "cardId": "800c258a-cfc4-4a54-a667-065ea8dea69e",
+    "cardName": "Lightning Helix",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Helix",
+      "manaCost": "{R}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Helix deals 3 damage to any target and you gain 3 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Helix&format=image&version=normal"
+    },
+    "end": 3130.48
+  },
+  {
+    "start": 3130.48,
+    "cardId": "f70f1f2e-7277-4bc9-b0bb-b44a1da2c62f",
+    "cardName": "Feed the Clan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Feed the Clan",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "You gain 5 life.\nFerocious — You gain 10 life instead if you control a creature with power 4 or greater.",
+      "image": "https://api.scryfall.com/cards/named?exact=Feed%20the%20Clan&format=image&version=normal"
+    },
+    "end": 3153.64
+  },
+  {
+    "start": 3153.64,
+    "cardId": "d0209d3f-3f7e-4fd5-bce5-10bce6f29c86",
+    "cardName": "Time Walk",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Time Walk",
+      "manaCost": "{1}{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "Take an extra turn after this one.",
+      "image": "https://api.scryfall.com/cards/named?exact=Time%20Walk&format=image&version=normal"
+    },
+    "end": 3252.98
+  },
+  {
+    "start": 3252.98,
+    "cardId": "ebbd5b9c-07ff-4b42-81c2-ba09539f3a42",
+    "cardName": "Breach the Multiverse",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Breach the Multiverse",
+      "manaCost": "{5}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.",
+      "image": "https://api.scryfall.com/cards/named?exact=Breach%20the%20Multiverse&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "ebbd5b9c-07ff-4b42-81c2-ba09539f3a42",
+        "cardName": "Breach the Multiverse",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Breach the Multiverse",
+          "manaCost": "{5}{B}{B}",
+          "typeLine": "Sorcery",
+          "oracleText": "Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.",
+          "image": "https://api.scryfall.com/cards/named?exact=Breach%20the%20Multiverse&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "70ac902e-1eb5-4f83-a5a6-00ac89cfe50f",
+        "cardName": "Void Winnower",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Void Winnower",
+          "manaCost": "{9}",
+          "typeLine": "Creature — Eldrazi",
+          "oracleText": "Your opponents can't cast spells with even mana values. (Zero is even.)\nYour opponents can't block with creatures with even mana values.",
+          "image": "https://api.scryfall.com/cards/named?exact=Void%20Winnower&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 3302.06
+  },
+  {
+    "start": 3302.06,
+    "cardId": "5def9f38-0a0b-4e8d-9f9d-29dcb46520b4",
+    "cardName": "Esper Sentinel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Esper Sentinel",
+      "manaCost": "{W}",
+      "typeLine": "Artifact Creature — Human Soldier",
+      "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
+      "image": "https://api.scryfall.com/cards/named?exact=Esper%20Sentinel&format=image&version=normal"
+    },
+    "end": 3315.84
+  },
+  {
+    "start": 3315.84,
+    "cardId": "967e8b3f-8266-4d9a-a38b-d0e10184e1e4",
+    "cardName": "Akroma's Memorial",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Akroma's Memorial",
+      "manaCost": "{7}",
+      "typeLine": "Legendary Artifact",
+      "oracleText": "Creatures you control have flying, first strike, vigilance, trample, haste, and protection from black and from red.",
+      "image": "https://api.scryfall.com/cards/named?exact=Akroma's%20Memorial&format=image&version=normal"
+    },
+    "end": 3379.02
+  },
+  {
+    "start": 3379.02,
+    "cardId": "5def9f38-0a0b-4e8d-9f9d-29dcb46520b4",
+    "cardName": "Esper Sentinel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Esper Sentinel",
+      "manaCost": "{W}",
+      "typeLine": "Artifact Creature — Human Soldier",
+      "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
+      "image": "https://api.scryfall.com/cards/named?exact=Esper%20Sentinel&format=image&version=normal"
+    },
+    "end": 3395.22
+  },
+  {
+    "start": 3395.22,
+    "cardId": "fae36da0-bf9c-484f-b2fe-dd8ab2effc5c",
+    "cardName": "Virtue of Persistence // Locthwain Scorn",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Virtue of Persistence // Locthwain Scorn",
+      "manaCost": "{5}{B}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Virtue%20of%20Persistence%20%2F%2F%20Locthwain%20Scorn&format=image&version=normal",
+      "faces": [
+        {
+          "name": "Virtue of Persistence",
+          "manaCost": "{5}{B}{B}",
+          "typeLine": "Enchantment",
+          "oracleText": "At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control."
+        }
+      ]
+    },
+    "end": 3403.4
+  },
+  {
+    "start": 3403.4,
+    "cardId": "eaffdf95-8e20-408d-99fa-3adc9e19523d",
+    "cardName": "Misleading Signpost",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Misleading Signpost",
+      "manaCost": "{2}{U}",
+      "typeLine": "Artifact",
+      "oracleText": "Flash\nWhen this artifact enters during the declare attackers step, you may reselect which player or permanent target attacking creature is attacking. (It can't attack its controller or their permanents.)\n{T}: Add {U}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Misleading%20Signpost&format=image&version=normal"
+    },
+    "end": 3413.1
+  },
+  {
+    "start": 3413.1,
+    "cardId": "b1544f21-7e98-461b-aed5-e748b0168c52",
+    "cardName": "Swords to Plowshares",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swords to Plowshares",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+      "image": "https://api.scryfall.com/cards/named?exact=Swords%20to%20Plowshares&format=image&version=normal"
+    },
+    "end": 3419.42
+  },
+  {
+    "start": 3419.42,
+    "cardId": "ebbd5b9c-07ff-4b42-81c2-ba09539f3a42",
+    "cardName": "Breach the Multiverse",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Breach the Multiverse",
+      "manaCost": "{5}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.",
+      "image": "https://api.scryfall.com/cards/named?exact=Breach%20the%20Multiverse&format=image&version=normal"
+    }
+  }
+]

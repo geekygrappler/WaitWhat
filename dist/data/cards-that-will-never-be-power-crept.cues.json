@@ -1,0 +1,1266 @@
+[
+  {
+    "start": 226.04,
+    "cardId": "6ad8011d-3471-4369-9d68-b264cc027487",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sol%20Ring&format=image&version=normal"
+    },
+    "end": 242.42
+  },
+  {
+    "start": 242.42,
+    "cardId": "5089ec1a-f881-4d55-af14-5d996171203b",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Black%20Lotus&format=image&version=normal"
+    },
+    "end": 291.36
+  },
+  {
+    "start": 291.36,
+    "cardId": "6ad8011d-3471-4369-9d68-b264cc027487",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sol%20Ring&format=image&version=normal"
+    },
+    "end": 322.56
+  },
+  {
+    "start": 322.56,
+    "cardId": "23216e59-f147-4bb7-a698-12777c2f8584",
+    "cardName": "Jeweled Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Jeweled Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color. Spend this mana only to cast your commander.",
+      "image": "https://api.scryfall.com/cards/named?exact=Jeweled%20Lotus&format=image&version=normal"
+    },
+    "end": 410.66
+  },
+  {
+    "start": 410.66,
+    "cardId": "6ad8011d-3471-4369-9d68-b264cc027487",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sol%20Ring&format=image&version=normal"
+    },
+    "end": 450.58
+  },
+  {
+    "start": 450.58,
+    "cardId": "5089ec1a-f881-4d55-af14-5d996171203b",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Black%20Lotus&format=image&version=normal"
+    },
+    "end": 486.74
+  },
+  {
+    "start": 486.74,
+    "cardId": "7a43bd27-fdd8-41f0-9bc4-92568f3408f1",
+    "cardName": "Mox Amber",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mox Amber",
+      "manaCost": "{0}",
+      "typeLine": "Legendary Artifact",
+      "oracleText": "{T}: Add one mana of any color among legendary creatures and planeswalkers you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mox%20Amber&format=image&version=normal"
+    },
+    "end": 506.02
+  },
+  {
+    "start": 506.02,
+    "cardId": "736892cb-a34b-4bb9-b56c-e26e3db207a2",
+    "cardName": "Mana Vault",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Vault",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "This artifact doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap this artifact.\nAt the beginning of your draw step, if this artifact is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mana%20Vault&format=image&version=normal"
+    },
+    "end": 509.44
+  },
+  {
+    "start": 509.44,
+    "cardId": "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b",
+    "cardName": "Dark Ritual",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dark Ritual",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Add {B}{B}{B}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Dark%20Ritual&format=image&version=normal"
+    },
+    "end": 534.94
+  },
+  {
+    "start": 534.94,
+    "cardId": "4d9554de-c005-41ab-a941-39328ebff9de",
+    "cardName": "Relic of Legends",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Relic of Legends",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add one mana of any color.\nTap an untapped legendary creature you control: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Relic%20of%20Legends&format=image&version=normal"
+    },
+    "end": 556.96
+  },
+  {
+    "start": 556.96,
+    "cardId": "5089ec1a-f881-4d55-af14-5d996171203b",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Black%20Lotus&format=image&version=normal"
+    },
+    "end": 604.94
+  },
+  {
+    "start": 604.94,
+    "cardId": "23216e59-f147-4bb7-a698-12777c2f8584",
+    "cardName": "Jeweled Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Jeweled Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color. Spend this mana only to cast your commander.",
+      "image": "https://api.scryfall.com/cards/named?exact=Jeweled%20Lotus&format=image&version=normal"
+    },
+    "end": 668.56
+  },
+  {
+    "start": 668.56,
+    "cardId": "c0d8fef4-65f4-4769-982d-b397d2b7e977",
+    "cardName": "Animate Dead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Animate Dead",
+      "manaCost": "{1}{B}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+      "image": "https://api.scryfall.com/cards/named?exact=Animate%20Dead&format=image&version=normal"
+    },
+    "end": 816.28
+  },
+  {
+    "start": 816.28,
+    "cardId": "c0d8fef4-65f4-4769-982d-b397d2b7e977",
+    "cardName": "Animate Dead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Animate Dead",
+      "manaCost": "{1}{B}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+      "image": "https://api.scryfall.com/cards/named?exact=Animate%20Dead&format=image&version=normal"
+    },
+    "end": 879.1400000000001
+  },
+  {
+    "start": 879.1400000000001,
+    "cardId": "d75b9c82-1b49-4c3e-a1b5-aeef57d6644b",
+    "cardName": "Cyclonic Rift",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cyclonic Rift",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Cyclonic%20Rift&format=image&version=normal"
+    },
+    "end": 943.08
+  },
+  {
+    "start": 943.08,
+    "cardId": "53236dd7-845a-444c-96d5-f41ed7325d8f",
+    "cardName": "Rhystic Study",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rhystic Study",
+      "manaCost": "{2}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rhystic%20Study&format=image&version=normal"
+    },
+    "end": 948.32
+  },
+  {
+    "start": 948.32,
+    "cardId": "153376c9-dffd-458c-8ce3-a4c8269bc4e9",
+    "cardName": "Smothering Tithe",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Smothering Tithe",
+      "manaCost": "{3}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, you create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Smothering%20Tithe&format=image&version=normal"
+    },
+    "end": 951.5
+  },
+  {
+    "start": 951.5,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "end": 956.38
+  },
+  {
+    "start": 956.38,
+    "cardId": "53236dd7-845a-444c-96d5-f41ed7325d8f",
+    "cardName": "Rhystic Study",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rhystic Study",
+      "manaCost": "{2}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rhystic%20Study&format=image&version=normal"
+    },
+    "end": 982.52
+  },
+  {
+    "start": 982.52,
+    "cardId": "311a449d-dc74-46e6-9a47-6a597931f736",
+    "cardName": "Consecrated Sphinx",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Consecrated Sphinx",
+      "manaCost": "{4}{U}{U}",
+      "typeLine": "Creature — Sphinx",
+      "oracleText": "Flying\nWhenever an opponent draws a card, you may draw two cards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Consecrated%20Sphinx&format=image&version=normal"
+    },
+    "end": 990.68
+  },
+  {
+    "start": 990.68,
+    "cardId": "53236dd7-845a-444c-96d5-f41ed7325d8f",
+    "cardName": "Rhystic Study",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rhystic Study",
+      "manaCost": "{2}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rhystic%20Study&format=image&version=normal"
+    },
+    "end": 1088.32
+  },
+  {
+    "start": 1088.32,
+    "cardId": "153376c9-dffd-458c-8ce3-a4c8269bc4e9",
+    "cardName": "Smothering Tithe",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Smothering Tithe",
+      "manaCost": "{3}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, you create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Smothering%20Tithe&format=image&version=normal"
+    },
+    "end": 1119.06
+  },
+  {
+    "start": 1119.06,
+    "cardId": "153376c9-dffd-458c-8ce3-a4c8269bc4e9",
+    "cardName": "Smothering Tithe",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Smothering Tithe",
+      "manaCost": "{3}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, you create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Smothering%20Tithe&format=image&version=normal"
+    },
+    "end": 1140.86
+  },
+  {
+    "start": 1140.86,
+    "cardId": "23467047-6dba-4498-b783-1ebc4f74b8c2",
+    "cardName": "Ancient Tomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ancient Tomb",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}{C}. This land deals 2 damage to you.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ancient%20Tomb&format=image&version=normal"
+    },
+    "end": 1156.56
+  },
+  {
+    "start": 1156.56,
+    "cardId": "6ad8011d-3471-4369-9d68-b264cc027487",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sol%20Ring&format=image&version=normal"
+    },
+    "end": 1168.56
+  },
+  {
+    "start": 1168.56,
+    "cardId": "23467047-6dba-4498-b783-1ebc4f74b8c2",
+    "cardName": "Ancient Tomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ancient Tomb",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}{C}. This land deals 2 damage to you.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ancient%20Tomb&format=image&version=normal"
+    },
+    "end": 1208.7
+  },
+  {
+    "start": 1208.7,
+    "cardId": "23467047-6dba-4498-b783-1ebc4f74b8c2",
+    "cardName": "Ancient Tomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ancient Tomb",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}{C}. This land deals 2 damage to you.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ancient%20Tomb&format=image&version=normal"
+    },
+    "end": 1260.9
+  },
+  {
+    "start": 1260.9,
+    "cardId": "23467047-6dba-4498-b783-1ebc4f74b8c2",
+    "cardName": "Ancient Tomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ancient Tomb",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}{C}. This land deals 2 damage to you.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ancient%20Tomb&format=image&version=normal"
+    },
+    "end": 1300.52
+  },
+  {
+    "start": 1300.52,
+    "cardId": "23467047-6dba-4498-b783-1ebc4f74b8c2",
+    "cardName": "Ancient Tomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ancient Tomb",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}{C}. This land deals 2 damage to you.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ancient%20Tomb&format=image&version=normal"
+    },
+    "end": 1338.86
+  },
+  {
+    "start": 1338.86,
+    "cardId": "1b882a0e-0ede-4d1a-bd1a-9b7cffbcde8e",
+    "cardName": "Three Visits",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Three Visits",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a Forest card, put it onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Three%20Visits&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "1b882a0e-0ede-4d1a-bd1a-9b7cffbcde8e",
+        "cardName": "Three Visits",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Three Visits",
+          "manaCost": "{1}{G}",
+          "typeLine": "Sorcery",
+          "oracleText": "Search your library for a Forest card, put it onto the battlefield, then shuffle.",
+          "image": "https://api.scryfall.com/cards/named?exact=Three%20Visits&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "78826359-fe63-44ad-adc4-a17ffcd710e4",
+        "cardName": "Nature's Lore",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Nature's Lore",
+          "manaCost": "{1}{G}",
+          "typeLine": "Sorcery",
+          "oracleText": "Search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+          "image": "https://api.scryfall.com/cards/named?exact=Nature's%20Lore&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+        "cardName": "Forest",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Forest",
+          "typeLine": "Basic Land — Forest",
+          "oracleText": "({T}: Add {G}.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Forest&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1349.64
+  },
+  {
+    "start": 1349.64,
+    "cardId": "1b882a0e-0ede-4d1a-bd1a-9b7cffbcde8e",
+    "cardName": "Three Visits",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Three Visits",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a Forest card, put it onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Three%20Visits&format=image&version=normal"
+    },
+    "end": 1362.12
+  },
+  {
+    "start": 1362.12,
+    "cardId": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+    "cardName": "Forest",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Forest",
+      "typeLine": "Basic Land — Forest",
+      "oracleText": "({T}: Add {G}.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Forest&format=image&version=normal"
+    },
+    "end": 1397.94
+  },
+  {
+    "start": 1397.94,
+    "cardId": "1b882a0e-0ede-4d1a-bd1a-9b7cffbcde8e",
+    "cardName": "Three Visits",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Three Visits",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a Forest card, put it onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Three%20Visits&format=image&version=normal"
+    },
+    "end": 1413.04
+  },
+  {
+    "start": 1413.04,
+    "cardId": "d09c9cba-fdd2-479b-ad5d-d05181c3e3f9",
+    "cardName": "Fierce Guardianship",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fierce Guardianship",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fierce%20Guardianship&format=image&version=normal"
+    },
+    "end": 1425.48
+  },
+  {
+    "start": 1425.48,
+    "cardId": "78826359-fe63-44ad-adc4-a17ffcd710e4",
+    "cardName": "Nature's Lore",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Nature's Lore",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Nature's%20Lore&format=image&version=normal"
+    },
+    "end": 1456.18
+  },
+  {
+    "start": 1456.18,
+    "cardId": "8539f295-5d58-4436-a73a-b9277c4c7795",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rampant%20Growth&format=image&version=normal"
+    },
+    "end": 1524.14
+  },
+  {
+    "start": 1524.14,
+    "cardId": "f9b02a7c-c122-4282-90e2-81fcfa663193",
+    "cardName": "Diminishing Returns",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Diminishing Returns",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player shuffles their hand and graveyard into their library. You exile the top ten cards of your library. Then each player draws up to seven cards.",
+      "image": "https://api.scryfall.com/cards/named?exact=Diminishing%20Returns&format=image&version=normal"
+    },
+    "end": 1560.8
+  },
+  {
+    "start": 1560.8,
+    "cardId": "78826359-fe63-44ad-adc4-a17ffcd710e4",
+    "cardName": "Nature's Lore",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Nature's Lore",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Nature's%20Lore&format=image&version=normal"
+    },
+    "end": 1606.44
+  },
+  {
+    "start": 1606.44,
+    "cardId": "e9da499c-fa43-4e94-8395-5c030ff39502",
+    "cardName": "Price of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Price of Progress",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.",
+      "image": "https://api.scryfall.com/cards/named?exact=Price%20of%20Progress&format=image&version=normal"
+    },
+    "end": 1649
+  },
+  {
+    "start": 1649,
+    "cardId": "e9da499c-fa43-4e94-8395-5c030ff39502",
+    "cardName": "Price of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Price of Progress",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.",
+      "image": "https://api.scryfall.com/cards/named?exact=Price%20of%20Progress&format=image&version=normal"
+    },
+    "end": 1807.34
+  },
+  {
+    "start": 1807.34,
+    "cardId": "e9da499c-fa43-4e94-8395-5c030ff39502",
+    "cardName": "Price of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Price of Progress",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.",
+      "image": "https://api.scryfall.com/cards/named?exact=Price%20of%20Progress&format=image&version=normal"
+    },
+    "end": 1868.48
+  },
+  {
+    "start": 1868.48,
+    "cardId": "94fac5fe-97d5-4c12-a80c-8efff9d853ae",
+    "cardName": "Blood Moon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Blood Moon",
+      "manaCost": "{2}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Nonbasic lands are Mountains.",
+      "image": "https://api.scryfall.com/cards/named?exact=Blood%20Moon&format=image&version=normal"
+    },
+    "end": 1869.32
+  },
+  {
+    "start": 1869.32,
+    "cardId": "1dcbd583-3388-4b34-a7cd-131648aa6abd",
+    "cardName": "Winter Orb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Winter Orb",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "As long as this artifact is untapped, players can't untap more than one land during their untap steps.",
+      "image": "https://api.scryfall.com/cards/named?exact=Winter%20Orb&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "1dcbd583-3388-4b34-a7cd-131648aa6abd",
+        "cardName": "Winter Orb",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Winter Orb",
+          "manaCost": "{2}",
+          "typeLine": "Artifact",
+          "oracleText": "As long as this artifact is untapped, players can't untap more than one land during their untap steps.",
+          "image": "https://api.scryfall.com/cards/named?exact=Winter%20Orb&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "c9ed8b01-959a-47d6-891e-0abbdccf6e4f",
+        "cardName": "Armageddon",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Armageddon",
+          "manaCost": "{3}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Destroy all lands.",
+          "image": "https://api.scryfall.com/cards/named?exact=Armageddon&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "e9da499c-fa43-4e94-8395-5c030ff39502",
+        "cardName": "Price of Progress",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Price of Progress",
+          "manaCost": "{1}{R}",
+          "typeLine": "Instant",
+          "oracleText": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.",
+          "image": "https://api.scryfall.com/cards/named?exact=Price%20of%20Progress&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2025.9
+  },
+  {
+    "start": 2025.9,
+    "cardId": "d09c9cba-fdd2-479b-ad5d-d05181c3e3f9",
+    "cardName": "Fierce Guardianship",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fierce Guardianship",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fierce%20Guardianship&format=image&version=normal"
+    },
+    "end": 2030.08
+  },
+  {
+    "start": 2030.08,
+    "cardId": "e9da499c-fa43-4e94-8395-5c030ff39502",
+    "cardName": "Price of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Price of Progress",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.",
+      "image": "https://api.scryfall.com/cards/named?exact=Price%20of%20Progress&format=image&version=normal"
+    },
+    "end": 2032.66
+  },
+  {
+    "start": 2032.66,
+    "cardId": "82004860-e589-4e38-8d61-8c0210e4ea39",
+    "cardName": "Demonic Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Demonic Tutor",
+      "manaCost": "{1}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a card, put that card into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Demonic%20Tutor&format=image&version=normal"
+    },
+    "end": 2189.18
+  },
+  {
+    "start": 2189.18,
+    "cardId": "d09c9cba-fdd2-479b-ad5d-d05181c3e3f9",
+    "cardName": "Fierce Guardianship",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fierce Guardianship",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fierce%20Guardianship&format=image&version=normal"
+    },
+    "end": 2304.66
+  },
+  {
+    "start": 2304.66,
+    "cardId": "d09c9cba-fdd2-479b-ad5d-d05181c3e3f9",
+    "cardName": "Fierce Guardianship",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fierce Guardianship",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fierce%20Guardianship&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "d09c9cba-fdd2-479b-ad5d-d05181c3e3f9",
+        "cardName": "Fierce Guardianship",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Fierce Guardianship",
+          "manaCost": "{2}{U}",
+          "typeLine": "Instant",
+          "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell.",
+          "image": "https://api.scryfall.com/cards/named?exact=Fierce%20Guardianship&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "ae120613-97d6-4393-b39d-c3e6c076f5d6",
+        "cardName": "Deflecting Swat",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Deflecting Swat",
+          "manaCost": "{2}{R}",
+          "typeLine": "Instant",
+          "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nYou may choose new targets for target spell or ability.",
+          "image": "https://api.scryfall.com/cards/named?exact=Deflecting%20Swat&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2318.82
+  },
+  {
+    "start": 2318.82,
+    "cardId": "d09c9cba-fdd2-479b-ad5d-d05181c3e3f9",
+    "cardName": "Fierce Guardianship",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fierce Guardianship",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fierce%20Guardianship&format=image&version=normal"
+    },
+    "end": 2498.66
+  },
+  {
+    "start": 2498.66,
+    "cardId": "69872a9a-fe54-4e58-940c-89395af71acd",
+    "cardName": "Finale of Devastation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Finale of Devastation",
+      "manaCost": "{X}{G}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Finale%20of%20Devastation&format=image&version=normal"
+    },
+    "end": 2521.42
+  },
+  {
+    "start": 2521.42,
+    "cardId": "9fc28e1f-f4ea-4bf8-9442-a36dba3b3b29",
+    "cardName": "Goblin Welder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Goblin Welder",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Goblin Artificer",
+      "oracleText": "{T}: Choose target artifact a player controls and target artifact card in that player's graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Goblin%20Welder&format=image&version=normal"
+    },
+    "end": 2625.02
+  },
+  {
+    "start": 2625.02,
+    "cardId": "23467047-6dba-4498-b783-1ebc4f74b8c2",
+    "cardName": "Ancient Tomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ancient Tomb",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}{C}. This land deals 2 damage to you.",
+      "image": "https://api.scryfall.com/cards/named?exact=Ancient%20Tomb&format=image&version=normal"
+    },
+    "end": 2631.58
+  },
+  {
+    "start": 2631.58,
+    "cardId": "73e7a2ad-d11c-4867-b97d-f971809da778",
+    "cardName": "Glacial Chasm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Glacial Chasm",
+      "typeLine": "Land",
+      "oracleText": "Cumulative upkeep—Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen this land enters, sacrifice a land.\nCreatures you control can't attack.\nPrevent all damage that would be dealt to you.",
+      "image": "https://api.scryfall.com/cards/named?exact=Glacial%20Chasm&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "73e7a2ad-d11c-4867-b97d-f971809da778",
+        "cardName": "Glacial Chasm",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Glacial Chasm",
+          "typeLine": "Land",
+          "oracleText": "Cumulative upkeep—Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen this land enters, sacrifice a land.\nCreatures you control can't attack.\nPrevent all damage that would be dealt to you.",
+          "image": "https://api.scryfall.com/cards/named?exact=Glacial%20Chasm&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "aa959340-c869-4caa-92c7-572bd8d23eef",
+        "cardName": "Field of the Dead",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Field of the Dead",
+          "typeLine": "Land",
+          "oracleText": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",
+          "image": "https://api.scryfall.com/cards/named?exact=Field%20of%20the%20Dead&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2726.26
+  },
+  {
+    "start": 2726.26,
+    "cardId": "a9d288b8-cdc1-4e55-a0c9-d6edfc95e65d",
+    "cardName": "Shock",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Shock",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Shock deals 2 damage to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Shock&format=image&version=normal"
+    },
+    "end": 2950.16
+  },
+  {
+    "start": 2950.16,
+    "cardId": "5089ec1a-f881-4d55-af14-5d996171203b",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Black%20Lotus&format=image&version=normal"
+    },
+    "end": 3050.3
+  },
+  {
+    "start": 3050.3,
+    "cardId": "e90a1381-c9c1-4f57-928c-5d19dc065274",
+    "cardName": "Shivan Gorge",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Shivan Gorge",
+      "typeLine": "Legendary Land",
+      "oracleText": "{T}: Add {C}.\n{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent.",
+      "image": "https://api.scryfall.com/cards/named?exact=Shivan%20Gorge&format=image&version=normal"
+    },
+    "end": 3113.58
+  },
+  {
+    "start": 3113.58,
+    "cardId": "82004860-e589-4e38-8d61-8c0210e4ea39",
+    "cardName": "Demonic Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Demonic Tutor",
+      "manaCost": "{1}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a card, put that card into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Demonic%20Tutor&format=image&version=normal"
+    },
+    "end": 3115.44
+  },
+  {
+    "start": 3115.44,
+    "cardId": "299fc083-0834-4064-8344-f895aff68867",
+    "cardName": "Entomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Entomb",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Search your library for a card, put that card into your graveyard, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Entomb&format=image&version=normal"
+    },
+    "end": 3122.42
+  },
+  {
+    "start": 3122.42,
+    "cardId": "82004860-e589-4e38-8d61-8c0210e4ea39",
+    "cardName": "Demonic Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Demonic Tutor",
+      "manaCost": "{1}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a card, put that card into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Demonic%20Tutor&format=image&version=normal"
+    },
+    "end": 3123.16
+  },
+  {
+    "start": 3123.16,
+    "cardId": "299fc083-0834-4064-8344-f895aff68867",
+    "cardName": "Entomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Entomb",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Search your library for a card, put that card into your graveyard, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Entomb&format=image&version=normal"
+    },
+    "end": 3158.16
+  },
+  {
+    "start": 3158.16,
+    "cardId": "299fc083-0834-4064-8344-f895aff68867",
+    "cardName": "Entomb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Entomb",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Search your library for a card, put that card into your graveyard, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Entomb&format=image&version=normal"
+    },
+    "end": 3189.26
+  },
+  {
+    "start": 3189.26,
+    "cardId": "74d3277a-38e5-4732-afed-084a56148f20",
+    "cardName": "Mana Drain",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Drain",
+      "manaCost": "{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell's mana value.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mana%20Drain&format=image&version=normal"
+    },
+    "end": 3210.26
+  },
+  {
+    "start": 3210.26,
+    "cardId": "a8dba58b-2956-492e-ae30-49db2ae68e53",
+    "cardName": "Mana Geyser",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Geyser",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Add {R} for each tapped land your opponents control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mana%20Geyser&format=image&version=normal"
+    },
+    "end": 3219.44
+  },
+  {
+    "start": 3219.44,
+    "cardId": "f92c2d47-f2f7-43d9-acf3-0145bad1977d",
+    "cardName": "Fade Away",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fade Away",
+      "manaCost": "{2}{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "For each creature, its controller sacrifices a permanent of their choice unless they pay {1}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fade%20Away&format=image&version=normal"
+    },
+    "end": 3250.06
+  },
+  {
+    "start": 3250.06,
+    "cardId": "f92c2d47-f2f7-43d9-acf3-0145bad1977d",
+    "cardName": "Fade Away",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fade Away",
+      "manaCost": "{2}{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "For each creature, its controller sacrifices a permanent of their choice unless they pay {1}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fade%20Away&format=image&version=normal"
+    },
+    "end": 3296.2
+  },
+  {
+    "start": 3296.2,
+    "cardId": "d75b9c82-1b49-4c3e-a1b5-aeef57d6644b",
+    "cardName": "Cyclonic Rift",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cyclonic Rift",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Cyclonic%20Rift&format=image&version=normal"
+    },
+    "end": 3314.76
+  },
+  {
+    "start": 3314.76,
+    "cardId": "a8dba58b-2956-492e-ae30-49db2ae68e53",
+    "cardName": "Mana Geyser",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Geyser",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Add {R} for each tapped land your opponents control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mana%20Geyser&format=image&version=normal"
+    },
+    "end": 3396.32
+  },
+  {
+    "start": 3396.32,
+    "cardId": "a8dba58b-2956-492e-ae30-49db2ae68e53",
+    "cardName": "Mana Geyser",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Geyser",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Add {R} for each tapped land your opponents control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mana%20Geyser&format=image&version=normal"
+    },
+    "end": 3414.28
+  },
+  {
+    "start": 3414.28,
+    "cardId": "33c722cf-b4bf-431f-aefd-ee96241a7fbf",
+    "cardName": "Crucible of Worlds",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Crucible of Worlds",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "You may play lands from your graveyard.",
+      "image": "https://api.scryfall.com/cards/named?exact=Crucible%20of%20Worlds&format=image&version=normal"
+    },
+    "end": 3487.68
+  },
+  {
+    "start": 3487.68,
+    "cardId": "d21a89eb-7c5b-459a-acc7-12b20b13bf79",
+    "cardName": "Strip Mine",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Strip Mine",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target land.",
+      "image": "https://api.scryfall.com/cards/named?exact=Strip%20Mine&format=image&version=normal"
+    },
+    "end": 3494.38
+  },
+  {
+    "start": 3494.38,
+    "cardId": "a8dba58b-2956-492e-ae30-49db2ae68e53",
+    "cardName": "Mana Geyser",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Geyser",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Add {R} for each tapped land your opponents control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mana%20Geyser&format=image&version=normal"
+    },
+    "end": 3504.12
+  },
+  {
+    "start": 3504.12,
+    "cardId": "0fd57894-b917-41c8-a394-360d1d31b236",
+    "cardName": "Ephemerate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ephemerate",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature you control, then return it to the battlefield under its owner's control.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Ephemerate&format=image&version=normal"
+    },
+    "end": 3522.7
+  },
+  {
+    "start": 3522.7,
+    "cardId": "d5b9d250-92f5-40d8-b962-4ae4adb466c8",
+    "cardName": "Flicker of Fate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flicker of Fate",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature or enchantment, then return it to the battlefield under its owner's control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Flicker%20of%20Fate&format=image&version=normal"
+    },
+    "end": 3590.66
+  },
+  {
+    "start": 3590.66,
+    "cardId": "e1a776d2-fb3a-4215-a14e-4b6e9bda95df",
+    "cardName": "Hunter's Prowess",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hunter's Prowess",
+      "manaCost": "{4}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Until end of turn, target creature gets +3/+3 and gains trample and \"Whenever this creature deals combat damage to a player, draw that many cards.\"",
+      "image": "https://api.scryfall.com/cards/named?exact=Hunter's%20Prowess&format=image&version=normal"
+    },
+    "end": 3623.74
+  },
+  {
+    "start": 3623.74,
+    "cardId": "0fd57894-b917-41c8-a394-360d1d31b236",
+    "cardName": "Ephemerate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ephemerate",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature you control, then return it to the battlefield under its owner's control.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Ephemerate&format=image&version=normal"
+    },
+    "end": 3762.76
+  },
+  {
+    "start": 3762.76,
+    "cardId": "ad9b7fbc-61c8-43ee-a65c-99206fd1e4df",
+    "cardName": "Maelstrom Wanderer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Maelstrom Wanderer",
+      "manaCost": "{5}{G}{U}{R}",
+      "typeLine": "Legendary Creature — Elemental",
+      "oracleText": "Creatures you control have haste.\nCascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Maelstrom%20Wanderer&format=image&version=normal"
+    }
+  }
+]

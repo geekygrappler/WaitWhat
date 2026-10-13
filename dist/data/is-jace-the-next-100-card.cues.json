@@ -1,0 +1,496 @@
+[
+  {
+    "start": 679.46,
+    "cardId": "7351fca5-8672-4ba3-a015-bd4b6b289efc",
+    "cardName": "Maximum Carnage",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Maximum Carnage",
+      "manaCost": "{4}{R}",
+      "typeLine": "Enchantment — Saga",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Until your next turn, each creature attacks each combat if able and attacks a player other than you if able.\nII — Add {R}{R}{R}.\nIII — This Saga deals 5 damage to each opponent.",
+      "image": "https://api.scryfall.com/cards/named?exact=Maximum%20Carnage&format=image&version=normal"
+    },
+    "end": 768.06
+  },
+  {
+    "start": 768.06,
+    "cardId": "7ef7d902-1f05-40b3-8997-dec197b0b678",
+    "cardName": "Spider-Verse",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spider-Verse",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "The \"legend rule\" doesn't apply to Spiders you control.\nWhenever you cast a spell from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy. If the copy is a permanent spell, it gains haste. Do this only once each turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spider-Verse&format=image&version=normal"
+    },
+    "end": 882.64
+  },
+  {
+    "start": 882.64,
+    "cardId": "8933297c-62f1-4df9-91b8-2d3481db77e5",
+    "cardName": "Spider-Man India",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spider-Man India",
+      "manaCost": "{3}{G}{W}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Web-slinging {1}{G}{W} (You may cast this spell for {1}{G}{W} if you also return a tapped creature you control to its owner's hand.)\nPavitr's Sevā — Whenever you cast a creature spell, put a +1/+1 counter on target creature you control. It gains flying until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spider-Man%20India&format=image&version=normal"
+    },
+    "end": 894.88
+  },
+  {
+    "start": 894.88,
+    "cardId": "19845456-3d96-48a4-89fa-9b8e583774c9",
+    "cardName": "Spider-Man 2099",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spider-Man 2099",
+      "manaCost": "{U}{R}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "From the Future — You can't cast Spider-Man 2099 during your first, second, or third turns of the game.\nDouble strike, vigilance\nAt the beginning of your end step, if you've played a land or cast a spell this turn from anywhere other than your hand, Spider-Man 2099 deals damage equal to his power to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spider-Man%202099&format=image&version=normal"
+    },
+    "end": 911.2
+  },
+  {
+    "start": 911.2,
+    "cardId": "8933297c-62f1-4df9-91b8-2d3481db77e5",
+    "cardName": "Spider-Man India",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spider-Man India",
+      "manaCost": "{3}{G}{W}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Web-slinging {1}{G}{W} (You may cast this spell for {1}{G}{W} if you also return a tapped creature you control to its owner's hand.)\nPavitr's Sevā — Whenever you cast a creature spell, put a +1/+1 counter on target creature you control. It gains flying until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Spider-Man%20India&format=image&version=normal"
+    },
+    "end": 1282.38
+  },
+  {
+    "start": 1282.38,
+    "cardId": "ee6099b0-fb1f-42f1-b862-7708c6e36d05",
+    "cardName": "Lion's Eye Diamond",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lion's Eye Diamond",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "Discard your hand, Sacrifice this artifact: Add three mana of any one color. Activate only as an instant.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lion's%20Eye%20Diamond&format=image&version=normal"
+    },
+    "end": 1314.74
+  },
+  {
+    "start": 1314.74,
+    "cardId": "59e7f2ae-4535-4191-98be-3e65b6b2befa",
+    "cardName": "Doom Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doom%20Blade&format=image&version=normal"
+    },
+    "end": 1339.3
+  },
+  {
+    "start": 1339.3,
+    "cardId": "f3abd4d1-a975-4e85-8684-aa0fce029670",
+    "cardName": "Grave Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grave Titan",
+      "manaCost": "{4}{B}{B}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Deathtouch\nWhenever this creature enters or attacks, create two 2/2 black Zombie creature tokens.",
+      "image": "https://api.scryfall.com/cards/named?exact=Grave%20Titan&format=image&version=normal"
+    },
+    "end": 1390.34
+  },
+  {
+    "start": 1390.34,
+    "cardId": "1f076303-d160-4e02-aa1e-9ed6040c3735",
+    "cardName": "Cool but Rude",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cool but Rude",
+      "manaCost": "{1}{R}",
+      "typeLine": "Enchantment — Class",
+      "oracleText": "(Gain the next level as a sorcery to add its ability.)\nWhenever you attack, you may discard a card. If you do, draw a card.\n{1}{R}: Level 2\nWhenever you discard a card, this Class deals 2 damage to each opponent.\n{1}{R}: Level 3\nWhen this Class becomes level 3, search your library for a card, put it into your hand, shuffle, then discard a card at random.",
+      "image": "https://api.scryfall.com/cards/named?exact=Cool%20but%20Rude&format=image&version=normal"
+    },
+    "end": 1459.06
+  },
+  {
+    "start": 1459.06,
+    "cardId": "59e7f2ae-4535-4191-98be-3e65b6b2befa",
+    "cardName": "Doom Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doom%20Blade&format=image&version=normal"
+    },
+    "end": 1560.88
+  },
+  {
+    "start": 1560.88,
+    "cardId": "b82d8bdf-e292-490a-aee7-d830cc2c29df",
+    "cardName": "Over the Top",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Over the Top",
+      "manaCost": "{5}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player reveals a number of cards from the top of their library equal to the number of nonland permanents they control, puts all permanent cards they revealed this way onto the battlefield, and puts the rest into their graveyard.",
+      "image": "https://api.scryfall.com/cards/named?exact=Over%20the%20Top&format=image&version=normal"
+    },
+    "end": 1581.36
+  },
+  {
+    "start": 1581.36,
+    "cardId": "59e7f2ae-4535-4191-98be-3e65b6b2befa",
+    "cardName": "Doom Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Doom%20Blade&format=image&version=normal"
+    },
+    "end": 1587.46
+  },
+  {
+    "start": 1587.46,
+    "cardId": "aba7e9e2-8df8-454e-a332-9abae1d95b6f",
+    "cardName": "Change the Equation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Change the Equation",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one —\n• Counter target spell with mana value 2 or less.\n• Counter target red or green spell with mana value 6 or less.",
+      "image": "https://api.scryfall.com/cards/named?exact=Change%20the%20Equation&format=image&version=normal"
+    },
+    "end": 1709.92
+  },
+  {
+    "start": 1709.92,
+    "cardId": "ee579a32-a048-4335-b966-231ba731cdea",
+    "cardName": "Phyrexian Arena",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Phyrexian Arena",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your upkeep, you draw a card and you lose 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Phyrexian%20Arena&format=image&version=normal"
+    },
+    "end": 1719.16
+  },
+  {
+    "start": 1719.16,
+    "cardId": "3aa83ed2-f48b-4ce6-a614-2c54ddf50538",
+    "cardName": "The One Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The One Ring",
+      "manaCost": "{4}",
+      "typeLine": "Legendary Artifact",
+      "oracleText": "Indestructible\nWhen The One Ring enters, if you cast it, you gain protection from everything until your next turn.\nAt the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.\n{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20One%20Ring&format=image&version=normal"
+    },
+    "end": 1898.54
+  },
+  {
+    "start": 1898.54,
+    "cardId": "3ef03540-b538-466d-aa3c-da6750117ba4",
+    "cardName": "The Last Ride",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Last Ride",
+      "manaCost": "{B}",
+      "typeLine": "Legendary Artifact — Vehicle",
+      "oracleText": "The Last Ride gets -X/-X, where X is your life total.\n{2}{B}, Pay 2 life: Draw a card.\nCrew 2",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Last%20Ride&format=image&version=normal"
+    },
+    "end": 1932.78
+  },
+  {
+    "start": 1932.78,
+    "cardId": "b148578c-c0bf-4785-b97c-4b6f83028008",
+    "cardName": "Platinum Angel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Platinum Angel",
+      "manaCost": "{7}",
+      "typeLine": "Artifact Creature — Angel",
+      "oracleText": "Flying\nYou can't lose the game and your opponents can't win the game.",
+      "image": "https://api.scryfall.com/cards/named?exact=Platinum%20Angel&format=image&version=normal"
+    },
+    "end": 1972.86
+  },
+  {
+    "start": 1972.86,
+    "cardId": "03d1a4e9-3ebc-491f-8741-5d933b500abf",
+    "cardName": "Parker Luck",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Parker Luck",
+      "manaCost": "{2}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your end step, two target players each reveal the top card of their library. They each lose life equal to the mana value of the card revealed by the other player. Then they each put the card they revealed into their hand.",
+      "image": "https://api.scryfall.com/cards/named?exact=Parker%20Luck&format=image&version=normal"
+    },
+    "end": 2007.5
+  },
+  {
+    "start": 2007.5,
+    "cardId": "ee579a32-a048-4335-b966-231ba731cdea",
+    "cardName": "Phyrexian Arena",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Phyrexian Arena",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your upkeep, you draw a card and you lose 1 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Phyrexian%20Arena&format=image&version=normal"
+    },
+    "end": 2201.94
+  },
+  {
+    "start": 2201.94,
+    "cardId": "c2555c38-1bfc-48c1-85aa-7e40117db78b",
+    "cardName": "Consume the Meek",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Consume the Meek",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy each creature with mana value 3 or less. They can't be regenerated.",
+      "image": "https://api.scryfall.com/cards/named?exact=Consume%20the%20Meek&format=image&version=normal"
+    },
+    "end": 2310.74
+  },
+  {
+    "start": 2310.74,
+    "cardId": "34493cf5-7586-48ef-806d-57273b2ab034",
+    "cardName": "Avengers Disassembled",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Avengers Disassembled",
+      "manaCost": "{1}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or both —\n• Avengers Disassembled deals 3 damage to each creature.\n• Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Avengers%20Disassembled&format=image&version=normal"
+    },
+    "end": 2432.46
+  },
+  {
+    "start": 2432.46,
+    "cardId": "16437a83-be52-44cd-a768-a767c9347eb2",
+    "cardName": "Fatal Push",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fatal Push",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fatal%20Push&format=image&version=normal"
+    },
+    "end": 2482.74
+  },
+  {
+    "start": 2482.74,
+    "cardId": "16437a83-be52-44cd-a768-a767c9347eb2",
+    "cardName": "Fatal Push",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fatal Push",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fatal%20Push&format=image&version=normal"
+    },
+    "end": 2496.08
+  },
+  {
+    "start": 2496.08,
+    "cardId": "b1544f21-7e98-461b-aed5-e748b0168c52",
+    "cardName": "Swords to Plowshares",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swords to Plowshares",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+      "image": "https://api.scryfall.com/cards/named?exact=Swords%20to%20Plowshares&format=image&version=normal"
+    },
+    "end": 2547.96
+  },
+  {
+    "start": 2547.96,
+    "cardId": "45900b2f-f6a9-4c42-9642-008f3c1cf6dd",
+    "cardName": "Tarmogoyf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://api.scryfall.com/cards/named?exact=Tarmogoyf&format=image&version=normal"
+    },
+    "end": 2564.76
+  },
+  {
+    "start": 2564.76,
+    "cardId": "61b6b1d1-4350-41c1-ac47-835b2831f24a",
+    "cardName": "Jeskai Revelation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Jeskai Revelation",
+      "manaCost": "{4}{U}{R}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Return target spell or permanent to its owner's hand. Jeskai Revelation deals 4 damage to any target. Create two 1/1 white Monk creature tokens with prowess. Draw two cards. You gain 4 life.",
+      "image": "https://api.scryfall.com/cards/named?exact=Jeskai%20Revelation&format=image&version=normal"
+    },
+    "end": 2743.6
+  },
+  {
+    "start": 2743.6,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 2745.04
+  },
+  {
+    "start": 2745.04,
+    "cardId": "d09c9cba-fdd2-479b-ad5d-d05181c3e3f9",
+    "cardName": "Fierce Guardianship",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fierce Guardianship",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Fierce%20Guardianship&format=image&version=normal"
+    },
+    "end": 2761.34
+  },
+  {
+    "start": 2761.34,
+    "cardId": "24882fa2-3fe9-4c1b-aa3d-0e6488b9db27",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Heroic%20Intervention&format=image&version=normal"
+    },
+    "end": 3081.66
+  },
+  {
+    "start": 3081.66,
+    "cardId": "2e82520a-9da3-49ae-b5c8-37e7ac8853fe",
+    "cardName": "Split Up",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Split Up",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one —\n• Destroy all tapped creatures.\n• Destroy all untapped creatures.",
+      "image": "https://api.scryfall.com/cards/named?exact=Split%20Up&format=image&version=normal"
+    },
+    "end": 3147.2
+  },
+  {
+    "start": 3147.2,
+    "cardId": "78427103-9543-41fb-b6d4-72963fe87275",
+    "cardName": "The Great Henge",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Great Henge",
+      "manaCost": "{7}{G}{G}",
+      "typeLine": "Legendary Artifact",
+      "oracleText": "This spell costs {X} less to cast, where X is the greatest power among creatures you control.\n{T}: Add {G}{G}. You gain 2 life.\nWhenever a nontoken creature you control enters, put a +1/+1 counter on it and draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Great%20Henge&format=image&version=normal"
+    },
+    "end": 3323.2
+  },
+  {
+    "start": 3323.2,
+    "cardId": "b685757b-521e-4353-a233-97052359723d",
+    "cardName": "Questing Beast",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Questing Beast",
+      "manaCost": "{2}{G}{G}",
+      "typeLine": "Legendary Creature — Beast",
+      "oracleText": "Vigilance, deathtouch, haste\nQuesting Beast can't be blocked by creatures with power 2 or less.\nCombat damage that would be dealt by creatures you control can't be prevented.\nWhenever Questing Beast deals combat damage to an opponent, it deals that much damage to target planeswalker that player controls.",
+      "image": "https://api.scryfall.com/cards/named?exact=Questing%20Beast&format=image&version=normal"
+    },
+    "end": 3346.54
+  },
+  {
+    "start": 3346.54,
+    "cardId": "45900b2f-f6a9-4c42-9642-008f3c1cf6dd",
+    "cardName": "Tarmogoyf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://api.scryfall.com/cards/named?exact=Tarmogoyf&format=image&version=normal"
+    }
+  }
+]

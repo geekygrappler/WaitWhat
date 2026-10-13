@@ -1,0 +1,780 @@
+[
+  {
+    "start": 609.38,
+    "cardId": "6ad8011d-3471-4369-9d68-b264cc027487",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Sol%20Ring&format=image&version=normal"
+    },
+    "end": 611.64
+  },
+  {
+    "start": 611.64,
+    "cardId": "d3a0b660-358c-41bd-9cd2-41fbf3491b1a",
+    "cardName": "Birds of Paradise",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Birds of Paradise",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Bird",
+      "oracleText": "Flying\n{T}: Add one mana of any color.",
+      "image": "https://api.scryfall.com/cards/named?exact=Birds%20of%20Paradise&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "d3a0b660-358c-41bd-9cd2-41fbf3491b1a",
+        "cardName": "Birds of Paradise",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Birds of Paradise",
+          "manaCost": "{G}",
+          "typeLine": "Creature — Bird",
+          "oracleText": "Flying\n{T}: Add one mana of any color.",
+          "image": "https://api.scryfall.com/cards/named?exact=Birds%20of%20Paradise&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "f9d3b046-0b95-4103-a630-4b3fb88bb60b",
+        "cardName": "Delighted Halfling",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Delighted Halfling",
+          "manaCost": "{G}",
+          "typeLine": "Creature — Halfling Citizen",
+          "oracleText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can't be countered.",
+          "image": "https://api.scryfall.com/cards/named?exact=Delighted%20Halfling&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 617.4
+  },
+  {
+    "start": 617.4,
+    "cardId": "53f7c868-b03e-4fc2-8dcf-a75bbfa3272b",
+    "cardName": "Dark Ritual",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dark Ritual",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Add {B}{B}{B}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Dark%20Ritual&format=image&version=normal"
+    },
+    "end": 860.44
+  },
+  {
+    "start": 860.44,
+    "cardId": "36cd2364-d113-47d1-b2c4-b088d9eb88dd",
+    "cardName": "Brainstorm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Brainstorm",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Draw three cards, then put two cards from your hand on top of your library in any order.",
+      "image": "https://api.scryfall.com/cards/named?exact=Brainstorm&format=image&version=normal"
+    },
+    "end": 871.94
+  },
+  {
+    "start": 871.94,
+    "cardId": "3d6fa57a-aa53-4b5c-b8af-a7612c823117",
+    "cardName": "Faithless Looting",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Faithless Looting",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Draw two cards, then discard two cards.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Faithless%20Looting&format=image&version=normal"
+    },
+    "end": 1155.74
+  },
+  {
+    "start": 1155.74,
+    "cardId": "f29dc596-2121-4421-8463-15f6c2e8b9b3",
+    "cardName": "Rogue's Passage",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rogue's Passage",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rogue's%20Passage&format=image&version=normal"
+    },
+    "end": 1157.8
+  },
+  {
+    "start": 1157.8,
+    "cardId": "c23e5b80-08d2-4e24-9908-fe2aa4f30f6f",
+    "cardName": "Reliquary Tower",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Reliquary Tower",
+      "typeLine": "Land",
+      "oracleText": "You have no maximum hand size.\n{T}: Add {C}.",
+      "image": "https://api.scryfall.com/cards/named?exact=Reliquary%20Tower&format=image&version=normal"
+    },
+    "end": 1196.78
+  },
+  {
+    "start": 1196.78,
+    "cardId": "f29dc596-2121-4421-8463-15f6c2e8b9b3",
+    "cardName": "Rogue's Passage",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rogue's Passage",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Rogue's%20Passage&format=image&version=normal"
+    },
+    "end": 1212.72
+  },
+  {
+    "start": 1212.72,
+    "cardId": "8c45bf9d-a017-43bf-9e32-67810a8a217b",
+    "cardName": "Talon Gates of Madara",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Talon Gates of Madara",
+      "typeLine": "Land — Gate",
+      "oracleText": "When this land enters, up to one target creature phases out.\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{4}: Put this card from your hand onto the battlefield.",
+      "image": "https://api.scryfall.com/cards/named?exact=Talon%20Gates%20of%20Madara&format=image&version=normal"
+    },
+    "end": 1224.52
+  },
+  {
+    "start": 1224.52,
+    "cardId": "f8f4fc60-725d-46d8-8e8f-e68e00d20589",
+    "cardName": "Castle Ardenvale",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Castle Ardenvale",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped unless you control a Plains.\n{T}: Add {W}.\n{2}{W}{W}, {T}: Create a 1/1 white Human creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Castle%20Ardenvale&format=image&version=normal"
+    },
+    "end": 1299.36
+  },
+  {
+    "start": 1299.36,
+    "cardId": "f8f4fc60-725d-46d8-8e8f-e68e00d20589",
+    "cardName": "Castle Ardenvale",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Castle Ardenvale",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped unless you control a Plains.\n{T}: Add {W}.\n{2}{W}{W}, {T}: Create a 1/1 white Human creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Castle%20Ardenvale&format=image&version=normal"
+    },
+    "end": 1367.88
+  },
+  {
+    "start": 1367.88,
+    "cardId": "7c2a4fe5-43e8-4e20-bef2-0278d18afc4b",
+    "cardName": "Shifting Woodland",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Shifting Woodland",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped unless you control a Forest.\n{T}: Add {G}.\nDelirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard.",
+      "image": "https://api.scryfall.com/cards/named?exact=Shifting%20Woodland&format=image&version=normal"
+    },
+    "end": 1457.18
+  },
+  {
+    "start": 1457.18,
+    "cardId": "f33ce38a-34ec-4b65-a0fc-160484a02007",
+    "cardName": "Bonders' Enclave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bonders' Enclave",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{3}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater.",
+      "image": "https://api.scryfall.com/cards/named?exact=Bonders'%20Enclave&format=image&version=normal"
+    },
+    "end": 1560.2
+  },
+  {
+    "start": 1560.2,
+    "cardId": "71c52bf5-2a5d-488e-8b15-7ef290e4b77d",
+    "cardName": "War Room",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "War Room",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{3}, {T}, Pay life equal to the number of colors in your commanders' color identity: Draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=War%20Room&format=image&version=normal"
+    },
+    "end": 1561.4
+  },
+  {
+    "start": 1561.4,
+    "cardId": "f33ce38a-34ec-4b65-a0fc-160484a02007",
+    "cardName": "Bonders' Enclave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bonders' Enclave",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{3}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater.",
+      "image": "https://api.scryfall.com/cards/named?exact=Bonders'%20Enclave&format=image&version=normal"
+    },
+    "end": 1588.7
+  },
+  {
+    "start": 1588.7,
+    "cardId": "f8f4fc60-725d-46d8-8e8f-e68e00d20589",
+    "cardName": "Castle Ardenvale",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Castle Ardenvale",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped unless you control a Plains.\n{T}: Add {W}.\n{2}{W}{W}, {T}: Create a 1/1 white Human creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Castle%20Ardenvale&format=image&version=normal"
+    },
+    "end": 1639.86
+  },
+  {
+    "start": 1639.86,
+    "cardId": "f8f4fc60-725d-46d8-8e8f-e68e00d20589",
+    "cardName": "Castle Ardenvale",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Castle Ardenvale",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped unless you control a Plains.\n{T}: Add {W}.\n{2}{W}{W}, {T}: Create a 1/1 white Human creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Castle%20Ardenvale&format=image&version=normal"
+    },
+    "end": 1685.54
+  },
+  {
+    "start": 1685.54,
+    "cardId": "d2d9ecea-7925-420e-98b9-2f87f41f387c",
+    "cardName": "Land Tax",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Land Tax",
+      "manaCost": "{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Land%20Tax&format=image&version=normal"
+    },
+    "end": 1697
+  },
+  {
+    "start": 1697,
+    "cardId": "c85d3740-8c8d-4fef-ad33-a6f446b883ac",
+    "cardName": "Talon Gates",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Talon Gates",
+      "typeLine": "Plane — Dominaria",
+      "oracleText": "Any time you could cast a sorcery, you may exile a nonland card from your hand with X time counters on it, where X is its mana value. If the exiled card doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, the player may cast it without paying its mana cost. If it's a creature, it has haste.)\nWhenever chaos ensues, remove two time counters from each suspended card you own.",
+      "image": "https://api.scryfall.com/cards/named?exact=Talon%20Gates&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "c85d3740-8c8d-4fef-ad33-a6f446b883ac",
+        "cardName": "Talon Gates",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Talon Gates",
+          "typeLine": "Plane — Dominaria",
+          "oracleText": "Any time you could cast a sorcery, you may exile a nonland card from your hand with X time counters on it, where X is its mana value. If the exiled card doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, the player may cast it without paying its mana cost. If it's a creature, it has haste.)\nWhenever chaos ensues, remove two time counters from each suspended card you own.",
+          "image": "https://api.scryfall.com/cards/named?exact=Talon%20Gates&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "63dfe794-5f56-41ec-9883-5523b41cc3e0",
+        "cardName": "Arena of Glory",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Arena of Glory",
+          "typeLine": "Land",
+          "oracleText": "This land enters tapped unless you control a Mountain.\n{T}: Add {R}.\n{R}, {T}, Exert this land: Add {R}{R}. If that mana is spent on a creature spell, it gains haste until end of turn. (An exerted permanent won't untap during your next untap step.)",
+          "image": "https://api.scryfall.com/cards/named?exact=Arena%20of%20Glory&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 1701.9
+  },
+  {
+    "start": 1701.9,
+    "cardId": "7c2a4fe5-43e8-4e20-bef2-0278d18afc4b",
+    "cardName": "Shifting Woodland",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Shifting Woodland",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped unless you control a Forest.\n{T}: Add {G}.\nDelirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard.",
+      "image": "https://api.scryfall.com/cards/named?exact=Shifting%20Woodland&format=image&version=normal"
+    },
+    "end": 1730.64
+  },
+  {
+    "start": 1730.64,
+    "cardId": "f8f4fc60-725d-46d8-8e8f-e68e00d20589",
+    "cardName": "Castle Ardenvale",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Castle Ardenvale",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped unless you control a Plains.\n{T}: Add {W}.\n{2}{W}{W}, {T}: Create a 1/1 white Human creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Castle%20Ardenvale&format=image&version=normal"
+    },
+    "end": 1911.72
+  },
+  {
+    "start": 1911.72,
+    "cardId": "f8f4fc60-725d-46d8-8e8f-e68e00d20589",
+    "cardName": "Castle Ardenvale",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Castle Ardenvale",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped unless you control a Plains.\n{T}: Add {W}.\n{2}{W}{W}, {T}: Create a 1/1 white Human creature token.",
+      "image": "https://api.scryfall.com/cards/named?exact=Castle%20Ardenvale&format=image&version=normal"
+    },
+    "end": 1941.24
+  },
+  {
+    "start": 1941.24,
+    "cardId": "f33ce38a-34ec-4b65-a0fc-160484a02007",
+    "cardName": "Bonders' Enclave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bonders' Enclave",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{3}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater.",
+      "image": "https://api.scryfall.com/cards/named?exact=Bonders'%20Enclave&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "f33ce38a-34ec-4b65-a0fc-160484a02007",
+        "cardName": "Bonders' Enclave",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Bonders' Enclave",
+          "typeLine": "Land",
+          "oracleText": "{T}: Add {C}.\n{3}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater.",
+          "image": "https://api.scryfall.com/cards/named?exact=Bonders'%20Enclave&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "71c52bf5-2a5d-488e-8b15-7ef290e4b77d",
+        "cardName": "War Room",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "War Room",
+          "typeLine": "Land",
+          "oracleText": "{T}: Add {C}.\n{3}, {T}, Pay life equal to the number of colors in your commanders' color identity: Draw a card.",
+          "image": "https://api.scryfall.com/cards/named?exact=War%20Room&format=image&version=normal"
+        }
+      }
+    ],
+    "end": 2073.24
+  },
+  {
+    "start": 2073.24,
+    "cardId": "c01aeaa5-1d3b-4493-9575-30175dcd780d",
+    "cardName": "Gleaming Splendor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gleaming Splendor",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent draws their second card each turn, you create a Treasure token.\n{2}{W}: Two target players each draw a card.",
+      "image": "https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor&format=image&version=normal"
+    },
+    "end": 2074.34
+  },
+  {
+    "start": 2074.34,
+    "cardId": "a2ec1dd0-86c7-423d-b562-ed95b79bf8f7",
+    "cardName": "The Queen of Dale",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Queen of Dale",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Human Noble",
+      "oracleText": "Whenever an opponent casts their first noncreature spell each turn, you recruit. (Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Soldier creature token.)",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Queen%20of%20Dale&format=image&version=normal"
+    },
+    "end": 2076.2000000000003
+  },
+  {
+    "start": 2076.2000000000003,
+    "cardId": "63e0f03f-16da-4c09-ad03-8945f660942d",
+    "cardName": "Daughter of the Deep",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Daughter of the Deep",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Merfolk Noble",
+      "oracleText": "Whenever you draw your second card each turn, create a 1/1 blue Merfolk creature token.\n{U}, {T}: Target Merfolk can't be blocked this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Daughter%20of%20the%20Deep&format=image&version=normal"
+    },
+    "end": 2080.22
+  },
+  {
+    "start": 2080.22,
+    "cardId": "011da9c5-aa8a-4fa0-b1f2-62b9f3760476",
+    "cardName": "Belladonna Took",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Belladonna Took",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Halfling Citizen",
+      "oracleText": "Whenever a token you control enters, you gain 1 life if this is the first time this ability has resolved this turn. If it's the second time, draw a card. If it's the third time, put a +1/+1 counter on each creature you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Belladonna%20Took&format=image&version=normal"
+    },
+    "end": 2378.1
+  },
+  {
+    "start": 2378.1,
+    "cardId": "1b30210d-10e9-4703-8967-032063bb4f26",
+    "cardName": "Cut Down",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cut Down",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature with total power and toughness 5 or less.",
+      "image": "https://api.scryfall.com/cards/named?exact=Cut%20Down&format=image&version=normal"
+    },
+    "end": 2681
+  },
+  {
+    "start": 2681,
+    "cardId": "14c8f55d-d177-4c25-a931-ebeb9e6062a0",
+    "cardName": "Grizzly Bears",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grizzly Bears",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Bear",
+      "image": "https://api.scryfall.com/cards/named?exact=Grizzly%20Bears&format=image&version=normal"
+    },
+    "end": 2878.24
+  },
+  {
+    "start": 2878.24,
+    "cardId": "dba4fd31-8931-42dd-bd86-45479c2abf74",
+    "cardName": "Tolarian Academy",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tolarian Academy",
+      "typeLine": "Legendary Land",
+      "oracleText": "{T}: Add {U} for each artifact you control.",
+      "image": "https://api.scryfall.com/cards/named?exact=Tolarian%20Academy&format=image&version=normal"
+    },
+    "end": 2915.18
+  },
+  {
+    "start": 2915.18,
+    "cardId": "eb7a1f21-a66d-415b-8520-710b44890bb6",
+    "cardName": "Simulacrum Synthesizer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Simulacrum Synthesizer",
+      "manaCost": "{2}{U}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, scry 2.\nWhenever another artifact you control with mana value 3 or greater enters, create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"",
+      "image": "https://api.scryfall.com/cards/named?exact=Simulacrum%20Synthesizer&format=image&version=normal"
+    },
+    "end": 2978.7
+  },
+  {
+    "start": 2978.7,
+    "cardId": "b1544f21-7e98-461b-aed5-e748b0168c52",
+    "cardName": "Swords to Plowshares",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swords to Plowshares",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+      "image": "https://api.scryfall.com/cards/named?exact=Swords%20to%20Plowshares&format=image&version=normal"
+    },
+    "end": 2991.36
+  },
+  {
+    "start": 2991.36,
+    "cardId": "d683d985-9888-4d21-8b5f-69e69ce4a03b",
+    "cardName": "Path to Exile",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Path to Exile",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Path%20to%20Exile&format=image&version=normal"
+    },
+    "end": 3009.88
+  },
+  {
+    "start": 3009.88,
+    "cardId": "2e467fab-e808-44d3-99bf-e3621baeb7cb",
+    "cardName": "Erode",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Erode",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature or planeswalker. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+      "image": "https://api.scryfall.com/cards/named?exact=Erode&format=image&version=normal"
+    },
+    "end": 3022.86
+  },
+  {
+    "start": 3022.86,
+    "cardId": "5a0cd4dd-2212-4408-819e-0cb7c150418b",
+    "cardName": "True Believer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "True Believer",
+      "manaCost": "{W}{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "You have shroud. (You can't be the target of spells or abilities.)",
+      "image": "https://api.scryfall.com/cards/named?exact=True%20Believer&format=image&version=normal"
+    },
+    "end": 3068.5800000000004
+  },
+  {
+    "start": 3068.5800000000004,
+    "cardId": "932668fa-d6e3-41c0-ad0c-8e0a00e68d11",
+    "cardName": "Decree of Pain",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Decree of Pain",
+      "manaCost": "{6}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.\nCycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.)\nWhen you cycle this card, all creatures get -2/-2 until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Decree%20of%20Pain&format=image&version=normal"
+    },
+    "end": 3082.5
+  },
+  {
+    "start": 3082.5,
+    "cardId": "42bb7ea9-f6e4-4551-8d93-3b1eae84b865",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Clever%20Concealment&format=image&version=normal"
+    },
+    "end": 3292.76
+  },
+  {
+    "start": 3292.76,
+    "cardId": "3070f997-24f2-471d-af96-a2f3b588198e",
+    "cardName": "Divine Verdict",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Divine Verdict",
+      "manaCost": "{3}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target attacking or blocking creature.",
+      "image": "https://api.scryfall.com/cards/named?exact=Divine%20Verdict&format=image&version=normal"
+    },
+    "end": 3301.24
+  },
+  {
+    "start": 3301.24,
+    "cardId": "591edddc-3736-44cf-9719-117c24ff3980",
+    "cardName": "Make an Example",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Make an Example",
+      "manaCost": "{3}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each opponent separates the creatures they control into two piles. For each opponent, you choose one of their piles. Each opponent sacrifices the creatures in their chosen pile. (Piles can be empty.)",
+      "image": "https://api.scryfall.com/cards/named?exact=Make%20an%20Example&format=image&version=normal"
+    },
+    "end": 3309.84
+  },
+  {
+    "start": 3309.84,
+    "cardId": "ec2968fb-163d-4907-862b-b84a1f167833",
+    "cardName": "Volcanic Torrent",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Volcanic Torrent",
+      "manaCost": "{4}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nVolcanic Torrent deals X damage to each creature and planeswalker your opponents control, where X is the number of spells you've cast this turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Volcanic%20Torrent&format=image&version=normal"
+    },
+    "end": 3409.9
+  },
+  {
+    "start": 3409.9,
+    "cardId": "932668fa-d6e3-41c0-ad0c-8e0a00e68d11",
+    "cardName": "Decree of Pain",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Decree of Pain",
+      "manaCost": "{6}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.\nCycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.)\nWhen you cycle this card, all creatures get -2/-2 until end of turn.",
+      "image": "https://api.scryfall.com/cards/named?exact=Decree%20of%20Pain&format=image&version=normal"
+    },
+    "end": 3710.78
+  },
+  {
+    "start": 3710.78,
+    "cardId": "fe742976-ef13-4c25-972f-254b1ed436de",
+    "cardName": "Mother Bear",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mother Bear",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Bear",
+      "oracleText": "{3}{G}{G}, Exile this card from your graveyard: Create two 2/2 green Bear creature tokens. Activate only as a sorcery.",
+      "image": "https://api.scryfall.com/cards/named?exact=Mother%20Bear&format=image&version=normal"
+    },
+    "end": 3762.8
+  },
+  {
+    "start": 3762.8,
+    "cardId": "457af74a-02b3-4659-846d-63e482667f34",
+    "cardName": "Deadly Dispute",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Deadly Dispute",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDraw two cards and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "image": "https://api.scryfall.com/cards/named?exact=Deadly%20Dispute&format=image&version=normal"
+    },
+    "end": 3767.28
+  },
+  {
+    "start": 3767.28,
+    "cardId": "4457ed35-7c10-48c8-9776-456485fdf070",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Bolt&format=image&version=normal"
+    },
+    "end": 3920.72
+  },
+  {
+    "start": 3920.72,
+    "cardId": "cc187110-1148-4090-bbb8-e205694a39f5",
+    "cardName": "Counterspell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Counterspell",
+      "manaCost": "{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell.",
+      "image": "https://api.scryfall.com/cards/named?exact=Counterspell&format=image&version=normal"
+    },
+    "end": 3982.36
+  },
+  {
+    "start": 3982.36,
+    "cardId": "87a77482-f286-4fb1-b179-85b2095bb768",
+    "cardName": "The Hive",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Hive",
+      "manaCost": "{5}",
+      "typeLine": "Artifact",
+      "oracleText": "{5}, {T}: Create a 1/1 colorless Insect artifact creature token with flying named Wasp. (It can't be blocked except by creatures with flying or reach.)",
+      "image": "https://api.scryfall.com/cards/named?exact=The%20Hive&format=image&version=normal"
+    },
+    "cards": [
+      {
+        "cardId": "87a77482-f286-4fb1-b179-85b2095bb768",
+        "cardName": "The Hive",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "The Hive",
+          "manaCost": "{5}",
+          "typeLine": "Artifact",
+          "oracleText": "{5}, {T}: Create a 1/1 colorless Insect artifact creature token with flying named Wasp. (It can't be blocked except by creatures with flying or reach.)",
+          "image": "https://api.scryfall.com/cards/named?exact=The%20Hive&format=image&version=normal"
+        }
+      },
+      {
+        "cardId": "f97e405d-4c24-4d4d-9e19-e349c073113c",
+        "cardName": "Hive Mind",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Hive Mind",
+          "manaCost": "{5}{U}",
+          "typeLine": "Enchantment",
+          "oracleText": "Whenever a player casts an instant or sorcery spell, each other player copies that spell. Each of those players may choose new targets for their copy.",
+          "image": "https://api.scryfall.com/cards/named?exact=Hive%20Mind&format=image&version=normal"
+        }
+      }
+    ]
+  }
+]

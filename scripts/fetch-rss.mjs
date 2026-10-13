@@ -1,19 +1,23 @@
 #!/usr/bin/env node
-import { readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+import path from "node:path";
 
 const SHOWS_URL = new URL("../dist/data/shows.json", import.meta.url);
 const shows = JSON.parse(await readFile(SHOWS_URL, "utf8"));
 const requestedShow = process.argv.find((argument) => argument.startsWith("--show="))?.split("=")[1];
 const selectedShows = requestedShow ? shows.filter((show) => show.id === requestedShow) : shows;
+const outputDirectory = process.argv.find((argument) => argument.startsWith("--output-dir="))?.split("=").slice(1).join("=");
 
 if (!selectedShows.length) throw new Error(`Unknown show: ${requestedShow}`);
 
 for (const show of selectedShows) {
-  const output = new URL(`../dist/data/${show.id === "legendary-creature" ? "episodes" : `${show.id}.episodes`}.json`, import.meta.url);
+  const filename = `${show.id === "legendary-creature" ? "episodes" : `${show.id}.episodes`}.json`;
+  const canonicalOutput = new URL(`../dist/data/${filename}`, import.meta.url);
+  const output = outputDirectory ? path.join(path.resolve(outputDirectory), filename) : canonicalOutput;
   const response = await fetch(show.feedUrl, { headers: { "user-agent": "CardcastCompanion/0.2" } });
   if (!response.ok) throw new Error(`${show.title} RSS request failed: ${response.status}`);
   const xml = await response.text();
-  const existing = JSON.parse(await readFile(output, "utf8").catch(() => "[]"));
+  const existing = JSON.parse(await readFile(canonicalOutput, "utf8").catch(() => "[]"));
   const cueSheets = new Map(existing.filter((item) => item.cueSheet).map((item) => [item.audioUrl, item.cueSheet]));
   const channelArtwork = attribute(xml.match(/<channel>([\s\S]*)<\/channel>/)?.[1] || xml, "itunes:image", "href");
 
@@ -34,8 +38,9 @@ for (const show of selectedShows) {
     };
   }).filter((episode) => episode.audioUrl).slice(0, 20);
 
+  if (outputDirectory) await mkdir(path.dirname(output), { recursive: true });
   await writeFile(output, `${JSON.stringify(episodes, null, 2)}\n`);
-  console.log(`Saved ${episodes.length} ${show.title} episodes to ${output.pathname}`);
+  console.log(`Saved ${episodes.length} ${show.title} episodes to ${typeof output === "string" ? output : output.pathname}`);
 }
 
 function value(xmlText, tag) {

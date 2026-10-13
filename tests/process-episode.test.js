@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { mkdtemp, readFile, rm } from "node:fs/promises";
+import { mkdtemp, readFile, rm, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
@@ -73,6 +73,46 @@ test("processor uses word timestamps when Whisper JSON provides them", async () 
   assert.equal(run.status, 0, run.stderr);
   const cues = JSON.parse(await readFile(output, "utf8"));
   assert.equal(cues[0].start, 12);
+  assert.deepEqual(cues[0].cards.map((option) => option.cardName), ["Gavi, Nest Warden", "Arcane Signet", "Forest"]);
+  await rm(directory, { recursive: true, force: true });
+});
+
+test("processor can restrict ambiguous one-word card names to an allowlist", async () => {
+  const directory = await mkdtemp(path.join(tmpdir(), "cardcast-one-word-test-"));
+  const output = path.join(directory, "cues.json");
+  const allowlist = path.join(directory, "one-word.json");
+  await writeFile(allowlist, JSON.stringify(["Arcane Signet"]));
+  const run = spawnSync(process.execPath, [
+    "scripts/process-episode.mjs",
+    "--transcript", "fixtures/matcher-word-timestamps.json",
+    "--catalogue", "fixtures/matcher-mtgjson.json",
+    "--sets", "all",
+    "--exact-only",
+    "--one-word-allowlist", allowlist,
+    "--output", output
+  ], { cwd: process.cwd(), encoding: "utf8" });
+  assert.equal(run.status, 0, run.stderr);
+  const cues = JSON.parse(await readFile(output, "utf8"));
   assert.deepEqual(cues[0].cards.map((option) => option.cardName), ["Gavi, Nest Warden", "Arcane Signet"]);
+  await rm(directory, { recursive: true, force: true });
+});
+
+test("processor can block card names that are common speech", async () => {
+  const directory = await mkdtemp(path.join(tmpdir(), "cardcast-blocklist-test-"));
+  const output = path.join(directory, "cues.json");
+  const blocklist = path.join(directory, "blocked.json");
+  await writeFile(blocklist, JSON.stringify(["Arcane Signet"]));
+  const run = spawnSync(process.execPath, [
+    "scripts/process-episode.mjs",
+    "--transcript", "fixtures/matcher-word-timestamps.json",
+    "--catalogue", "fixtures/matcher-mtgjson.json",
+    "--sets", "all",
+    "--exact-only",
+    "--blocked-cards", blocklist,
+    "--output", output
+  ], { cwd: process.cwd(), encoding: "utf8" });
+  assert.equal(run.status, 0, run.stderr);
+  const cues = JSON.parse(await readFile(output, "utf8"));
+  assert.deepEqual(cues[0].cards.map((option) => option.cardName), ["Gavi, Nest Warden", "Forest"]);
   await rm(directory, { recursive: true, force: true });
 });

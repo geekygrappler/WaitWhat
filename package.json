@@ -8,6 +8,7 @@
     "test": "node --test",
     "refresh-feed": "node scripts/fetch-rss.mjs",
     "apply-reviews": "node scripts/apply-review-resolutions.mjs",
-    "process-episode": "node scripts/process-episode.mjs"
+    "process-episode": "node scripts/process-episode.mjs",
+    "update-new-episodes": "node scripts/update-new-episodes.mjs"
   }
 }

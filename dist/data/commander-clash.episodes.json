@@ -1,5 +1,41 @@
 [
   {
+    "id": "cards-that-will-never-be-power-crept",
+    "title": "Cards That Will NEVER Be Power Crept",
+    "published": "2026-10-13T15:00:23.000Z",
+    "duration": 3969,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/13425689-11ed-468a-973a-14c189e4363f/Commander_Clash_Podcast_273_Cards_that_will_Never_be_Powercrept.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "processed": true,
+    "source": "MTGGoldfish Commander Clash Podcast RSS",
+    "cueSheet": "./data/cards-that-will-never-be-power-crept.cues.json"
+  },
+  {
+    "id": "commander-deckbuilding-traps",
+    "title": "Commander Deckbuilding Traps",
+    "published": "2026-10-06T15:00:10.000Z",
+    "duration": 4188,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/ba25b0e6-2705-4895-aa12-ae7425fe93a5/Commander_Clash_Podcast_272_Deckbuilding_Traps.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "processed": true,
+    "source": "MTGGoldfish Commander Clash Podcast RSS",
+    "cueSheet": "./data/commander-deckbuilding-traps.cues.json"
+  },
+  {
+    "id": "the-most-important-cards-from-reality-fracture",
+    "title": "The Most Important Cards from Reality Fracture",
+    "published": "2026-09-29T15:00:18.000Z",
+    "duration": 5089,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/20568075-67bc-4e02-9745-d897003437d5/Commander_Clash_Podcast_271_most_important_cards_from_reality_fracture.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "processed": true,
+    "source": "MTGGoldfish Commander Clash Podcast RSS",
+    "cueSheet": "./data/the-most-important-cards-from-reality-fracture.cues.json"
+  },
+  {
     "id": "the-most-annoying-commanders",
     "title": "The Most Annoying Commanders",
     "published": "2026-09-22T15:00:13.000Z",
@@ -186,39 +222,6 @@
     "published": "2026-06-02T15:00:19.000Z",
     "duration": 4403,
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/5ed3b919-6f79-4728-ba75-2b55cf42f1b1/commander_clash_podcast_254_sins_tierlist.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
-    "source": "MTGGoldfish Commander Clash Podcast RSS"
-  },
-  {
-    "id": "what-s-that-magic-card",
-    "title": "What's That Magic Card",
-    "published": "2026-05-26T15:00:13.000Z",
-    "duration": 3559,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/00b6b43c-7a11-49f3-ad2a-451521a437e9/commander_clash_podcast_253_whats_that_magic_card.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
-    "source": "MTGGoldfish Commander Clash Podcast RSS"
-  },
-  {
-    "id": "weird-and-unique-magic-cards",
-    "title": "Weird and Unique Magic Cards",
-    "published": "2026-05-19T15:00:12.000Z",
-    "duration": 3581,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/413c3f8d-d4b9-4e68-a0d8-9508e4d3f5e1/commander_clash_podcast_252_weird_and_unique_magic_cards.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
-    "source": "MTGGoldfish Commander Clash Podcast RSS"
-  },
-  {
-    "id": "best-green-card-draw",
-    "title": "Best Green Card Draw",
-    "published": "2026-05-12T15:00:13.000Z",
-    "duration": 3756,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/66b3926c-2e88-4246-9a07-6c5467a6d1e0/mtggoldfish_commander_clash_podcast_251_best_green_card_draw.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
     "processed": false,
