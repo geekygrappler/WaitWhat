@@ -8,7 +8,7 @@
     <meta name="description" content="Listen to Magic podcasts with the current card in view." />
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icon.svg" />
-    <link rel="stylesheet" href="./styles.css?v=15" />
+    <link rel="stylesheet" href="./styles.css?v=16" />
     <title>Wait, What? Magic Podcast Companion</title>
   </head>
   <body>
@@ -37,8 +37,11 @@
 
     <main id="app-shell" class="app-shell" hidden>
       <section class="now-card" aria-labelledby="card-title">
-        <div class="section-kicker"><span class="live-dot"></span><span id="card-context">Now discussing</span></div>
-        <div id="card-stage" class="card-stage" aria-live="polite">
+        <div class="section-kicker card-context-bar">
+          <span><span class="live-dot"></span><span id="card-context">Now discussing</span></span>
+          <button id="return-current" class="return-current" type="button" hidden>← Back to current</button>
+        </div>
+        <div id="card-stage" class="card-stage" aria-live="polite" tabindex="-1">
           <div class="empty-card">
             <div class="empty-card-glyph">⌁</div>
             <h1 id="card-title">Ready when you are</h1>
@@ -102,6 +105,6 @@
     </section>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=16"></script>
+    <script type="module" src="./app.js?v=18"></script>
   </body>
 </html>

@@ -57,3 +57,11 @@ export function formatTime(value) {
   const rest = String(seconds % 60).padStart(2, "0");
   return hours ? `${hours}:${String(minutes).padStart(2, "0")}:${rest}` : `${minutes}:${rest}`;
 }
+
+export function resumablePosition(position, duration) {
+  if (!Number.isFinite(position) || position <= 0) return 0;
+  if (!Number.isFinite(duration) || duration <= 0) return position;
+  const bounded = Math.min(position, duration);
+  const completionWindow = Math.min(15, duration * 0.02);
+  return duration - bounded <= completionWindow ? 0 : bounded;
+}

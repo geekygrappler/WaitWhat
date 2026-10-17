@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { cueAtTime, recentCues, upcomingCues, cardImage, cardsForCue, formatTime } from "../dist/core.js";
+import { cueAtTime, recentCues, upcomingCues, cardImage, cardsForCue, formatTime, resumablePosition } from "../dist/core.js";
 
 const cues = [
   { start: 10, end: 20, cardId: "a", card: { image: "a.jpg" } },
@@ -37,4 +37,12 @@ test("falls back to a face image and formats long time", () => {
 test("exposes grouped and legacy cue cards through one interface", () => {
   assert.deepEqual(cardsForCue(cues[0]).map((option) => option.cardId), ["a"]);
   assert.deepEqual(cardsForCue({ cards: [{ cardId: "a" }, { cardId: "b" }] }).map((option) => option.cardId), ["a", "b"]);
+});
+
+test("keeps useful playback positions and resets completed episodes", () => {
+  assert.equal(resumablePosition(123.8, 3600), 123.8);
+  assert.equal(resumablePosition(3590, 3600), 0);
+  assert.equal(resumablePosition(59, 60), 0);
+  assert.equal(resumablePosition(-2, 3600), 0);
+  assert.equal(resumablePosition(42, Number.NaN), 42);
 });

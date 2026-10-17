@@ -1,11 +1,13 @@
-import { cardImage, cardsForCue, cueAtTime, formatTime, recentCues, upcomingCues } from "./core.js?v=13";
+import { cardImage, cardsForCue, cueAtTime, formatTime, recentCues, resumablePosition, upcomingCues } from "./core.js?v=14";
 
 const $ = (id) => document.getElementById(id);
 const audio = $("audio");
 const timeline = $("timeline");
 const playButton = $("play");
 const playIcon = $("play-icon");
-const state = { shows: [], show: null, episodes: [], episode: null, cues: [], activeCueId: null, activeCue: null, focusedCue: null, focusedFromPlaybackCueKey: null, cardOptionIndex: 0, recentSignature: "", upcomingSignature: "", scrubbing: false, toastTimer: null };
+const PLAYBACK_STORAGE_KEY = "wait-what-playback-v1";
+const POSITION_SAVE_INTERVAL = 2000;
+const state = { shows: [], show: null, episodes: [], episode: null, cues: [], activeCueId: null, activeCue: null, focusedCue: null, focusedFromPlaybackCueKey: null, cardOptionIndex: 0, recentSignature: "", upcomingSignature: "", scrubbing: false, toastTimer: null, restoringEpisodeId: null, lastPositionWriteAt: 0, lastPositionWritten: null };
 
 async function init() {
   state.shows = await fetch("./data/shows.json").then(checkResponse).then((response) => response.json());
@@ -50,7 +52,8 @@ async function openShow(showId, { updateUrl = true } = {}) {
   $("brand-edition").textContent = show.shortTitle;
   document.title = `Wait, What? ${show.shortTitle}`;
   renderEpisodeOptions();
-  const initialEpisode = state.episodes.find((episode) => episode.processed) || state.episodes[0];
+  const savedEpisodeId = savedEpisodeForShow(show.id);
+  const initialEpisode = state.episodes.find((episode) => episode.id === savedEpisodeId) || state.episodes.find((episode) => episode.processed) || state.episodes[0];
   await loadEpisode(initialEpisode);
   if (updateUrl) history.pushState({ show: show.id }, "", `?show=${encodeURIComponent(show.id)}`);
 }
@@ -82,6 +85,11 @@ async function loadEpisode(episode) {
   if (!episode) return;
   audio.pause();
   state.episode = episode;
+  rememberEpisode(episode.id);
+  const resumePosition = savedPositionForEpisode(episode);
+  state.restoringEpisodeId = resumePosition > 0 ? episode.id : null;
+  state.lastPositionWriteAt = 0;
+  state.lastPositionWritten = null;
   state.cues = episode.cueSheet ? await fetch(episode.cueSheet).then(checkResponse).then((response) => response.json()) : [];
   state.activeCueId = null;
   state.activeCue = null;
@@ -89,10 +97,13 @@ async function loadEpisode(episode) {
   state.focusedFromPlaybackCueKey = null;
   state.recentSignature = "";
   state.upcomingSignature = "";
+  if (resumePosition > 0) {
+    audio.addEventListener("loadedmetadata", () => restoreEpisodePosition(episode, resumePosition), { once: true });
+  }
   audio.src = episode.audioUrl;
   timeline.max = episode.duration || 0;
-  timeline.value = 0;
-  $("elapsed").textContent = "0:00";
+  timeline.value = resumePosition;
+  $("elapsed").textContent = formatTime(resumePosition);
   $("duration").textContent = formatTime(episode.duration);
   setEpisodeTitle(episode.title);
   $("episode-art").src = episode.artwork || state.show.artwork;
@@ -101,7 +112,7 @@ async function loadEpisode(episode) {
   $("episode-select").value = episode.id;
   $("app-shell").classList.toggle("cards-pending", !episode.processed);
   $("recent-panel").hidden = !episode.processed;
-  renderAtTime(0);
+  renderAtTime(resumePosition);
   setupMediaSession(episode);
 }
 
@@ -109,6 +120,7 @@ function bindControls() {
   playButton.addEventListener("click", togglePlayback);
   $("rewind").addEventListener("click", () => seekBy(-15));
   $("forward").addEventListener("click", () => seekBy(15));
+  $("return-current").addEventListener("click", returnToCurrentCue);
   $("speed").addEventListener("change", (event) => { audio.playbackRate = Number(event.target.value); });
   $("episode-select").addEventListener("change", (event) => loadEpisode(state.episodes.find((item) => item.id === event.target.value)));
   $("show-select").addEventListener("change", (event) => event.target.value ? openShow(event.target.value) : showLanding());
@@ -131,9 +143,14 @@ function bindControls() {
   });
 
   ["loadedmetadata", "durationchange", "timeupdate", "seeking", "seeked", "play", "playing", "pause", "ratechange"].forEach((eventName) => audio.addEventListener(eventName, reconcileFromAudio));
+  ["pause", "seeked", "ended"].forEach((eventName) => audio.addEventListener(eventName, () => persistPlaybackPosition(true)));
   audio.addEventListener("ended", reconcileFromAudio);
   audio.addEventListener("error", () => state.episode && showToast("Audio could not be loaded. Check your connection."));
-  document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") reconcileFromAudio(); });
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "hidden") persistPlaybackPosition(true);
+    else reconcileFromAudio();
+  });
+  window.addEventListener("pagehide", () => persistPlaybackPosition(true));
   window.addEventListener("pageshow", reconcileFromAudio);
   window.addEventListener("focus", reconcileFromAudio);
   window.addEventListener("resize", () => state.episode && setEpisodeTitle(state.episode.title));
@@ -166,6 +183,70 @@ function reconcileFromAudio() {
   playButton.setAttribute("aria-label", audio.paused ? "Play" : "Pause");
   renderAtTime(time);
   updatePositionState();
+  persistPlaybackPosition();
+}
+
+function restoreEpisodePosition(episode, position) {
+  if (state.episode?.id !== episode.id || state.restoringEpisodeId !== episode.id) return;
+  const restored = resumablePosition(position, audio.duration || episode.duration);
+  state.restoringEpisodeId = null;
+  if (restored <= 0) return;
+  audio.currentTime = restored;
+  reconcileFromAudio();
+  showToast(`Resumed at ${formatTime(restored)}`);
+}
+
+function readPlaybackState() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(PLAYBACK_STORAGE_KEY));
+    return saved && typeof saved === "object" && saved.shows && typeof saved.shows === "object" ? saved : { shows: {} };
+  } catch {
+    return { shows: {} };
+  }
+}
+
+function writePlaybackState(saved) {
+  try { localStorage.setItem(PLAYBACK_STORAGE_KEY, JSON.stringify(saved)); } catch {}
+}
+
+function savedEpisodeForShow(showId) {
+  return readPlaybackState().shows[showId]?.episodeId || null;
+}
+
+function savedPositionForEpisode(episode) {
+  const saved = readPlaybackState().shows[state.show.id]?.episodes?.[episode.id];
+  return resumablePosition(Number(saved?.position), Number(saved?.duration) || Number(episode.duration));
+}
+
+function rememberEpisode(episodeId) {
+  if (!state.show) return;
+  const saved = readPlaybackState();
+  const show = saved.shows[state.show.id] || { episodes: {} };
+  show.episodeId = episodeId;
+  show.episodes ||= {};
+  saved.shows[state.show.id] = show;
+  writePlaybackState(saved);
+}
+
+function persistPlaybackPosition(force = false) {
+  if (!state.show || !state.episode || state.restoringEpisodeId === state.episode.id) return;
+  const position = Number.isFinite(audio.currentTime) ? audio.currentTime : 0;
+  const now = Date.now();
+  if (!force && now - state.lastPositionWriteAt < POSITION_SAVE_INTERVAL && Math.abs(position - (state.lastPositionWritten ?? 0)) < 2) return;
+  const duration = Number.isFinite(audio.duration) && audio.duration > 0 ? audio.duration : Number(state.episode.duration);
+  const saved = readPlaybackState();
+  const show = saved.shows[state.show.id] || { episodes: {} };
+  show.episodeId = state.episode.id;
+  show.episodes ||= {};
+  show.episodes[state.episode.id] = {
+    position: Math.floor(resumablePosition(position, duration)),
+    duration: Number.isFinite(duration) ? duration : null,
+    updatedAt: new Date(now).toISOString()
+  };
+  saved.shows[state.show.id] = show;
+  writePlaybackState(saved);
+  state.lastPositionWriteAt = now;
+  state.lastPositionWritten = position;
 }
 
 function renderAtTime(time) {
@@ -282,6 +363,12 @@ function focusCue(cue) {
   syncCueListSelection();
 }
 
+function returnToCurrentCue() {
+  clearFocusedCue();
+  renderAtTime(Number(audio.currentTime) || 0);
+  $("card-stage").focus({ preventScroll: true });
+}
+
 function clearFocusedCue() {
   state.focusedCue = null;
   state.focusedFromPlaybackCueKey = null;
@@ -293,6 +380,7 @@ function playbackCueKey(cue) {
 
 function updateCardContext() {
   $("card-context").textContent = state.focusedCue ? "Card preview" : "Now discussing";
+  $("return-current").hidden = !state.focusedCue;
 }
 
 function syncCueListSelection() {

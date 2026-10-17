@@ -132,6 +132,22 @@ button, select { -webkit-tap-highlight-color: transparent; }
   text-transform: uppercase;
 }
 .live-dot { display: inline-block; width: 7px; height: 7px; margin-right: 7px; border-radius: 50%; background: var(--gold); box-shadow: 0 0 0 4px rgba(255,107,0,.14); }
+.card-context-bar { min-height: 36px; display: flex; align-items: center; justify-content: space-between; gap: 14px; }
+.return-current {
+  min-height: 36px;
+  border: 1px solid var(--gold);
+  border-radius: 999px;
+  padding: 0 13px;
+  background: rgba(255, 107, 0, .12);
+  color: var(--gold-strong);
+  cursor: pointer;
+  font-size: .78rem;
+  font-weight: 760;
+  letter-spacing: 0;
+  text-transform: none;
+}
+.return-current:hover, .return-current:focus-visible { background: var(--gold); color: #1a0e07; outline: none; }
+.return-current:active { transform: scale(.97); }
 
 .card-stage {
   touch-action: pan-y;

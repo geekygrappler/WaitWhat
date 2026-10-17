@@ -1,10 +1,10 @@
-const CACHE = "wait-what-shell-v18";
+const CACHE = "wait-what-shell-v20";
 const SHELL = [
   "./",
   "./index.html",
-  "./styles.css?v=15",
-  "./app.js?v=16",
-  "./core.js?v=13",
+  "./styles.css?v=16",
+  "./app.js?v=18",
+  "./core.js?v=14",
   "./manifest.webmanifest",
   "./icon.svg",
   "./data/shows.json",
