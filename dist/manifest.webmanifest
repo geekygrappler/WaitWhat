@@ -1,6 +1,6 @@
 {
-  "name": "Wait, What? Magic Podcast Companion",
-  "short_name": "Wait, What?",
+  "name": "Wait, What? Podcasts",
+  "short_name": "Wait, What? Podcasts",
   "description": "Browse Magic podcasts and see the card being discussed in reviewed episodes.",
   "start_url": "./",
   "scope": "./",

@@ -1,4 +1,4 @@
-# Wait, What?
+# Wait, What? Podcasts
 
 An installable, mobile-first web player for **Legendary Creature Podcast**, **MTGGoldfish Podcast**, and **MTGGoldfish Commander Clash Podcast**. A landing page and persistent podcast selector make each show independently browsable. The player uses the audio element's real `currentTime` to show the Magic card being discussed, so returning after a phone lock does not depend on background JavaScript timers.
 

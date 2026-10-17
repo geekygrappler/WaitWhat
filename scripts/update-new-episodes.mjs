@@ -134,7 +134,7 @@ async function download(url, destination) {
   for (let attempt = 1; attempt <= 3; attempt += 1) {
     try {
       const response = await fetch(url, {
-        headers: { "user-agent": "WaitWhatLCReviewHelper/0.2" },
+        headers: { "user-agent": "WaitWhatPodcasts/0.2" },
         redirect: "follow",
         signal: AbortSignal.timeout(60_000),
       });

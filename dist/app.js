@@ -50,7 +50,7 @@ async function openShow(showId, { updateUrl = true } = {}) {
   $("episode-picker").hidden = false;
   $("show-select").value = show.id;
   $("brand-edition").textContent = show.shortTitle;
-  document.title = `Wait, What? ${show.shortTitle}`;
+  document.title = `${show.shortTitle} · Wait, What? Podcasts`;
   renderEpisodeOptions();
   const savedEpisodeId = savedEpisodeForShow(show.id);
   const initialEpisode = state.episodes.find((episode) => episode.id === savedEpisodeId) || state.episodes.find((episode) => episode.processed) || state.episodes[0];
@@ -70,8 +70,8 @@ function showLanding({ updateUrl = true } = {}) {
   $("player").hidden = true;
   $("episode-picker").hidden = true;
   $("show-select").value = "";
-  $("brand-edition").textContent = "Magic podcast companion";
-  document.title = "Wait, What? Magic Podcast Companion";
+  $("brand-edition").textContent = "Podcasts";
+  document.title = "Wait, What? Podcasts";
   if (updateUrl) history.pushState({}, "", location.pathname);
 }
 
@@ -391,7 +391,7 @@ function syncCueListSelection() {
 
 function setupMediaSession(episode) {
   if (!("mediaSession" in navigator)) return;
-  navigator.mediaSession.metadata = new MediaMetadata({ title: episode.title, artist: state.show.title, album: "Wait, What? Magic Podcast Companion" });
+  navigator.mediaSession.metadata = new MediaMetadata({ title: episode.title, artist: state.show.title, album: "Wait, What? Podcasts" });
   navigator.mediaSession.setActionHandler("play", () => audio.play());
   navigator.mediaSession.setActionHandler("pause", () => audio.pause());
   navigator.mediaSession.setActionHandler("seekbackward", (details) => seekBy(-(details.seekOffset || 15)));

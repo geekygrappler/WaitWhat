@@ -41,7 +41,7 @@ console.log(`Applied ${applied} resolved reviews.`);
 async function fetchCard(pageUrl) {
   if (cardCache.has(pageUrl)) return cardCache.get(pageUrl);
   const response = await fetch(scryfallApiUrl(pageUrl), {
-    headers: { "user-agent": "WaitWhatReviewHelper/0.1", accept: "application/json" }
+    headers: { "user-agent": "WaitWhatPodcasts/0.1", accept: "application/json" }
   });
   if (!response.ok) throw new Error(`Scryfall lookup failed for ${pageUrl}: ${response.status}`);
   const card = await response.json();

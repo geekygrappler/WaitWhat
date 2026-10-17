@@ -115,7 +115,7 @@ export function createReviewServer(root = projectRoot) {
 if (process.argv[1] && pathToFileURL(path.resolve(process.argv[1])).href === import.meta.url) {
   const port = Number(process.env.PORT || 4173);
   createReviewServer().listen(port, "127.0.0.1", () => {
-    console.log(`Wait, What? local server: http://127.0.0.1:${port}`);
+    console.log(`Wait, What? Podcasts:      http://127.0.0.1:${port}`);
     console.log(`Human review route:       http://127.0.0.1:${port}/reviews`);
   });
 }
