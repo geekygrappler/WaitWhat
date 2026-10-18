@@ -1,0 +1,1088 @@
+{
+  "model": "gpt-6-astra",
+  "title": "One's Relationship with Optimizing in EDH",
+  "chunks": 5,
+  "mentions": [
+    {
+      "canonicalName": "Rograkh, Son of Rohgahh",
+      "spokenText": "rograc",
+      "role": "incidental",
+      "startSeconds": 208.78,
+      "evidence": "why is rograc like almost on all these",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Krosan Grip",
+      "spokenText": "crossing grip",
+      "role": "incidental",
+      "startSeconds": 332.72,
+      "evidence": "crossing grip was running around",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sudden Death",
+      "spokenText": "sudden death",
+      "role": "incidental",
+      "startSeconds": 335.1,
+      "evidence": "sudden death sudden spoiling",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sudden Spoiling",
+      "spokenText": "sudden spoiling",
+      "role": "incidental",
+      "startSeconds": 335.1,
+      "evidence": "sudden death sudden spoiling",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sudden Spoiling",
+      "spokenText": "sudden spoiling",
+      "role": "incidental",
+      "startSeconds": 337.06,
+      "evidence": "sudden spoiling was a big one",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grand Abolisher",
+      "spokenText": "grand abolishers",
+      "role": "incidental",
+      "startSeconds": 345.96,
+      "evidence": "I think I have four or five grand abolishers",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grand Abolisher",
+      "spokenText": "grand abolisher",
+      "role": "incidental",
+      "startSeconds": 357.58,
+      "evidence": "I think a grand abolisher might have been in an early commander deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul rings",
+      "role": "incidental",
+      "startSeconds": 370.16,
+      "evidence": "we still were pushing soul rings",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Karador, Ghost Chieftain",
+      "spokenText": "carador",
+      "role": "incidental",
+      "startSeconds": 381.42,
+      "evidence": "when i took tiff's carador list apart",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Survival of the Fittest",
+      "spokenText": "survival of the fittest",
+      "role": "incidental",
+      "startSeconds": 390.78,
+      "evidence": "one of which was a survival of the fittest",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Necropotence",
+      "spokenText": "necropotenced",
+      "role": "incidental",
+      "startSeconds": 500.1,
+      "evidence": "immediately necropotenced away",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Trinket Mage",
+      "spokenText": "trinket mage",
+      "role": "incidental",
+      "startSeconds": 508.26,
+      "evidence": "going to go off with some weird trinket mage",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Naban, Dean of Iteration",
+      "spokenText": "Nabon",
+      "role": "incidental",
+      "startSeconds": 510.36,
+      "evidence": "Nabon infinite ETB",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul rings",
+      "role": "incidental",
+      "startSeconds": 1263.74,
+      "evidence": "turn soul rings unless you draw it off the top",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Crop Rotation",
+      "spokenText": "crop rotate",
+      "role": "incidental",
+      "startSeconds": 1481.02,
+      "evidence": "People can crop rotate into legit things that answer stuff now",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cabal Coffers",
+      "spokenText": "cabal coffers",
+      "role": "incidental",
+      "startSeconds": 1487.94,
+      "evidence": "I can still go get my cabal coffers, my Urborg",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Urborg, Tomb of Yawgmoth",
+      "spokenText": "Urborg",
+      "role": "incidental",
+      "startSeconds": 1487.94,
+      "evidence": "my cabal coffers, my Urborg",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Crop Rotation",
+      "spokenText": "crop rotate",
+      "role": "incidental",
+      "startSeconds": 1500.58,
+      "evidence": "you can go basically crop rotate forever",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Glacial Chasm",
+      "spokenText": "Glacial Chasm",
+      "role": "incidental",
+      "startSeconds": 1504.88,
+      "evidence": "One that I did was Glacial Chasm",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cabal Coffers",
+      "spokenText": "Cabal Coffers",
+      "role": "incidental",
+      "startSeconds": 1514.12,
+      "evidence": "instead of going and getting Cabal Coffers",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erebos, God of the Dead",
+      "spokenText": "Erebus",
+      "role": "incidental",
+      "startSeconds": 1514.12,
+      "evidence": "I had an Erebus game",
+      "confidence": 0.87,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Glacial Chasm",
+      "spokenText": "Glacial Chasm",
+      "role": "incidental",
+      "startSeconds": 1514.12,
+      "evidence": "I went and got Glacial Chasm because I knew you guys were coming for me",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cabal Coffers",
+      "spokenText": "Cabal Coffers",
+      "role": "incidental",
+      "startSeconds": 1539.08,
+      "evidence": "Urborg is, or Cabal Coffers is not allowed",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Urborg, Tomb of Yawgmoth",
+      "spokenText": "Urborg",
+      "role": "incidental",
+      "startSeconds": 1539.08,
+      "evidence": "Urborg is, or Cabal Coffers is not allowed",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boseiju, Who Endures",
+      "spokenText": "besage yous",
+      "role": "incidental",
+      "startSeconds": 1580.36,
+      "evidence": "besage yous and things like that",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cyclonic Rift",
+      "spokenText": "cyclonic rift",
+      "role": "incidental",
+      "startSeconds": 1717.88,
+      "evidence": "can complain about cyclonic rift enough times",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cyclonic Rift",
+      "spokenText": "cyclonic rift",
+      "role": "incidental",
+      "startSeconds": 1725,
+      "evidence": "brad really really really disliked the cyclonic rift era",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erebos, God of the Dead",
+      "spokenText": "Erebus",
+      "role": "incidental",
+      "startSeconds": 1782.72,
+      "evidence": "talking about banning Erebus",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dictate of Erebos",
+      "spokenText": "Dictative Erebus",
+      "role": "incidental",
+      "startSeconds": 1812.8,
+      "evidence": "Grave Pact and Dictative Erebus should be on that list",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Pact",
+      "spokenText": "Grave Pact",
+      "role": "incidental",
+      "startSeconds": 1812.8,
+      "evidence": "Grave Pact and Dictative Erebus should be on that list",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 1860.5,
+      "evidence": "the soul ring signet thing doesn't happen here",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Galadriel's Dismissal",
+      "spokenText": "glad you'll dismissal",
+      "role": "incidental",
+      "startSeconds": 1895.86,
+      "evidence": "slip out the back okay but glad you'll dismissal",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Slip Out the Back",
+      "spokenText": "slip out the back",
+      "role": "incidental",
+      "startSeconds": 1895.86,
+      "evidence": "slip out the back okay but glad you'll dismissal",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Heroic Intervention",
+      "spokenText": "heroic intervention",
+      "role": "incidental",
+      "startSeconds": 1923.5,
+      "evidence": "heroic intervention is a card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flawless Maneuver",
+      "spokenText": "flawless maneuvers",
+      "role": "incidental",
+      "startSeconds": 1941.38,
+      "evidence": "get out from under the flawless maneuvers",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "By Invitation Only",
+      "spokenText": "by invitation only",
+      "role": "incidental",
+      "startSeconds": 1947.98,
+      "evidence": "that's why I like this by invitation only and promise of loyalty",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Promise of Loyalty",
+      "spokenText": "promise of loyalty",
+      "role": "incidental",
+      "startSeconds": 1947.98,
+      "evidence": "by invitation only and promise of loyalty",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Galadriel's Dismissal",
+      "spokenText": "Galadriel's dismissal",
+      "role": "incidental",
+      "startSeconds": 1958.58,
+      "evidence": "I'm seeing Galadriel's dismissal all the time",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teferi's Protection",
+      "spokenText": "to fairy's protection",
+      "role": "incidental",
+      "startSeconds": 1967.94,
+      "evidence": "I thought to fairy's protection was a game changer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grand Abolisher",
+      "spokenText": "Grand Abolisher",
+      "role": "incidental",
+      "startSeconds": 1990.44,
+      "evidence": "I can go grab that Grand Abolisher again",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "Calyx",
+      "role": "incidental",
+      "startSeconds": 2391.74,
+      "evidence": "Calyx, right?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "Calyxes",
+      "role": "incidental",
+      "startSeconds": 2398.36,
+      "evidence": "like two Calyxes",
+      "confidence": 0.8,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "Guided by Fate",
+      "role": "incidental",
+      "startSeconds": 2400.44,
+      "evidence": "So it's the Guided by Fate",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "Calyx",
+      "role": "incidental",
+      "startSeconds": 2414.44,
+      "evidence": "Calyx or an enchanted creature",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "Calyx",
+      "role": "incidental",
+      "startSeconds": 2441.04,
+      "evidence": "as well as Calyx",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ria Ivor, Bane of Bladehold",
+      "spokenText": "Rhea Ivor",
+      "role": "incidental",
+      "startSeconds": 2483.78,
+      "evidence": "a prior deck with Rhea Ivor",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "calyx",
+      "role": "incidental",
+      "startSeconds": 2614.66,
+      "evidence": "here's calyx and then here's turn four with the auras",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Syr Vondam, the Lucent",
+      "spokenText": "servandum",
+      "role": "incidental",
+      "startSeconds": 2779.5,
+      "evidence": "my servandum blink deck",
+      "confidence": 0.75,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sepulchral Primordial",
+      "spokenText": "sepulchral primordial",
+      "role": "incidental",
+      "startSeconds": 2782.92,
+      "evidence": "I have had sepulchral primordial pass through my hand",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sepulchral Primordial",
+      "spokenText": "sepulchral sepulchral primordial",
+      "role": "incidental",
+      "startSeconds": 2904.52,
+      "evidence": "say something about sepulchral sepulchral primordial",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sepulchral Primordial",
+      "spokenText": "sepulchral primordial",
+      "role": "incidental",
+      "startSeconds": 2963.3,
+      "evidence": "I'm going to land a sepulchral primordial",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Smothering Tithe",
+      "spokenText": "smothering tithe",
+      "role": "incidental",
+      "startSeconds": 2986.18,
+      "evidence": "one of the most excused game changers that exists is smothering tithe",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sepulchral Primordial",
+      "spokenText": "support role primordial",
+      "role": "incidental",
+      "startSeconds": 3131.76,
+      "evidence": "because like this support role primordial",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Puppeteer Clique",
+      "spokenText": "puppeteer clicks",
+      "role": "incidental",
+      "startSeconds": 3151.98,
+      "evidence": "what i landed on within that particular scenario was puppeteer clicks enough",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Puppeteer Clique",
+      "spokenText": "puppeteer click",
+      "role": "incidental",
+      "startSeconds": 3164.12,
+      "evidence": "i love puppeteer click",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sepulchral Primordial",
+      "spokenText": "sepulchral pine rolling",
+      "role": "incidental",
+      "startSeconds": 3176.66,
+      "evidence": "it's not me sepulchral pine rolling it into my side of the board",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Abyssal Persecutor",
+      "spokenText": "abyssal persecutor",
+      "role": "incidental",
+      "startSeconds": 3232.26,
+      "evidence": "the whole like abyssal persecutor thing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sepulchral Primordial",
+      "spokenText": "sepulchral primordial",
+      "role": "incidental",
+      "startSeconds": 3243.22,
+      "evidence": "the sepulchral primordial example",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Great Henge",
+      "spokenText": "Great Hench",
+      "role": "incidental",
+      "startSeconds": 3408.38,
+      "evidence": "get away with cards like Great Hench",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Beast Whisperer",
+      "spokenText": "Beast Whisperer",
+      "role": "incidental",
+      "startSeconds": 3434.48,
+      "evidence": "somebody could say the same thing about Beast Whisperer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shigeki, Jukai Visionary",
+      "spokenText": "shigeki",
+      "role": "incidental",
+      "startSeconds": 3590.3,
+      "evidence": "if you have shigeki as your commander",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hunter's Insight",
+      "spokenText": "hunter's insight",
+      "role": "incidental",
+      "startSeconds": 3602.8,
+      "evidence": "i can't use hunter's insight",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shigeki, Jukai Visionary",
+      "spokenText": "Shigeki",
+      "role": "incidental",
+      "startSeconds": 3702.72,
+      "evidence": "Shigeki a little further",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shigeki, Jukai Visionary",
+      "spokenText": "Shigeki",
+      "role": "incidental",
+      "startSeconds": 3704.8,
+      "evidence": "with Shigeki was because",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Xyris, the Writhing Storm",
+      "spokenText": "zoo fit",
+      "role": "incidental",
+      "startSeconds": 3739,
+      "evidence": "cam on zoo fit which is set up to draw a lot of cards",
+      "confidence": 0.55,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Xyris, the Writhing Storm",
+      "spokenText": "zoo fit",
+      "role": "incidental",
+      "startSeconds": 3749.04,
+      "evidence": "what cameron did ... with that zoo fit deck",
+      "confidence": 0.55,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oblivion Stone",
+      "spokenText": "oblivion stone",
+      "role": "incidental",
+      "startSeconds": 3816.78,
+      "evidence": "to keep moving oblivion stone",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Clavileño, First of the Blessed",
+      "spokenText": "clavinio",
+      "role": "incidental",
+      "startSeconds": 3826.62,
+      "evidence": "vampires now I remember he was playing clavinio",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oblivion Stone",
+      "spokenText": "o stone",
+      "role": "incidental",
+      "startSeconds": 3831,
+      "evidence": "into these into this o stone",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Voldaren Estate",
+      "spokenText": "darian whatever",
+      "role": "incidental",
+      "startSeconds": 3881.96,
+      "evidence": "darian whatever i think it's some mansion",
+      "confidence": 0.79,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wasteland",
+      "spokenText": "wasteland",
+      "role": "incidental",
+      "startSeconds": 3881.96,
+      "evidence": "let's just wasteland that",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oblivion Stone",
+      "spokenText": "o stone",
+      "role": "incidental",
+      "startSeconds": 3896.62,
+      "evidence": "burn them off with this o stone",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Berserk",
+      "spokenText": "berserked",
+      "role": "incidental",
+      "startSeconds": 4013.42,
+      "evidence": "berserked a bunch of dudes at him",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Greasefang, Okiba Boss",
+      "spokenText": "grease fang",
+      "role": "incidental",
+      "startSeconds": 4044.62,
+      "evidence": "this fucking grease fang deck of his",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sygg, River Cutthroat",
+      "spokenText": "sig",
+      "role": "incidental",
+      "startSeconds": 4061.1,
+      "evidence": "i'm playing uh sig",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Butcher of Malakir",
+      "spokenText": "The Butcher of Malakir",
+      "role": "incidental",
+      "startSeconds": 4079.64,
+      "evidence": "The Butcher of Malakir? No, no.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Exquisite Blood",
+      "spokenText": "exquisite blood",
+      "role": "incidental",
+      "startSeconds": 4082.22,
+      "evidence": "It's the flying exquisite blood",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bloodthirsty Conqueror",
+      "spokenText": "cunning conqueror",
+      "role": "incidental",
+      "startSeconds": 4084.48,
+      "evidence": "The cunning conqueror or something like that",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bloodthirsty Conqueror",
+      "spokenText": "conquering whatever vampire",
+      "role": "incidental",
+      "startSeconds": 4346.9,
+      "evidence": "put out this, you know, conquering whatever vampire",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "Kossla",
+      "role": "incidental",
+      "startSeconds": 4446.58,
+      "evidence": "I've been trying to make Kossla work",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 4524.56,
+      "evidence": "farewell against Glissa",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Glissa, the Traitor",
+      "spokenText": "Glissa",
+      "role": "incidental",
+      "startSeconds": 4524.56,
+      "evidence": "farewell against Glissa",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 4559.06,
+      "evidence": "So farewell",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shigeki, Jukai Visionary",
+      "spokenText": "shigeki",
+      "role": "incidental",
+      "startSeconds": 4681.04,
+      "evidence": "If I pull that shigeki out this weekend",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Endstone",
+      "spokenText": "the end stone",
+      "role": "incidental",
+      "startSeconds": 4729.82,
+      "evidence": "the end stone",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod, Flesh Mechanist",
+      "spokenText": "Ashnod",
+      "role": "incidental",
+      "startSeconds": 4769.92,
+      "evidence": "Zach is able to get away with it with Ashnod",
+      "confidence": 0.82,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Slobad, Iron Goblin",
+      "spokenText": "slow bad",
+      "role": "incidental",
+      "startSeconds": 4815.66,
+      "evidence": "working on this slow bad deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Slobad, Iron Goblin",
+      "spokenText": "slow bad",
+      "role": "incidental",
+      "startSeconds": 4822.28,
+      "evidence": "that power ritual slow bad mana",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shigeki, Jukai Visionary",
+      "spokenText": "shigeki",
+      "role": "incidental",
+      "startSeconds": 4828.2,
+      "evidence": "you know shigeki where ... i get so high in this mana altitude",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shigeki, Jukai Visionary",
+      "spokenText": "shigeki",
+      "role": "incidental",
+      "startSeconds": 4858.74,
+      "evidence": "i'm going to channel shigeki",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod, Flesh Mechanist",
+      "spokenText": "Ashnod",
+      "role": "incidental",
+      "startSeconds": 4872.44,
+      "evidence": "it works in Ashnod",
+      "confidence": 0.82,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lier, Disciple of the Drowned",
+      "spokenText": "Lear",
+      "role": "incidental",
+      "startSeconds": 4997.76,
+      "evidence": "his Lear deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mr. House, President and CEO",
+      "spokenText": "mr house",
+      "role": "incidental",
+      "startSeconds": 5056.8,
+      "evidence": "one of his decks ... that mr house thing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rocco, Street Chef",
+      "spokenText": "rocco street chef",
+      "role": "incidental",
+      "startSeconds": 6184.84,
+      "evidence": "rocco street chef sure",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reckless Fireweaver",
+      "spokenText": "reckless",
+      "role": "incidental",
+      "startSeconds": 6228.04,
+      "evidence": "so i'm not super into like okay well let's put the reckless",
+      "confidence": 0.83,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Red Death, Shipwrecker",
+      "spokenText": "red death shipwrecker",
+      "role": "incidental",
+      "startSeconds": 6656.32,
+      "evidence": "red death shipwrecker i've been obsessed with this like little crab",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Marisi, Breaker of the Coil",
+      "spokenText": "marisi",
+      "role": "incidental",
+      "startSeconds": 6772.7,
+      "evidence": "brad brad had marisi for a little bit",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Firkraag, Cunning Instigator",
+      "spokenText": "fur crags",
+      "role": "incidental",
+      "startSeconds": 6780.12,
+      "evidence": "fur crags like you guys were like this is insane",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Great Henge",
+      "spokenText": "great hinge",
+      "role": "incidental",
+      "startSeconds": 7321,
+      "evidence": "Kyle played his great hinge",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rakdos Charm",
+      "spokenText": "rakdos charm",
+      "role": "incidental",
+      "startSeconds": 7628.12,
+      "evidence": "the one that i kept going back to when we talked before was the rakdos charm",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Buster Sword",
+      "spokenText": "buster sword",
+      "role": "incidental",
+      "startSeconds": 7658.14,
+      "evidence": "your buster sword is pretty cool chris but let's put it in the graveyard",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sepulchral Primordial",
+      "spokenText": "sepulchral",
+      "role": "incidental",
+      "startSeconds": 7751.04,
+      "evidence": "yeah like I mean the sepulchral",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sepulchral Primordial",
+      "spokenText": "sepulchral primordial",
+      "role": "incidental",
+      "startSeconds": 7755.08,
+      "evidence": "the sepulchral primordial",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Puppeteer Clique",
+      "spokenText": "puppeteer",
+      "role": "incidental",
+      "startSeconds": 7763.7,
+      "evidence": "fragments with puppeteer yeah that's a good that's a good alternative",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [],
+  "incidentalCards": [
+    "Abyssal Persecutor",
+    "Ashnod, Flesh Mechanist",
+    "Beast Whisperer",
+    "Berserk",
+    "Bloodthirsty Conqueror",
+    "Boseiju, Who Endures",
+    "Buster Sword",
+    "Butcher of Malakir",
+    "By Invitation Only",
+    "Cabal Coffers",
+    "Calix, Guided by Fate",
+    "Clavileño, First of the Blessed",
+    "Crop Rotation",
+    "Cyclonic Rift",
+    "Dictate of Erebos",
+    "Erebos, God of the Dead",
+    "Exquisite Blood",
+    "Farewell",
+    "Firkraag, Cunning Instigator",
+    "Flawless Maneuver",
+    "Galadriel's Dismissal",
+    "Glacial Chasm",
+    "Glissa, the Traitor",
+    "Grand Abolisher",
+    "Grave Pact",
+    "Greasefang, Okiba Boss",
+    "Heroic Intervention",
+    "Hunter's Insight",
+    "Karador, Ghost Chieftain",
+    "Kasla, the Broken Halo",
+    "Krosan Grip",
+    "Lier, Disciple of the Drowned",
+    "Marisi, Breaker of the Coil",
+    "Mr. House, President and CEO",
+    "Naban, Dean of Iteration",
+    "Necropotence",
+    "Oblivion Stone",
+    "Promise of Loyalty",
+    "Puppeteer Clique",
+    "Rakdos Charm",
+    "Reckless Fireweaver",
+    "Red Death, Shipwrecker",
+    "Ria Ivor, Bane of Bladehold",
+    "Rocco, Street Chef",
+    "Rograkh, Son of Rohgahh",
+    "Sepulchral Primordial",
+    "Shigeki, Jukai Visionary",
+    "Slip Out the Back",
+    "Slobad, Iron Goblin",
+    "Smothering Tithe",
+    "Sol Ring",
+    "Sudden Death",
+    "Sudden Spoiling",
+    "Survival of the Fittest",
+    "Sygg, River Cutthroat",
+    "Syr Vondam, the Lucent",
+    "Teferi's Protection",
+    "The Endstone",
+    "The Great Henge",
+    "Trinket Mage",
+    "Urborg, Tomb of Yawgmoth",
+    "Voldaren Estate",
+    "Wasteland",
+    "Xyris, the Writhing Storm"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "validation": {
+    "matchedMainCards": [],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Abyssal Persecutor",
+      "Ashnod, Flesh Mechanist",
+      "Beast Whisperer",
+      "Berserk",
+      "Bloodthirsty Conqueror",
+      "Boseiju, Who Endures",
+      "Buster Sword",
+      "Butcher of Malakir",
+      "By Invitation Only",
+      "Cabal Coffers",
+      "Calix, Guided by Fate",
+      "Clavileño, First of the Blessed",
+      "Crop Rotation",
+      "Cyclonic Rift",
+      "Dictate of Erebos",
+      "Erebos, God of the Dead",
+      "Exquisite Blood",
+      "Farewell",
+      "Firkraag, Cunning Instigator",
+      "Flawless Maneuver",
+      "Galadriel's Dismissal",
+      "Glacial Chasm",
+      "Glissa, the Traitor",
+      "Grand Abolisher",
+      "Grave Pact",
+      "Greasefang, Okiba Boss",
+      "Heroic Intervention",
+      "Hunter's Insight",
+      "Karador, Ghost Chieftain",
+      "Kasla, the Broken Halo",
+      "Krosan Grip",
+      "Lier, Disciple of the Drowned",
+      "Marisi, Breaker of the Coil",
+      "Mr. House, President and CEO",
+      "Naban, Dean of Iteration",
+      "Necropotence",
+      "Oblivion Stone",
+      "Promise of Loyalty",
+      "Puppeteer Clique",
+      "Rakdos Charm",
+      "Reckless Fireweaver",
+      "Red Death, Shipwrecker",
+      "Ria Ivor, Bane of Bladehold",
+      "Rocco, Street Chef",
+      "Rograkh, Son of Rohgahh",
+      "Sepulchral Primordial",
+      "Shigeki, Jukai Visionary",
+      "Slip Out the Back",
+      "Slobad, Iron Goblin",
+      "Smothering Tithe",
+      "Sol Ring",
+      "Sudden Death",
+      "Sudden Spoiling",
+      "Survival of the Fittest",
+      "Sygg, River Cutthroat",
+      "Syr Vondam, the Lucent",
+      "Teferi's Protection",
+      "The Endstone",
+      "The Great Henge",
+      "Trinket Mage",
+      "Urborg, Tomb of Yawgmoth",
+      "Voldaren Estate",
+      "Wasteland",
+      "Xyris, the Writhing Storm"
+    ],
+    "unmatchedIncidentalCards": []
+  },
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 0,
+    "unresolvedMentions": []
+  }
+}

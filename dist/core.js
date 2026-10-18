@@ -1,4 +1,5 @@
 export function cueAtTime(cues, time) {
+  cues = primaryCues(cues);
   let lo = 0;
   let hi = cues.length - 1;
   let candidate = null;
@@ -13,6 +14,31 @@ export function cueAtTime(cues, time) {
   }
   if (!candidate) return null;
   return candidate.end == null || time < candidate.end ? candidate : null;
+}
+
+export function primaryCues(cues) {
+  return (cues || []).filter((cue) => cue.track !== "mentioned");
+}
+
+export function mentionedCues(cues) {
+  const result = [];
+  const seen = new Set();
+  const add = (cue) => {
+    const key = `${cue.start}:${cardsForCue(cue).map((card) => card.cardId).join(",")}`;
+    if (!seen.has(key)) {
+      seen.add(key);
+      result.push(cue);
+    }
+  };
+  for (const cue of cues || []) {
+    if (cue.track === "mentioned") add(cue);
+    for (const mention of cue.mentions || []) {
+      const [first] = mention.cards || [];
+      if (!first) continue;
+      add({ track: "mentioned", start: mention.start, end: mention.start + 30, cardId: first.cardId, cardName: first.cardName, card: first.card, ...(mention.cards.length > 1 ? { cards: mention.cards } : {}) });
+    }
+  }
+  return result.sort((a, b) => a.start - b.start);
 }
 
 export function recentCues(cues, time, limit = 5) {
@@ -47,6 +73,21 @@ export function cardImage(card) {
 export function cardsForCue(cue) {
   if (!cue) return [];
   return cue.cards?.length ? cue.cards : [{ cardId: cue.cardId, cardName: cue.cardName, card: cue.card }];
+}
+
+export function mentionedCardsAtTime(cues, time, windowSeconds = 30) {
+  if (!Number.isFinite(time) || !Number.isFinite(windowSeconds) || windowSeconds <= 0) return [];
+  const primaryIds = new Set(cardsForCue(cueAtTime(cues, time)).map((option) => option.cardId));
+  const latestByCard = new Map();
+  for (const cue of mentionedCues(cues)) {
+    if (cue.start > time || time >= cue.start + windowSeconds) continue;
+    for (const option of cardsForCue(cue)) {
+      if (!option?.cardId || primaryIds.has(option.cardId)) continue;
+      const current = latestByCard.get(option.cardId);
+      if (!current || current.mentionedAt <= cue.start) latestByCard.set(option.cardId, { ...option, mentionedAt: cue.start });
+    }
+  }
+  return [...latestByCard.values()].sort((a, b) => a.mentionedAt - b.mentionedAt);
 }
 
 export function formatTime(value) {

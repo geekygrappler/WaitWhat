@@ -1,0 +1,2594 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Cards That Will NEVER Be Power Crept",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Sol Ring",
+      "role": "main",
+      "startSeconds": 225.5,
+      "evidence": "And it's Sol Ring.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Sol Ring",
+      "role": "main",
+      "startSeconds": 227.2,
+      "evidence": "Sol Ring, it's in every single deck.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "black lotus",
+      "role": "incidental",
+      "startSeconds": 239.78,
+      "evidence": "it's like the black lotus of magic",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "main",
+      "startSeconds": 239.78,
+      "evidence": "that is what soul ring is to commander",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "black lotus",
+      "role": "incidental",
+      "startSeconds": 245.14,
+      "evidence": "what black lotus is to all of magic",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "solaring",
+      "role": "main",
+      "startSeconds": 260.32,
+      "evidence": "the face of the format it's solaring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Sol Ring",
+      "role": "main",
+      "startSeconds": 289.98,
+      "evidence": "before the cast, about Sol Ring.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Sol Ring",
+      "role": "main",
+      "startSeconds": 292.44,
+      "evidence": "What would the best version of Sol Ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Sol Ring",
+      "role": "main",
+      "startSeconds": 295.7,
+      "evidence": "the best version of Sol Ring they could print",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Sol Ring",
+      "role": "main",
+      "startSeconds": 300.22,
+      "evidence": "did want to make Sol Ring today?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeweled Lotus",
+      "spokenText": "jeweled lotus",
+      "role": "incidental",
+      "startSeconds": 322.16,
+      "evidence": "they printed jeweled lotus right",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soaring",
+      "role": "main",
+      "startSeconds": 327.8,
+      "evidence": "soaring that only works for your commander",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeweled Lotus",
+      "spokenText": "jeweled lotus",
+      "role": "incidental",
+      "startSeconds": 332.88,
+      "evidence": "the actual jeweled lotus version",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soaring",
+      "role": "main",
+      "startSeconds": 337.66,
+      "evidence": "soaring that's just like two mana but only for your commander",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Chrome Mox",
+      "spokenText": "chrome boxes",
+      "role": "incidental",
+      "startSeconds": 395.6,
+      "evidence": "like the chrome boxes, all the boxes",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Sol Ring",
+      "role": "incidental",
+      "startSeconds": 410.44,
+      "evidence": "with Sol Ring or Fast Man at this point",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeweled Lotus",
+      "spokenText": "Lotus",
+      "role": "incidental",
+      "startSeconds": 441.54,
+      "evidence": "Lotus was the closest, right?",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "Black Lotus",
+      "role": "incidental",
+      "startSeconds": 449.54,
+      "evidence": "Black Lotus is not good for Commander",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "Black Lotus",
+      "role": "incidental",
+      "startSeconds": 454.9,
+      "evidence": "people really love Black Lotus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "black lotus",
+      "role": "incidental",
+      "startSeconds": 467.24,
+      "evidence": "than black lotus you could agree with that",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mox Amber",
+      "spokenText": "mox amber",
+      "role": "incidental",
+      "startSeconds": 485.08,
+      "evidence": "and i probably mox amber",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dockside Extortionist",
+      "spokenText": "dockside",
+      "role": "incidental",
+      "startSeconds": 490.44,
+      "evidence": "something like dockside",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Vault",
+      "spokenText": "mana vault",
+      "role": "incidental",
+      "startSeconds": 504.32,
+      "evidence": "directly power creep mana vault or something",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Ritual",
+      "spokenText": "dark ritual",
+      "role": "main",
+      "startSeconds": 509.1,
+      "evidence": "another one on my list dark ritual",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dockside Extortionist",
+      "spokenText": "dockside",
+      "role": "incidental",
+      "startSeconds": 521.76,
+      "evidence": "dockside or something",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Relic of Legends",
+      "spokenText": "relic of legends",
+      "role": "incidental",
+      "startSeconds": 531.16,
+      "evidence": "three mana mana racks like relic of legends",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Ritual",
+      "spokenText": "dark rituals",
+      "role": "incidental",
+      "startSeconds": 540.16,
+      "evidence": "nowhere near the level of like dark rituals and mana vaults",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Vault",
+      "spokenText": "mana vaults",
+      "role": "incidental",
+      "startSeconds": 540.16,
+      "evidence": "dark rituals and mana vaults and stuff",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "black lotus",
+      "role": "incidental",
+      "startSeconds": 555.94,
+      "evidence": "people love black lotus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeweled Lotus",
+      "spokenText": "Jewel Lotus",
+      "role": "incidental",
+      "startSeconds": 595.68,
+      "evidence": "Jewel Lotus or whatever is a card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeweled Lotus",
+      "spokenText": "jeweled lotus",
+      "role": "incidental",
+      "startSeconds": 602.12,
+      "evidence": "like jeweled lotus is geared specifically for commander",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeweled Lotus",
+      "spokenText": "jeweled lotus",
+      "role": "incidental",
+      "startSeconds": 607.62,
+      "evidence": "they did it with jeweled lotus not that long ago",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeweled Lotus",
+      "spokenText": "jeweled lotus",
+      "role": "incidental",
+      "startSeconds": 612.38,
+      "evidence": "jeweled lotus is the oddity",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "main",
+      "startSeconds": 655.12,
+      "evidence": "reanimate in specific just one black mana",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Animate Dead",
+      "spokenText": "animate dead",
+      "role": "main",
+      "startSeconds": 665.98,
+      "evidence": "the next tier down from that like animate dead",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Animate Dead",
+      "spokenText": "animate dead",
+      "role": "main",
+      "startSeconds": 671.02,
+      "evidence": "i think animate dead is strong enough",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "main",
+      "startSeconds": 680.62,
+      "evidence": "how do you love reanimate okay",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "main",
+      "startSeconds": 703.3,
+      "evidence": "i could imagine like a reanimate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "main",
+      "startSeconds": 724.48,
+      "evidence": "a two or three mana reanimate, but if you're commander out, it's free",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimated",
+      "role": "main",
+      "startSeconds": 744.98,
+      "evidence": "What about a reanimated ... that only gets legends",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Persist",
+      "spokenText": "Persist",
+      "role": "incidental",
+      "startSeconds": 769.04,
+      "evidence": "it's harder to use Persist",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "main",
+      "startSeconds": 796.6,
+      "evidence": "print reanimate, but it can only hit legendary creatures",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "main",
+      "startSeconds": 806.42,
+      "evidence": "Like reanimate, right?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "Reanimate",
+      "role": "main",
+      "startSeconds": 807.94,
+      "evidence": "Reanimate.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "Reanimate",
+      "role": "main",
+      "startSeconds": 809.32,
+      "evidence": "Reanimate.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Animate Dead",
+      "spokenText": "animate dead",
+      "role": "main",
+      "startSeconds": 815.98,
+      "evidence": "I think animate dead for sure.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Animate Dead",
+      "spokenText": "Animate dead",
+      "role": "main",
+      "startSeconds": 818.04,
+      "evidence": "Animate dead 100%",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "main",
+      "startSeconds": 818.04,
+      "evidence": "but like reanimate?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "main",
+      "startSeconds": 820.32,
+      "evidence": "reanimate's right there for half as much?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "main",
+      "startSeconds": 839.84,
+      "evidence": "I cannot imagine reanimate getting power crept.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "main",
+      "startSeconds": 847.34,
+      "evidence": "I don't expect reanimate anytime soon.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "main",
+      "startSeconds": 859.54,
+      "evidence": "in five years we get a better reanimate.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cyclonic Rift",
+      "spokenText": "Cyclonic Rift",
+      "role": "main",
+      "startSeconds": 878.7,
+      "evidence": "That's Cyclonic Rift.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cyclonic Rift",
+      "spokenText": "psych rift",
+      "role": "main",
+      "startSeconds": 886.6,
+      "evidence": "psych rift is like the best board wipe",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic Study",
+      "role": "incidental",
+      "startSeconds": 942.72,
+      "evidence": "Like you call Rhystic Study",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Smothering Tithe",
+      "spokenText": "Smothering Tithe",
+      "role": "incidental",
+      "startSeconds": 947.54,
+      "evidence": "some of these, like Smothering Tithe.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gleaming Splendor",
+      "spokenText": "Gleaming Splendor",
+      "role": "incidental",
+      "startSeconds": 950.02,
+      "evidence": "I mean, Gleaming Splendor, they already did it.",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic Study",
+      "role": "incidental",
+      "startSeconds": 954.24,
+      "evidence": "flirting with banning Rhystic Study.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic Study",
+      "role": "incidental",
+      "startSeconds": 963.9,
+      "evidence": "Rhystic Study is something that we're going to discuss.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Consecrated Sphinx",
+      "spokenText": "Consecrated Sphinx",
+      "role": "incidental",
+      "startSeconds": 982.52,
+      "evidence": "Consecrated Sphinx you know",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic Study",
+      "role": "incidental",
+      "startSeconds": 990.68,
+      "evidence": "Rhystic Study like it's fine",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cyclonic Rift",
+      "spokenText": "Psych Rift",
+      "role": "main",
+      "startSeconds": 1010.02,
+      "evidence": "I don't know about Psych Rift, honestly.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Apocalypse",
+      "spokenText": "Apocalypse",
+      "role": "incidental",
+      "startSeconds": 1050.38,
+      "evidence": "more salty than Apocalypse and Jokelhawks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jokulhaups",
+      "spokenText": "Jokelhawks",
+      "role": "incidental",
+      "startSeconds": 1050.38,
+      "evidence": "more salty than Apocalypse and Jokelhawks",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic",
+      "role": "incidental",
+      "startSeconds": 1078.84,
+      "evidence": "maybe not Rhystic.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic",
+      "role": "incidental",
+      "startSeconds": 1080.44,
+      "evidence": "maybe Rhystic is a bit aggressive",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Smothering Tithe",
+      "spokenText": "Smothering Tithe",
+      "role": "incidental",
+      "startSeconds": 1088.32,
+      "evidence": "Smothering Tithe get a get a power",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic",
+      "role": "incidental",
+      "startSeconds": 1090.28,
+      "evidence": "upgrade Rhystic my so",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic",
+      "role": "incidental",
+      "startSeconds": 1092.38,
+      "evidence": "I think Rhystic can get",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Smothering Tithe",
+      "spokenText": "Smothering Tithe",
+      "role": "incidental",
+      "startSeconds": 1092.38,
+      "evidence": "in Smothering Tithe I think Rhystic can get",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic",
+      "role": "incidental",
+      "startSeconds": 1094.62,
+      "evidence": "I think Rhystic can get a",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic's any",
+      "role": "incidental",
+      "startSeconds": 1104.08,
+      "evidence": "reprint Rhystic's any but it just doesn't ask",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "rustic study",
+      "role": "incidental",
+      "startSeconds": 1116.26,
+      "evidence": "something like rustic study or smothering tithe",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Smothering Tithe",
+      "spokenText": "smothering tithe",
+      "role": "incidental",
+      "startSeconds": 1116.26,
+      "evidence": "rustic study or smothering tithe",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "rustic study",
+      "role": "incidental",
+      "startSeconds": 1124.4,
+      "evidence": "a better card draw effect than rustic study",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "Ancient Tomb",
+      "role": "main",
+      "startSeconds": 1140.04,
+      "evidence": "I think Ancient Tomb.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "Ancient Tomb",
+      "role": "main",
+      "startSeconds": 1141.92,
+      "evidence": "I think Ancient Tomb is very strong.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "Ancient Tomb",
+      "role": "main",
+      "startSeconds": 1144.22,
+      "evidence": "Ancient Tomb is one of the sweetest",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Sol Ring",
+      "role": "incidental",
+      "startSeconds": 1155.88,
+      "evidence": "just the other Sol Ring.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "ancient tomb",
+      "role": "main",
+      "startSeconds": 1168.26,
+      "evidence": "specific ancient tomb right",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eldrazi Temple",
+      "spokenText": "aldrazi temple",
+      "role": "incidental",
+      "startSeconds": 1183.8,
+      "evidence": "like an aldrazi temple",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eldrazi Temple",
+      "spokenText": "aldrazi temple",
+      "role": "incidental",
+      "startSeconds": 1188.36,
+      "evidence": "aldrazi temple or ayabugan",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eye of Ugin",
+      "spokenText": "ayabugan",
+      "role": "incidental",
+      "startSeconds": 1188.36,
+      "evidence": "aldrazi temple or ayabugan",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Muraganda Raceway",
+      "spokenText": "Muruganda Raceway",
+      "role": "incidental",
+      "startSeconds": 1203.38,
+      "evidence": "you see me play Muruganda Raceway.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "Ancient Tomb",
+      "role": "main",
+      "startSeconds": 1207.96,
+      "evidence": "Better than Ancient Tomb, right?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "Ancient Tomb",
+      "role": "main",
+      "startSeconds": 1214.6,
+      "evidence": "I definitely expect more Ancient Tomb-type cards",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "ancient tomb",
+      "role": "main",
+      "startSeconds": 1254.66,
+      "evidence": "everybody tells us that ancient tomb's their favorite card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "Ancient Tomb",
+      "role": "main",
+      "startSeconds": 1297.48,
+      "evidence": "no way they would be better than Ancient Tomb, right?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "Ancient Tomb",
+      "role": "main",
+      "startSeconds": 1304.84,
+      "evidence": "I could see Ancient Tomb number two, right?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "Ancient Tomb",
+      "role": "main",
+      "startSeconds": 1307.74,
+      "evidence": "top dog beating Ancient Tomb.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "Ancient Tomb",
+      "role": "main",
+      "startSeconds": 1313.44,
+      "evidence": "It's not like Ancient Tomb, but now it's asked for three.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "Ancient Tomb",
+      "role": "main",
+      "startSeconds": 1322.7,
+      "evidence": "People love Ancient Tomb.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nature's Lore",
+      "spokenText": "nature's lore",
+      "role": "main",
+      "startSeconds": 1337.74,
+      "evidence": "three visits nature's lore, two mana",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Three Visits",
+      "spokenText": "three visits",
+      "role": "main",
+      "startSeconds": 1337.74,
+      "evidence": "ramp spells, three visits nature's lore",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nature's Lore",
+      "spokenText": "nature's",
+      "role": "main",
+      "startSeconds": 1348.94,
+      "evidence": "or nature's on top of three visits",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Three Visits",
+      "spokenText": "three visits",
+      "role": "main",
+      "startSeconds": 1348.94,
+      "evidence": "They did print three visits on",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farseek",
+      "spokenText": "far seek",
+      "role": "incidental",
+      "startSeconds": 1367.74,
+      "evidence": "we already have far seek",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Three Visits",
+      "spokenText": "three visits",
+      "role": "main",
+      "startSeconds": 1394.7,
+      "evidence": "they can either be a three visits",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fierce Guardianship",
+      "spokenText": "fierce guardian shifts",
+      "role": "incidental",
+      "startSeconds": 1405.36,
+      "evidence": "wishing these new fierce guardian shifts into play",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fierce Guardianship",
+      "spokenText": "fierce guardianship",
+      "role": "incidental",
+      "startSeconds": 1412.16,
+      "evidence": "We need a no fierce guardianship role",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nature's Lore",
+      "spokenText": "nature's lore",
+      "role": "main",
+      "startSeconds": 1421.96,
+      "evidence": "something like nature's lore, but you had the option",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bushwhack",
+      "spokenText": "bushwhack",
+      "role": "incidental",
+      "startSeconds": 1441,
+      "evidence": "A card that I like a lot that is much worse than that is bushwhack",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "rampant growth",
+      "role": "incidental",
+      "startSeconds": 1454.8,
+      "evidence": "it could be like a rampant growth",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nature's Lore",
+      "spokenText": "Nature's Ore",
+      "role": "main",
+      "startSeconds": 1465.52,
+      "evidence": "you can make it Nature's Ore in a fight",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archdruid's Charm",
+      "spokenText": "Archdrewage Charm",
+      "role": "incidental",
+      "startSeconds": 1471.28,
+      "evidence": "there's Archdrewage Charm at three mana",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bushwhack",
+      "spokenText": "Bushwhack",
+      "role": "incidental",
+      "startSeconds": 1484.08,
+      "evidence": "Bushwhack is a perfect example",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nature's Lore",
+      "spokenText": "nature's lore",
+      "role": "main",
+      "startSeconds": 1560.26,
+      "evidence": "draw your nature's lore on turn 10",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Three Visits",
+      "spokenText": "Three visit",
+      "role": "main",
+      "startSeconds": 1572.54,
+      "evidence": "Three visit, but you can cycle it for two.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "Price of Progress",
+      "role": "main",
+      "startSeconds": 1606.44,
+      "evidence": "Price of Progress.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "Price of Progress",
+      "role": "main",
+      "startSeconds": 1611.58,
+      "evidence": "the truth that is Price of Progress.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "Price of Progress",
+      "role": "main",
+      "startSeconds": 1614.98,
+      "evidence": "Price of Progress deals damage to each player",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "price of progress",
+      "role": "main",
+      "startSeconds": 1642.28,
+      "evidence": "when price of progress came out",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "price of progress",
+      "role": "main",
+      "startSeconds": 1654.44,
+      "evidence": "print a price of progress that kills people",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "price of progress",
+      "role": "main",
+      "startSeconds": 1674.26,
+      "evidence": "die to price of progress",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ajani's Anguish",
+      "spokenText": "a Johnny's Anguish",
+      "role": "incidental",
+      "startSeconds": 1694.74,
+      "evidence": "you know how they did a Johnny's Anguish?",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sunspine Lynx",
+      "spokenText": "Sunspire links",
+      "role": "incidental",
+      "startSeconds": 1767.4,
+      "evidence": "They made Sunspire links over a year or two ago.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "Bright Spirits",
+      "role": "incidental",
+      "startSeconds": 1776.64,
+      "evidence": "usually in the same decks as Bright Spirits",
+      "confidence": 0.87,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "price of progress",
+      "role": "main",
+      "startSeconds": 1804.92,
+      "evidence": "ending to a better price of progress",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "price of progress",
+      "role": "main",
+      "startSeconds": 1813.84,
+      "evidence": "find a better price of progress",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blood Moon",
+      "spokenText": "blood moon",
+      "role": "incidental",
+      "startSeconds": 1864.12,
+      "evidence": "old stacks piece ... like blood moon",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Armageddon",
+      "spokenText": "armageddon",
+      "role": "incidental",
+      "startSeconds": 1869.32,
+      "evidence": "winter orb and armageddon",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "price of progress",
+      "role": "main",
+      "startSeconds": 1869.32,
+      "evidence": "a power cut price of progress",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Winter Orb",
+      "spokenText": "winter orb",
+      "role": "incidental",
+      "startSeconds": 1869.32,
+      "evidence": "winter orb and armageddon",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "price of progress",
+      "role": "main",
+      "startSeconds": 1889.92,
+      "evidence": "printing a better price of progress",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stasis",
+      "spokenText": "stasis",
+      "role": "incidental",
+      "startSeconds": 1894.56,
+      "evidence": "something better than like stasis",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stasis",
+      "spokenText": "stasis",
+      "role": "incidental",
+      "startSeconds": 1900.74,
+      "evidence": "I think stasis will stay",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teferi's Protection",
+      "spokenText": "to fairy's pro protection",
+      "role": "main",
+      "startSeconds": 1937.3,
+      "evidence": "but it's to fairy's pro protection",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teferi's Protection",
+      "spokenText": "t",
+      "role": "main",
+      "startSeconds": 1974.94,
+      "evidence": "actually power creep t",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teferi's Protection",
+      "spokenText": "T-Pro",
+      "role": "main",
+      "startSeconds": 1982.46,
+      "evidence": "but even T-Pro?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teferi's Protection",
+      "spokenText": "Teferi's Pros",
+      "role": "main",
+      "startSeconds": 1985.26,
+      "evidence": "People love Teferi's Pros",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teferi's Protection",
+      "spokenText": "T-Pro",
+      "role": "main",
+      "startSeconds": 1988,
+      "evidence": "if it was a T-Pro, but it cost zero mana",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fierce Guardianship",
+      "spokenText": "fierce guardianship",
+      "role": "incidental",
+      "startSeconds": 2024,
+      "evidence": "turn it into fierce guardianship",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "price of progress",
+      "role": "incidental",
+      "startSeconds": 2029.92,
+      "evidence": "price of progress, but it's free",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Tutor",
+      "spokenText": "Demonic tutor",
+      "role": "incidental",
+      "startSeconds": 2032.66,
+      "evidence": "Demonic tutor, but it's free",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vivi Ornitier",
+      "spokenText": "Vivi",
+      "role": "incidental",
+      "startSeconds": 2048.04,
+      "evidence": "they have Vivi up there",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vivi Ornitier",
+      "spokenText": "Vivi's",
+      "role": "incidental",
+      "startSeconds": 2050.5,
+      "evidence": "I think Vivi's days will be numbered",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 2056.2,
+      "evidence": "better Deadpool is",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 2077.34,
+      "evidence": "everything just becomes Deadpool instead",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 2092.48,
+      "evidence": "like you have Deadpool",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fierce Guardianship",
+      "spokenText": "fierce guardianship",
+      "role": "incidental",
+      "startSeconds": 2188.96,
+      "evidence": "the fierce guardianship like treatment",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fierce Guardianship",
+      "spokenText": "fierce guardianship",
+      "role": "incidental",
+      "startSeconds": 2194.8,
+      "evidence": "power group fierce guardianship",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "Force",
+      "role": "incidental",
+      "startSeconds": 2220.34,
+      "evidence": "We'll call it Force",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "Force",
+      "role": "incidental",
+      "startSeconds": 2222.14,
+      "evidence": "It'll just be Force",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "Force",
+      "role": "incidental",
+      "startSeconds": 2229,
+      "evidence": "Force if you had your commander",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fierce Guardianship",
+      "spokenText": "Fierce",
+      "role": "incidental",
+      "startSeconds": 2232.04,
+      "evidence": "a power three version of Fierce",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "force",
+      "role": "incidental",
+      "startSeconds": 2247.38,
+      "evidence": "doing like a force callback",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "force",
+      "role": "incidental",
+      "startSeconds": 2249.92,
+      "evidence": "That's like literally force",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "force",
+      "role": "incidental",
+      "startSeconds": 2261.4,
+      "evidence": "force is such an iconic card",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "force",
+      "role": "incidental",
+      "startSeconds": 2264.48,
+      "evidence": "people love force",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deflecting Swat",
+      "spokenText": "deflecting swat",
+      "role": "incidental",
+      "startSeconds": 2301.96,
+      "evidence": "deflecting swat all of these are staples",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fierce Guardianship",
+      "spokenText": "fierce guardianship",
+      "role": "incidental",
+      "startSeconds": 2301.96,
+      "evidence": "fierce guardianship is a really cool card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fierce Guardianship",
+      "spokenText": "fierce guardianship",
+      "role": "incidental",
+      "startSeconds": 2318.14,
+      "evidence": "with the fierce guardianship cycle",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterhoof Behemoth",
+      "spokenText": "Crater of Behemoth",
+      "role": "main",
+      "startSeconds": 2403.36,
+      "evidence": "Crater of Behemoth",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterhoof Behemoth",
+      "spokenText": "Crater of Behemoth",
+      "role": "main",
+      "startSeconds": 2404.54,
+      "evidence": "Crater of Behemoth",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterhoof Behemoth",
+      "spokenText": "Crater Hoofs",
+      "role": "main",
+      "startSeconds": 2416.12,
+      "evidence": "worse Crater Hoofs over the years",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "End-Raze Forerunners",
+      "spokenText": "Pain Bacon",
+      "role": "incidental",
+      "startSeconds": 2419.24,
+      "evidence": "Pain Bacon and ... Ibex",
+      "confidence": 0.72,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pathbreaker Ibex",
+      "spokenText": "Ibex",
+      "role": "incidental",
+      "startSeconds": 2419.24,
+      "evidence": "the six drop Ibex thing that needs to attack",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterhoof Behemoth",
+      "spokenText": "Crater Hoof",
+      "role": "main",
+      "startSeconds": 2427.2,
+      "evidence": "none of them have actually power crept Crater Hoof",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterhoof Behemoth",
+      "spokenText": "Crater Hoof",
+      "role": "main",
+      "startSeconds": 2431.1,
+      "evidence": "eventually power creep Crater Hoof?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Moonshaker Cavalry",
+      "spokenText": "Moonshaker",
+      "role": "incidental",
+      "startSeconds": 2440.88,
+      "evidence": "we have Moonshaker",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Moonshaker Cavalry",
+      "spokenText": "Moonshaker's",
+      "role": "incidental",
+      "startSeconds": 2443.28,
+      "evidence": "Moonshaker's not better",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterhoof Behemoth",
+      "spokenText": "Craterhoof",
+      "role": "main",
+      "startSeconds": 2453.34,
+      "evidence": "Craterhoof is still just the best",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Moonshaker Cavalry",
+      "spokenText": "Moonshaker",
+      "role": "incidental",
+      "startSeconds": 2459.9,
+      "evidence": "Moonshaker means they're dancing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterclaw Colossus",
+      "spokenText": "Crater Claw",
+      "role": "incidental",
+      "startSeconds": 2475.68,
+      "evidence": "Crater Claw, I want to say",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterclaw Colossus",
+      "spokenText": "Crater Claw Colossus",
+      "role": "incidental",
+      "startSeconds": 2477.62,
+      "evidence": "Maybe Crater Claw Colossus?",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterhoof Behemoth",
+      "spokenText": "Crater Hoof",
+      "role": "main",
+      "startSeconds": 2483.58,
+      "evidence": "closer to what Crater Hoof is",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterhoof Behemoth",
+      "spokenText": "Crater Hoof Behemoth",
+      "role": "main",
+      "startSeconds": 2489.12,
+      "evidence": "the biggest thing for Crater Hoof Behemoth",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Chord of Calling",
+      "spokenText": "court of calling",
+      "role": "incidental",
+      "startSeconds": 2495.54,
+      "evidence": "green sun zenith court of calling a finale of devastation",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Finale of Devastation",
+      "spokenText": "finale of devastation",
+      "role": "incidental",
+      "startSeconds": 2495.54,
+      "evidence": "green sun zenith court of calling a finale of devastation",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Green Sun's Zenith",
+      "spokenText": "green sun zenith",
+      "role": "incidental",
+      "startSeconds": 2495.54,
+      "evidence": "green sun zenith court of calling a finale of devastation",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterclaw Colossus",
+      "spokenText": "crater colossus",
+      "role": "incidental",
+      "startSeconds": 2511.04,
+      "evidence": "whereas crater colossus",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Goblin Welder",
+      "spokenText": "goblin welder",
+      "role": "incidental",
+      "startSeconds": 2520.5,
+      "evidence": "goblin welder it onto the battlefield",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jodah, the Unifier",
+      "spokenText": "Joda",
+      "role": "incidental",
+      "startSeconds": 2550.08,
+      "evidence": "It's just Joda",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jodah, the Unifier",
+      "spokenText": "Joda",
+      "role": "incidental",
+      "startSeconds": 2552.02,
+      "evidence": "You're just reinventing Joda",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterhoof Behemoth",
+      "spokenText": "crater hoof",
+      "role": "main",
+      "startSeconds": 2560.76,
+      "evidence": "you just have literal crater hoof",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterhoof Behemoth",
+      "spokenText": "Crater of",
+      "role": "main",
+      "startSeconds": 2599.32,
+      "evidence": "Crater of does kind of feel like a fair magic",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Craterhoof Behemoth",
+      "spokenText": "Crater of",
+      "role": "main",
+      "startSeconds": 2602.1,
+      "evidence": "we got Crater of by Phil",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "ancient tomb",
+      "role": "incidental",
+      "startSeconds": 2619.86,
+      "evidence": "we already talked about ancient tomb",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Field of the Dead",
+      "spokenText": "field of the dead",
+      "role": "main",
+      "startSeconds": 2631,
+      "evidence": "glacial chasm field of the dead what about those lands",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Glacial Chasm",
+      "spokenText": "glacial chasm",
+      "role": "main",
+      "startSeconds": 2631,
+      "evidence": "glacial chasm field of the dead what about those lands",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plateau",
+      "spokenText": "plateau",
+      "role": "incidental",
+      "startSeconds": 2888.1,
+      "evidence": "I have a plateau so far",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scrubland",
+      "spokenText": "scrub lands",
+      "role": "incidental",
+      "startSeconds": 2917.28,
+      "evidence": "they had like scrub lands and stuff",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "Black Lotus",
+      "role": "incidental",
+      "startSeconds": 2948.94,
+      "evidence": "sitting there next to the Black Lotus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "Black Lotuses",
+      "role": "incidental",
+      "startSeconds": 2954.88,
+      "evidence": "Move over Black Lotuses",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The One Ring",
+      "spokenText": "one ring",
+      "role": "incidental",
+      "startSeconds": 2960.52,
+      "evidence": "one ring yeah i don't know",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gaea's Cradle",
+      "spokenText": "Gaia's Cradle",
+      "role": "main",
+      "startSeconds": 2985.96,
+      "evidence": "Sarah Sanctum, Gaia's Cradle?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Serra's Sanctum",
+      "spokenText": "Sarah Sanctum",
+      "role": "main",
+      "startSeconds": 2985.96,
+      "evidence": "Sarah Sanctum, Gaia's Cradle?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gaea's Cradle",
+      "spokenText": "Gaia's Cradle",
+      "role": "main",
+      "startSeconds": 2988.76,
+      "evidence": "Gaia's Cradle? I don't know",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gaea's Cradle",
+      "spokenText": "Gaia's Cradle",
+      "role": "main",
+      "startSeconds": 2991.38,
+      "evidence": "Gaia's Cradle taps for green",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Serra's Sanctum",
+      "spokenText": "Sarah Sanctum",
+      "role": "main",
+      "startSeconds": 2994.38,
+      "evidence": "and Sarah Sanctum taps for white",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tolarian Academy",
+      "spokenText": "Tellurian Academy",
+      "role": "incidental",
+      "startSeconds": 3002.02,
+      "evidence": "Tellurian Academy that taps for all artifacts",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shivan Gorge",
+      "spokenText": "Shiven Gorge",
+      "role": "incidental",
+      "startSeconds": 3011.7,
+      "evidence": "Shiven Gorge ... their member of the cycle",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gaea's Cradle",
+      "spokenText": "Gag Cradle",
+      "role": "main",
+      "startSeconds": 3031.98,
+      "evidence": "and then I'm a Gag Cradle",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shivan Gorge",
+      "spokenText": "Shivan Gorge",
+      "role": "incidental",
+      "startSeconds": 3050.28,
+      "evidence": "Hey, Shivan Gorge, still a house",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Serra's Sanctum",
+      "spokenText": "Sarasenum",
+      "role": "incidental",
+      "startSeconds": 3061.4,
+      "evidence": "like Sarasenum or whatever",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shivan Gorge",
+      "spokenText": "Shivan Gorge",
+      "role": "incidental",
+      "startSeconds": 3064.34,
+      "evidence": "Shivan Gorge. Pretty much the same",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shivan Gorge",
+      "spokenText": "shiv and gorge",
+      "role": "incidental",
+      "startSeconds": 3074.3,
+      "evidence": "shiv and gorge that card is gas",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shivan Gorge",
+      "spokenText": "gorge",
+      "role": "incidental",
+      "startSeconds": 3087.64,
+      "evidence": "power creep perfection like gorge",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Tutor",
+      "spokenText": "Demonic Tutor",
+      "role": "main",
+      "startSeconds": 3112.72,
+      "evidence": "tutors. Demonic Tutor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Entomb",
+      "spokenText": "Entomb",
+      "role": "main",
+      "startSeconds": 3115.44,
+      "evidence": "Entomb for Graveyards",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vampiric Tutor",
+      "spokenText": "Pyrrhic Tutor",
+      "role": "main",
+      "startSeconds": 3117.08,
+      "evidence": "maybe even Pyrrhic Tutor",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Tutor",
+      "spokenText": "Demonic Tutor",
+      "role": "main",
+      "startSeconds": 3120.72,
+      "evidence": "Let's just say Demonic Tutor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Entomb",
+      "spokenText": "Entomb",
+      "role": "main",
+      "startSeconds": 3123.02,
+      "evidence": "and Entomb",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Entomb",
+      "spokenText": "Entomb",
+      "role": "main",
+      "startSeconds": 3130.38,
+      "evidence": "Like Entomb, yeah",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Griselbrand",
+      "spokenText": "Gristlebrain",
+      "role": "incidental",
+      "startSeconds": 3144.64,
+      "evidence": "Gristlebrain used to be the reanimator target",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Atraxa, Grand Unifier",
+      "spokenText": "Atraxa",
+      "role": "incidental",
+      "startSeconds": 3146.88,
+      "evidence": "but then they have Atraxa",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Entomb",
+      "spokenText": "Entomb",
+      "role": "main",
+      "startSeconds": 3156.02,
+      "evidence": "it will just be better than Entomb",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Icetill Explorer",
+      "spokenText": "Ice Tail Explorer",
+      "role": "incidental",
+      "startSeconds": 3170.96,
+      "evidence": "like Ice Tail Explorer",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Entomb",
+      "spokenText": "Entomb",
+      "role": "main",
+      "startSeconds": 3180.9,
+      "evidence": "one black is Entomb",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "incidental",
+      "startSeconds": 3183.84,
+      "evidence": "the other black is to reanimate",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Drain",
+      "spokenText": "mana drain",
+      "role": "main",
+      "startSeconds": 3186.02,
+      "evidence": "crim i got this one for you mana drain",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plasm Capture",
+      "spokenText": "capture",
+      "role": "incidental",
+      "startSeconds": 3196.6,
+      "evidence": "don't even come close capture things like that",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Drain",
+      "spokenText": "mana drain",
+      "role": "main",
+      "startSeconds": 3202.08,
+      "evidence": "the mana drain is staying",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Geyser",
+      "spokenText": "mana geyser",
+      "role": "main",
+      "startSeconds": 3207.74,
+      "evidence": "speaking of mana tomer mana geyser",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fade Away",
+      "spokenText": "Fade away",
+      "role": "main",
+      "startSeconds": 3219.44,
+      "evidence": "Fade away",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fade Away",
+      "spokenText": "Fade away",
+      "role": "main",
+      "startSeconds": 3220.58,
+      "evidence": "Fade away, they can't",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fade Away",
+      "spokenText": "fade away",
+      "role": "main",
+      "startSeconds": 3246.04,
+      "evidence": "when are we getting like a fade away reprints",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fade Away",
+      "spokenText": "fade away",
+      "role": "main",
+      "startSeconds": 3257.92,
+      "evidence": "they will never power creep fade away",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cyclonic Rift",
+      "spokenText": "Cyclonic Rift",
+      "role": "incidental",
+      "startSeconds": 3295.54,
+      "evidence": "isn't like Cyclonic Rift a power crap?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fade Away",
+      "spokenText": "fadeaway",
+      "role": "main",
+      "startSeconds": 3306.02,
+      "evidence": "every six month fadeaway shout out",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Geyser",
+      "spokenText": "mana geyser",
+      "role": "main",
+      "startSeconds": 3310.72,
+      "evidence": "what about mana geyser though",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Geyser",
+      "spokenText": "mana geyser",
+      "role": "main",
+      "startSeconds": 3315.88,
+      "evidence": "i think of you when i think of mana geyser",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dockside Extortionist",
+      "spokenText": "dockside",
+      "role": "incidental",
+      "startSeconds": 3326.86,
+      "evidence": "maybe dockside possibly was",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Geyser",
+      "spokenText": "Mana Geyser",
+      "role": "main",
+      "startSeconds": 3336.4,
+      "evidence": "a power cut Mana Geyser",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Geyser",
+      "spokenText": "Mana Geyser",
+      "role": "main",
+      "startSeconds": 3337.98,
+      "evidence": "or another Mana Geyser?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Geyser",
+      "spokenText": "Mana Geyser",
+      "role": "main",
+      "startSeconds": 3343.5,
+      "evidence": "respect Mana Geyser enough",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Geyser",
+      "spokenText": "mana geyser",
+      "role": "main",
+      "startSeconds": 3393.46,
+      "evidence": "you play around the mana geyser",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Icetill Explorer",
+      "spokenText": "I still explore",
+      "role": "main",
+      "startSeconds": 3409.96,
+      "evidence": "And I still explore",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Crucible of Worlds",
+      "spokenText": "crucible of worlds",
+      "role": "incidental",
+      "startSeconds": 3411.26,
+      "evidence": "extra land drops and crucible of worlds",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Icetill Explorer",
+      "spokenText": "I still explore",
+      "role": "main",
+      "startSeconds": 3411.26,
+      "evidence": "I still explore extra land drops and crucible of worlds",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Crucible of Worlds",
+      "spokenText": "crucible of worlds",
+      "role": "incidental",
+      "startSeconds": 3418,
+      "evidence": "the best crucible of worlds effect",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Y'shtola, Night's Blessed",
+      "spokenText": "Yishola",
+      "role": "incidental",
+      "startSeconds": 3460.36,
+      "evidence": "people like Yishola because she's hard?",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Icetill Explorer",
+      "spokenText": "I Still Explore",
+      "role": "main",
+      "startSeconds": 3474.1,
+      "evidence": "a person plays I Still Explore",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Strip Mine",
+      "spokenText": "Stripmine",
+      "role": "incidental",
+      "startSeconds": 3477.26,
+      "evidence": "Stripmine always shows up",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Strip Mine",
+      "spokenText": "Strip Mine",
+      "role": "incidental",
+      "startSeconds": 3486.2,
+      "evidence": "I play Strip Mine in every one of my decks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Icetill Explorer",
+      "spokenText": "I still",
+      "role": "main",
+      "startSeconds": 3489.28,
+      "evidence": "So if I still there",
+      "confidence": 0.89,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Strip Mine",
+      "spokenText": "Strip Mine",
+      "role": "incidental",
+      "startSeconds": 3489.28,
+      "evidence": "there's going to be a Strip Mine there too",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Geyser",
+      "spokenText": "Mana Geyser",
+      "role": "incidental",
+      "startSeconds": 3493.74,
+      "evidence": "I put Mana Geyser back into my decks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ephemerate",
+      "spokenText": "Ephemerate",
+      "role": "main",
+      "startSeconds": 3501.78,
+      "evidence": "Another one I think is kind of interesting, Ephemerate",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ephemerate",
+      "spokenText": "Ephemerate",
+      "role": "main",
+      "startSeconds": 3504.68,
+      "evidence": "I don't think Ephemerate will ever get power crept",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flicker of Fate",
+      "spokenText": "flicker of fate",
+      "role": "incidental",
+      "startSeconds": 3520.1,
+      "evidence": "blink ... enchantments ... with like flicker of fate",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hunter's Prowess",
+      "spokenText": "Hunter's Prowess",
+      "role": "incidental",
+      "startSeconds": 3589.2,
+      "evidence": "like you had to do like Hunter's Prowess",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Garruk, Primal Hunter",
+      "spokenText": "the original Garruk",
+      "role": "incidental",
+      "startSeconds": 3591.04,
+      "evidence": "You had the original Garruk used to target",
+      "confidence": 0.7,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rishkar's Expertise",
+      "spokenText": "Rischger's expertise",
+      "role": "incidental",
+      "startSeconds": 3604.62,
+      "evidence": "Rischger's expertise gets around it",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Return of the Wildspeaker",
+      "spokenText": "Return of the Wild Speaker",
+      "role": "incidental",
+      "startSeconds": 3607.56,
+      "evidence": "Return of the Wild Speaker gets around it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ephemerate",
+      "spokenText": "Ephemerate",
+      "role": "main",
+      "startSeconds": 3623.74,
+      "evidence": "Ephemerate would be that would be a crazy card",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Y'shtola, Night's Blessed",
+      "spokenText": "Y'shtola",
+      "role": "main",
+      "startSeconds": 3641.84,
+      "evidence": "on your list it says will be power crept in Y'shtola",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Y'shtola, Night's Blessed",
+      "spokenText": "your stola",
+      "role": "main",
+      "startSeconds": 3651.38,
+      "evidence": "they make your stola something",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Y'shtola, Night's Blessed",
+      "spokenText": "your stola",
+      "role": "main",
+      "startSeconds": 3655.28,
+      "evidence": "at what your stola does",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Y'shtola, Night's Blessed",
+      "spokenText": "Y'shola",
+      "role": "main",
+      "startSeconds": 3704.9,
+      "evidence": "You can like play Y'shola",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Y'shtola, Night's Blessed",
+      "spokenText": "Y'shola",
+      "role": "main",
+      "startSeconds": 3723,
+      "evidence": "people will be like Y'shola",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Y'shtola, Night's Blessed",
+      "spokenText": "Your show",
+      "role": "main",
+      "startSeconds": 3740.38,
+      "evidence": "Your show is going to be out the door eventually",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Atraxa, Praetors' Voice",
+      "spokenText": "a Traxa",
+      "role": "incidental",
+      "startSeconds": 3741.86,
+      "evidence": "just like a Traxa and like a Laura",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oloro, Ageless Ascetic",
+      "spokenText": "a Laura",
+      "role": "incidental",
+      "startSeconds": 3741.86,
+      "evidence": "just like a Traxa and like a Laura",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nekusar, the Mindrazer",
+      "spokenText": "Nekusar",
+      "role": "incidental",
+      "startSeconds": 3759.72,
+      "evidence": "It used to be Nekusar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Maelstrom Wanderer",
+      "spokenText": "Maelstrom Wanderer",
+      "role": "incidental",
+      "startSeconds": 3762.24,
+      "evidence": "and like Maelstrom Wanderer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kaalia of the Vast",
+      "spokenText": "Kalia",
+      "role": "incidental",
+      "startSeconds": 3765.58,
+      "evidence": "Kalia. Dude, those cards are like pet cards now",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "Erd Dragon",
+      "role": "incidental",
+      "startSeconds": 3780.1,
+      "evidence": "All these Erd Dragon decks",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oloro, Ageless Ascetic",
+      "spokenText": "allura",
+      "role": "incidental",
+      "startSeconds": 3831,
+      "evidence": "og to me was allura",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oloro, Ageless Ascetic",
+      "spokenText": "allura",
+      "role": "incidental",
+      "startSeconds": 3837.18,
+      "evidence": "allura was already the number one",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oloro, Ageless Ascetic",
+      "spokenText": "Aloro",
+      "role": "incidental",
+      "startSeconds": 3851.48,
+      "evidence": "to cast Aloro, God forbid",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Atraxa, Praetors' Voice",
+      "spokenText": "Adraxxus",
+      "role": "incidental",
+      "startSeconds": 3871.3,
+      "evidence": "And then Adraxxus showed up",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Y'shtola, Night's Blessed",
+      "spokenText": "yeshola",
+      "role": "main",
+      "startSeconds": 3884.58,
+      "evidence": "yeshola comes around she's like ah it's three colors",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Edgar Markov",
+      "spokenText": "Edgar",
+      "role": "incidental",
+      "startSeconds": 3916.44,
+      "evidence": "like when whatever Edgar comes in",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Atraxa, Praetors' Voice",
+      "spokenText": "Atroxa",
+      "role": "incidental",
+      "startSeconds": 3921.78,
+      "evidence": "Atroxa comes in",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Y'shtola, Night's Blessed",
+      "spokenText": "you stole",
+      "role": "incidental",
+      "startSeconds": 3921.78,
+      "evidence": "and then you stole I think it'd be kind of interesting just to see how it evolved",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [
+    "Ancient Tomb",
+    "Animate Dead",
+    "Craterhoof Behemoth",
+    "Cyclonic Rift",
+    "Dark Ritual",
+    "Demonic Tutor",
+    "Entomb",
+    "Ephemerate",
+    "Fade Away",
+    "Field of the Dead",
+    "Gaea's Cradle",
+    "Glacial Chasm",
+    "Icetill Explorer",
+    "Mana Drain",
+    "Mana Geyser",
+    "Nature's Lore",
+    "Price of Progress",
+    "Reanimate",
+    "Serra's Sanctum",
+    "Sol Ring",
+    "Teferi's Protection",
+    "Three Visits",
+    "Vampiric Tutor",
+    "Y'shtola, Night's Blessed"
+  ],
+  "incidentalCards": [
+    "Ajani's Anguish",
+    "Apocalypse",
+    "Archdruid's Charm",
+    "Armageddon",
+    "Atraxa, Grand Unifier",
+    "Atraxa, Praetors' Voice",
+    "Black Lotus",
+    "Blood Moon",
+    "Bushwhack",
+    "Chord of Calling",
+    "Chrome Mox",
+    "Consecrated Sphinx",
+    "Craterclaw Colossus",
+    "Crucible of Worlds",
+    "Deadpool, Trading Card",
+    "Deflecting Swat",
+    "Dockside Extortionist",
+    "Edgar Markov",
+    "Eldrazi Temple",
+    "End-Raze Forerunners",
+    "Eye of Ugin",
+    "Farseek",
+    "Fierce Guardianship",
+    "Finale of Devastation",
+    "Flicker of Fate",
+    "Force of Will",
+    "Garruk, Primal Hunter",
+    "Gleaming Splendor",
+    "Goblin Welder",
+    "Green Sun's Zenith",
+    "Griselbrand",
+    "Hunter's Prowess",
+    "Jeweled Lotus",
+    "Jodah, the Unifier",
+    "Jokulhaups",
+    "Kaalia of the Vast",
+    "Maelstrom Wanderer",
+    "Mana Vault",
+    "Moonshaker Cavalry",
+    "Mox Amber",
+    "Muraganda Raceway",
+    "Nekusar, the Mindrazer",
+    "Oloro, Ageless Ascetic",
+    "Pathbreaker Ibex",
+    "Persist",
+    "Plasm Capture",
+    "Plateau",
+    "Rampant Growth",
+    "Relic of Legends",
+    "Return of the Wildspeaker",
+    "Rhystic Study",
+    "Rishkar's Expertise",
+    "Scrubland",
+    "Shivan Gorge",
+    "Smothering Tithe",
+    "Stasis",
+    "Strip Mine",
+    "Sunspine Lynx",
+    "The One Ring",
+    "The Ur-Dragon",
+    "Tolarian Academy",
+    "Vivi Ornitier",
+    "Winter Orb"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "validation": {
+    "matchedMainCards": [
+      "Ancient Tomb",
+      "Animate Dead",
+      "Craterhoof Behemoth",
+      "Cyclonic Rift",
+      "Dark Ritual",
+      "Demonic Tutor",
+      "Entomb",
+      "Ephemerate",
+      "Fade Away",
+      "Field of the Dead",
+      "Gaea's Cradle",
+      "Glacial Chasm",
+      "Icetill Explorer",
+      "Mana Drain",
+      "Mana Geyser",
+      "Nature's Lore",
+      "Price of Progress",
+      "Reanimate",
+      "Serra's Sanctum",
+      "Sol Ring",
+      "Teferi's Protection",
+      "Three Visits",
+      "Vampiric Tutor",
+      "Y'shtola, Night's Blessed"
+    ],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Ajani's Anguish",
+      "Apocalypse",
+      "Archdruid's Charm",
+      "Armageddon",
+      "Atraxa, Grand Unifier",
+      "Atraxa, Praetors' Voice",
+      "Black Lotus",
+      "Blood Moon",
+      "Bushwhack",
+      "Chord of Calling",
+      "Chrome Mox",
+      "Consecrated Sphinx",
+      "Craterclaw Colossus",
+      "Crucible of Worlds",
+      "Deadpool, Trading Card",
+      "Deflecting Swat",
+      "Dockside Extortionist",
+      "Edgar Markov",
+      "Eldrazi Temple",
+      "End-Raze Forerunners",
+      "Eye of Ugin",
+      "Farseek",
+      "Fierce Guardianship",
+      "Finale of Devastation",
+      "Flicker of Fate",
+      "Force of Will",
+      "Garruk, Primal Hunter",
+      "Gleaming Splendor",
+      "Goblin Welder",
+      "Green Sun's Zenith",
+      "Griselbrand",
+      "Hunter's Prowess",
+      "Jeweled Lotus",
+      "Jodah, the Unifier",
+      "Jokulhaups",
+      "Kaalia of the Vast",
+      "Maelstrom Wanderer",
+      "Mana Vault",
+      "Moonshaker Cavalry",
+      "Mox Amber",
+      "Muraganda Raceway",
+      "Nekusar, the Mindrazer",
+      "Oloro, Ageless Ascetic",
+      "Pathbreaker Ibex",
+      "Persist",
+      "Plasm Capture",
+      "Plateau",
+      "Rampant Growth",
+      "Relic of Legends",
+      "Return of the Wildspeaker",
+      "Rhystic Study",
+      "Rishkar's Expertise",
+      "Scrubland",
+      "Shivan Gorge",
+      "Smothering Tithe",
+      "Stasis",
+      "Strip Mine",
+      "Sunspine Lynx",
+      "The One Ring",
+      "The Ur-Dragon",
+      "Tolarian Academy",
+      "Vivi Ornitier",
+      "Winter Orb"
+    ],
+    "unmatchedIncidentalCards": []
+  },
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 0,
+    "unresolvedMentions": []
+  }
+}

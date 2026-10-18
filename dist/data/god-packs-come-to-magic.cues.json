@@ -1,52 +1,561 @@
 [
   {
-    "start": 731.64,
-    "cardId": "eec81460-899d-4b4c-b33c-ce2ca704df17",
-    "cardName": "Crude Bent Blade",
-    "confidence": 1,
+    "track": "mentioned",
+    "start": 299.12,
+    "end": 329.12,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 308.36,
+    "end": 338.36,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 359.74,
+    "end": 389.74,
+    "cardId": "6f9f814b-8249-4e48-a05e-4c84060fe6fb",
+    "cardName": "Kindred Judgment",
+    "confidence": 0.6,
+    "needsReview": true,
+    "card": {
+      "name": "Kindred Judgment",
+      "manaCost": "{5}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose a creature type. Destroy all creatures that aren't of the chosen type.",
+      "image": "https://cards.scryfall.io/normal/front/6/f/6f9f814b-8249-4e48-a05e-4c84060fe6fb.jpg?1789470776"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 366.08,
+    "end": 396.08,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 399.5,
+    "end": 429.5,
+    "cardId": "8d1e424f-6407-4f8c-bed2-eaf148237c81",
+    "cardName": "Jace",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Jace",
+      "manaCost": "",
+      "typeLine": "Token Planeswalker — Jace",
+      "oracleText": "−1: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)\n−3: Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d1e424f-6407-4f8c-bed2-eaf148237c81.jpg?1789738324"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 410.62,
+    "end": 440.62,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 416.12,
+    "end": 446.12,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 424.94,
+    "end": 454.94,
+    "cardId": "7fcfe9da-4c82-4476-8e83-24297fe5c176",
+    "cardName": "Enigma Sphinx",
+    "confidence": 0.55,
+    "needsReview": true,
+    "card": {
+      "name": "Enigma Sphinx",
+      "manaCost": "{4}{W}{U}{B}",
+      "typeLine": "Artifact Creature — Sphinx",
+      "oracleText": "Flying\nWhen this creature is put into your graveyard from the battlefield, put it into your library third from the top.\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+      "image": "https://cards.scryfall.io/normal/front/7/f/7fcfe9da-4c82-4476-8e83-24297fe5c176.jpg?1783942417"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 496.86,
+    "end": 526.86,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 505.88,
+    "end": 535.88,
+    "cardId": "3df8c148-e87d-4043-9d8b-ec72bf8b6d5d",
+    "cardName": "Thoughtseize",
+    "confidence": 0.99,
     "needsReview": false,
+    "card": {
+      "name": "Thoughtseize",
+      "manaCost": "{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.",
+      "image": "https://cards.scryfall.io/normal/front/3/d/3df8c148-e87d-4043-9d8b-ec72bf8b6d5d.jpg?1783942883"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 544.72,
+    "end": 574.72,
+    "cardId": "b6865498-9464-4d01-a293-6220d9bb1c9a",
+    "cardName": "Chandra",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Chandra",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {R})",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6865498-9464-4d01-a293-6220d9bb1c9a.jpg?1783930765"
+    },
+    "cards": [
+      {
+        "cardId": "b6865498-9464-4d01-a293-6220d9bb1c9a",
+        "cardName": "Chandra",
+        "confidence": 0.65,
+        "needsReview": true,
+        "card": {
+          "name": "Chandra",
+          "manaCost": "",
+          "typeLine": "Card",
+          "oracleText": "(Theme color: {R})",
+          "image": "https://cards.scryfall.io/normal/front/b/6/b6865498-9464-4d01-a293-6220d9bb1c9a.jpg?1783930765"
+        }
+      },
+      {
+        "cardId": "16481c20-92a9-4d1c-8441-1601dce78c42",
+        "cardName": "Garruk",
+        "confidence": 0.65,
+        "needsReview": true,
+        "card": {
+          "name": "Garruk",
+          "manaCost": "",
+          "typeLine": "Card",
+          "oracleText": "(Theme color: {G})",
+          "image": "https://cards.scryfall.io/normal/front/1/6/16481c20-92a9-4d1c-8441-1601dce78c42.jpg?1783930761"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 548.18,
+    "end": 578.18,
+    "cardId": "b6865498-9464-4d01-a293-6220d9bb1c9a",
+    "cardName": "Chandra",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Chandra",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {R})",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6865498-9464-4d01-a293-6220d9bb1c9a.jpg?1783930765"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 573.9,
+    "end": 603.9,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    },
+    "cards": [
+      {
+        "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+        "cardName": "Aang",
+        "confidence": 0.7,
+        "needsReview": true,
+        "card": {
+          "name": "Aang",
+          "manaCost": "",
+          "typeLine": "Card",
+          "oracleText": "(Theme color: {W})",
+          "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+        }
+      },
+      {
+        "cardId": "16481c20-92a9-4d1c-8441-1601dce78c42",
+        "cardName": "Garruk",
+        "confidence": 0.65,
+        "needsReview": true,
+        "card": {
+          "name": "Garruk",
+          "manaCost": "",
+          "typeLine": "Card",
+          "oracleText": "(Theme color: {G})",
+          "image": "https://cards.scryfall.io/normal/front/1/6/16481c20-92a9-4d1c-8441-1601dce78c42.jpg?1783930761"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 731.3,
+    "end": 761.3,
+    "cardId": "fa8fd3c4-bd00-485d-80b1-2b67f5786fce",
+    "cardName": "Crude Bent Blade",
+    "confidence": 0.5,
+    "needsReview": true,
     "card": {
       "name": "Crude Bent Blade",
       "manaCost": "{2}{B}",
       "typeLine": "Artifact — Equipment",
       "oracleText": "When this Equipment enters, target opponent sacrifices a creature of their choice.\nEquipped creature gets +2/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
-      "image": "https://api.scryfall.com/cards/named?exact=Crude%20Bent%20Blade&format=image&version=normal"
-    },
-    "end": 1335
+      "image": "https://cards.scryfall.io/normal/front/f/a/fa8fd3c4-bd00-485d-80b1-2b67f5786fce.jpg?1785496297"
+    }
   },
   {
-    "start": 1335,
-    "cardId": "51092634-308e-4779-aa51-182715dbc734",
-    "cardName": "March of the Machines",
+    "track": "mentioned",
+    "start": 736.42,
+    "end": 766.42,
+    "cardId": "53df7b80-71bf-4013-ad44-f76eae8ac81b",
+    "cardName": "Delver's Torch",
+    "confidence": 0.8,
+    "needsReview": true,
+    "card": {
+      "name": "Delver's Torch",
+      "manaCost": "{1}{W}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature gets +1/+1.\nWhenever equipped creature attacks, venture into the dungeon. (Enter the first room or advance to the next room.)\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+      "image": "https://cards.scryfall.io/normal/front/5/3/53df7b80-71bf-4013-ad44-f76eae8ac81b.jpg?1783926535"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 758.54,
+    "end": 788.54,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 795.74,
+    "end": 825.74,
+    "cardId": "8d1e424f-6407-4f8c-bed2-eaf148237c81",
+    "cardName": "Jace",
+    "confidence": 0.6,
+    "needsReview": true,
+    "card": {
+      "name": "Jace",
+      "manaCost": "",
+      "typeLine": "Token Planeswalker — Jace",
+      "oracleText": "−1: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)\n−3: Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d1e424f-6407-4f8c-bed2-eaf148237c81.jpg?1789738324"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 817.2,
+    "end": 847.2,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 827.38,
+    "end": 857.38,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 849.66,
+    "end": 879.66,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1323.98,
+    "end": 1353.98,
+    "cardId": "b66390d6-1649-4bfa-92d3-77664650d552",
+    "cardName": "Elesh Norn, Grand Cenobite",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Elesh Norn, Grand Cenobite",
+      "manaCost": "{5}{W}{W}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Vigilance\nOther creatures you control get +2/+2.\nCreatures your opponents control get -2/-2.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.jpg?1783941327"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1326.52,
+    "end": 1356.52,
+    "cardId": "b66390d6-1649-4bfa-92d3-77664650d552",
+    "cardName": "Elesh Norn, Grand Cenobite",
     "confidence": 1,
     "needsReview": false,
     "card": {
-      "name": "March of the Machines",
-      "manaCost": "{3}{U}",
-      "typeLine": "Enchantment",
-      "oracleText": "Each noncreature artifact is an artifact creature with power and toughness each equal to its mana value. (Equipment that's a creature can't equip a creature.)",
-      "image": "https://api.scryfall.com/cards/named?exact=March%20of%20the%20Machines&format=image&version=normal"
-    },
-    "end": 1711.02
+      "name": "Elesh Norn, Grand Cenobite",
+      "manaCost": "{5}{W}{W}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Vigilance\nOther creatures you control get +2/+2.\nCreatures your opponents control get -2/-2.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.jpg?1783941327"
+    }
   },
   {
-    "start": 1711.02,
-    "cardId": "d85f70d8-272a-4f62-8e71-92507782db0a",
-    "cardName": "The Collector",
+    "track": "mentioned",
+    "start": 1341.66,
+    "end": 1371.66,
+    "cardId": "b66390d6-1649-4bfa-92d3-77664650d552",
+    "cardName": "Elesh Norn, Grand Cenobite",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Elesh Norn, Grand Cenobite",
+      "manaCost": "{5}{W}{W}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Vigilance\nOther creatures you control get +2/+2.\nCreatures your opponents control get -2/-2.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.jpg?1783941327"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1394.52,
+    "end": 1424.52,
+    "cardId": "b66390d6-1649-4bfa-92d3-77664650d552",
+    "cardName": "Elesh Norn, Grand Cenobite",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Elesh Norn, Grand Cenobite",
+      "manaCost": "{5}{W}{W}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Vigilance\nOther creatures you control get +2/+2.\nCreatures your opponents control get -2/-2.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.jpg?1783941327"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1690.02,
+    "end": 1720.02,
+    "cardId": "1982f910-a9bd-4e94-a187-84381b22aacc",
+    "cardName": "The Soul Stone",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "The Soul Stone",
+      "manaCost": "{1}{B}",
+      "typeLine": "Legendary Artifact — Infinity Stone",
+      "oracleText": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)\n∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1783905342"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1753.06,
+    "end": 1783.06,
+    "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+    "cardName": "Black Lotus",
     "confidence": 1,
     "needsReview": false,
     "card": {
-      "name": "The Collector",
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1758.92,
+    "end": 1788.92,
+    "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1810.62,
+    "end": 1840.62,
+    "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+    "cardName": "Black Lotus",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1834.88,
+    "end": 1864.88,
+    "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1890.88,
+    "end": 1920.88,
+    "cardId": "e4b1aa1e-b4e3-4346-8937-76b312501c70",
+    "cardName": "Jodah, the Unifier",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jodah, the Unifier",
       "manaCost": "{W}{U}{B}{R}{G}",
-      "typeLine": "Legendary Creature — Human Gamer",
-      "oracleText": "Whenever you cast a signed spell or play a signed land, copy it. (A signed card is a card signed by its artist, designer, or someone else it's strongly associated with.)\nDiscard a signed card: Destroy target creature with a name that has a five or fewer letter length difference from the person who signed the discarded card.",
-      "image": "https://api.scryfall.com/cards/named?exact=The%20Collector&format=image&version=normal"
-    },
-    "end": 2422.36
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Legendary creatures you control get +X/+X, where X is the number of legendary creatures you control.\nWhenever you cast a legendary spell from your hand, exile cards from the top of your library until you exile a legendary nonland card with lesser mana value. You may cast that card without paying its mana cost. Put the rest on the bottom of your library in a random order.",
+      "image": "https://cards.scryfall.io/normal/front/e/4/e4b1aa1e-b4e3-4346-8937-76b312501c70.jpg?1783921283"
+    }
   },
   {
-    "start": 2422.36,
-    "cardId": "16437a83-be52-44cd-a768-a767c9347eb2",
+    "track": "mentioned",
+    "start": 2006.14,
+    "end": 2036.14,
+    "cardId": "e4b1aa1e-b4e3-4346-8937-76b312501c70",
+    "cardName": "Jodah, the Unifier",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jodah, the Unifier",
+      "manaCost": "{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Legendary creatures you control get +X/+X, where X is the number of legendary creatures you control.\nWhenever you cast a legendary spell from your hand, exile cards from the top of your library until you exile a legendary nonland card with lesser mana value. You may cast that card without paying its mana cost. Put the rest on the bottom of your library in a random order.",
+      "image": "https://cards.scryfall.io/normal/front/e/4/e4b1aa1e-b4e3-4346-8937-76b312501c70.jpg?1783921283"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2420.02,
+    "end": 2450.02,
+    "cardId": "b5e81649-9954-424c-89d1-f87d73b66047",
     "cardName": "Fatal Push",
     "confidence": 1,
     "needsReview": false,
@@ -55,13 +564,30 @@
       "manaCost": "{B}",
       "typeLine": "Instant",
       "oracleText": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.",
-      "image": "https://api.scryfall.com/cards/named?exact=Fatal%20Push&format=image&version=normal"
-    },
-    "end": 2615.34
+      "image": "https://cards.scryfall.io/normal/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1783936764"
+    }
   },
   {
-    "start": 2615.34,
-    "cardId": "6c1d22d4-f28e-4041-a9b6-1575e8929b61",
+    "track": "mentioned",
+    "start": 2427.22,
+    "end": 2457.22,
+    "cardId": "6bb68644-e99d-4ecb-a804-8d4ad1c3325d",
+    "cardName": "Daxos of Meletis",
+    "confidence": 0.45,
+    "needsReview": true,
+    "card": {
+      "name": "Daxos of Meletis",
+      "manaCost": "{1}{W}{U}",
+      "typeLine": "Legendary Creature — Human Soldier",
+      "oracleText": "Daxos can't be blocked by creatures with power 3 or greater.\nWhenever Daxos deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's mana value. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6bb68644-e99d-4ecb-a804-8d4ad1c3325d.jpg?1783939731"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2614.66,
+    "end": 2644.66,
+    "cardId": "f163cfbf-6df6-4af5-9fe4-23b0d511586a",
     "cardName": "Nexus of Fate",
     "confidence": 1,
     "needsReview": false,
@@ -70,58 +596,154 @@
       "manaCost": "{5}{U}{U}",
       "typeLine": "Instant",
       "oracleText": "Take an extra turn after this one.\nIf Nexus of Fate would be put into a graveyard from anywhere, reveal Nexus of Fate and shuffle it into its owner's library instead.",
-      "image": "https://api.scryfall.com/cards/named?exact=Nexus%20of%20Fate&format=image&version=normal"
-    },
-    "end": 2968.2
+      "image": "https://cards.scryfall.io/normal/front/f/1/f163cfbf-6df6-4af5-9fe4-23b0d511586a.jpg?1783934478"
+    }
   },
   {
-    "start": 2968.2,
-    "cardId": "9be1d4b1-064d-4051-aafc-ca48def28e3b",
-    "cardName": "Impossible Man",
+    "track": "mentioned",
+    "start": 2692.54,
+    "end": 2722.54,
+    "cardId": "b5e81649-9954-424c-89d1-f87d73b66047",
+    "cardName": "Fatal Push",
     "confidence": 1,
     "needsReview": false,
     "card": {
-      "name": "Impossible Man",
-      "manaCost": "{2}{U}",
-      "typeLine": "Legendary Creature — Alien Shapeshifter",
-      "oracleText": "Flying\n{2}{U}: Impossible Man becomes a copy of another target permanent until end of turn, except his name is Impossible Man.",
-      "image": "https://api.scryfall.com/cards/named?exact=Impossible%20Man&format=image&version=normal"
-    },
-    "end": 2978.12
+      "name": "Fatal Push",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1783936764"
+    }
   },
   {
-    "start": 2978.12,
-    "cardId": "8f8fd2ba-df0e-49bd-a916-cc4f50b9fa24",
-    "cardName": "Earthbending Student",
+    "track": "mentioned",
+    "start": 2957.26,
+    "end": 2987.26,
+    "cardId": "b5e81649-9954-424c-89d1-f87d73b66047",
+    "cardName": "Fatal Push",
     "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fatal Push",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1783936764"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2961.78,
+    "end": 2991.78,
+    "cardId": "1f068ce9-f4c2-4d40-bfa3-7f21f6d3b0b7",
+    "cardName": "Earthbending Student",
+    "confidence": 0.99,
     "needsReview": false,
     "card": {
       "name": "Earthbending Student",
       "manaCost": "{2}{G}",
       "typeLine": "Creature — Human Warrior Ally",
       "oracleText": "When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nLand creatures you control have vigilance. (Attacking doesn't cause them to tap.)",
-      "image": "https://api.scryfall.com/cards/named?exact=Earthbending%20Student&format=image&version=normal"
+      "image": "https://cards.scryfall.io/normal/front/1/f/1f068ce9-f4c2-4d40-bfa3-7f21f6d3b0b7.jpg?1783904775"
     },
-    "end": 3019.48
+    "cards": [
+      {
+        "cardId": "1f068ce9-f4c2-4d40-bfa3-7f21f6d3b0b7",
+        "cardName": "Earthbending Student",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Earthbending Student",
+          "manaCost": "{2}{G}",
+          "typeLine": "Creature — Human Warrior Ally",
+          "oracleText": "When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nLand creatures you control have vigilance. (Attacking doesn't cause them to tap.)",
+          "image": "https://cards.scryfall.io/normal/front/1/f/1f068ce9-f4c2-4d40-bfa3-7f21f6d3b0b7.jpg?1783904775"
+        }
+      },
+      {
+        "cardId": "0a786855-6eb4-42c0-a528-4842db46809d",
+        "cardName": "Stock Up",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Stock Up",
+          "manaCost": "{2}{U}",
+          "typeLine": "Sorcery",
+          "oracleText": "Look at the top five cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.",
+          "image": "https://cards.scryfall.io/normal/front/0/a/0a786855-6eb4-42c0-a528-4842db46809d.jpg?1783907902"
+        }
+      }
+    ]
   },
   {
-    "start": 3019.48,
-    "cardId": "7615157b-af2a-41b9-801e-aca56c485ebd",
-    "cardName": "Land Station",
-    "confidence": 1,
+    "track": "mentioned",
+    "start": 2967.36,
+    "end": 2997.36,
+    "cardId": "fa305441-3fb7-4f59-8b39-984e931f9bcc",
+    "cardName": "Impossible Man",
+    "confidence": 0.99,
     "needsReview": false,
     "card": {
-      "name": "Land Station",
-      "manaCost": "{1}{G}",
-      "typeLine": "Artifact — Spacecraft",
-      "oracleText": "When this Spacecraft enters, reveal a basic land card from outside the game and put it into your hand. (remembering that the nearest land station may be behind you).\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.)\n10+ | Flying\nThis creature gets +1/+1 for each basic land you control.",
-      "image": "https://api.scryfall.com/cards/named?exact=Land%20Station&format=image&version=normal"
-    },
-    "end": 3194.7
+      "name": "Impossible Man",
+      "manaCost": "{2}{U}",
+      "typeLine": "Legendary Creature — Alien Shapeshifter",
+      "oracleText": "Flying\n{2}{U}: Impossible Man becomes a copy of another target permanent until end of turn, except his name is Impossible Man.",
+      "image": "https://cards.scryfall.io/normal/front/f/a/fa305441-3fb7-4f59-8b39-984e931f9bcc.jpg?1783903073"
+    }
   },
   {
-    "start": 3194.7,
-    "cardId": "6662968e-ca9e-454c-be44-24ad10e43d3e",
+    "track": "mentioned",
+    "start": 2976.9,
+    "end": 3006.9,
+    "cardId": "1f068ce9-f4c2-4d40-bfa3-7f21f6d3b0b7",
+    "cardName": "Earthbending Student",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Earthbending Student",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Human Warrior Ally",
+      "oracleText": "When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nLand creatures you control have vigilance. (Attacking doesn't cause them to tap.)",
+      "image": "https://cards.scryfall.io/normal/front/1/f/1f068ce9-f4c2-4d40-bfa3-7f21f6d3b0b7.jpg?1783904775"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3016.56,
+    "end": 3046.56,
+    "cardId": "b1623d57-4729-4796-b3f7-f1837a05c6ed",
+    "cardName": "Plains",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Plains",
+      "manaCost": "",
+      "typeLine": "Basic Land — Plains",
+      "oracleText": "({T}: Add {W}.)",
+      "image": "https://cards.scryfall.io/normal/front/b/1/b1623d57-4729-4796-b3f7-f1837a05c6ed.jpg?1783948658"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3023.14,
+    "end": 3053.14,
+    "cardId": "b1623d57-4729-4796-b3f7-f1837a05c6ed",
+    "cardName": "Plains",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Plains",
+      "manaCost": "",
+      "typeLine": "Basic Land — Plains",
+      "oracleText": "({T}: Add {W}.)",
+      "image": "https://cards.scryfall.io/normal/front/b/1/b1623d57-4729-4796-b3f7-f1837a05c6ed.jpg?1783948658"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3194.14,
+    "end": 3224.14,
+    "cardId": "c78da035-6b5b-4136-9ab6-f622b64fdc54",
     "cardName": "Unstoppable Slasher",
     "confidence": 1,
     "needsReview": false,
@@ -130,13 +752,58 @@
       "manaCost": "{2}{B}",
       "typeLine": "Creature — Zombie Assassin",
       "oracleText": "Deathtouch\nWhenever this creature deals combat damage to a player, they lose half their life, rounded up.\nWhen this creature dies, if it had no counters on it, return it to the battlefield tapped under its owner's control with two stun counters on it.",
-      "image": "https://api.scryfall.com/cards/named?exact=Unstoppable%20Slasher&format=image&version=normal"
-    },
-    "end": 3344.64
+      "image": "https://cards.scryfall.io/normal/front/c/7/c78da035-6b5b-4136-9ab6-f622b64fdc54.jpg?1783909475"
+    }
   },
   {
+    "track": "mentioned",
+    "start": 3266.82,
+    "end": 3296.82,
+    "cardId": "8f72bfa0-efef-48ce-aff8-d5818ed71ba6",
+    "cardName": "Dawn's Truce",
+    "confidence": 0.92,
+    "needsReview": true,
+    "card": {
+      "name": "Dawn's Truce",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nYou and permanents you control gain hexproof until end of turn. If the gift was promised, permanents you control also gain indestructible until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/8/f/8f72bfa0-efef-48ce-aff8-d5818ed71ba6.jpg?1783910863"
+    },
+    "cards": [
+      {
+        "cardId": "8f72bfa0-efef-48ce-aff8-d5818ed71ba6",
+        "cardName": "Dawn's Truce",
+        "confidence": 0.92,
+        "needsReview": true,
+        "card": {
+          "name": "Dawn's Truce",
+          "manaCost": "{1}{W}",
+          "typeLine": "Instant",
+          "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nYou and permanents you control gain hexproof until end of turn. If the gift was promised, permanents you control also gain indestructible until end of turn.",
+          "image": "https://cards.scryfall.io/normal/front/8/f/8f72bfa0-efef-48ce-aff8-d5818ed71ba6.jpg?1783910863"
+        }
+      },
+      {
+        "cardId": "46cc8574-7b8c-492c-8a36-75cb0192f853",
+        "cardName": "Unbreakable Formation",
+        "confidence": 0.78,
+        "needsReview": true,
+        "card": {
+          "name": "Unbreakable Formation",
+          "manaCost": "{2}{W}",
+          "typeLine": "Instant",
+          "oracleText": "Creatures you control gain indestructible until end of turn.\nAddendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn.",
+          "image": "https://cards.scryfall.io/normal/front/4/6/46cc8574-7b8c-492c-8a36-75cb0192f853.jpg?1783933714"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
     "start": 3344.64,
-    "cardId": "97435e03-2fff-4fe0-8fa9-69ab0a046a33",
+    "end": 3374.64,
+    "cardId": "46cc8574-7b8c-492c-8a36-75cb0192f853",
     "cardName": "Unbreakable Formation",
     "confidence": 1,
     "needsReview": false,
@@ -145,7 +812,7 @@
       "manaCost": "{2}{W}",
       "typeLine": "Instant",
       "oracleText": "Creatures you control gain indestructible until end of turn.\nAddendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn.",
-      "image": "https://api.scryfall.com/cards/named?exact=Unbreakable%20Formation&format=image&version=normal"
+      "image": "https://cards.scryfall.io/normal/front/4/6/46cc8574-7b8c-492c-8a36-75cb0192f853.jpg?1783933714"
     }
   }
 ]

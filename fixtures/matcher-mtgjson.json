@@ -26,6 +26,15 @@
       "printings": ["CMM"],
       "text": "{T}: Add {G}.",
       "type": "Basic Land — Forest"
+    }],
+    "Opt": [{
+      "colorIdentity": ["U"],
+      "identifiers": { "scryfallOracleId": "713332c1-5bd8-400f-bfff-c1ca0697a043" },
+      "manaCost": "{U}",
+      "name": "Opt",
+      "printings": ["XLN"],
+      "text": "Scry 1, then draw a card.",
+      "type": "Instant"
     }]
   }
 }

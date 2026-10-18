@@ -1,0 +1,1506 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Do You Cheat At Prerelease?",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Primeval Titan",
+      "spokenText": "Primeval Tayan",
+      "role": "incidental",
+      "startSeconds": 57.78,
+      "evidence": "Is it about Primeval Tayan?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Splinter Twin",
+      "spokenText": "Splinter Twin",
+      "role": "incidental",
+      "startSeconds": 146.56,
+      "evidence": "celebrate Splinter Twin",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, Reality Sculptor",
+      "spokenText": "reality sculptor",
+      "role": "incidental",
+      "startSeconds": 335.26,
+      "evidence": "with reality sculptor that oh what if i zero",
+      "confidence": 0.7,
+      "modelName": "Jace, Reality Shaper",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace's Machinations",
+      "spokenText": "Jace's machinations",
+      "role": "incidental",
+      "startSeconds": 352.94,
+      "evidence": "instant speed ulting on my opponent's turn thanks to Jace's machinations",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, Reality Sculptor",
+      "spokenText": "Jace Reality Shaper",
+      "role": "incidental",
+      "startSeconds": 378.84,
+      "evidence": "the five mana Jace Reality Shaper",
+      "confidence": 0.96,
+      "modelName": "Jace, Reality Shaper",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace's Machinations",
+      "spokenText": "Jace's Machinations",
+      "role": "incidental",
+      "startSeconds": 385.38,
+      "evidence": "especially with Jace's Machinations",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, Reality Sculptor",
+      "spokenText": "Jace Reality Shaper",
+      "role": "incidental",
+      "startSeconds": 388.68,
+      "evidence": "I was expecting Jace Reality Shaper",
+      "confidence": 0.96,
+      "modelName": "Jace, Reality Shaper",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace's Machinations",
+      "spokenText": "Jace's Machinations",
+      "role": "incidental",
+      "startSeconds": 400.58,
+      "evidence": "with Jace's Machinations and do it at instant speed",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, Reality Sculptor",
+      "spokenText": "the five mana J's",
+      "role": "incidental",
+      "startSeconds": 408.1,
+      "evidence": "makes it in real standard, like the five mana J's",
+      "confidence": 0.94,
+      "modelName": "Jace, Reality Shaper",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Island",
+      "spokenText": "islands",
+      "role": "incidental",
+      "startSeconds": 434.62,
+      "evidence": "a suboptimal mana base with maybe not enough islands",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Island",
+      "spokenText": "islands",
+      "role": "incidental",
+      "startSeconds": 446.4,
+      "evidence": "If I have enough islands, that plus one is nasty",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Theorist's Sanctum",
+      "spokenText": "Theris's Sanctum",
+      "role": "incidental",
+      "startSeconds": 451.24,
+      "evidence": "that land, Theris's Sanctum or whatever",
+      "confidence": 0.64,
+      "modelName": "Theris's Sanctum",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Theorist's Sanctum",
+      "spokenText": "Theris Sanctum",
+      "role": "incidental",
+      "startSeconds": 467.86,
+      "evidence": "the Theris Sanctum or whatever I could just do at the end of their turn",
+      "confidence": 0.64,
+      "modelName": "Theris's Sanctum",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Way of the Pyromancer",
+      "spokenText": "way the pyromancer",
+      "role": "incidental",
+      "startSeconds": 499.02,
+      "evidence": "one card that really stood out to me was way the pyromancer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Way of the Pyromancer",
+      "spokenText": "way of the pyromancer",
+      "role": "incidental",
+      "startSeconds": 514.32,
+      "evidence": "the actual deck from the meta but with way of the pyromancer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace's Machinations",
+      "spokenText": "jace's machinations",
+      "role": "incidental",
+      "startSeconds": 551.32,
+      "evidence": "jace's machinations is the three mana instant",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Strike",
+      "spokenText": "lightning strikes",
+      "role": "incidental",
+      "startSeconds": 567.9,
+      "evidence": "three sorcery speed lightning strikes",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Strike",
+      "spokenText": "lightning strike",
+      "role": "incidental",
+      "startSeconds": 574.8,
+      "evidence": "that's like lightning strike draw point three of a card",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace's Machinations",
+      "spokenText": "jaces machinations",
+      "role": "incidental",
+      "startSeconds": 585.12,
+      "evidence": "all the other cards we talked about jaces machinations",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Way of the Pyromancer",
+      "spokenText": "way of the pyromancer",
+      "role": "incidental",
+      "startSeconds": 585.12,
+      "evidence": "i think like the way of the pyromancer one",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Way of the Pyromancer",
+      "spokenText": "way of the pyromancer",
+      "role": "incidental",
+      "startSeconds": 590.1,
+      "evidence": "those are deck specific right but way of the pyromancer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tibalt, the Fiend-Blooded",
+      "spokenText": "Tybalt",
+      "role": "incidental",
+      "startSeconds": 603.44,
+      "evidence": "This is Tybalt.",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tablet of Discovery",
+      "spokenText": "Tablet",
+      "role": "incidental",
+      "startSeconds": 613.88,
+      "evidence": "you now have Tablet",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tablet of Discovery",
+      "spokenText": "Tablet",
+      "role": "incidental",
+      "startSeconds": 616.48,
+      "evidence": "You had Tablet, right?",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Way of the Pyromancer",
+      "spokenText": "the way of the Pyromancer",
+      "role": "incidental",
+      "startSeconds": 628.04,
+      "evidence": "this card is kind of real, the way of the Pyromancer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sanctum Lurker",
+      "spokenText": "Sanctum Lurker",
+      "role": "incidental",
+      "startSeconds": 682.1,
+      "evidence": "Sanctum Lurker, another Empower Jace card",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hero's Downfall",
+      "spokenText": "hero's downfall",
+      "role": "incidental",
+      "startSeconds": 721.28,
+      "evidence": "fire off a hero's downfall",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tablet of Discovery",
+      "spokenText": "Tablet",
+      "role": "incidental",
+      "startSeconds": 741.82,
+      "evidence": "We've seen Tablet do work",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeskai Revelation",
+      "spokenText": "Jeskai Revelation",
+      "role": "incidental",
+      "startSeconds": 743.98,
+      "evidence": "makes Jeskai Revelation come down two turns earlier",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Way of the Pyromancer",
+      "spokenText": "Way of the Pyromancer",
+      "role": "incidental",
+      "startSeconds": 763.72,
+      "evidence": "the power of Way of the Pyromancer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tablet of Discovery",
+      "spokenText": "tablet of discovery",
+      "role": "incidental",
+      "startSeconds": 766.86,
+      "evidence": "shows up as a tablet of discovery in the control decks",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace's Machinations",
+      "spokenText": "Jace's Machinations",
+      "role": "incidental",
+      "startSeconds": 770.68,
+      "evidence": "Something like Jace's Machinations.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tablet of Discovery",
+      "spokenText": "tablet",
+      "role": "incidental",
+      "startSeconds": 771.78,
+      "evidence": "Is it tablet better, though?",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Way of the Pyromancer",
+      "spokenText": "Way of the Pyromancer",
+      "role": "incidental",
+      "startSeconds": 779.48,
+      "evidence": "my experience playing with Way of the Pyromancer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeskai Revelation",
+      "spokenText": "Jaskai revelations",
+      "role": "incidental",
+      "startSeconds": 813.78,
+      "evidence": "they're getting to their Jaskai revelations",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tibalt, the Fiend-Blooded",
+      "spokenText": "Tibalt",
+      "role": "incidental",
+      "startSeconds": 831.16,
+      "evidence": "It's like better Tibalt.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tibalt, the Fiend-Blooded",
+      "spokenText": "Tibalt",
+      "role": "incidental",
+      "startSeconds": 832.84,
+      "evidence": "It's Tibalt.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tibalt, the Fiend-Blooded",
+      "spokenText": "Tibalt",
+      "role": "incidental",
+      "startSeconds": 835.78,
+      "evidence": "Tibalt, but good.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tablet of Discovery",
+      "spokenText": "tablet",
+      "role": "incidental",
+      "startSeconds": 855.3,
+      "evidence": "you'd rather just play tablet and call it a day",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tablet of Discovery",
+      "spokenText": "tablet",
+      "role": "incidental",
+      "startSeconds": 865.96,
+      "evidence": "tablet is a draw like a draw card potentially and make two mana",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tablet of Discovery",
+      "spokenText": "tablet",
+      "role": "incidental",
+      "startSeconds": 881.24,
+      "evidence": "You're playing this plus tablet.",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Improbable Alliance",
+      "spokenText": "Improv Capstone",
+      "role": "incidental",
+      "startSeconds": 888.14,
+      "evidence": "Improv Capstone.",
+      "confidence": 0.65,
+      "modelName": "Improbable Capstone",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hexhaven Invigorator",
+      "spokenText": "Hexhaven Invigorator",
+      "role": "incidental",
+      "startSeconds": 899.02,
+      "evidence": "I will say Hexhaven Invigorator",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Obliterator",
+      "spokenText": "Phyrexian Obliterator",
+      "role": "incidental",
+      "startSeconds": 907.7,
+      "evidence": "Is that the Phyrexian Obliterator?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hexhaven Invigorator",
+      "spokenText": "Invigorator",
+      "role": "incidental",
+      "startSeconds": 924.78,
+      "evidence": "in that world, Invigorator is great",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Enlightened Confidant",
+      "spokenText": "Enlightened Confidant",
+      "role": "incidental",
+      "startSeconds": 927.62,
+      "evidence": "I do think Enlightened Confidant impressed",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Enlightened Confidant",
+      "spokenText": "Enlightened Confidant",
+      "role": "incidental",
+      "startSeconds": 931.48,
+      "evidence": "The one that I am very, like Enlightened Confidant",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ajani's Pridemate",
+      "spokenText": "johnny's pride mate",
+      "role": "incidental",
+      "startSeconds": 971.5,
+      "evidence": "to trigger it to make the johnny's pride mate",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul Warden",
+      "spokenText": "soul wardens",
+      "role": "incidental",
+      "startSeconds": 976.54,
+      "evidence": "you have a few soul wardens stacked up",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ajani's Pridemate",
+      "spokenText": "johnny's pride mates",
+      "role": "incidental",
+      "startSeconds": 981.3,
+      "evidence": "pooping out of johnny's pride mates every turn",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Enlightened Confidant",
+      "spokenText": "Enlightened Confidant",
+      "role": "incidental",
+      "startSeconds": 1004.22,
+      "evidence": "I do really like Enlightened Confidant",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "incidental",
+      "startSeconds": 1009.04,
+      "evidence": "I'm not sure, I tried Tarmogoyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "lightning bolt",
+      "role": "incidental",
+      "startSeconds": 1027.3,
+      "evidence": "the lightning bolt situation",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Goif",
+      "role": "incidental",
+      "startSeconds": 1032.38,
+      "evidence": "Oh, my Goif lives",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoy",
+      "role": "incidental",
+      "startSeconds": 1038.24,
+      "evidence": "anyone playing Tarmogoy",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "Dark Light Phoenix",
+      "role": "incidental",
+      "startSeconds": 1053.2,
+      "evidence": "oddly felt like Dark Light Phoenix",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rest in Peace",
+      "spokenText": "rip",
+      "role": "incidental",
+      "startSeconds": 1061.4,
+      "evidence": "like a rip absolutely deletes you",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "Dark Light Phoenix",
+      "role": "incidental",
+      "startSeconds": 1069.58,
+      "evidence": "I do feel like Dark Light Phoenix",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "dark light",
+      "role": "incidental",
+      "startSeconds": 1077.4,
+      "evidence": "i put together a dark light deck during early access",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "dark light",
+      "role": "incidental",
+      "startSeconds": 1086.2,
+      "evidence": "feeling like dark light was kind of like it was okay",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "dark light phoenix",
+      "role": "incidental",
+      "startSeconds": 1092.02,
+      "evidence": "get back to dark light phoenix",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arclight Phoenix",
+      "spokenText": "arc light phoenix",
+      "role": "incidental",
+      "startSeconds": 1103.18,
+      "evidence": "unlike arc light phoenix",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "dark light",
+      "role": "incidental",
+      "startSeconds": 1103.18,
+      "evidence": "i felt like dark light was a really good late game",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rest in Peace",
+      "spokenText": "rest the rest in peace",
+      "role": "incidental",
+      "startSeconds": 1108.68,
+      "evidence": "if it gets locked down by rest the rest in peace",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arclight Phoenix",
+      "spokenText": "arc light",
+      "role": "incidental",
+      "startSeconds": 1120.82,
+      "evidence": "but unlike arc light",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "dark lights",
+      "role": "incidental",
+      "startSeconds": 1120.82,
+      "evidence": "always get back these dark lights",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "dark light phoenixes",
+      "role": "incidental",
+      "startSeconds": 1125.32,
+      "evidence": "which you see the dark light phoenixes do",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Abhorrent Oculus",
+      "spokenText": "oculus",
+      "role": "incidental",
+      "startSeconds": 1147.2,
+      "evidence": "with oculus as well",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "Darklight Phoenix",
+      "role": "incidental",
+      "startSeconds": 1168.38,
+      "evidence": "If it was not Darklight Phoenix.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Way of the Pyromancer",
+      "spokenText": "Wave the Pyromancer",
+      "role": "incidental",
+      "startSeconds": 1170.92,
+      "evidence": "Is it really Wave the Pyromancer?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Master of Barbs",
+      "spokenText": "master of arbs",
+      "role": "incidental",
+      "startSeconds": 1194.76,
+      "evidence": "another one that got me a ton was master of arbs",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hired Claw",
+      "spokenText": "hired claws",
+      "role": "incidental",
+      "startSeconds": 1200.18,
+      "evidence": "just like hired claws and a burn spell",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmic Wyf",
+      "role": "incidental",
+      "startSeconds": 1221.06,
+      "evidence": "there's a literal Tarmic Wyf",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Master of Barbs",
+      "spokenText": "Master of Barbs",
+      "role": "incidental",
+      "startSeconds": 1225.54,
+      "evidence": "you went with Master of Barbs",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Master of Barbs",
+      "spokenText": "Master of Barbs",
+      "role": "incidental",
+      "startSeconds": 1245.56,
+      "evidence": "And it had Master of Barbs.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Laughing Jasper Flint",
+      "spokenText": "Laughing Jasper Flint",
+      "role": "incidental",
+      "startSeconds": 1248.22,
+      "evidence": "and Laughing Jasper Flint",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Laughing Jasper Flint",
+      "spokenText": "Laughing Jasper Flint",
+      "role": "incidental",
+      "startSeconds": 1265.52,
+      "evidence": "on Laughing Jasper Flint promo",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Laughing Jasper Flint",
+      "spokenText": "Laughing Jasper Flint",
+      "role": "incidental",
+      "startSeconds": 1280.14,
+      "evidence": "everyone memeing on Laughing Jasper Flint",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Master of Barbs",
+      "spokenText": "Master of Arms",
+      "role": "incidental",
+      "startSeconds": 1285.02,
+      "evidence": "We'll print this Master of Arms card",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Laughing Jasper Flint",
+      "spokenText": "Laughing Jasper Flint",
+      "role": "incidental",
+      "startSeconds": 1289.08,
+      "evidence": "Laughing Jasper Flint got the last laugh",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Matter Manipulator",
+      "spokenText": "Darkman or Manipulator",
+      "role": "incidental",
+      "startSeconds": 1307.06,
+      "evidence": "Darkman or Manipulator.",
+      "confidence": 0.7,
+      "modelName": "Darkmatter Manipulator",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rest in Peace",
+      "spokenText": "rest in pieces",
+      "role": "incidental",
+      "startSeconds": 1308.54,
+      "evidence": "if someone rest in pieces you",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "Darklight",
+      "role": "incidental",
+      "startSeconds": 1322.16,
+      "evidence": "I played in my Darklight deck",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rest in Peace",
+      "spokenText": "rest in peace",
+      "role": "incidental",
+      "startSeconds": 1322.16,
+      "evidence": "if they didn't have like a rest in peace",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "tarmogoyf",
+      "role": "incidental",
+      "startSeconds": 1489.12,
+      "evidence": "pools that have tarmogoyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "tarmac life",
+      "role": "incidental",
+      "startSeconds": 1533.64,
+      "evidence": "stack of unplayables with tarmac life sitting right on top",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Way of the Pyromancer",
+      "spokenText": "way the pyromancer",
+      "role": "incidental",
+      "startSeconds": 1799.22,
+      "evidence": "basically way the pyromancer play",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Chandra's Emberling",
+      "spokenText": "Chandra's Emberling",
+      "role": "incidental",
+      "startSeconds": 1829.22,
+      "evidence": "that Chandra's Emberling",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal push",
+      "role": "incidental",
+      "startSeconds": 1917.48,
+      "evidence": "Yes, it's fatal push.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoy",
+      "role": "incidental",
+      "startSeconds": 1961.12,
+      "evidence": "He drew his Tarmogoy.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoy's",
+      "role": "incidental",
+      "startSeconds": 1965.56,
+      "evidence": "Bro, no, Tarmogoy's",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoy",
+      "role": "incidental",
+      "startSeconds": 2175.92,
+      "evidence": "Let's say there's a Tarmogoy",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "bolt",
+      "role": "incidental",
+      "startSeconds": 2183.46,
+      "evidence": "You bolt it.",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Goyf",
+      "role": "incidental",
+      "startSeconds": 2197.12,
+      "evidence": "take a Goyf and put it in the graveyard",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Goyf",
+      "role": "incidental",
+      "startSeconds": 2201.06,
+      "evidence": "take the Goyf and then put it in the yard",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Enlightened Confidant",
+      "spokenText": "enlightened confidant",
+      "role": "incidental",
+      "startSeconds": 2221.94,
+      "evidence": "if they miss enlightened confidant trigger",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Chalice of the Void",
+      "spokenText": "chalice",
+      "role": "incidental",
+      "startSeconds": 2248.76,
+      "evidence": "Is it chalice triggers?",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mulldrifter",
+      "spokenText": "Muldrifter",
+      "role": "incidental",
+      "startSeconds": 2261.4,
+      "evidence": "play a Muldrifter and forget to draw cards",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hunter of Eyeblights",
+      "spokenText": "hunt master",
+      "role": "incidental",
+      "startSeconds": 2412.44,
+      "evidence": "if you miss your own hunt master",
+      "confidence": 0.97,
+      "modelName": "Huntmaster of the Fells",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Confidant",
+      "spokenText": "bob",
+      "role": "incidental",
+      "startSeconds": 2421.52,
+      "evidence": "if you miss your own bob trigger",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archangel's Light",
+      "spokenText": "Archangel's Light",
+      "role": "incidental",
+      "startSeconds": 2937.72,
+      "evidence": "So you remember Archangel's Light?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archangel's Light",
+      "spokenText": "Archangel's Light",
+      "role": "incidental",
+      "startSeconds": 2943.56,
+      "evidence": "they printed Archangel's Light",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archangel's Light",
+      "spokenText": "Archangel's Light",
+      "role": "incidental",
+      "startSeconds": 2967.04,
+      "evidence": "So I made Archangel's Light",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skullclamp",
+      "spokenText": "Skull Clamp",
+      "role": "incidental",
+      "startSeconds": 2967.04,
+      "evidence": "super safe because of like Skull Clamp",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fiery Emancipation",
+      "spokenText": "fiery emancipation",
+      "role": "incidental",
+      "startSeconds": 3002.96,
+      "evidence": "It was fiery emancipation, but for life gain.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boon Reflection",
+      "spokenText": "Boom, something boon",
+      "role": "incidental",
+      "startSeconds": 3025.08,
+      "evidence": "Boom, something boon.",
+      "confidence": 0.89,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhox Faithmender",
+      "spokenText": "rocks guy",
+      "role": "incidental",
+      "startSeconds": 3028.64,
+      "evidence": "The rocks guy.",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhox Faithmender",
+      "spokenText": "rocks",
+      "role": "incidental",
+      "startSeconds": 3032.7,
+      "evidence": "Yeah, rocks.",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Helix",
+      "spokenText": "Lightning Helix",
+      "role": "incidental",
+      "startSeconds": 3060.8,
+      "evidence": "Lightning Helix, gain nine, pass",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Helix",
+      "spokenText": "Lightning Helix",
+      "role": "incidental",
+      "startSeconds": 3067.8,
+      "evidence": "Lightning Helix, gain nine, pass.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sphinx's Revelation",
+      "spokenText": "Sphinx's Rev",
+      "role": "incidental",
+      "startSeconds": 3076.7,
+      "evidence": "okay, untap Sphinx's Rev",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nephalia Drownyard",
+      "spokenText": "Drown Yard",
+      "role": "incidental",
+      "startSeconds": 3082.68,
+      "evidence": "And then you're like, Drown Yard.",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vampire Nighthawk",
+      "spokenText": "Nighthawk",
+      "role": "incidental",
+      "startSeconds": 3092.46,
+      "evidence": "Nighthawk, I think, would have been the thing",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vampire Nighthawk",
+      "spokenText": "Nighthawk",
+      "role": "incidental",
+      "startSeconds": 3095.04,
+      "evidence": "Nighthawk would have gained you six",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thragtusk",
+      "spokenText": "Thragtus'd",
+      "role": "incidental",
+      "startSeconds": 3097.02,
+      "evidence": "Imagine you Thragtus'd off this one.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Baneslayer Angel",
+      "spokenText": "Baneslayer",
+      "role": "incidental",
+      "startSeconds": 3098.94,
+      "evidence": "Oh, Baneslayer, Thragtus.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thragtusk",
+      "spokenText": "Thragtus",
+      "role": "incidental",
+      "startSeconds": 3098.94,
+      "evidence": "Oh, Baneslayer, Thragtus.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Baneslayer Angel",
+      "spokenText": "Baneslayer",
+      "role": "incidental",
+      "startSeconds": 3100.32,
+      "evidence": "Yeah, yeah, Baneslayer.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Baneslayer Angel",
+      "spokenText": "Bane Slayer",
+      "role": "incidental",
+      "startSeconds": 3101.68,
+      "evidence": "my Bane Slayer gaining 15",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Feed the Clan",
+      "spokenText": "Feed the clan",
+      "role": "incidental",
+      "startSeconds": 3130.48,
+      "evidence": "Feed the clan.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Time Walk",
+      "spokenText": "Time Walk",
+      "role": "incidental",
+      "startSeconds": 3153.16,
+      "evidence": "It's like Time Walk, right?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Time Walk",
+      "spokenText": "Time Walk",
+      "role": "incidental",
+      "startSeconds": 3154.48,
+      "evidence": "one mana gain 20 is essentially just Time Walk",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Time Walk",
+      "spokenText": "time walk",
+      "role": "incidental",
+      "startSeconds": 3159.56,
+      "evidence": "then it's actually just time walk",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Primeval Titan",
+      "spokenText": "prime time",
+      "role": "incidental",
+      "startSeconds": 3198.5,
+      "evidence": "untap and prime time and whatever",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Esper Sentinel",
+      "spokenText": "Esper Sentinels",
+      "role": "incidental",
+      "startSeconds": 3243.44,
+      "evidence": "Esper Sentinels, like 60 bucks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sensei's Divining Top",
+      "spokenText": "Sensei's Divining Tops",
+      "role": "incidental",
+      "startSeconds": 3247.5,
+      "evidence": "Sensei's Divining Tops, like 40 bucks.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Breach the Multiverse",
+      "spokenText": "Breach the Multiverse",
+      "role": "incidental",
+      "startSeconds": 3249.76,
+      "evidence": "Breach the Multiverse, Void Winnower",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Toxrill, the Corrosive",
+      "spokenText": "Toxarol",
+      "role": "incidental",
+      "startSeconds": 3249.76,
+      "evidence": "Toxarol, Breach the Multiverse",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Void Winnower",
+      "spokenText": "Void Winnower",
+      "role": "incidental",
+      "startSeconds": 3249.76,
+      "evidence": "Void Winnower, Yav Maya",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yavimaya, Cradle of Growth",
+      "spokenText": "Yav Maya",
+      "role": "incidental",
+      "startSeconds": 3249.76,
+      "evidence": "Void Winnower, Yav Maya",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Esper Sentinel",
+      "spokenText": "Esper Sentinel",
+      "role": "incidental",
+      "startSeconds": 3298.56,
+      "evidence": "already Esper Sentinel, Top",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sensei's Divining Top",
+      "spokenText": "Top",
+      "role": "incidental",
+      "startSeconds": 3298.56,
+      "evidence": "already Esper Sentinel, Top",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Akroma's Memorial",
+      "spokenText": "Akroma's memorial",
+      "role": "incidental",
+      "startSeconds": 3309.34,
+      "evidence": "did the Akroma's memorial version",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Esper Sentinel",
+      "spokenText": "Esper Sentinel",
+      "role": "incidental",
+      "startSeconds": 3376.1,
+      "evidence": "Secret Lair Esper Sentinel in top",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sensei's Divining Top",
+      "spokenText": "top",
+      "role": "incidental",
+      "startSeconds": 3376.1,
+      "evidence": "Esper Sentinel in top in there",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Esper Sentinel",
+      "spokenText": "sentinel",
+      "role": "incidental",
+      "startSeconds": 3390.84,
+      "evidence": "sentinel the top and those things",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sensei's Divining Top",
+      "spokenText": "top",
+      "role": "incidental",
+      "startSeconds": 3390.84,
+      "evidence": "sentinel the top and those things",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Virtus the Veiled",
+      "spokenText": "virtue of persistence",
+      "role": "incidental",
+      "startSeconds": 3395.08,
+      "evidence": "have virtue of persistence right",
+      "confidence": 1,
+      "modelName": "Virtue of Persistence",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Misleading Signpost",
+      "spokenText": "misleading signpost",
+      "role": "incidental",
+      "startSeconds": 3402.92,
+      "evidence": "you also have misleading signpost",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords to plowshares",
+      "role": "incidental",
+      "startSeconds": 3412.96,
+      "evidence": "their swords to plowshares",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Breach the Multiverse",
+      "spokenText": "breach the multiverse",
+      "role": "incidental",
+      "startSeconds": 3417.18,
+      "evidence": "the breach the multiverse one is super clean",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Esper Sentinel",
+      "spokenText": "as for sentinel",
+      "role": "incidental",
+      "startSeconds": 3428.4,
+      "evidence": "but as for sentinel",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Void Winnower",
+      "spokenText": "void winner",
+      "role": "incidental",
+      "startSeconds": 3428.4,
+      "evidence": "play this void winner",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soothsaying",
+      "spokenText": "Soothsaying",
+      "role": "incidental",
+      "startSeconds": 3445.06,
+      "evidence": "Like Soothsaying.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sensei's Divining Top",
+      "spokenText": "top",
+      "role": "incidental",
+      "startSeconds": 3446.62,
+      "evidence": "That was back up top, right?",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yavimaya, Cradle of Growth",
+      "spokenText": "Yavmaya",
+      "role": "incidental",
+      "startSeconds": 3463.22,
+      "evidence": "Mana base, there's a Yavmaya.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yavimaya, Cradle of Growth",
+      "spokenText": "Yavmaya",
+      "role": "incidental",
+      "startSeconds": 3469.68,
+      "evidence": "there is a Yavmaya that's like $20",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountains",
+      "role": "incidental",
+      "startSeconds": 3505.44,
+      "evidence": "mountains are like $6 or so",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountains",
+      "role": "incidental",
+      "startSeconds": 3514.98,
+      "evidence": "Those are super badass mountains.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oracle of the Alpha",
+      "spokenText": "Oracle of Alpha",
+      "role": "incidental",
+      "startSeconds": 3551.3,
+      "evidence": "the bird that shuffles a power nine into your deck, Oracle of Alpha",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [],
+  "incidentalCards": [
+    "Abhorrent Oculus",
+    "Ajani's Pridemate",
+    "Akroma's Memorial",
+    "Archangel's Light",
+    "Arclight Phoenix",
+    "Baneslayer Angel",
+    "Boon Reflection",
+    "Breach the Multiverse",
+    "Chalice of the Void",
+    "Chandra's Emberling",
+    "Dark Confidant",
+    "Dark Matter Manipulator",
+    "Darklight Phoenix",
+    "Enlightened Confidant",
+    "Esper Sentinel",
+    "Fatal Push",
+    "Feed the Clan",
+    "Fiery Emancipation",
+    "Hero's Downfall",
+    "Hexhaven Invigorator",
+    "Hired Claw",
+    "Hunter of Eyeblights",
+    "Improbable Alliance",
+    "Island",
+    "Jace, Reality Sculptor",
+    "Jace's Machinations",
+    "Jeskai Revelation",
+    "Laughing Jasper Flint",
+    "Lightning Bolt",
+    "Lightning Helix",
+    "Lightning Strike",
+    "Master of Barbs",
+    "Misleading Signpost",
+    "Mountain",
+    "Mulldrifter",
+    "Nephalia Drownyard",
+    "Oracle of the Alpha",
+    "Phyrexian Obliterator",
+    "Primeval Titan",
+    "Rest in Peace",
+    "Rhox Faithmender",
+    "Sanctum Lurker",
+    "Sensei's Divining Top",
+    "Skullclamp",
+    "Soothsaying",
+    "Soul Warden",
+    "Sphinx's Revelation",
+    "Splinter Twin",
+    "Swords to Plowshares",
+    "Tablet of Discovery",
+    "Tarmogoyf",
+    "Theorist's Sanctum",
+    "Thragtusk",
+    "Tibalt, the Fiend-Blooded",
+    "Time Walk",
+    "Toxrill, the Corrosive",
+    "Vampire Nighthawk",
+    "Virtus the Veiled",
+    "Void Winnower",
+    "Way of the Pyromancer",
+    "Yavimaya, Cradle of Growth"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "validation": {
+    "matchedMainCards": [],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Abhorrent Oculus",
+      "Ajani's Pridemate",
+      "Akroma's Memorial",
+      "Archangel's Light",
+      "Arclight Phoenix",
+      "Baneslayer Angel",
+      "Boon Reflection",
+      "Breach the Multiverse",
+      "Chalice of the Void",
+      "Chandra's Emberling",
+      "Dark Confidant",
+      "Dark Matter Manipulator",
+      "Darklight Phoenix",
+      "Enlightened Confidant",
+      "Esper Sentinel",
+      "Fatal Push",
+      "Feed the Clan",
+      "Fiery Emancipation",
+      "Hero's Downfall",
+      "Hexhaven Invigorator",
+      "Hired Claw",
+      "Hunter of Eyeblights",
+      "Improbable Alliance",
+      "Island",
+      "Jace, Reality Sculptor",
+      "Jace's Machinations",
+      "Jeskai Revelation",
+      "Laughing Jasper Flint",
+      "Lightning Bolt",
+      "Lightning Helix",
+      "Lightning Strike",
+      "Master of Barbs",
+      "Misleading Signpost",
+      "Mountain",
+      "Mulldrifter",
+      "Nephalia Drownyard",
+      "Oracle of the Alpha",
+      "Phyrexian Obliterator",
+      "Primeval Titan",
+      "Rest in Peace",
+      "Rhox Faithmender",
+      "Sanctum Lurker",
+      "Sensei's Divining Top",
+      "Skullclamp",
+      "Soothsaying",
+      "Soul Warden",
+      "Sphinx's Revelation",
+      "Splinter Twin",
+      "Swords to Plowshares",
+      "Tablet of Discovery",
+      "Tarmogoyf",
+      "Theorist's Sanctum",
+      "Thragtusk",
+      "Tibalt, the Fiend-Blooded",
+      "Time Walk",
+      "Toxrill, the Corrosive",
+      "Vampire Nighthawk",
+      "Virtus the Veiled",
+      "Void Winnower",
+      "Way of the Pyromancer",
+      "Yavimaya, Cradle of Growth"
+    ],
+    "unmatchedIncidentalCards": []
+  },
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 10,
+    "unresolvedMentions": []
+  }
+}

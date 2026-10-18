@@ -1,0 +1,3431 @@
+{
+  "model": "gpt-6-astra",
+  "title": "The Most Important Cards from Reality Fracture",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Ghost Vacuum",
+      "spokenText": "ghost vacuum",
+      "role": "incidental",
+      "startSeconds": 269.9,
+      "evidence": "to mention ghost vacuum",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pheres-Band Raiders",
+      "spokenText": "Shrari",
+      "role": "main",
+      "startSeconds": 346.76,
+      "evidence": "Shrari, because I think this card",
+      "confidence": 0.55,
+      "modelName": "Ered and Shari",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Roxanne, Starfall Savant",
+      "spokenText": "Roxanne",
+      "role": "incidental",
+      "startSeconds": 346.76,
+      "evidence": "if you've played against a Roxanne deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Roxanne, Starfall Savant",
+      "spokenText": "Roxanne",
+      "role": "incidental",
+      "startSeconds": 351.34,
+      "evidence": "How Roxanne plays.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Roxanne, Starfall Savant",
+      "spokenText": "Roxanne",
+      "role": "incidental",
+      "startSeconds": 365.6,
+      "evidence": "Isn't it just worse, Roxanne, though?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pheres-Band Raiders",
+      "spokenText": "Arid",
+      "role": "main",
+      "startSeconds": 370.3,
+      "evidence": "switch my Roxanne deck to Arid",
+      "confidence": 0.6,
+      "modelName": "Ered and Shari",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Roxanne, Starfall Savant",
+      "spokenText": "Roxanne",
+      "role": "incidental",
+      "startSeconds": 370.3,
+      "evidence": "switch my Roxanne deck to Arid",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pheres-Band Raiders",
+      "spokenText": "Eric and Shari",
+      "role": "main",
+      "startSeconds": 388.84,
+      "evidence": "when Eric and Shari enters or dies",
+      "confidence": 0.6,
+      "modelName": "Ered and Shari",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pheres-Band Raiders",
+      "spokenText": "Eric and Shari",
+      "role": "main",
+      "startSeconds": 400.18,
+      "evidence": "Then Eric and Shari gets plus X plus O",
+      "confidence": 0.6,
+      "modelName": "Ered and Shari",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Roxanne, Starfall Savant",
+      "spokenText": "Roxanne",
+      "role": "incidental",
+      "startSeconds": 417.84,
+      "evidence": "Roxanne would kind of do",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Roxanne, Starfall Savant",
+      "spokenText": "Roxanne",
+      "role": "incidental",
+      "startSeconds": 426.06,
+      "evidence": "Much like Roxanne",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Roxanne, Starfall Savant",
+      "spokenText": "Roxanne",
+      "role": "incidental",
+      "startSeconds": 434.08,
+      "evidence": "Saying Roxanne that much",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pheres-Band Raiders",
+      "spokenText": "Eric and Shari",
+      "role": "main",
+      "startSeconds": 443.82,
+      "evidence": "we're going with Eric and Shari or Ingress Stingerquill",
+      "confidence": 0.6,
+      "modelName": "Ered and Shari",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ingris Stingerquill",
+      "spokenText": "Ingress Stingerquill",
+      "role": "main",
+      "startSeconds": 443.82,
+      "evidence": "we're going with Eric and Shari or Ingress Stingerquill",
+      "confidence": 0.8,
+      "modelName": "Ingress Stingerquill",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ingris Stingerquill",
+      "spokenText": "Ingress",
+      "role": "main",
+      "startSeconds": 452.06,
+      "evidence": "Ingress also has whenever a creature you control attacks",
+      "confidence": 0.8,
+      "modelName": "Ingress Stingerquill",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ingris Stingerquill",
+      "spokenText": "Ingress",
+      "role": "main",
+      "startSeconds": 464.16,
+      "evidence": "I think Ingress is at the top for me.",
+      "confidence": 0.8,
+      "modelName": "Ingress Stingerquill",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pheres-Band Raiders",
+      "spokenText": "Arad",
+      "role": "main",
+      "startSeconds": 466.86,
+      "evidence": "Arad is just one I'd keep an eye on",
+      "confidence": 0.6,
+      "modelName": "Ered and Shari",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ingris Stingerquill",
+      "spokenText": "Ingress",
+      "role": "main",
+      "startSeconds": 470.46,
+      "evidence": "Ingress, I feel, is a cheap commander",
+      "confidence": 0.8,
+      "modelName": "Ingress Stingerquill",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Chandra's Spitfire",
+      "spokenText": "Chandra's Spitfire",
+      "role": "incidental",
+      "startSeconds": 475.22,
+      "evidence": "I just want to say that Chandra's Spitfire",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Chandra's Spitfire",
+      "spokenText": "Chandra's Spitfire",
+      "role": "incidental",
+      "startSeconds": 485.36,
+      "evidence": "Chandra's Spitfire will get plus nine",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hellrider",
+      "spokenText": "Hellrider",
+      "role": "incidental",
+      "startSeconds": 500.74,
+      "evidence": "If you could have Hellrider",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ingris Stingerquill",
+      "spokenText": "Ingrid",
+      "role": "main",
+      "startSeconds": 518.7,
+      "evidence": "Ingrid is also",
+      "confidence": 0.78,
+      "modelName": "Ingress Stingerquill",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hypnotic Specter",
+      "spokenText": "Hypnotic Specter",
+      "role": "incidental",
+      "startSeconds": 546.28,
+      "evidence": "You also play Hypnotic Specter",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hypnotic Specter",
+      "spokenText": "Hypnotic Specter",
+      "role": "incidental",
+      "startSeconds": 550.72,
+      "evidence": "Hypnotic Specter with a deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hypnotic Specter",
+      "spokenText": "Hypnotic Specter's",
+      "role": "incidental",
+      "startSeconds": 554.74,
+      "evidence": "Hypnotic Specter's",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hypnotic Specter",
+      "spokenText": "hypnotic specter",
+      "role": "incidental",
+      "startSeconds": 556.78,
+      "evidence": "hypnotic specter is so old",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thief of Sanity",
+      "spokenText": "Thief of Sanity",
+      "role": "incidental",
+      "startSeconds": 559.34,
+      "evidence": "the other ones, like Thief of Sanity",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hypnotic Specter",
+      "spokenText": "hypnotic specter",
+      "role": "incidental",
+      "startSeconds": 567.08,
+      "evidence": "around the hypnotic specter cost",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Virtuous Charge",
+      "spokenText": "Virtue of Courage",
+      "role": "incidental",
+      "startSeconds": 577.74,
+      "evidence": "You could play like Virtue of Courage",
+      "confidence": 1,
+      "modelName": "Virtue of Courage",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hellrider",
+      "spokenText": "hell rider",
+      "role": "incidental",
+      "startSeconds": 587.08,
+      "evidence": "I read it as a hell rider",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hellrider",
+      "spokenText": "hell rider",
+      "role": "incidental",
+      "startSeconds": 589.5,
+      "evidence": "but changing a hell rider",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hellrider",
+      "spokenText": "hell rider",
+      "role": "incidental",
+      "startSeconds": 590.68,
+      "evidence": "rather than the hell rider",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ingris Stingerquill",
+      "spokenText": "Ingress",
+      "role": "main",
+      "startSeconds": 601.4,
+      "evidence": "I like Ingress a lot.",
+      "confidence": 0.8,
+      "modelName": "Ingress Stingerquill",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pheres-Band Raiders",
+      "spokenText": "Ered",
+      "role": "main",
+      "startSeconds": 602.84,
+      "evidence": "Ered",
+      "confidence": 0.6,
+      "modelName": "Ered and Shari",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Roxanne, Starfall Savant",
+      "spokenText": "Roxanne",
+      "role": "incidental",
+      "startSeconds": 603.98,
+      "evidence": "it's just Roxanne",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ingris Stingerquill",
+      "spokenText": "Ingress",
+      "role": "main",
+      "startSeconds": 604.9,
+      "evidence": "but like Ingress",
+      "confidence": 0.8,
+      "modelName": "Ingress Stingerquill",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ingris Stingerquill",
+      "spokenText": "Ingrid",
+      "role": "main",
+      "startSeconds": 616.78,
+      "evidence": "Ingrid has my heart.",
+      "confidence": 0.78,
+      "modelName": "Ingress Stingerquill",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ingris Stingerquill",
+      "spokenText": "Ingrid's",
+      "role": "main",
+      "startSeconds": 629.38,
+      "evidence": "The Ingrid's deck has also",
+      "confidence": 0.78,
+      "modelName": "Ingress Stingerquill",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stigma Lasher",
+      "spokenText": "Stigma Lasher",
+      "role": "incidental",
+      "startSeconds": 632.3,
+      "evidence": "Go swoop a Stigma Lasher",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stigma Lasher",
+      "spokenText": "Stigma Lasher",
+      "role": "incidental",
+      "startSeconds": 637.24,
+      "evidence": "you know the Stigma Lasher?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Goblin Rabblemaster",
+      "spokenText": "Rabble Masters",
+      "role": "incidental",
+      "startSeconds": 657.14,
+      "evidence": "I'd load it up with Rabble Masters",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ares, God of War",
+      "spokenText": "Ares, God of War",
+      "role": "incidental",
+      "startSeconds": 663.14,
+      "evidence": "you put, like, Ares, God of War",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hellrider",
+      "spokenText": "Hellrider",
+      "role": "incidental",
+      "startSeconds": 668.98,
+      "evidence": "you throw in Hellrider",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ingris Stingerquill",
+      "spokenText": "Ingress",
+      "role": "main",
+      "startSeconds": 671.18,
+      "evidence": "this Ingress deck as a commander is nuts",
+      "confidence": 0.8,
+      "modelName": "Ingress Stingerquill",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dack Fayden, Helping Hand",
+      "spokenText": "Dak, Fade, and Helping Hand",
+      "role": "main",
+      "startSeconds": 698.5,
+      "evidence": "It's Dak, Fade, and Helping Hand.",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dack Fayden, Helping Hand",
+      "spokenText": "dac fame",
+      "role": "main",
+      "startSeconds": 750.34,
+      "evidence": "it's dac fame i'm just handing out things",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Restoration Angel",
+      "spokenText": "restoration angel",
+      "role": "incidental",
+      "startSeconds": 757.46,
+      "evidence": "You run all the restoration angel effects",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Restoration Angel",
+      "spokenText": "restoration angels",
+      "role": "incidental",
+      "startSeconds": 761.18,
+      "evidence": "you're flipping over restoration angels",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dack Fayden, Helping Hand",
+      "spokenText": "back fade",
+      "role": "main",
+      "startSeconds": 763.66,
+      "evidence": "You're blinking back fade.",
+      "confidence": 0.93,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flickerwisp",
+      "spokenText": "flicker wisps",
+      "role": "incidental",
+      "startSeconds": 768.46,
+      "evidence": "maybe you're running flicker wisps too",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ulamog's Crusher",
+      "spokenText": "little mugs, crusher",
+      "role": "incidental",
+      "startSeconds": 785.62,
+      "evidence": "little mugs, crusher, all the good stuff",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Panharmonicon",
+      "spokenText": "panoramonicon",
+      "role": "incidental",
+      "startSeconds": 822.04,
+      "evidence": "play it like a panoramonicon commander",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Immortal Obligation",
+      "spokenText": "Immortal Obligation",
+      "role": "incidental",
+      "startSeconds": 829.64,
+      "evidence": "Did anybody ever play the card Immortal Obligation",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Redemption Arc",
+      "spokenText": "redemption arc",
+      "role": "incidental",
+      "startSeconds": 869.74,
+      "evidence": "kind of like redemption arc as well",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Immortal Obligation",
+      "spokenText": "obligation",
+      "role": "incidental",
+      "startSeconds": 873.36,
+      "evidence": "obligation feels very similar",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dack Fayden, Helping Hand",
+      "spokenText": "Deck Faden",
+      "role": "main",
+      "startSeconds": 875.12,
+      "evidence": "Deck Faden is the new cracked version",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Polymorph",
+      "spokenText": "polymorph",
+      "role": "incidental",
+      "startSeconds": 883.2,
+      "evidence": "Kind of playing a polymorph deck.",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dack Fayden, Helping Hand",
+      "spokenText": "Deck Faden",
+      "role": "main",
+      "startSeconds": 893.1,
+      "evidence": "if you see a Deck Faden",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gyruda, Doom of Depths",
+      "spokenText": "Garuda",
+      "role": "incidental",
+      "startSeconds": 907.96,
+      "evidence": "the white version of Garuda clones",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gyruda, Doom of Depths",
+      "spokenText": "Garuda",
+      "role": "incidental",
+      "startSeconds": 910.16,
+      "evidence": "where you play Garuda",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Restoration Angel",
+      "spokenText": "restoration",
+      "role": "incidental",
+      "startSeconds": 915.62,
+      "evidence": "Oh, restoration.",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dack Fayden, Helping Hand",
+      "spokenText": "deck",
+      "role": "main",
+      "startSeconds": 920.08,
+      "evidence": "Oh, I flick your deck.",
+      "confidence": 0.77,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nissa, Leyline Tamer",
+      "spokenText": "Nissa",
+      "role": "main",
+      "startSeconds": 937.86,
+      "evidence": "It is Nissa, and it is still not green.",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nissa, Leyline Tamer",
+      "spokenText": "Lissa Leyline Tamer",
+      "role": "main",
+      "startSeconds": 940.34,
+      "evidence": "It is Lissa Leyline Tamer.",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aesi, Tyrant of Gyre Strait",
+      "spokenText": "Esai",
+      "role": "incidental",
+      "startSeconds": 1041.4,
+      "evidence": "it does what, like, Esai does",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tatyova, Benthic Druid",
+      "spokenText": "Teyova",
+      "role": "incidental",
+      "startSeconds": 1044.9,
+      "evidence": "and Teyova does",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cultivate",
+      "spokenText": "cultivates",
+      "role": "incidental",
+      "startSeconds": 1048.92,
+      "evidence": "you can't do the cultivates",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Open the Way",
+      "spokenText": "open the ways",
+      "role": "incidental",
+      "startSeconds": 1050.74,
+      "evidence": "and open the ways and stuff",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wayfarer's Bauble",
+      "spokenText": "baubles",
+      "role": "incidental",
+      "startSeconds": 1136.74,
+      "evidence": "crack like baubles or something to get lands",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Solemn Simulacrum",
+      "spokenText": "soul lamps",
+      "role": "incidental",
+      "startSeconds": 1140,
+      "evidence": "Of course you play soul lamps and stuff",
+      "confidence": 0.84,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Sphinx",
+      "spokenText": "the Ur-Sphinx",
+      "role": "main",
+      "startSeconds": 1169.52,
+      "evidence": "I think it's the Ur-Sphinx",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "Ur-Dragon",
+      "role": "incidental",
+      "startSeconds": 1174.16,
+      "evidence": "Ur-Dragon. It's a nine-mana Esper 10-10",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "the Ur-Dragon",
+      "role": "incidental",
+      "startSeconds": 1195.24,
+      "evidence": "shifted version of the Ur-Dragon",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "the Ur-Dragon",
+      "role": "incidental",
+      "startSeconds": 1201.86,
+      "evidence": "less powerful than the Ur-Dragon",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "Ur-Dragon",
+      "role": "incidental",
+      "startSeconds": 1206.48,
+      "evidence": "almost 500 dragons you could play in Ur-Dragon",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Sphinx",
+      "spokenText": "the Ur-Sphinx",
+      "role": "main",
+      "startSeconds": 1210.94,
+      "evidence": "Sphinxes you can play with the Ur-Sphinx",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Sphinx",
+      "spokenText": "the Earth Sphinx",
+      "role": "main",
+      "startSeconds": 1226.26,
+      "evidence": "I think the Earth Sphinx is just like",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Sphinx",
+      "spokenText": "the Earth Sphinx",
+      "role": "main",
+      "startSeconds": 1237.14,
+      "evidence": "than the Earth Sphinx",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Sphinx",
+      "spokenText": "the Earth Sphinx",
+      "role": "main",
+      "startSeconds": 1243.32,
+      "evidence": "is the Earth Sphinx",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "the Earth Dragon",
+      "role": "incidental",
+      "startSeconds": 1245.64,
+      "evidence": "to the Earth Dragon",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Unesh, Criosphinx Sovereign",
+      "spokenText": "Unish",
+      "role": "incidental",
+      "startSeconds": 1248.62,
+      "evidence": "R.I.P. Unish",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Sphinx",
+      "spokenText": "the earth sphinx",
+      "role": "main",
+      "startSeconds": 1268.24,
+      "evidence": "the earth sphinx will always just be the sphinx commander",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "their dragon",
+      "role": "incidental",
+      "startSeconds": 1354.66,
+      "evidence": "If everyone plays their dragon",
+      "confidence": 0.89,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "the ur dragon",
+      "role": "incidental",
+      "startSeconds": 1372.72,
+      "evidence": "just like the ur dragon was",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "urge dragon",
+      "role": "incidental",
+      "startSeconds": 1388.78,
+      "evidence": "some give and take and urge dragon",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Sphinx",
+      "spokenText": "earth sphinx",
+      "role": "main",
+      "startSeconds": 1398.96,
+      "evidence": "earth sphinx kind of falls in that same issue",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "Ur-Dragon",
+      "role": "incidental",
+      "startSeconds": 1436.64,
+      "evidence": "version of my Ur-Dragon deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arjun, the Shifting Flame",
+      "spokenText": "Arjun the Shifting Flame",
+      "role": "incidental",
+      "startSeconds": 1442.42,
+      "evidence": "it's Arjun the Shifting Flame",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arjun, the Shifting Flame",
+      "spokenText": "Arjun",
+      "role": "incidental",
+      "startSeconds": 1446.56,
+      "evidence": "different than Arjun",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "the theorist Jace Baloran",
+      "role": "main",
+      "startSeconds": 1478.88,
+      "evidence": "each went with the theorist Jace Baloran",
+      "confidence": 0.9,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "Jace",
+      "role": "main",
+      "startSeconds": 1487.12,
+      "evidence": "What is this Jace that we all picked as the best new staple",
+      "confidence": 0.9,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "Jace",
+      "role": "main",
+      "startSeconds": 1491.7,
+      "evidence": "Baby boy Jace reads as two blue blue",
+      "confidence": 0.9,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Concentrate",
+      "spokenText": "concentrate",
+      "role": "incidental",
+      "startSeconds": 1622.78,
+      "evidence": "which is concentrate",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Simulacrum Shaper",
+      "spokenText": "similacrum shaper",
+      "role": "main",
+      "startSeconds": 1659.44,
+      "evidence": "for sure gonna be staple it is similacrum shaper",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Solemn Simulacrum",
+      "spokenText": "sad robot",
+      "role": "incidental",
+      "startSeconds": 1677.76,
+      "evidence": "sad robot is a pink elf now",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wood Elves",
+      "spokenText": "what else",
+      "role": "incidental",
+      "startSeconds": 1705.98,
+      "evidence": "what else still because it's untapped",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mutable Explorer",
+      "spokenText": "Mutable Explorer",
+      "role": "incidental",
+      "startSeconds": 1707.76,
+      "evidence": "But then it's Mutable Explorer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Clifftop Lookout",
+      "spokenText": "Clifftop Lookout",
+      "role": "incidental",
+      "startSeconds": 1710.28,
+      "evidence": "Clifftop Lookout",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Simulacrum Shaper",
+      "spokenText": "Simulacrum Shaper",
+      "role": "main",
+      "startSeconds": 1713.94,
+      "evidence": "And then Simulacrum Shaper.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Solemn Simulacrum",
+      "spokenText": "Solim",
+      "role": "incidental",
+      "startSeconds": 1718.4,
+      "evidence": "about Solim is that",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eldritch Evolution",
+      "spokenText": "Eldritch Evolution",
+      "role": "incidental",
+      "startSeconds": 1722.26,
+      "evidence": "like Eldritch Evolution, Neoform",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Neoform",
+      "spokenText": "Neoform",
+      "role": "incidental",
+      "startSeconds": 1722.26,
+      "evidence": "like Eldritch Evolution, Neoform",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Solemn Simulacrum",
+      "spokenText": "Solom Simulacrum",
+      "role": "incidental",
+      "startSeconds": 1735.04,
+      "evidence": "Solom Simulacrum in green decks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Clifftop Lookout",
+      "spokenText": "Clifftop look out",
+      "role": "incidental",
+      "startSeconds": 1744.38,
+      "evidence": "mediocre whatever Clifftop look out",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Clifftop Lookout",
+      "spokenText": "Clifftop",
+      "role": "incidental",
+      "startSeconds": 1746.54,
+      "evidence": "although Clifftop as long as you don't play",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Clifftop Lookout",
+      "spokenText": "Clifftop",
+      "role": "incidental",
+      "startSeconds": 1748.4,
+      "evidence": "enough basics you want to play Clifftop",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Solemn Simulacrum",
+      "spokenText": "Solom",
+      "role": "incidental",
+      "startSeconds": 1758.36,
+      "evidence": "like Solom is still",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Meren of Clan Nel Toth",
+      "spokenText": "Maron",
+      "role": "incidental",
+      "startSeconds": 1777.44,
+      "evidence": "Maron is one of the most popular commanders still",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Simulacrum Shaper",
+      "spokenText": "Solemn Shaper",
+      "role": "main",
+      "startSeconds": 1781.68,
+      "evidence": "and loop the Solemn Shaper",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Solemn Simulacrum",
+      "spokenText": "Solemn Shaper",
+      "role": "main",
+      "startSeconds": 1781.68,
+      "evidence": "loop the Solemn Shaper",
+      "confidence": 0.95,
+      "modelName": "Solemn Shaper",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Evolutionary Leap",
+      "spokenText": "Evolutionary leap",
+      "role": "incidental",
+      "startSeconds": 1786.64,
+      "evidence": "Evolutionary leap or something.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Solemn Simulacrum",
+      "spokenText": "Solemn Simulacrum",
+      "role": "incidental",
+      "startSeconds": 1787.62,
+      "evidence": "Same thing as the Solemn Simulacrum",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "the Fearless Jays Bellerin",
+      "role": "main",
+      "startSeconds": 1807.84,
+      "evidence": "we also had the Fearless Jays Bellerin",
+      "confidence": 0.85,
+      "modelName": "The Fearless Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Emrakul, the Exigent Doom",
+      "spokenText": "Emrakul X in your doom",
+      "role": "main",
+      "startSeconds": 1810.68,
+      "evidence": "you also had Emrakul X in your doom on there",
+      "confidence": 0.62,
+      "modelName": "Emrakul, Exigent Doom",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Emrakul, the Exigent Doom",
+      "spokenText": "Emrakul",
+      "role": "main",
+      "startSeconds": 1815.58,
+      "evidence": "What are you thinking about Emrakul in the 99?",
+      "confidence": 0.62,
+      "modelName": "Emrakul, Exigent Doom",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Tomb",
+      "spokenText": "ancient tomb",
+      "role": "incidental",
+      "startSeconds": 1837.68,
+      "evidence": "choose something to be my ancient tomb",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Emrakul, the Exigent Doom",
+      "spokenText": "Emrakul",
+      "role": "main",
+      "startSeconds": 1854.76,
+      "evidence": "Maybe it's time for Emrakul",
+      "confidence": 0.62,
+      "modelName": "Emrakul, Exigent Doom",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Beastcaller Savant",
+      "spokenText": "beanstalk giant",
+      "role": "incidental",
+      "startSeconds": 1884.78,
+      "evidence": "reads to me as like a beanstalk giant",
+      "confidence": 1,
+      "modelName": "Beanstalk Giant",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Beastcaller Savant",
+      "spokenText": "beanstalk giant",
+      "role": "incidental",
+      "startSeconds": 1890.66,
+      "evidence": "beanstalk giant itself is way more impressive",
+      "confidence": 1,
+      "modelName": "Beanstalk Giant",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Beastcaller Savant",
+      "spokenText": "beanstalk giant",
+      "role": "incidental",
+      "startSeconds": 1897.58,
+      "evidence": "did you say the beanstalk giant itself is way more impressive",
+      "confidence": 1,
+      "modelName": "Beanstalk Giant",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Emrakul, the Exigent Doom",
+      "spokenText": "emerald",
+      "role": "main",
+      "startSeconds": 1897.58,
+      "evidence": "no the emerald is way more impressive",
+      "confidence": 0.6,
+      "modelName": "Emrakul, Exigent Doom",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Maelstrom Wanderer",
+      "spokenText": "maelstrom wanderer",
+      "role": "incidental",
+      "startSeconds": 1922.4,
+      "evidence": "probably like maelstrom wanderer or something",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Maelstrom Wanderer",
+      "spokenText": "maes from wonder",
+      "role": "incidental",
+      "startSeconds": 1947.84,
+      "evidence": "untap my lands cast maes from wonder",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Emrakul, the Exigent Doom",
+      "spokenText": "emerald",
+      "role": "main",
+      "startSeconds": 1971.28,
+      "evidence": "more likely to just cast emerald",
+      "confidence": 0.6,
+      "modelName": "Emrakul, Exigent Doom",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 1994.46,
+      "evidence": "this makes your soul ring starts exponentially even worse",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Beastcaller Savant",
+      "spokenText": "beanstalk giant",
+      "role": "incidental",
+      "startSeconds": 2032.7,
+      "evidence": "than like a beanstalk giant",
+      "confidence": 1,
+      "modelName": "Beanstalk Giant",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Beastcaller Savant",
+      "spokenText": "beanstalk giant",
+      "role": "incidental",
+      "startSeconds": 2034.86,
+      "evidence": "about beanstalk giant",
+      "confidence": 1,
+      "modelName": "Beanstalk Giant",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Beastcaller Savant",
+      "spokenText": "beanstalk giant",
+      "role": "incidental",
+      "startSeconds": 2039,
+      "evidence": "Like if beanstalk giant was colorless",
+      "confidence": 1,
+      "modelName": "Beanstalk Giant",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arbor Elf",
+      "spokenText": "arbor elf",
+      "role": "incidental",
+      "startSeconds": 2053.2,
+      "evidence": "think about an arbor elf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Forest",
+      "spokenText": "forest",
+      "role": "incidental",
+      "startSeconds": 2056.76,
+      "evidence": "just untapping a forest",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Beastcaller Savant",
+      "spokenText": "beanstalk giant",
+      "role": "incidental",
+      "startSeconds": 2067.64,
+      "evidence": "a beanstalk giant or something like that",
+      "confidence": 1,
+      "modelName": "Beanstalk Giant",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Emrakul, the Exigent Doom",
+      "spokenText": "Emrakul",
+      "role": "main",
+      "startSeconds": 2076.1,
+      "evidence": "oh no, Emrakul",
+      "confidence": 0.62,
+      "modelName": "Emrakul, Exigent Doom",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Emrakul, the Exigent Doom",
+      "spokenText": "Emrakul",
+      "role": "main",
+      "startSeconds": 2078.6,
+      "evidence": "this Emrakul is kind of fine",
+      "confidence": 0.62,
+      "modelName": "Emrakul, Exigent Doom",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flickering Hound",
+      "spokenText": "Flickering Hound",
+      "role": "main",
+      "startSeconds": 2115.08,
+      "evidence": "Everyone else came in with Flickering Hound",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brago, King Eternal",
+      "spokenText": "Brago",
+      "role": "incidental",
+      "startSeconds": 2120.4,
+      "evidence": "a Brago blink deck that you built me",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flickering Hound",
+      "spokenText": "flickering hound",
+      "role": "main",
+      "startSeconds": 2127.64,
+      "evidence": "why don't you tell us about flickering hound",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Displacer Kitten",
+      "spokenText": "the splacer cat kitten",
+      "role": "incidental",
+      "startSeconds": 2133.04,
+      "evidence": "if you took the splacer cat kitten",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flickering Hound",
+      "spokenText": "flickering hound",
+      "role": "main",
+      "startSeconds": 2133.04,
+      "evidence": "flickering hound is basically if you took",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Displacer Kitten",
+      "spokenText": "this blazer kid",
+      "role": "incidental",
+      "startSeconds": 2150.24,
+      "evidence": "you can't blink itself like like this blazer kid",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flickering Hound",
+      "spokenText": "flickering hound",
+      "role": "main",
+      "startSeconds": 2175.36,
+      "evidence": "flickering hound will constantly flicker them for you",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mulldrifter",
+      "spokenText": "mole drifters",
+      "role": "incidental",
+      "startSeconds": 2175.36,
+      "evidence": "so your mole drifters",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flickering Hound",
+      "spokenText": "flickering hound",
+      "role": "main",
+      "startSeconds": 2193.5,
+      "evidence": "flickering hound probably has some ways of doing so",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flickering Hound",
+      "spokenText": "Blink Hound",
+      "role": "main",
+      "startSeconds": 2205.42,
+      "evidence": "repeatedly trigger the Blink Hound",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shrieking Drake",
+      "spokenText": "Shrieking Drake",
+      "role": "incidental",
+      "startSeconds": 2205.42,
+      "evidence": "Shrieking Drake. I almost forgot the name of it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cloudstone Curio",
+      "spokenText": "cloudstone curio",
+      "role": "incidental",
+      "startSeconds": 2230.88,
+      "evidence": "cloudstone curio shenanigans",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pantlaza, Sun-Favored",
+      "spokenText": "pin laza",
+      "role": "incidental",
+      "startSeconds": 2235.28,
+      "evidence": "pin laza the dinosaur commander",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pantlaza, Sun-Favored",
+      "spokenText": "pin laza",
+      "role": "incidental",
+      "startSeconds": 2240.38,
+      "evidence": "if you build your pin laza deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pantlaza, Sun-Favored",
+      "spokenText": "pin laza",
+      "role": "incidental",
+      "startSeconds": 2252.64,
+      "evidence": "keep blinking the pin laza",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pantlaza, Sun-Favored",
+      "spokenText": "pinlaza",
+      "role": "incidental",
+      "startSeconds": 2256.94,
+      "evidence": "blink to reset the pinlaza",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Displacer Kitten",
+      "spokenText": "displacer kitten",
+      "role": "incidental",
+      "startSeconds": 2294.4,
+      "evidence": "switch my displacer kitten",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Omnath, Locus of Creation",
+      "spokenText": "omni",
+      "role": "incidental",
+      "startSeconds": 2294.4,
+      "evidence": "in my omni deck",
+      "confidence": 0.52,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Etali, Primal Storm",
+      "spokenText": "itali",
+      "role": "incidental",
+      "startSeconds": 2300.68,
+      "evidence": "to combo with itali",
+      "confidence": 0.94,
+      "modelName": "Etali, Primal Conqueror",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Displacer Kitten",
+      "spokenText": "displace a kitten",
+      "role": "incidental",
+      "startSeconds": 2307.94,
+      "evidence": "it's cooler than displace a kitten",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Displacer Kitten",
+      "spokenText": "displace a kitten",
+      "role": "incidental",
+      "startSeconds": 2323.18,
+      "evidence": "much much fairer than displace a kitten",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Displacer Kitten",
+      "spokenText": "Displacer Kitten",
+      "role": "incidental",
+      "startSeconds": 2339.18,
+      "evidence": "Obviously, Displacer Kitten",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Displacer Kitten",
+      "spokenText": "Displacer Kitten",
+      "role": "incidental",
+      "startSeconds": 2360.26,
+      "evidence": "way safer than Displacer Kitten",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Displacer Kitten",
+      "spokenText": "Displacer Kitten",
+      "role": "incidental",
+      "startSeconds": 2362.04,
+      "evidence": "mistakes of Displacer Kitten",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Restoration Angel",
+      "spokenText": "Resto Angel",
+      "role": "incidental",
+      "startSeconds": 2375.08,
+      "evidence": "if you have, like, a Resto Angel on the battlefield",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Restoration Angel",
+      "spokenText": "Resto Angel",
+      "role": "incidental",
+      "startSeconds": 2379.66,
+      "evidence": "Resto Angel and Flash Creatures",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Displacer Kitten",
+      "spokenText": "Displacer King",
+      "role": "incidental",
+      "startSeconds": 2385.16,
+      "evidence": "compared to Displacer King",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Samut, Tyrant of Naktamun",
+      "spokenText": "Samet Tyrant of Nakamon",
+      "role": "main",
+      "startSeconds": 2404.86,
+      "evidence": "Samet Tyrant of Nakamon",
+      "confidence": 0.93,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Samut, Tyrant of Naktamun",
+      "spokenText": "Samet",
+      "role": "main",
+      "startSeconds": 2429.52,
+      "evidence": "So Samet is just like the ultimate",
+      "confidence": 0.93,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "sword",
+      "role": "incidental",
+      "startSeconds": 2443.4,
+      "evidence": "if you sword something, it's going to die",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 2448.66,
+      "evidence": "If you cast a farewell",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blood Artist",
+      "spokenText": "blood artist",
+      "role": "incidental",
+      "startSeconds": 2451.8,
+      "evidence": "get a bunch of blood artist triggers",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Samut, Tyrant of Naktamun",
+      "spokenText": "Sam",
+      "role": "main",
+      "startSeconds": 2457.66,
+      "evidence": "So, Sam, my question for you guys",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Ristic Study",
+      "role": "incidental",
+      "startSeconds": 2477.36,
+      "evidence": "Savior from Ristic Study?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "six studies",
+      "role": "incidental",
+      "startSeconds": 2484.4,
+      "evidence": "six studies, slot meta",
+      "confidence": 0.76,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Samut, Tyrant of Naktamun",
+      "spokenText": "Samuels",
+      "role": "main",
+      "startSeconds": 2489.18,
+      "evidence": "you play Samuels",
+      "confidence": 0.89,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hexing Squelcher",
+      "spokenText": "hexing scratcher",
+      "role": "incidental",
+      "startSeconds": 2555.3,
+      "evidence": "kind of like hexing scratcher",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Krosan Grip",
+      "spokenText": "Crows and Grip",
+      "role": "incidental",
+      "startSeconds": 2577.36,
+      "evidence": "Crows and Grip",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Naturalize",
+      "spokenText": "naturalize",
+      "role": "incidental",
+      "startSeconds": 2578.7,
+      "evidence": "3 mana naturalize",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Counterbalance",
+      "spokenText": "counterbalance",
+      "role": "incidental",
+      "startSeconds": 2587.06,
+      "evidence": "counterbalance though",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Counterbalance",
+      "spokenText": "counterbalance",
+      "role": "incidental",
+      "startSeconds": 2589.28,
+      "evidence": "counterbalance that triggers",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Counterbalance",
+      "spokenText": "counterbalance",
+      "role": "incidental",
+      "startSeconds": 2593.76,
+      "evidence": "you just play counterbalance",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Samut, Tyrant of Naktamun",
+      "spokenText": "Samut",
+      "role": "main",
+      "startSeconds": 2595.72,
+      "evidence": "to beat Samut right?",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Counterbalance",
+      "spokenText": "Counterbalance",
+      "role": "incidental",
+      "startSeconds": 2598.64,
+      "evidence": "Counterbalance replaces Ristic Steady",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Ristic Steady",
+      "role": "incidental",
+      "startSeconds": 2598.64,
+      "evidence": "Counterbalance replaces Ristic Steady",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Counterbalance",
+      "spokenText": "counterbalances",
+      "role": "incidental",
+      "startSeconds": 2601.22,
+      "evidence": "Everyone just counterbalances each other",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Ristic Steady",
+      "role": "incidental",
+      "startSeconds": 2602.94,
+      "evidence": "Ristic Steady flop metal of Sam",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Samut, Tyrant of Naktamun",
+      "spokenText": "Sam",
+      "role": "main",
+      "startSeconds": 2602.94,
+      "evidence": "Ristic Steady flop metal of Sam",
+      "confidence": 0.62,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoy",
+      "role": "main",
+      "startSeconds": 2628.1,
+      "evidence": "Tarmogoy!",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Disa the Restless",
+      "spokenText": "decent",
+      "role": "incidental",
+      "startSeconds": 2647.82,
+      "evidence": "Tarmogoy tokens are too expensive for decent",
+      "confidence": 0.83,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoy",
+      "role": "main",
+      "startSeconds": 2647.82,
+      "evidence": "the Tarmogoy tokens are too expensive",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "main",
+      "startSeconds": 2653.68,
+      "evidence": "your unofficial tokens with the Tarmogoyf reprint",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Disa the Restless",
+      "spokenText": "Disa",
+      "role": "incidental",
+      "startSeconds": 2656.74,
+      "evidence": "for my Disa",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "main",
+      "startSeconds": 2658.1,
+      "evidence": "the Magic 30 version of Tarmogoyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "main",
+      "startSeconds": 2663.3,
+      "evidence": "Tarmogoyf tickets are too expensive",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "main",
+      "startSeconds": 2674.72,
+      "evidence": "ignore the Tarmogoyf until it is budget",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatehold Charm",
+      "spokenText": "Fate Hold Charm",
+      "role": "main",
+      "startSeconds": 2683.7,
+      "evidence": "Fate Hold Charm is going to be the one for me",
+      "confidence": 0.86,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Unsubstantiate",
+      "spokenText": "Unsubstantiate",
+      "role": "incidental",
+      "startSeconds": 2698.04,
+      "evidence": "I have an Unsubstantiate attached to this",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preordain",
+      "spokenText": "preordained",
+      "role": "incidental",
+      "startSeconds": 2713.68,
+      "evidence": "two mana weird preordained slash and substantiate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Unsubstantiate",
+      "spokenText": "and substantiate",
+      "role": "incidental",
+      "startSeconds": 2713.68,
+      "evidence": "preordained slash and substantiate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Geist of Saint Thalia",
+      "spokenText": "Geist of Saint Thalia",
+      "role": "main",
+      "startSeconds": 2741.06,
+      "evidence": "I'm going to go with Geist of Saint Thalia",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thalia, Guardian of Thraben",
+      "spokenText": "the original Thalia",
+      "role": "incidental",
+      "startSeconds": 2751.36,
+      "evidence": "the Echoverse version of the original Thalia",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gran-Gran",
+      "spokenText": "Grand Grand",
+      "role": "incidental",
+      "startSeconds": 2761.14,
+      "evidence": "outside of Grand Grand",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gran-Gran",
+      "spokenText": "Grand Grand",
+      "role": "incidental",
+      "startSeconds": 2763.7,
+      "evidence": "Grand Grand actually requires you to do some setup",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sapphire Medallion",
+      "spokenText": "the Medallion",
+      "role": "incidental",
+      "startSeconds": 2799.06,
+      "evidence": "play the Medallion and now your blue spell goes two less",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sphinx's Approach",
+      "spokenText": "Sphinx's approach",
+      "role": "incidental",
+      "startSeconds": 2819.22,
+      "evidence": "best Sphinx's approach commander",
+      "confidence": 0.91,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sphinx's Approach",
+      "spokenText": "Sphinx's approaches",
+      "role": "incidental",
+      "startSeconds": 2823.32,
+      "evidence": "Chain together them Sphinx's approaches",
+      "confidence": 0.91,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Etherium Sculptor",
+      "spokenText": "a Therium Sculptor",
+      "role": "incidental",
+      "startSeconds": 2830.86,
+      "evidence": "a Therium Sculptor for artifacts",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Baral, Chief of Compliance",
+      "spokenText": "Brawl",
+      "role": "incidental",
+      "startSeconds": 2833.26,
+      "evidence": "Brawl for instants",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Geist of Saint Thalia",
+      "spokenText": "Geys of St. Thalia",
+      "role": "main",
+      "startSeconds": 2834.5,
+      "evidence": "Geys of St. Thalia puts it all together",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "rampant growth",
+      "role": "incidental",
+      "startSeconds": 2855.08,
+      "evidence": "comes with the rampant growth",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stubborn Burrowfiend",
+      "spokenText": "studious firstborn",
+      "role": "incidental",
+      "startSeconds": 2855.08,
+      "evidence": "studious firstborn ... comes with the rampant growth",
+      "confidence": 0.95,
+      "modelName": "Studious Firstborn",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Heartwood Giant",
+      "spokenText": "hardwood crafter",
+      "role": "main",
+      "startSeconds": 2874.78,
+      "evidence": "it's hardwood crafter by the way elf artificer",
+      "confidence": 0.76,
+      "modelName": "Heartwood Crafter",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul Shatter",
+      "spokenText": "soul tether",
+      "role": "incidental",
+      "startSeconds": 2888.64,
+      "evidence": "the soul tether ... it is the prepared spell",
+      "confidence": 0.65,
+      "modelName": "Soul Tether",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stubborn Burrowfiend",
+      "spokenText": "studios firstborn",
+      "role": "incidental",
+      "startSeconds": 2913.68,
+      "evidence": "it's like studios firstborn",
+      "confidence": 0.95,
+      "modelName": "Studious Firstborn",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dora Milaje Elite",
+      "spokenText": "Dora Mile Elite",
+      "role": "incidental",
+      "startSeconds": 2931.24,
+      "evidence": "I added Dora Mile Elite",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Marneus Calgar",
+      "spokenText": "Manila's Karga",
+      "role": "incidental",
+      "startSeconds": 2936.3,
+      "evidence": "to my Manila's Karga deck",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skycloud Expanse",
+      "spokenText": "Sky Cloud",
+      "role": "incidental",
+      "startSeconds": 2941.78,
+      "evidence": "So I added Sky Cloud",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skycloud Expanse",
+      "spokenText": "Sky Cloud Expense",
+      "role": "incidental",
+      "startSeconds": 2945.78,
+      "evidence": "Sky Cloud Expense to my deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Faldorn, Dread Wolf Herald",
+      "spokenText": "Felden",
+      "role": "incidental",
+      "startSeconds": 2970.94,
+      "evidence": "It's good in Prosper or Felden",
+      "confidence": 0.89,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Prosper, Tome-Bound",
+      "spokenText": "Prosper",
+      "role": "incidental",
+      "startSeconds": 2970.94,
+      "evidence": "It's good in Prosper or Felden",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Prosper, Tome-Bound",
+      "spokenText": "Prosper",
+      "role": "incidental",
+      "startSeconds": 2977.16,
+      "evidence": "Prosper. It's good to cast stuff",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Primal Witchstalker",
+      "spokenText": "Primal Witchstalker",
+      "role": "main",
+      "startSeconds": 3025.96,
+      "evidence": "people aren't talking about Primal Witchstalker",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Meren of Clan Nel Toth",
+      "spokenText": "Maren",
+      "role": "incidental",
+      "startSeconds": 3052.78,
+      "evidence": "Madroltha, Sidisi, Maren",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Muldrotha, the Gravetide",
+      "spokenText": "Madroltha",
+      "role": "incidental",
+      "startSeconds": 3052.78,
+      "evidence": "some sort of Madroltha, Sidisi, Maren",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sidisi, Brood Tyrant",
+      "spokenText": "Sidisi",
+      "role": "incidental",
+      "startSeconds": 3052.78,
+      "evidence": "Madroltha, Sidisi, Maren ... fill your graveyard",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hearthhull, the Worldseed",
+      "spokenText": "Hearthul",
+      "role": "incidental",
+      "startSeconds": 3057.6,
+      "evidence": "land shenanigan deck ... Hearthul and Lord Windgrace",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lord Windgrace",
+      "spokenText": "Lord Windgrace",
+      "role": "incidental",
+      "startSeconds": 3057.6,
+      "evidence": "Hearthul and Lord Windgrace",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Strip Mine",
+      "spokenText": "strip mine",
+      "role": "incidental",
+      "startSeconds": 3072.04,
+      "evidence": "You can do weird strip mine shenanigans",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Strip Mine",
+      "spokenText": "strip mine",
+      "role": "incidental",
+      "startSeconds": 3073.98,
+      "evidence": "where you strip mine",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Primal Witchstalker",
+      "spokenText": "Primal Witch Stalker",
+      "role": "main",
+      "startSeconds": 3081.94,
+      "evidence": "Why are people not talking about Primal Witch Stalker?",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erinis, Gloom Stalker",
+      "spokenText": "Arinus",
+      "role": "incidental",
+      "startSeconds": 3097.78,
+      "evidence": "I have an Arinus",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scion of Halaster",
+      "spokenText": "sign of Halster",
+      "role": "incidental",
+      "startSeconds": 3097.78,
+      "evidence": "sign of Halster Golgari background commander",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Samut, Tyrant of Naktamun",
+      "spokenText": "samut tyrant of naktooman",
+      "role": "main",
+      "startSeconds": 3136.28,
+      "evidence": "pick for most overhyped samut tyrant of naktooman",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darksteel Angel",
+      "spokenText": "Darksteel Angel",
+      "role": "main",
+      "startSeconds": 3223.78,
+      "evidence": "but it's Darksteel Angel",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darksteel Angel",
+      "spokenText": "Darksteel Angel",
+      "role": "main",
+      "startSeconds": 3235.04,
+      "evidence": "Darksteel Angel, nine mana colorless",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Platinum Angel",
+      "spokenText": "platinum angel",
+      "role": "incidental",
+      "startSeconds": 3247.6,
+      "evidence": "it's basically a platinum angel",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Platinum Angel",
+      "spokenText": "Platinum Angel",
+      "role": "incidental",
+      "startSeconds": 3273.38,
+      "evidence": "the reason why Platinum Angel doesn't show up",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Path to Exile",
+      "spokenText": "Path to Exile",
+      "role": "incidental",
+      "startSeconds": 3275.72,
+      "evidence": "a Path to Exile gets rid of it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "Source of Plastus",
+      "role": "incidental",
+      "startSeconds": 3278.02,
+      "evidence": "Source of Plastus gets rid of it",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Princess Yue",
+      "spokenText": "Princess Hue",
+      "role": "incidental",
+      "startSeconds": 3300.06,
+      "evidence": "get into my Princess Hue and turning it into the moon",
+      "confidence": 0.92,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arcane Savant",
+      "spokenText": "Archangel Abyssin",
+      "role": "incidental",
+      "startSeconds": 3309.52,
+      "evidence": "We had like Archangel Abyssin last time",
+      "confidence": 0.94,
+      "modelName": "Archangel Avacyn",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arcane Savant",
+      "spokenText": "Abyssin",
+      "role": "incidental",
+      "startSeconds": 3319.82,
+      "evidence": "Morgan locked us up with a single Abyssin",
+      "confidence": 0.88,
+      "modelName": "Archangel Avacyn",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords",
+      "role": "incidental",
+      "startSeconds": 3327.74,
+      "evidence": "it also can get swords or whatever",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Machine God's Effigy",
+      "spokenText": "machine gods effigy",
+      "role": "incidental",
+      "startSeconds": 3339.96,
+      "evidence": "copy this with uh machine gods effigy",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Devoted Druid",
+      "spokenText": "devoted druid",
+      "role": "incidental",
+      "startSeconds": 3365.84,
+      "evidence": "does not work with devoted druid",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Devoted Druid",
+      "spokenText": "devoted druid",
+      "role": "incidental",
+      "startSeconds": 3368.38,
+      "evidence": "at first glance I was like oh devoted druid",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Primeval Titan",
+      "spokenText": "primetime",
+      "role": "incidental",
+      "startSeconds": 3385.92,
+      "evidence": "discussion because of primetime decks",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Conservator",
+      "spokenText": "Segurator",
+      "role": "main",
+      "startSeconds": 3395.76,
+      "evidence": "Segurator, four green mana",
+      "confidence": 0.5,
+      "modelName": "Segurator",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blasphemous Act",
+      "spokenText": "Blasphemous Act",
+      "role": "incidental",
+      "startSeconds": 3413.92,
+      "evidence": "the Blasphemous Act",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archdruid's Charm",
+      "spokenText": "Arsh Druid's Charm",
+      "role": "incidental",
+      "startSeconds": 3436.08,
+      "evidence": "on, like, the Arsh Druid's Charm",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bushwhack",
+      "spokenText": "Bushwag",
+      "role": "incidental",
+      "startSeconds": 3439.04,
+      "evidence": "Or Bushwag",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archdruid's Charm",
+      "spokenText": "Arsh Druid's Charm",
+      "role": "incidental",
+      "startSeconds": 3442.02,
+      "evidence": "Arsh Druid's Charm is kind of convincing me",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Emrakul, the Exigent Doom",
+      "spokenText": "Emrakul",
+      "role": "incidental",
+      "startSeconds": 3471.38,
+      "evidence": "I'm going to block their Emrakul or something",
+      "confidence": 0.56,
+      "modelName": "Emrakul, Exigent Doom",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blasphemous Act",
+      "spokenText": "Blasphemous Act",
+      "role": "incidental",
+      "startSeconds": 3473.9,
+      "evidence": "It's great with Blasphemous Act",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archdruid's Charm",
+      "spokenText": "Arcturge Charm",
+      "role": "incidental",
+      "startSeconds": 3476.54,
+      "evidence": "Good point about Arcturge Charm",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archdruid's Charm",
+      "spokenText": "Arcturge Charm",
+      "role": "incidental",
+      "startSeconds": 3479.44,
+      "evidence": "Arcturge Charm is a bite, not a fight",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Prey Upon",
+      "spokenText": "pray upon",
+      "role": "incidental",
+      "startSeconds": 3485.84,
+      "evidence": "i'm not gonna play pray upon",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Prey Upon",
+      "spokenText": "pray upon",
+      "role": "incidental",
+      "startSeconds": 3498.96,
+      "evidence": "i wouldn't play uh pray upon",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sekki, Seasons' Guide",
+      "spokenText": "Seki",
+      "role": "incidental",
+      "startSeconds": 3515.9,
+      "evidence": "My mono green Seki deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sekki, Seasons' Guide",
+      "spokenText": "Seki",
+      "role": "incidental",
+      "startSeconds": 3521,
+      "evidence": "so Seki takes damage to get the spirits",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Forest",
+      "spokenText": "for us",
+      "role": "incidental",
+      "startSeconds": 3534.36,
+      "evidence": "I would cut for us for those",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Forest",
+      "spokenText": "for us",
+      "role": "incidental",
+      "startSeconds": 3535.5,
+      "evidence": "I would cut for us for those",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Valakut, the Molten Pinnacle",
+      "spokenText": "Molten Pinnacle",
+      "role": "incidental",
+      "startSeconds": 3557.26,
+      "evidence": "Molten Pinnacle ... what's the land",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Valakut, the Molten Pinnacle",
+      "spokenText": "Velika",
+      "role": "incidental",
+      "startSeconds": 3561.22,
+      "evidence": "oh Velika",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Loyal Tutor",
+      "spokenText": "loyal tutor",
+      "role": "main",
+      "startSeconds": 3569.94,
+      "evidence": "to be loyal tutor",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mystical Tutor",
+      "spokenText": "Mystical tutor",
+      "role": "incidental",
+      "startSeconds": 3577.64,
+      "evidence": "Empiric tutor and Mystical tutor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vampiric Tutor",
+      "spokenText": "Empiric tutor",
+      "role": "incidental",
+      "startSeconds": 3577.64,
+      "evidence": "calls back to the Empiric tutor and Mystical tutor",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Loyal Tutor",
+      "spokenText": "loyal tutor",
+      "role": "main",
+      "startSeconds": 3601.48,
+      "evidence": "by all means, play your loyal tutor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace",
+      "spokenText": "Jace",
+      "role": "incidental",
+      "startSeconds": 3655.68,
+      "evidence": "it gets a new Jace",
+      "confidence": 0.64,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace",
+      "spokenText": "Jace",
+      "role": "incidental",
+      "startSeconds": 3657.56,
+      "evidence": "get the new Jace",
+      "confidence": 0.64,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace",
+      "spokenText": "Jace",
+      "role": "incidental",
+      "startSeconds": 3662.42,
+      "evidence": "We really want you, Jace",
+      "confidence": 0.61,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace",
+      "spokenText": "Jace",
+      "role": "incidental",
+      "startSeconds": 3664.5,
+      "evidence": "if Jace is still good",
+      "confidence": 0.64,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hall of Echoes",
+      "spokenText": "Hall of Echoes",
+      "role": "main",
+      "startSeconds": 3731.9,
+      "evidence": "going to name them both. Hall of Echoes",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Variable Solutions",
+      "spokenText": "Variable Chaser",
+      "role": "main",
+      "startSeconds": 3733.74,
+      "evidence": "Variable Chaser. That's it",
+      "confidence": 0.98,
+      "modelName": "Variable Chaser",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Variable Solutions",
+      "spokenText": "Variable Chaser",
+      "role": "main",
+      "startSeconds": 3735.84,
+      "evidence": "what one's Variable Chaser?",
+      "confidence": 0.98,
+      "modelName": "Variable Chaser",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wheel of Fortune",
+      "spokenText": "wheel of fortune",
+      "role": "incidental",
+      "startSeconds": 3749.94,
+      "evidence": "they called back to wheel of fortune",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hall of Echoes",
+      "spokenText": "hall of echoes",
+      "role": "main",
+      "startSeconds": 3764.3,
+      "evidence": "it's hall of echoes which is that creature land",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hall of Echoes",
+      "spokenText": "hall of echoes",
+      "role": "main",
+      "startSeconds": 3779.84,
+      "evidence": "the hall of echoes is so much deeper",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Etali, Primal Storm",
+      "spokenText": "italics",
+      "role": "incidental",
+      "startSeconds": 3796.48,
+      "evidence": "if you want to do infinite italics",
+      "confidence": 0.89,
+      "modelName": "Etali, Primal Conqueror",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gyruda, Doom of Depths",
+      "spokenText": "gerudas",
+      "role": "incidental",
+      "startSeconds": 3796.48,
+      "evidence": "infinite gerudas",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sakashima of a Thousand Faces",
+      "spokenText": "Sakashima",
+      "role": "incidental",
+      "startSeconds": 3804.98,
+      "evidence": "No Sakashima needed",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vivi Ornitier",
+      "spokenText": "VV",
+      "role": "incidental",
+      "startSeconds": 3837.86,
+      "evidence": "doubling up your VV",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vindictive Triumph",
+      "spokenText": "Vindictive Triumph",
+      "role": "main",
+      "startSeconds": 3888.6,
+      "evidence": "Vindictive Triumph",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "source supply of shares",
+      "role": "incidental",
+      "startSeconds": 3902.16,
+      "evidence": "three mana is a lot for just a source supply of shares effect",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace",
+      "spokenText": "jaces",
+      "role": "incidental",
+      "startSeconds": 3911.98,
+      "evidence": "certain jaces that need to get removed",
+      "confidence": 0.6,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Generous Gift",
+      "spokenText": "generous gift",
+      "role": "incidental",
+      "startSeconds": 3960.36,
+      "evidence": "It's like a generous gift",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eternal Witness",
+      "spokenText": "eternal witnesses",
+      "role": "incidental",
+      "startSeconds": 3981.24,
+      "evidence": "and eternal witnesses",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Helpful Hunter",
+      "spokenText": "helpful hunters",
+      "role": "incidental",
+      "startSeconds": 3981.24,
+      "evidence": "premium removal on like helpful hunters",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erode",
+      "spokenText": "a road",
+      "role": "incidental",
+      "startSeconds": 4034.34,
+      "evidence": "a road, right?",
+      "confidence": 0.73,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Generous Gift",
+      "spokenText": "Generous Gift",
+      "role": "incidental",
+      "startSeconds": 4044.42,
+      "evidence": "you all run Generous Gift",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Helpful Hunter",
+      "spokenText": "helpful Hunter",
+      "role": "incidental",
+      "startSeconds": 4050.56,
+      "evidence": "cast it to get the helpful Hunter",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Platinum Angel",
+      "spokenText": "Platinum Angel",
+      "role": "incidental",
+      "startSeconds": 4058.08,
+      "evidence": "for the Platinum Angel or whatever",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lich's Relic",
+      "spokenText": "Lich's Relic",
+      "role": "main",
+      "startSeconds": 4086.56,
+      "evidence": "It's Lich's Relic",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mishra, Eminent One",
+      "spokenText": "Mishra",
+      "role": "incidental",
+      "startSeconds": 4111.96,
+      "evidence": "Mishra and then you copy this",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul Shatter",
+      "spokenText": "soul shatter",
+      "role": "incidental",
+      "startSeconds": 4192.64,
+      "evidence": "better than soul shatter",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lonis, Cryptozoologist",
+      "spokenText": "Lonez",
+      "role": "incidental",
+      "startSeconds": 4234.58,
+      "evidence": "but in Lonez, you want to destroy it",
+      "confidence": 0.62,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Way of the Mentor",
+      "spokenText": "way of the mentor",
+      "role": "incidental",
+      "startSeconds": 4272.76,
+      "evidence": "shout out some of the way of the mentor",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Way of the Necromancer",
+      "spokenText": "way of the necromancer",
+      "role": "incidental",
+      "startSeconds": 4272.76,
+      "evidence": "way of the necromancer cycle",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Germinate Recruits",
+      "spokenText": "Germinate Recruits",
+      "role": "main",
+      "startSeconds": 4286.68,
+      "evidence": "not getting much hype, is Germinate Recruits",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Germinate Recruits",
+      "spokenText": "Germinate Recruits",
+      "role": "main",
+      "startSeconds": 4295.36,
+      "evidence": "Germinate Recruits, three-minute instinct",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Germinate Recruits",
+      "spokenText": "Germinate Recruits",
+      "role": "main",
+      "startSeconds": 4305.12,
+      "evidence": "So Germinate Recruits, my first thought",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul Warden",
+      "spokenText": "Soul Warden",
+      "role": "incidental",
+      "startSeconds": 4308.98,
+      "evidence": "playing a bunch of Soul Warden",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul's Attendant",
+      "spokenText": "Soul Attendance",
+      "role": "incidental",
+      "startSeconds": 4308.98,
+      "evidence": "Soul Warden, Soul Attendance",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ajani's Pridemate",
+      "spokenText": "a Johnny Pride mate's",
+      "role": "incidental",
+      "startSeconds": 4315.18,
+      "evidence": "a Johnny Pride mate's effect",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul Warden",
+      "spokenText": "soul wardens",
+      "role": "incidental",
+      "startSeconds": 4323.5,
+      "evidence": "trigger all of your soul wardens",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Beacon of Immortality",
+      "spokenText": "beacon of immortality",
+      "role": "incidental",
+      "startSeconds": 4330,
+      "evidence": "we have like beacon of immortality",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Beacon of Immortality",
+      "spokenText": "beacon of immortality",
+      "role": "incidental",
+      "startSeconds": 4334.18,
+      "evidence": "beacon of immortality",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "White Sun's Zenith",
+      "spokenText": "White Sun Zenith",
+      "role": "incidental",
+      "startSeconds": 4347.78,
+      "evidence": "with a White Sun Zenith",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Feed the Clan",
+      "spokenText": "Feed the Clan",
+      "role": "incidental",
+      "startSeconds": 4355.96,
+      "evidence": "gain you 10 life for two mana, like Feed the Clan",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul Warden",
+      "spokenText": "Soul Warden",
+      "role": "incidental",
+      "startSeconds": 4369.58,
+      "evidence": "a bunch of Soul Warden",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Germinate Recruits",
+      "spokenText": "Germinate Recruits",
+      "role": "main",
+      "startSeconds": 4375.02,
+      "evidence": "what do you guys think about Germinate Recruits?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nourishing Shoal",
+      "spokenText": "Nourishing Shore",
+      "role": "incidental",
+      "startSeconds": 4421.18,
+      "evidence": "did you pitch this with Nourishing Shore?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nourishing Shoal",
+      "spokenText": "Nourishing Shore",
+      "role": "incidental",
+      "startSeconds": 4426.52,
+      "evidence": "I did with Nourishing Shore in Modern",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Martyr of Sands",
+      "spokenText": "Martyr of Sands",
+      "role": "incidental",
+      "startSeconds": 4443.12,
+      "evidence": "probably better with Martyr of Sands",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul Warden",
+      "spokenText": "Soul Worms",
+      "role": "incidental",
+      "startSeconds": 4451.42,
+      "evidence": "I don't think with Soul Worms",
+      "confidence": 0.92,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Whip of Erebos",
+      "spokenText": "Whip of Erebos",
+      "role": "incidental",
+      "startSeconds": 4463,
+      "evidence": "You just do Whip of Erebos",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ayli, Eternal Pilgrim",
+      "spokenText": "alia",
+      "role": "incidental",
+      "startSeconds": 4487.06,
+      "evidence": "in the alia deck",
+      "confidence": 0.67,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teferi's Reproach",
+      "spokenText": "Teferi's Reproach",
+      "role": "main",
+      "startSeconds": 4531.68,
+      "evidence": "I love Teferi's Reproach",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teferi's Protection",
+      "spokenText": "teferi's protection",
+      "role": "incidental",
+      "startSeconds": 4584.06,
+      "evidence": "a teferi's protection but you have to do it to your opponent",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Venser, Fervent Forger",
+      "spokenText": "Venser",
+      "role": "main",
+      "startSeconds": 4614.38,
+      "evidence": "Venser is back, baby",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Venser, Fervent Forger",
+      "spokenText": "Venser, Fervent Forger",
+      "role": "main",
+      "startSeconds": 4622.68,
+      "evidence": "Venser, Fervent Forger, six mana red",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Clive's Hideaway",
+      "spokenText": "clive",
+      "role": "incidental",
+      "startSeconds": 4699.48,
+      "evidence": "into my clive deck",
+      "confidence": 0.99,
+      "modelName": "Clive, Ifrit's Dominant",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Venser, Fervent Forger",
+      "spokenText": "vencer",
+      "role": "main",
+      "startSeconds": 4705.42,
+      "evidence": "any clone that can copy vencer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Venser, Fervent Forger",
+      "spokenText": "vencers",
+      "role": "main",
+      "startSeconds": 4711.44,
+      "evidence": "vencers and with haze",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cursed Mirror",
+      "spokenText": "curse mirror",
+      "role": "incidental",
+      "startSeconds": 4732.62,
+      "evidence": "when it enters curse mirror right",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cursed Mirror",
+      "spokenText": "curse mirror",
+      "role": "incidental",
+      "startSeconds": 4742.86,
+      "evidence": "curse mirror you got him",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Improvisation Capstone",
+      "spokenText": "improvisation capstone",
+      "role": "incidental",
+      "startSeconds": 4779.12,
+      "evidence": "when uh improvisation capstone came into the format",
+      "confidence": 0.73,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Creative Technique",
+      "spokenText": "improvisation technique",
+      "role": "incidental",
+      "startSeconds": 4793.08,
+      "evidence": "copy your opponent's improvisation technique twice",
+      "confidence": 0.73,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Glass Golem",
+      "spokenText": "glass pool mimics",
+      "role": "incidental",
+      "startSeconds": 4831.02,
+      "evidence": "lot of glass pool mimics",
+      "confidence": 1,
+      "modelName": "Glasspool Mimic",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dack Fayden",
+      "spokenText": "Dak Faden",
+      "role": "incidental",
+      "startSeconds": 4882.82,
+      "evidence": "I was going to go with Dak Faden",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dack Fayden",
+      "spokenText": "Dak Fading",
+      "role": "incidental",
+      "startSeconds": 4884.84,
+      "evidence": "we already talked about Dak Fading",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dack Fayden",
+      "spokenText": "Dak Faden",
+      "role": "incidental",
+      "startSeconds": 4886.14,
+      "evidence": "the white Dak Faden is really cool",
+      "confidence": 0.72,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Loot, the Anomaly",
+      "spokenText": "loot the anomaly",
+      "role": "main",
+      "startSeconds": 4896.1,
+      "evidence": "in loot the anomaly",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Loot, the Anomaly",
+      "spokenText": "loot the anomaly",
+      "role": "main",
+      "startSeconds": 4900.52,
+      "evidence": "So loot the anomaly",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Loot, the Anomaly",
+      "spokenText": "loot",
+      "role": "main",
+      "startSeconds": 4931.1,
+      "evidence": "this loot the whole goal of it is to make its power as low as possible",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hyalopterous Lemure",
+      "spokenText": "Heloparous Lemur",
+      "role": "incidental",
+      "startSeconds": 4956.1,
+      "evidence": "a combo with, oh, the Heloparous Lemur",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Agatha's Soul Cauldron",
+      "spokenText": "egg at the Soul Cauldron",
+      "role": "incidental",
+      "startSeconds": 4968.94,
+      "evidence": "if you egg at the Soul Cauldron on the loot",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Loot, the Anomaly",
+      "spokenText": "loot",
+      "role": "main",
+      "startSeconds": 4968.94,
+      "evidence": "Soul Cauldron on the loot",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Loot, the Anomaly",
+      "spokenText": "loot",
+      "role": "main",
+      "startSeconds": 4978.86,
+      "evidence": "What do you think of seeing this version of loot?",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Loot, the Anomaly",
+      "spokenText": "loot",
+      "role": "main",
+      "startSeconds": 5022.42,
+      "evidence": "with loot",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wasp, Shrinking Savior",
+      "spokenText": "Wasp Shrinking Savior",
+      "role": "incidental",
+      "startSeconds": 5027.06,
+      "evidence": "the Wasp Shrinking Savior",
+      "confidence": 0.91,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Meishin, the Mind Cage",
+      "spokenText": "Mytion",
+      "role": "incidental",
+      "startSeconds": 5029.06,
+      "evidence": "I dug up my Mytion",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "So Tiny",
+      "spokenText": "SoTinies",
+      "role": "incidental",
+      "startSeconds": 5034.46,
+      "evidence": "all of the SoTinies",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Loot, the Anomaly",
+      "spokenText": "loot",
+      "role": "main",
+      "startSeconds": 5043.34,
+      "evidence": "I want to build loot",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [
+    "Conservator",
+    "Dack Fayden, Helping Hand",
+    "Darksteel Angel",
+    "Emrakul, the Exigent Doom",
+    "Fatehold Charm",
+    "Flickering Hound",
+    "Geist of Saint Thalia",
+    "Germinate Recruits",
+    "Hall of Echoes",
+    "Heartwood Giant",
+    "Ingris Stingerquill",
+    "Lich's Relic",
+    "Loot, the Anomaly",
+    "Loyal Tutor",
+    "Nissa, Leyline Tamer",
+    "Pheres-Band Raiders",
+    "Primal Witchstalker",
+    "Samut, Tyrant of Naktamun",
+    "Simulacrum Shaper",
+    "Solemn Simulacrum",
+    "Tarmogoyf",
+    "Teferi's Reproach",
+    "The Theorist, Jace Beleren",
+    "The Ur-Sphinx",
+    "Variable Solutions",
+    "Venser, Fervent Forger",
+    "Vindictive Triumph"
+  ],
+  "incidentalCards": [
+    "Aesi, Tyrant of Gyre Strait",
+    "Agatha's Soul Cauldron",
+    "Ajani's Pridemate",
+    "Ancient Tomb",
+    "Arbor Elf",
+    "Arcane Savant",
+    "Archdruid's Charm",
+    "Ares, God of War",
+    "Arjun, the Shifting Flame",
+    "Ayli, Eternal Pilgrim",
+    "Baral, Chief of Compliance",
+    "Beacon of Immortality",
+    "Beastcaller Savant",
+    "Blasphemous Act",
+    "Blood Artist",
+    "Brago, King Eternal",
+    "Bushwhack",
+    "Chandra's Spitfire",
+    "Clifftop Lookout",
+    "Clive's Hideaway",
+    "Cloudstone Curio",
+    "Concentrate",
+    "Counterbalance",
+    "Creative Technique",
+    "Cultivate",
+    "Cursed Mirror",
+    "Dack Fayden",
+    "Devoted Druid",
+    "Disa the Restless",
+    "Displacer Kitten",
+    "Dora Milaje Elite",
+    "Eldritch Evolution",
+    "Erinis, Gloom Stalker",
+    "Erode",
+    "Etali, Primal Storm",
+    "Eternal Witness",
+    "Etherium Sculptor",
+    "Evolutionary Leap",
+    "Faldorn, Dread Wolf Herald",
+    "Farewell",
+    "Feed the Clan",
+    "Flickerwisp",
+    "Forest",
+    "Generous Gift",
+    "Ghost Vacuum",
+    "Glass Golem",
+    "Goblin Rabblemaster",
+    "Gran-Gran",
+    "Gyruda, Doom of Depths",
+    "Hearthhull, the Worldseed",
+    "Hellrider",
+    "Helpful Hunter",
+    "Hexing Squelcher",
+    "Hyalopterous Lemure",
+    "Hypnotic Specter",
+    "Immortal Obligation",
+    "Improvisation Capstone",
+    "Jace",
+    "Krosan Grip",
+    "Lonis, Cryptozoologist",
+    "Lord Windgrace",
+    "Machine God's Effigy",
+    "Maelstrom Wanderer",
+    "Marneus Calgar",
+    "Martyr of Sands",
+    "Meishin, the Mind Cage",
+    "Meren of Clan Nel Toth",
+    "Mishra, Eminent One",
+    "Muldrotha, the Gravetide",
+    "Mulldrifter",
+    "Mutable Explorer",
+    "Mystical Tutor",
+    "Naturalize",
+    "Neoform",
+    "Nourishing Shoal",
+    "Omnath, Locus of Creation",
+    "Open the Way",
+    "Panharmonicon",
+    "Pantlaza, Sun-Favored",
+    "Path to Exile",
+    "Platinum Angel",
+    "Polymorph",
+    "Preordain",
+    "Prey Upon",
+    "Primeval Titan",
+    "Princess Yue",
+    "Prosper, Tome-Bound",
+    "Rampant Growth",
+    "Redemption Arc",
+    "Restoration Angel",
+    "Rhystic Study",
+    "Roxanne, Starfall Savant",
+    "Sakashima of a Thousand Faces",
+    "Sapphire Medallion",
+    "Scion of Halaster",
+    "Sekki, Seasons' Guide",
+    "Shrieking Drake",
+    "Sidisi, Brood Tyrant",
+    "Skycloud Expanse",
+    "So Tiny",
+    "Sol Ring",
+    "Soul Shatter",
+    "Soul Warden",
+    "Soul's Attendant",
+    "Sphinx's Approach",
+    "Stigma Lasher",
+    "Strip Mine",
+    "Stubborn Burrowfiend",
+    "Swords to Plowshares",
+    "Tatyova, Benthic Druid",
+    "Teferi's Protection",
+    "Thalia, Guardian of Thraben",
+    "The Ur-Dragon",
+    "Thief of Sanity",
+    "Ulamog's Crusher",
+    "Unesh, Criosphinx Sovereign",
+    "Unsubstantiate",
+    "Valakut, the Molten Pinnacle",
+    "Vampiric Tutor",
+    "Virtuous Charge",
+    "Vivi Ornitier",
+    "Wasp, Shrinking Savior",
+    "Way of the Mentor",
+    "Way of the Necromancer",
+    "Wayfarer's Bauble",
+    "Wheel of Fortune",
+    "Whip of Erebos",
+    "White Sun's Zenith",
+    "Wood Elves"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "validation": {
+    "matchedMainCards": [
+      "Conservator",
+      "Dack Fayden, Helping Hand",
+      "Darksteel Angel",
+      "Emrakul, the Exigent Doom",
+      "Fatehold Charm",
+      "Flickering Hound",
+      "Geist of Saint Thalia",
+      "Germinate Recruits",
+      "Hall of Echoes",
+      "Heartwood Giant",
+      "Ingris Stingerquill",
+      "Lich's Relic",
+      "Loot, the Anomaly",
+      "Loyal Tutor",
+      "Nissa, Leyline Tamer",
+      "Pheres-Band Raiders",
+      "Primal Witchstalker",
+      "Samut, Tyrant of Naktamun",
+      "Simulacrum Shaper",
+      "Solemn Simulacrum",
+      "Tarmogoyf",
+      "Teferi's Reproach",
+      "The Theorist, Jace Beleren",
+      "The Ur-Sphinx",
+      "Variable Solutions",
+      "Venser, Fervent Forger",
+      "Vindictive Triumph"
+    ],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Aesi, Tyrant of Gyre Strait",
+      "Agatha's Soul Cauldron",
+      "Ajani's Pridemate",
+      "Ancient Tomb",
+      "Arbor Elf",
+      "Arcane Savant",
+      "Archdruid's Charm",
+      "Ares, God of War",
+      "Arjun, the Shifting Flame",
+      "Ayli, Eternal Pilgrim",
+      "Baral, Chief of Compliance",
+      "Beacon of Immortality",
+      "Beastcaller Savant",
+      "Blasphemous Act",
+      "Blood Artist",
+      "Brago, King Eternal",
+      "Bushwhack",
+      "Chandra's Spitfire",
+      "Clifftop Lookout",
+      "Clive's Hideaway",
+      "Cloudstone Curio",
+      "Concentrate",
+      "Counterbalance",
+      "Creative Technique",
+      "Cultivate",
+      "Cursed Mirror",
+      "Dack Fayden",
+      "Devoted Druid",
+      "Disa the Restless",
+      "Displacer Kitten",
+      "Dora Milaje Elite",
+      "Eldritch Evolution",
+      "Erinis, Gloom Stalker",
+      "Erode",
+      "Etali, Primal Storm",
+      "Eternal Witness",
+      "Etherium Sculptor",
+      "Evolutionary Leap",
+      "Faldorn, Dread Wolf Herald",
+      "Farewell",
+      "Feed the Clan",
+      "Flickerwisp",
+      "Forest",
+      "Generous Gift",
+      "Ghost Vacuum",
+      "Glass Golem",
+      "Goblin Rabblemaster",
+      "Gran-Gran",
+      "Gyruda, Doom of Depths",
+      "Hearthhull, the Worldseed",
+      "Hellrider",
+      "Helpful Hunter",
+      "Hexing Squelcher",
+      "Hyalopterous Lemure",
+      "Hypnotic Specter",
+      "Immortal Obligation",
+      "Improvisation Capstone",
+      "Jace",
+      "Krosan Grip",
+      "Lonis, Cryptozoologist",
+      "Lord Windgrace",
+      "Machine God's Effigy",
+      "Maelstrom Wanderer",
+      "Marneus Calgar",
+      "Martyr of Sands",
+      "Meishin, the Mind Cage",
+      "Meren of Clan Nel Toth",
+      "Mishra, Eminent One",
+      "Muldrotha, the Gravetide",
+      "Mulldrifter",
+      "Mutable Explorer",
+      "Mystical Tutor",
+      "Naturalize",
+      "Neoform",
+      "Nourishing Shoal",
+      "Omnath, Locus of Creation",
+      "Open the Way",
+      "Panharmonicon",
+      "Pantlaza, Sun-Favored",
+      "Path to Exile",
+      "Platinum Angel",
+      "Polymorph",
+      "Preordain",
+      "Prey Upon",
+      "Primeval Titan",
+      "Princess Yue",
+      "Prosper, Tome-Bound",
+      "Rampant Growth",
+      "Redemption Arc",
+      "Restoration Angel",
+      "Rhystic Study",
+      "Roxanne, Starfall Savant",
+      "Sakashima of a Thousand Faces",
+      "Sapphire Medallion",
+      "Scion of Halaster",
+      "Sekki, Seasons' Guide",
+      "Shrieking Drake",
+      "Sidisi, Brood Tyrant",
+      "Skycloud Expanse",
+      "So Tiny",
+      "Sol Ring",
+      "Soul Shatter",
+      "Soul Warden",
+      "Soul's Attendant",
+      "Sphinx's Approach",
+      "Stigma Lasher",
+      "Strip Mine",
+      "Stubborn Burrowfiend",
+      "Swords to Plowshares",
+      "Tatyova, Benthic Druid",
+      "Teferi's Protection",
+      "Thalia, Guardian of Thraben",
+      "The Ur-Dragon",
+      "Thief of Sanity",
+      "Ulamog's Crusher",
+      "Unesh, Criosphinx Sovereign",
+      "Unsubstantiate",
+      "Valakut, the Molten Pinnacle",
+      "Vampiric Tutor",
+      "Virtuous Charge",
+      "Vivi Ornitier",
+      "Wasp, Shrinking Savior",
+      "Way of the Mentor",
+      "Way of the Necromancer",
+      "Wayfarer's Bauble",
+      "Wheel of Fortune",
+      "Whip of Erebos",
+      "White Sun's Zenith",
+      "Wood Elves"
+    ],
+    "unmatchedIncidentalCards": []
+  },
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 51,
+    "unresolvedMentions": []
+  }
+}

@@ -1,0 +1,1537 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Commander Deckbuilding Traps",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 140.14,
+      "evidence": "Tomer ragging on crimp for Deadpool",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 152.98,
+      "evidence": "we aren't the only ones who hate Deadpool",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 156.16,
+      "evidence": "how people hate Deadpool",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "deadpool",
+      "role": "incidental",
+      "startSeconds": 175.1,
+      "evidence": "putting deadpool in your deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "urdragon",
+      "role": "incidental",
+      "startSeconds": 216.42,
+      "evidence": "the 32 land urdragon player",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 419.14,
+      "evidence": "just ship back soul ring",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soaring",
+      "role": "incidental",
+      "startSeconds": 513.34,
+      "evidence": "then start with a soaring",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Omnath, Locus of Creation",
+      "spokenText": "Omnath",
+      "role": "incidental",
+      "startSeconds": 537.66,
+      "evidence": "my Omnath deck is four color",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jadar, Ghoulcaller of Nephalia",
+      "spokenText": "jada",
+      "role": "incidental",
+      "startSeconds": 575.2,
+      "evidence": "loners and jada ... two mana commanders",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lonis, Cryptozoologist",
+      "spokenText": "loners",
+      "role": "incidental",
+      "startSeconds": 575.2,
+      "evidence": "i have loners and jada",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jadar, Ghoulcaller of Nephalia",
+      "spokenText": "Jadah",
+      "role": "incidental",
+      "startSeconds": 599.72,
+      "evidence": "lower limit in Jadah",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lonis, Cryptozoologist",
+      "spokenText": "Lowness",
+      "role": "incidental",
+      "startSeconds": 601.16,
+      "evidence": "in Lowness probably the same",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Llanowar Elves",
+      "spokenText": "Lanoa as",
+      "role": "incidental",
+      "startSeconds": 609.38,
+      "evidence": "Lanoa as Birds of Paradise and Delighted Halfling",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Sol Ring",
+      "role": "incidental",
+      "startSeconds": 609.38,
+      "evidence": "Sol Ring in one",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Birds of Paradise",
+      "spokenText": "Birds of Paradise",
+      "role": "incidental",
+      "startSeconds": 611.44,
+      "evidence": "Birds of Paradise and Delighted Halfling",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Delighted Halfling",
+      "spokenText": "Delighted Halfling",
+      "role": "incidental",
+      "startSeconds": 611.44,
+      "evidence": "Birds of Paradise and Delighted Halfling",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jadar, Ghoulcaller of Nephalia",
+      "spokenText": "Jadah",
+      "role": "incidental",
+      "startSeconds": 613.48,
+      "evidence": "then in Jadah I have Dark Ritual",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lonis, Cryptozoologist",
+      "spokenText": "Lowness",
+      "role": "incidental",
+      "startSeconds": 613.48,
+      "evidence": "in Lowness and then in Jadah",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Ritual",
+      "spokenText": "Dark Ritual",
+      "role": "incidental",
+      "startSeconds": 617.4,
+      "evidence": "Dark Ritual",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Culling the Weak",
+      "spokenText": "Calling the Weak",
+      "role": "incidental",
+      "startSeconds": 620.78,
+      "evidence": "Calling the Weak once I have a creature",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zinnia, Valley's Voice",
+      "spokenText": "Zinnia",
+      "role": "incidental",
+      "startSeconds": 645.92,
+      "evidence": "except for Zinnia",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Edric, Spymaster of Trest",
+      "spokenText": "Idric",
+      "role": "incidental",
+      "startSeconds": 733.62,
+      "evidence": "when I played Idric a lot",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brainstorm",
+      "spokenText": "Brainstorm",
+      "role": "incidental",
+      "startSeconds": 859.84,
+      "evidence": "like a Brainstorm or a Ponder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ponder",
+      "spokenText": "Ponder",
+      "role": "incidental",
+      "startSeconds": 859.84,
+      "evidence": "like a Brainstorm or a Ponder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ponder",
+      "spokenText": "Ponder",
+      "role": "incidental",
+      "startSeconds": 866.7,
+      "evidence": "you're going to have Preordain, Ponder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preordain",
+      "spokenText": "Preordain",
+      "role": "incidental",
+      "startSeconds": 866.7,
+      "evidence": "you're going to have Preordain, Ponder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brainstorm",
+      "spokenText": "Brainstorm",
+      "role": "incidental",
+      "startSeconds": 870.64,
+      "evidence": "Brainstorm, all the cheap",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Faithless Looting",
+      "spokenText": "Faithless looting",
+      "role": "incidental",
+      "startSeconds": 870.64,
+      "evidence": "Faithless looting, all the cheap one-minute cantrips",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ponder",
+      "spokenText": "Ponderous",
+      "role": "incidental",
+      "startSeconds": 927.68,
+      "evidence": "like the Ponderous and Prioritans",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preordain",
+      "spokenText": "Prioritans",
+      "role": "incidental",
+      "startSeconds": 927.68,
+      "evidence": "like the Ponderous and Prioritans",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Edric, Spymaster of Trest",
+      "spokenText": "E-Direct",
+      "role": "incidental",
+      "startSeconds": 952,
+      "evidence": "If you're playing E-Direct",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jadar, Ghoulcaller of Nephalia",
+      "spokenText": "jedi",
+      "role": "incidental",
+      "startSeconds": 995.76,
+      "evidence": "i also play in jedi i draw so many cards",
+      "confidence": 0.89,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rogue's Passage",
+      "spokenText": "Rogue's Passage",
+      "role": "incidental",
+      "startSeconds": 1155.34,
+      "evidence": "a Rogue's Passage that makes it unblockable",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reliquary Tower",
+      "spokenText": "Reliquary Tower",
+      "role": "incidental",
+      "startSeconds": 1157.5,
+      "evidence": "a Reliquary Tower that gives you no max hand size",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rogue's Passage",
+      "spokenText": "Rogue's Passage",
+      "role": "incidental",
+      "startSeconds": 1196.78,
+      "evidence": "Rogue's Passage I actually love",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Talon Gates of Madara",
+      "spokenText": "talon gates of madara",
+      "role": "incidental",
+      "startSeconds": 1210.28,
+      "evidence": "a game changer level like talon gates of madara",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "castle ardenvale",
+      "role": "incidental",
+      "startSeconds": 1222,
+      "evidence": "oh my god castle ardenvale so good",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "castle ardenvale",
+      "role": "incidental",
+      "startSeconds": 1227.26,
+      "evidence": "castle ardenvale is absolute trash",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Otawara, Soaring City",
+      "spokenText": "Otavara",
+      "role": "incidental",
+      "startSeconds": 1294.78,
+      "evidence": "you could just play Otavara",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "Castle Ardenvale",
+      "role": "incidental",
+      "startSeconds": 1299.36,
+      "evidence": "Castle Ardenvale",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "Castle Ardenvale",
+      "role": "incidental",
+      "startSeconds": 1301.46,
+      "evidence": "maybe not Castle Ardenvale",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "Castle Ardenvale",
+      "role": "incidental",
+      "startSeconds": 1305.56,
+      "evidence": "Castle Ardenvale is still sick",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Garenbrig",
+      "spokenText": "Castle Garenbriggs",
+      "role": "incidental",
+      "startSeconds": 1307.34,
+      "evidence": "Castle Garenbriggs were attacked",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Garenbrig",
+      "spokenText": "Garenbriggs",
+      "role": "incidental",
+      "startSeconds": 1308.96,
+      "evidence": "Garenbriggs is crazy",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Locthwain",
+      "spokenText": "Lock Twain",
+      "role": "incidental",
+      "startSeconds": 1310.92,
+      "evidence": "Lock Twain is still good",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ba Sing Se",
+      "spokenText": "Basin Se",
+      "role": "incidental",
+      "startSeconds": 1313.74,
+      "evidence": "The Basin Se is pretty cool, especially with Fetchlands",
+      "confidence": 0.91,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hall of Echoes",
+      "spokenText": "all of echoes",
+      "role": "incidental",
+      "startSeconds": 1352.12,
+      "evidence": "good utility all of echoes the new one",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hall of Echoes",
+      "spokenText": "hollow echoes",
+      "role": "incidental",
+      "startSeconds": 1359.48,
+      "evidence": "i like hollow echoes",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shifting Woodland",
+      "spokenText": "shifting woodland",
+      "role": "incidental",
+      "startSeconds": 1366.16,
+      "evidence": "also like shifting woodland",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bojuka Bog",
+      "spokenText": "Bajookabog",
+      "role": "incidental",
+      "startSeconds": 1410.5,
+      "evidence": "Bajookabog because I have to",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Valakut, the Molten Pinnacle",
+      "spokenText": "Valakut",
+      "role": "incidental",
+      "startSeconds": 1413.48,
+      "evidence": "Valakut if I'm mono-red",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cryptic Command",
+      "spokenText": "cryptics",
+      "role": "incidental",
+      "startSeconds": 1422.76,
+      "evidence": "casted enough cryptics",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Obliterator",
+      "spokenText": "pharisee and obliterators",
+      "role": "incidental",
+      "startSeconds": 1424.02,
+      "evidence": "and pharisee and obliterators",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bonders' Enclave",
+      "spokenText": "Bonders, Enclave",
+      "role": "incidental",
+      "startSeconds": 1451.86,
+      "evidence": "I used to play a lot of, like, Bonders, Enclave",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hall of Echoes",
+      "spokenText": "Hall of Echoes",
+      "role": "incidental",
+      "startSeconds": 1527.3,
+      "evidence": "And even maybe Hall of Echoes",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Urborg, Tomb of Yawgmoth",
+      "spokenText": "Urborg",
+      "role": "incidental",
+      "startSeconds": 1538.04,
+      "evidence": "decks without Yavi Maya and Urborg",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yavimaya, Cradle of Growth",
+      "spokenText": "Yavi Maya",
+      "role": "incidental",
+      "startSeconds": 1538.04,
+      "evidence": "decks without Yavi Maya and Urborg",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "War Room",
+      "spokenText": "war room",
+      "role": "incidental",
+      "startSeconds": 1554.16,
+      "evidence": "there are decks like war room and",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bonders' Enclave",
+      "spokenText": "bonders enclave",
+      "role": "incidental",
+      "startSeconds": 1561.4,
+      "evidence": "bonders enclave still play them",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "War Room",
+      "spokenText": "war rooms",
+      "role": "incidental",
+      "startSeconds": 1568.76,
+      "evidence": "some war rooms in decks where you will never activate them",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "War Room",
+      "spokenText": "warm",
+      "role": "incidental",
+      "startSeconds": 1579.56,
+      "evidence": "i guess warm and specific you're adding a colorless land",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "castle ardenvale",
+      "role": "incidental",
+      "startSeconds": 1584.88,
+      "evidence": "a card like castle ardenvale",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plains",
+      "spokenText": "planes",
+      "role": "incidental",
+      "startSeconds": 1596.1,
+      "evidence": "if it's replacing a planes",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plains",
+      "spokenText": "planes",
+      "role": "incidental",
+      "startSeconds": 1601,
+      "evidence": "am i activating my planes",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Land Tax",
+      "spokenText": "Lantax",
+      "role": "incidental",
+      "startSeconds": 1625.4,
+      "evidence": "to run in white is Lantax",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "castle Ardenvails",
+      "role": "incidental",
+      "startSeconds": 1629.42,
+      "evidence": "throwing in castle Ardenvails",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Land Tax",
+      "spokenText": "lane tax",
+      "role": "incidental",
+      "startSeconds": 1635.88,
+      "evidence": "I'd much rather run the lane tax",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "castle Ardenvale",
+      "role": "incidental",
+      "startSeconds": 1638.9,
+      "evidence": "cut out the castle Ardenvale",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Land Tax",
+      "spokenText": "lane tax",
+      "role": "incidental",
+      "startSeconds": 1638.9,
+      "evidence": "enough value from a lane tax",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Land Tax",
+      "spokenText": "lane tax",
+      "role": "incidental",
+      "startSeconds": 1643.64,
+      "evidence": "I think lane tax is a good card",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "castle Ardenvale",
+      "role": "incidental",
+      "startSeconds": 1648.62,
+      "evidence": "Whereas castle Ardenvale",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Land Tax",
+      "spokenText": "lane talks",
+      "role": "incidental",
+      "startSeconds": 1659.12,
+      "evidence": "every single time I see lane talks",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "castle hard and veil",
+      "role": "incidental",
+      "startSeconds": 1677.32,
+      "evidence": "a planes or a castle hard and veil",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plains",
+      "spokenText": "planes",
+      "role": "incidental",
+      "startSeconds": 1677.32,
+      "evidence": "would i rather have a planes or a castle hard and veil",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Land Tax",
+      "spokenText": "land tax",
+      "role": "incidental",
+      "startSeconds": 1683.72,
+      "evidence": "or just don't play land tax",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plains",
+      "spokenText": "planes",
+      "role": "incidental",
+      "startSeconds": 1683.72,
+      "evidence": "planes actually",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arena of Glory",
+      "spokenText": "arena of glory",
+      "role": "incidental",
+      "startSeconds": 1695.7,
+      "evidence": "the arena of glory is another no-brainer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Talon Gates of Madara",
+      "spokenText": "talon gates",
+      "role": "incidental",
+      "startSeconds": 1695.7,
+      "evidence": "talon gates is like another no-brainer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shifting Woodland",
+      "spokenText": "shifting woodland",
+      "role": "incidental",
+      "startSeconds": 1700.62,
+      "evidence": "shifting woodland ... there's a bunch",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "castle are in bale",
+      "role": "incidental",
+      "startSeconds": 1717.72,
+      "evidence": "castle are in bale believer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "castle ardenvale",
+      "role": "incidental",
+      "startSeconds": 1725.7,
+      "evidence": "one in nine games you activate a castle ardenvale",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bonders' Enclave",
+      "spokenText": "Bonder's Enclave",
+      "role": "incidental",
+      "startSeconds": 1804.68,
+      "evidence": "rely on a Bonder's Enclave",
+      "confidence": 1,
+      "modelName": "Bonder's Enclave",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Ardenvale",
+      "spokenText": "Castle Ardenvale",
+      "role": "incidental",
+      "startSeconds": 1910.34,
+      "evidence": "utility lands, like Castle Ardenvale",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bonders' Enclave",
+      "spokenText": "bonders enclave",
+      "role": "incidental",
+      "startSeconds": 1939.58,
+      "evidence": "my bonders enclave or war room",
+      "confidence": 1,
+      "modelName": "Bonder's Enclave",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "War Room",
+      "spokenText": "war room",
+      "role": "incidental",
+      "startSeconds": 1939.58,
+      "evidence": "my bonders enclave or war room",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "War Room",
+      "spokenText": "War Room",
+      "role": "incidental",
+      "startSeconds": 1958.12,
+      "evidence": "War Room, the stonks go up",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lurrus of the Dream-Den",
+      "spokenText": "Lourdes",
+      "role": "incidental",
+      "startSeconds": 2001.98,
+      "evidence": "Lourdes for example",
+      "confidence": 0.52,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Giada, Font of Hope",
+      "spokenText": "Jada",
+      "role": "incidental",
+      "startSeconds": 2004.34,
+      "evidence": "I guess Jada as well",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Marneus Calgar",
+      "spokenText": "manu's kylega",
+      "role": "incidental",
+      "startSeconds": 2059.22,
+      "evidence": "manu's kylega deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gleaming Splendor",
+      "spokenText": "Gleaming Splendor",
+      "role": "incidental",
+      "startSeconds": 2073.12,
+      "evidence": "like Gleaming Splendor",
+      "confidence": 0.45,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Queen of Dale",
+      "spokenText": "the Queen of Dale",
+      "role": "incidental",
+      "startSeconds": 2074.34,
+      "evidence": "the Queen of Dale",
+      "confidence": 0.4,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Daughter of the Deep",
+      "spokenText": "Daughter of the Deep",
+      "role": "incidental",
+      "startSeconds": 2076.2,
+      "evidence": "Daughter of the Deep",
+      "confidence": 0.5,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Belladonna Took",
+      "spokenText": "Belladonna took",
+      "role": "incidental",
+      "startSeconds": 2080.06,
+      "evidence": "Belladonna took the Sacral Bagginses",
+      "confidence": 0.75,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Sackville-Bagginses",
+      "spokenText": "the Sacral Bagginses",
+      "role": "incidental",
+      "startSeconds": 2080.06,
+      "evidence": "Belladonna took the Sacral Bagginses",
+      "confidence": 0.73,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Marneus Calgar",
+      "spokenText": "Manus Kaga",
+      "role": "incidental",
+      "startSeconds": 2107.52,
+      "evidence": "I cast Manus Kaga",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wrath of God",
+      "spokenText": "Wrath of Gods",
+      "role": "incidental",
+      "startSeconds": 2266.02,
+      "evidence": "where the most Wrath of Gods are",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Omnath, Locus of Creation",
+      "spokenText": "omnath",
+      "role": "incidental",
+      "startSeconds": 2339.72,
+      "evidence": "omnath in which case that's your four",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Omnath, Locus of Creation",
+      "spokenText": "omnath",
+      "role": "incidental",
+      "startSeconds": 2346.9,
+      "evidence": "because omnath allows you",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Omnath, Locus of Creation",
+      "spokenText": "omnath",
+      "role": "incidental",
+      "startSeconds": 2353.92,
+      "evidence": "the curve of my omnath deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashling the Pilgrim",
+      "spokenText": "ashling",
+      "role": "incidental",
+      "startSeconds": 2396.9,
+      "evidence": "my ashling deck for example",
+      "confidence": 0.84,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashling the Pilgrim",
+      "spokenText": "ashling",
+      "role": "incidental",
+      "startSeconds": 2403.42,
+      "evidence": "turn two ashling",
+      "confidence": 0.84,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Niv-Mizzet, Parun",
+      "spokenText": "Niv-Mizzet Perun",
+      "role": "incidental",
+      "startSeconds": 2456.58,
+      "evidence": "if I was playing Niv-Mizzet Perun",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Niv-Mizzet, Parun",
+      "spokenText": "niff miss it",
+      "role": "incidental",
+      "startSeconds": 2487.28,
+      "evidence": "obviously don't run niff miss it",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Marneus Calgar",
+      "spokenText": "marnius",
+      "role": "incidental",
+      "startSeconds": 2492.8,
+      "evidence": "I would be scared for marnius too",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Marneus Calgar",
+      "spokenText": "manu's",
+      "role": "incidental",
+      "startSeconds": 2504,
+      "evidence": "then play manu's and it's already triggering",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Marneus Calgar",
+      "spokenText": "Manios",
+      "role": "incidental",
+      "startSeconds": 2524.84,
+      "evidence": "I guess Manios is",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Marneus Calgar",
+      "spokenText": "Manios",
+      "role": "incidental",
+      "startSeconds": 2526.76,
+      "evidence": "built it to be better with Manios",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mister Fantastic, Reed Richards",
+      "spokenText": "Mr. Fantastic Reed Richards",
+      "role": "incidental",
+      "startSeconds": 2534.26,
+      "evidence": "Mr. Fantastic Reed Richards",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grizzly Bears",
+      "spokenText": "grizzly bears",
+      "role": "incidental",
+      "startSeconds": 2681,
+      "evidence": "grizzly bears in your bear deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tetzimoc, Primal Death",
+      "spokenText": "Tetson",
+      "role": "incidental",
+      "startSeconds": 2743.18,
+      "evidence": "for example, the Tetson",
+      "confidence": 0.99,
+      "modelName": "Tetzin, Gnome Champion",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tetzimoc, Primal Death",
+      "spokenText": "Tetson",
+      "role": "incidental",
+      "startSeconds": 2760.82,
+      "evidence": "Tetson says when it eats",
+      "confidence": 0.99,
+      "modelName": "Tetzin, Gnome Champion",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fateful Discovery",
+      "spokenText": "Faithful Discovery",
+      "role": "incidental",
+      "startSeconds": 2812.64,
+      "evidence": "the Faithful Discovery or something from The Hobbit",
+      "confidence": 0.45,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blech, Loafing Pest",
+      "spokenText": "blech",
+      "role": "incidental",
+      "startSeconds": 2825.24,
+      "evidence": "my girlfriend has this blech deck",
+      "confidence": 0.99,
+      "modelName": "Blex, Vexing Pest",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fateful Discovery",
+      "spokenText": "Faithful Discovery",
+      "role": "incidental",
+      "startSeconds": 2861.88,
+      "evidence": "I'm not going to play Faithful Discovery",
+      "confidence": 0.45,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mirrodin Besieged",
+      "spokenText": "Mirrored in Beseech",
+      "role": "incidental",
+      "startSeconds": 2868.08,
+      "evidence": "Mirrored in Beseech or something",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tolarian Academy",
+      "spokenText": "Tolarian Academy",
+      "role": "incidental",
+      "startSeconds": 2877.74,
+      "evidence": "into a Tolarian Academy",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Simulacrum Synthesizer",
+      "spokenText": "Simulacrum Synthesizer",
+      "role": "incidental",
+      "startSeconds": 2915.18,
+      "evidence": "Simulacrum Synthesizer and stuff",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords to plowshares",
+      "role": "incidental",
+      "startSeconds": 2977.42,
+      "evidence": "The man who hates swords to plowshares",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords to plowshares",
+      "role": "incidental",
+      "startSeconds": 2984.54,
+      "evidence": "going down on swords to plowshares",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erode",
+      "spokenText": "a Road",
+      "role": "incidental",
+      "startSeconds": 2990.46,
+      "evidence": "Path to Exile and a Road",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Path to Exile",
+      "spokenText": "Path to Exile",
+      "role": "incidental",
+      "startSeconds": 2990.46,
+      "evidence": "Path to Exile and a Road",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords",
+      "role": "incidental",
+      "startSeconds": 2992.98,
+      "evidence": "is both the swords and ramps",
+      "confidence": 0.93,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erode",
+      "spokenText": "erode",
+      "role": "incidental",
+      "startSeconds": 3007.96,
+      "evidence": "its name is uh erode",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ondu Rising",
+      "spokenText": "Onduin version",
+      "role": "incidental",
+      "startSeconds": 3059.1,
+      "evidence": "I always play Onduin version",
+      "confidence": 1,
+      "modelName": "Ondu Inversion",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Decree of Pain",
+      "spokenText": "Decree of Pain",
+      "role": "incidental",
+      "startSeconds": 3068.58,
+      "evidence": "Decree of Pain, Meat Hook Massacres",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Meathook Massacre",
+      "spokenText": "Meat Hook Massacres",
+      "role": "incidental",
+      "startSeconds": 3068.58,
+      "evidence": "Decree of Pain, Meat Hook Massacres",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Clever Concealment",
+      "spokenText": "Clever Concealment",
+      "role": "incidental",
+      "startSeconds": 3077.1,
+      "evidence": "Flay of Fortitude, Clever Concealment",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flare of Fortitude",
+      "spokenText": "Flay of Fortitude",
+      "role": "incidental",
+      "startSeconds": 3077.1,
+      "evidence": "Flay of Fortitude, Clever Concealment",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Divine Verdict",
+      "spokenText": "divine verdict",
+      "role": "incidental",
+      "startSeconds": 3291.32,
+      "evidence": "you got divine verdict",
+      "confidence": 0.77,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Make an Example",
+      "spokenText": "make an example",
+      "role": "incidental",
+      "startSeconds": 3301.24,
+      "evidence": "make an example and stuff like that",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Volcanic Torrent",
+      "spokenText": "volcanic torrent",
+      "role": "incidental",
+      "startSeconds": 3305.72,
+      "evidence": "there's like volcanic torrent",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mizzix's Mastery",
+      "spokenText": "mizzix's master",
+      "role": "incidental",
+      "startSeconds": 3311.24,
+      "evidence": "run like a mizzix's master",
+      "confidence": 0.76,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Decree of Pain",
+      "spokenText": "Decree of Pain",
+      "role": "incidental",
+      "startSeconds": 3402.3,
+      "evidence": "and I guess Decree of Pain",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ondu Rising",
+      "spokenText": "Anduin version",
+      "role": "incidental",
+      "startSeconds": 3402.3,
+      "evidence": "Anduin version is easy to include",
+      "confidence": 1,
+      "modelName": "Ondu Inversion",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Meathook Massacre",
+      "spokenText": "Meat Hook Massacre",
+      "role": "incidental",
+      "startSeconds": 3402.3,
+      "evidence": "Meat Hook Massacre, and I guess Decree of Pain",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ajani, Strength of the Pride",
+      "spokenText": "the four mana Ajani",
+      "role": "incidental",
+      "startSeconds": 3419.46,
+      "evidence": "the four mana Ajani that minuses",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rendmaw, Creaking Nest",
+      "spokenText": "Ren Maw",
+      "role": "incidental",
+      "startSeconds": 3472.7,
+      "evidence": "I would like to play Ren Maw",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Smothering Tithe",
+      "spokenText": "Smothering Titan",
+      "role": "incidental",
+      "startSeconds": 3650.74,
+      "evidence": "For example, I don't play Smothering Titan",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zinnia, Valley's Voice",
+      "spokenText": "Zinnia",
+      "role": "incidental",
+      "startSeconds": 3668.82,
+      "evidence": "I built a Zinnia deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grizzly Bears",
+      "spokenText": "grizzly bear",
+      "role": "incidental",
+      "startSeconds": 3709.42,
+      "evidence": "a grizzly bear over a mother bear",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mother Bear",
+      "spokenText": "mother bear",
+      "role": "incidental",
+      "startSeconds": 3709.42,
+      "evidence": "a grizzly bear over a mother bear",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mother Bear",
+      "spokenText": "mother bear",
+      "role": "incidental",
+      "startSeconds": 3711.26,
+      "evidence": "although the mother bear would",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grizzly Bears",
+      "spokenText": "grizzly bear",
+      "role": "incidental",
+      "startSeconds": 3713.32,
+      "evidence": "be strictly better, but the grizzly bear",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadly Dispute",
+      "spokenText": "Deadly Dispute",
+      "role": "incidental",
+      "startSeconds": 3761.96,
+      "evidence": "I need to see Deadly Dispute",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "Lightning Bolt",
+      "role": "incidental",
+      "startSeconds": 3766.78,
+      "evidence": "Or a Lightning Bolt",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "Lightning Bolt",
+      "role": "incidental",
+      "startSeconds": 3769.54,
+      "evidence": "I will play Lightning Bolt",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Azusa, Lost but Seeking",
+      "spokenText": "Azusa",
+      "role": "incidental",
+      "startSeconds": 3788.94,
+      "evidence": "You're telling me Azusa's not good?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Child of Alara",
+      "spokenText": "child of alar",
+      "role": "incidental",
+      "startSeconds": 3800.42,
+      "evidence": "you think child of alar is out here just have making friends",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Spellstutter Sprite",
+      "spokenText": "spell set of sprite",
+      "role": "incidental",
+      "startSeconds": 3915.82,
+      "evidence": "a spell set of sprite in that deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soaring",
+      "role": "incidental",
+      "startSeconds": 4107.94,
+      "evidence": "Or soaring is actually not good",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [],
+  "incidentalCards": [
+    "Ajani, Strength of the Pride",
+    "Arena of Glory",
+    "Ashling the Pilgrim",
+    "Azusa, Lost but Seeking",
+    "Ba Sing Se",
+    "Belladonna Took",
+    "Birds of Paradise",
+    "Blech, Loafing Pest",
+    "Bojuka Bog",
+    "Bonders' Enclave",
+    "Brainstorm",
+    "Castle Ardenvale",
+    "Castle Garenbrig",
+    "Castle Locthwain",
+    "Child of Alara",
+    "Clever Concealment",
+    "Cryptic Command",
+    "Culling the Weak",
+    "Dark Ritual",
+    "Daughter of the Deep",
+    "Deadly Dispute",
+    "Deadpool, Trading Card",
+    "Decree of Pain",
+    "Delighted Halfling",
+    "Divine Verdict",
+    "Edric, Spymaster of Trest",
+    "Erode",
+    "Faithless Looting",
+    "Fateful Discovery",
+    "Flare of Fortitude",
+    "Giada, Font of Hope",
+    "Gleaming Splendor",
+    "Grizzly Bears",
+    "Hall of Echoes",
+    "Jadar, Ghoulcaller of Nephalia",
+    "Land Tax",
+    "Lightning Bolt",
+    "Llanowar Elves",
+    "Lonis, Cryptozoologist",
+    "Lurrus of the Dream-Den",
+    "Make an Example",
+    "Marneus Calgar",
+    "Mirrodin Besieged",
+    "Mister Fantastic, Reed Richards",
+    "Mizzix's Mastery",
+    "Mother Bear",
+    "Niv-Mizzet, Parun",
+    "Omnath, Locus of Creation",
+    "Ondu Rising",
+    "Otawara, Soaring City",
+    "Path to Exile",
+    "Phyrexian Obliterator",
+    "Plains",
+    "Ponder",
+    "Preordain",
+    "Reliquary Tower",
+    "Rendmaw, Creaking Nest",
+    "Rogue's Passage",
+    "Shifting Woodland",
+    "Simulacrum Synthesizer",
+    "Smothering Tithe",
+    "Sol Ring",
+    "Spellstutter Sprite",
+    "Swords to Plowshares",
+    "Talon Gates of Madara",
+    "Tetzimoc, Primal Death",
+    "The Meathook Massacre",
+    "The Queen of Dale",
+    "The Sackville-Bagginses",
+    "The Ur-Dragon",
+    "Tolarian Academy",
+    "Urborg, Tomb of Yawgmoth",
+    "Valakut, the Molten Pinnacle",
+    "Volcanic Torrent",
+    "War Room",
+    "Wrath of God",
+    "Yavimaya, Cradle of Growth",
+    "Zinnia, Valley's Voice"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "validation": {
+    "matchedMainCards": [],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Ajani, Strength of the Pride",
+      "Arena of Glory",
+      "Ashling the Pilgrim",
+      "Azusa, Lost but Seeking",
+      "Ba Sing Se",
+      "Belladonna Took",
+      "Birds of Paradise",
+      "Blech, Loafing Pest",
+      "Bojuka Bog",
+      "Bonders' Enclave",
+      "Brainstorm",
+      "Castle Ardenvale",
+      "Castle Garenbrig",
+      "Castle Locthwain",
+      "Child of Alara",
+      "Clever Concealment",
+      "Cryptic Command",
+      "Culling the Weak",
+      "Dark Ritual",
+      "Daughter of the Deep",
+      "Deadly Dispute",
+      "Deadpool, Trading Card",
+      "Decree of Pain",
+      "Delighted Halfling",
+      "Divine Verdict",
+      "Edric, Spymaster of Trest",
+      "Erode",
+      "Faithless Looting",
+      "Fateful Discovery",
+      "Flare of Fortitude",
+      "Giada, Font of Hope",
+      "Gleaming Splendor",
+      "Grizzly Bears",
+      "Hall of Echoes",
+      "Jadar, Ghoulcaller of Nephalia",
+      "Land Tax",
+      "Lightning Bolt",
+      "Llanowar Elves",
+      "Lonis, Cryptozoologist",
+      "Lurrus of the Dream-Den",
+      "Make an Example",
+      "Marneus Calgar",
+      "Mirrodin Besieged",
+      "Mister Fantastic, Reed Richards",
+      "Mizzix's Mastery",
+      "Mother Bear",
+      "Niv-Mizzet, Parun",
+      "Omnath, Locus of Creation",
+      "Ondu Rising",
+      "Otawara, Soaring City",
+      "Path to Exile",
+      "Phyrexian Obliterator",
+      "Plains",
+      "Ponder",
+      "Preordain",
+      "Reliquary Tower",
+      "Rendmaw, Creaking Nest",
+      "Rogue's Passage",
+      "Shifting Woodland",
+      "Simulacrum Synthesizer",
+      "Smothering Tithe",
+      "Sol Ring",
+      "Spellstutter Sprite",
+      "Swords to Plowshares",
+      "Talon Gates of Madara",
+      "Tetzimoc, Primal Death",
+      "The Meathook Massacre",
+      "The Queen of Dale",
+      "The Sackville-Bagginses",
+      "The Ur-Dragon",
+      "Tolarian Academy",
+      "Urborg, Tomb of Yawgmoth",
+      "Valakut, the Molten Pinnacle",
+      "Volcanic Torrent",
+      "War Room",
+      "Wrath of God",
+      "Yavimaya, Cradle of Growth",
+      "Zinnia, Valley's Voice"
+    ],
+    "unmatchedIncidentalCards": []
+  },
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 7,
+    "unresolvedMentions": []
+  }
+}

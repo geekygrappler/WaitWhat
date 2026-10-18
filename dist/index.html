@@ -16,7 +16,7 @@
     <meta name="description" content="Listen to Magic podcasts with the current card in view." />
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icon.svg" />
-    <link rel="stylesheet" href="./styles.css?v=16" />
+    <link rel="stylesheet" href="./styles.css?v=21" />
     <title>Wait, What? Podcasts</title>
   </head>
   <body>
@@ -57,9 +57,17 @@
             <button id="jump-first" class="text-button" type="button">Jump to first card · 1:33</button>
           </div>
         </div>
+        <div id="mention-offer" class="mention-offer" hidden>
+          <span class="mention-label">Also mentioned</span>
+          <div id="mention-actions" class="mention-actions"></div>
+        </div>
       </section>
 
       <aside id="recent-panel" class="recent-panel" aria-labelledby="recent-title">
+        <div id="track-switcher" class="track-switcher" aria-label="Card timeline">
+          <button type="button" data-track="main">Main cards</button>
+          <button type="button" data-track="mentioned">Also mentioned</button>
+        </div>
         <div class="recent-heading">
           <div>
             <p class="section-kicker">On the trail</p>
@@ -113,6 +121,6 @@
     </section>
 
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <script type="module" src="./app.js?v=19"></script>
+    <script type="module" src="./app.js?v=23"></script>
   </body>
 </html>

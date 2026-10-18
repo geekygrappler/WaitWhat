@@ -8,6 +8,9 @@
     "test": "node --test",
     "refresh-feed": "node scripts/fetch-rss.mjs",
     "apply-reviews": "node scripts/apply-review-resolutions.mjs",
+    "analyze-transcript-cards": "node scripts/analyze-transcript-cards.mjs",
+    "reprocess-recent-episodes": "node scripts/reprocess-recent-episodes.mjs",
+    "resolve-analysis-card-names": "node scripts/resolve-analysis-card-names.mjs",
     "process-episode": "node scripts/process-episode.mjs",
     "update-new-episodes": "node scripts/update-new-episodes.mjs"
   }

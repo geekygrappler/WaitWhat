@@ -1,0 +1,347 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Challenges in Summoning New Players | Therapy Session",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Goreclaw, Terror of Qal Sisma",
+      "spokenText": "gore claw",
+      "role": "incidental",
+      "startSeconds": 1099.84,
+      "evidence": "gore claw deck that's really good",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Geist of Saint Traft",
+      "spokenText": "Geist of St. Traft",
+      "role": "incidental",
+      "startSeconds": 1881.32,
+      "evidence": "it was the Geist of St. Traft because he loves that art",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gluntch, the Bestower",
+      "spokenText": "Glunch",
+      "role": "incidental",
+      "startSeconds": 1906.32,
+      "evidence": "And so Glunch was the idea",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Danse Macabre",
+      "spokenText": "dance macabre",
+      "role": "incidental",
+      "startSeconds": 1944.84,
+      "evidence": "i don't bust dance macabre out on him",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Niv-Mizzet, Parun",
+      "spokenText": "niv-mizzet",
+      "role": "incidental",
+      "startSeconds": 1951.32,
+      "evidence": "i'm not going at him with like niv-mizzet wheels",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gluntch, the Bestower",
+      "spokenText": "glunched",
+      "role": "incidental",
+      "startSeconds": 1963.6,
+      "evidence": "He glunched one games",
+      "confidence": 0.93,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rishkar's Expertise",
+      "spokenText": "rich cards expertise",
+      "role": "incidental",
+      "startSeconds": 1995.68,
+      "evidence": "this is why rich cards expertise is in here",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bello, Bard of the Brambles",
+      "spokenText": "bellow",
+      "role": "incidental",
+      "startSeconds": 2112.86,
+      "evidence": "he makes a bellow deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bello, Bard of the Brambles",
+      "spokenText": "bellow",
+      "role": "incidental",
+      "startSeconds": 2122.12,
+      "evidence": "he's off on his own with the bellow thing",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bello, Bard of the Brambles",
+      "spokenText": "bellow",
+      "role": "incidental",
+      "startSeconds": 2126.34,
+      "evidence": "I need graveyard hate in my bellow deck too",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bello, Bard of the Brambles",
+      "spokenText": "Bellow",
+      "role": "incidental",
+      "startSeconds": 2137.88,
+      "evidence": "he shows up with the Bellow deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Omo, Queen of Vesuva",
+      "spokenText": "omo",
+      "role": "incidental",
+      "startSeconds": 2340.64,
+      "evidence": "the omo foil only modern horizons three deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kenrith, the Returned King",
+      "spokenText": "ken kenrick king kenrith",
+      "role": "incidental",
+      "startSeconds": 2348.78,
+      "evidence": "five color uh ken kenrick king kenrith deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Astral Slide",
+      "spokenText": "astral slide",
+      "role": "incidental",
+      "startSeconds": 2355.06,
+      "evidence": "cycling astral slide thing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Astral Slide",
+      "spokenText": "astral slide",
+      "role": "incidental",
+      "startSeconds": 2360.18,
+      "evidence": "if you've got an astral slide deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Council of Four",
+      "spokenText": "council of the four",
+      "role": "incidental",
+      "startSeconds": 3017.44,
+      "evidence": "my um council of the four deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sygg, River Cutthroat",
+      "spokenText": "sig",
+      "role": "incidental",
+      "startSeconds": 3046.46,
+      "evidence": "That sig deck",
+      "confidence": 0.6,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashling, Flame Dancer",
+      "spokenText": "Ashling",
+      "role": "incidental",
+      "startSeconds": 3055.54,
+      "evidence": "my Ashling deck, it's just ramp in the zone",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "By Invitation Only",
+      "spokenText": "By invitation only",
+      "role": "incidental",
+      "startSeconds": 3256.28,
+      "evidence": "By invitation only",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pharika, God of Affliction",
+      "spokenText": "farika",
+      "role": "incidental",
+      "startSeconds": 3285.56,
+      "evidence": "he has a farika snake type",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jasmine Boreal of the Seven",
+      "spokenText": "Jasmine Boreal",
+      "role": "incidental",
+      "startSeconds": 3351.18,
+      "evidence": "So we get Jasmine Boreal",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jasmine Boreal of the Seven",
+      "spokenText": "jasmine boreal",
+      "role": "incidental",
+      "startSeconds": 3355.98,
+      "evidence": "jasmine boreal who basically she's a mana dork in the zone",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Elas il-Kor, Sadistic Pilgrim",
+      "spokenText": "Illus Ilkor",
+      "role": "incidental",
+      "startSeconds": 3408.28,
+      "evidence": "the other one was Illus Ilkor",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Geist of Saint Traft",
+      "spokenText": "geist of saint traf",
+      "role": "incidental",
+      "startSeconds": 3555.1,
+      "evidence": "geist of saint traf deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheltered by Ghosts",
+      "spokenText": "sheltered by ghosts",
+      "role": "incidental",
+      "startSeconds": 3559.14,
+      "evidence": "i showed him sheltered by ghosts",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sauron, the Dark Lord",
+      "spokenText": "sauron",
+      "role": "incidental",
+      "startSeconds": 3893.64,
+      "evidence": "want this sauron deck",
+      "confidence": 0.83,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Geist of Saint Traft",
+      "spokenText": "saint draft",
+      "role": "incidental",
+      "startSeconds": 3909.04,
+      "evidence": "he doesn't have glunch or saint draft anymore",
+      "confidence": 0.87,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gluntch, the Bestower",
+      "spokenText": "glunch",
+      "role": "incidental",
+      "startSeconds": 3909.04,
+      "evidence": "he doesn't have glunch or saint draft anymore",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Welcoming Vampire",
+      "spokenText": "welcoming vampire",
+      "role": "incidental",
+      "startSeconds": 4053.82,
+      "evidence": "welcoming vampire it's only because we don't have enough draw sources",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ancient Copper Dragon",
+      "spokenText": "copper dragons",
+      "role": "incidental",
+      "startSeconds": 4561.38,
+      "evidence": "copper dragons everyone in our meta has one",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hope Estheim",
+      "spokenText": "Hope S time",
+      "role": "incidental",
+      "startSeconds": 4778.84,
+      "evidence": "I want to play Hope S time.",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [],
+  "incidentalCards": [
+    "Ancient Copper Dragon",
+    "Ashling, Flame Dancer",
+    "Astral Slide",
+    "Bello, Bard of the Brambles",
+    "By Invitation Only",
+    "Danse Macabre",
+    "Elas il-Kor, Sadistic Pilgrim",
+    "Geist of Saint Traft",
+    "Gluntch, the Bestower",
+    "Goreclaw, Terror of Qal Sisma",
+    "Hope Estheim",
+    "Jasmine Boreal of the Seven",
+    "Kenrith, the Returned King",
+    "Niv-Mizzet, Parun",
+    "Omo, Queen of Vesuva",
+    "Pharika, God of Affliction",
+    "Rishkar's Expertise",
+    "Sauron, the Dark Lord",
+    "Sheltered by Ghosts",
+    "Sygg, River Cutthroat",
+    "The Council of Four",
+    "Welcoming Vampire"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "validation": {
+    "matchedMainCards": [],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Ancient Copper Dragon",
+      "Ashling, Flame Dancer",
+      "Astral Slide",
+      "Bello, Bard of the Brambles",
+      "By Invitation Only",
+      "Danse Macabre",
+      "Elas il-Kor, Sadistic Pilgrim",
+      "Geist of Saint Traft",
+      "Gluntch, the Bestower",
+      "Goreclaw, Terror of Qal Sisma",
+      "Hope Estheim",
+      "Jasmine Boreal of the Seven",
+      "Kenrith, the Returned King",
+      "Niv-Mizzet, Parun",
+      "Omo, Queen of Vesuva",
+      "Pharika, God of Affliction",
+      "Rishkar's Expertise",
+      "Sauron, the Dark Lord",
+      "Sheltered by Ghosts",
+      "Sygg, River Cutthroat",
+      "The Council of Four",
+      "Welcoming Vampire"
+    ],
+    "unmatchedIncidentalCards": []
+  },
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 0,
+    "unresolvedMentions": []
+  }
+}

@@ -149,6 +149,21 @@ button, select { -webkit-tap-highlight-color: transparent; }
 .return-current:hover, .return-current:focus-visible { background: var(--gold); color: #1a0e07; outline: none; }
 .return-current:active { transform: scale(.97); }
 
+.mention-offer {
+  margin: 14px 0 0;
+  padding: 10px;
+  border: 1px solid rgba(255,107,0,.38);
+  border-radius: 15px;
+  background: rgba(255,107,0,.08);
+}
+.mention-label { display: block; margin: 0 4px 8px; color: var(--gold-strong); font-size: .7rem; font-weight: 780; letter-spacing: .09em; text-transform: uppercase; }
+.mention-actions { display: flex; gap: 8px; overflow-x: auto; overscroll-behavior-x: contain; scrollbar-width: none; }
+.mention-actions::-webkit-scrollbar { display: none; }
+.mention-actions button { min-width: min(190px, 72vw); min-height: 54px; display: grid; grid-template-columns: 34px minmax(0, 1fr); align-items: center; gap: 10px; flex: 0 0 auto; padding: 5px 12px 5px 5px; border: 1px solid var(--line); border-radius: 11px; background: var(--panel); color: var(--ink); cursor: pointer; text-align: left; }
+.mention-actions button[aria-pressed="true"] { border-color: var(--gold); background: var(--panel-raised); box-shadow: inset 3px 0 0 var(--gold); }
+.mention-actions img { width: 34px; height: 44px; border-radius: 4px; object-fit: cover; object-position: top; background: #0a0b09; }
+.mention-actions span { overflow: hidden; font-size: .82rem; font-weight: 680; text-overflow: ellipsis; white-space: nowrap; }
+
 .card-stage {
   touch-action: pan-y;
   min-height: 480px;
@@ -207,6 +222,9 @@ button, select { -webkit-tap-highlight-color: transparent; }
 .face p { margin: 8px 0 0; color: #e6e4dc; white-space: pre-line; line-height: 1.5; }
 
 .recent-panel { margin-top: 30px; padding-top: 24px; border-top: 1px solid var(--line); }
+.track-switcher { display: flex; gap: 6px; margin-bottom: 18px; padding: 4px; border: 1px solid var(--line); border-radius: 999px; background: var(--panel); }
+.track-switcher button { min-height: 38px; flex: 1; border: 0; border-radius: 999px; padding: 0 12px; background: transparent; color: var(--muted); cursor: pointer; font-size: .78rem; font-weight: 760; }
+.track-switcher button[aria-pressed="true"] { background: var(--gold); color: #1a0e07; }
 .recent-heading { display: flex; justify-content: space-between; align-items: end; gap: 16px; }
 .recent-heading .section-kicker { margin-bottom: 5px; }
 .recent-heading h2 { margin: 0; font: 650 1.42rem/1.15 Georgia, serif; }
@@ -311,6 +329,8 @@ button, select { -webkit-tap-highlight-color: transparent; }
   .app-shell { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(290px, .8fr); gap: 42px; padding: 34px 28px 54px; align-items: start; }
   .app-shell.cards-pending { display: block; max-width: 800px; }
   .card-stage { min-height: 570px; }
+  .mention-offer { max-width: 650px; margin-right: auto; margin-left: auto; }
+  .mention-actions button { min-width: 180px; }
   .card-detail { display: grid; grid-template-columns: minmax(280px, 390px) minmax(250px, 1fr); gap: 28px; align-items: center; }
   .card-copy { margin-top: 0; }
   .recent-panel { position: sticky; top: 94px; margin-top: 26px; padding-top: 0; border-top: 0; }

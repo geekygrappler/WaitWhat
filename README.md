@@ -38,17 +38,24 @@ No application server, database, account, or API key is required during playback
 
 ## Automatic episode publishing
 
-`npm run update-new-episodes` compares the live feeds with the checked-in snapshots and processes only episodes published after each snapshot's current head. It downloads each new enclosure, creates a word-timestamped transcript with MLX Whisper, generates a cue sheet, validates the batch, and updates the feed files transactionally. Completed downloads and transcripts in `processing/` are reused after an interrupted run.
+`npm run update-new-episodes` compares the live feeds with the checked-in snapshots and processes only episodes published after each snapshot's current head. It downloads each new enclosure, creates a word-timestamped transcript with MLX Whisper, sends timestamped transcript chunks through an LLM card-analysis pass, validates the returned names against the card catalogue while generating the cue sheet, validates the batch, and updates the feed files transactionally. Completed downloads and transcripts in `processing/` are reused after an interrupted run.
 
-The unattended matcher prioritizes precision: it accepts exact multiword card names and previously reviewed one-word names, while excluding known card names that are also common podcast phrases. Update `reviews/automation-one-word-cards.json` and `reviews/automation-card-blocklist.json` as the reviewed corpus evolves. Fuzzy matching remains available through the manual processing and review workflow.
+The LLM pass uses schema-constrained output to classify every explicit occurrence as either a main card or an incidental mention. Its prompt requires multiple back-to-back cards to be returned independently and warns against ordinary-speech collisions such as `brainstem`/`Brainstorm`. Each episode keeps an auditable `reviews/<episode>.llm-card-analysis.json` file plus the derived `approved-cards` and `incidental-cards` lists. The deterministic processor remains responsible for canonical catalogue records, card metadata, timestamps, confidence thresholds, and the final cue format.
+
+The default model is `gpt-6-astra` with high reasoning; override these with `WAITWHAT_LLM_MODEL` (or `--llm-model`) and `WAITWHAT_CODEX_REASONING_EFFORT`. Analysis runs through the locally installed `codex exec` command using its cached **Sign in with ChatGPT** session, so it consumes the signed-in Codex subscription rather than API-key billing. The analyzer removes `OPENAI_API_KEY`, `CODEX_API_KEY`, and `CODEX_ACCESS_TOKEN` from the child environment to prevent an accidental authentication fallback. Confirm the machine is ready with `codex login status`; if needed, run `codex login` and choose ChatGPT access.
+
+The pipeline is intentionally local. If the Mac is asleep, offline, signed out, or Codex times out, the run exits without publishing a partial episode. Downloaded audio and completed transcripts remain in `processing/`, and the next run detects the still-unpublished episode and resumes from those files.
 
 On Apple silicon, install `mlx` and `mlx-whisper` in a Python environment, then run:
 
 ```bash
-WAITWHAT_TRANSCRIBE_PYTHON=/path/to/venv/bin/python npm run update-new-episodes
+WAITWHAT_TRANSCRIBE_PYTHON=/path/to/venv/bin/python \
+npm run update-new-episodes
 ```
 
 Add `-- --publish` to require a clean `main` worktree, fast-forward from `origin/main`, run the tests, commit the generated episode files, and push them. The existing GitHub Actions workflow deploys `dist/` to GitHub Pages after that push.
+
+To re-run a recent cross-show sample through the same pipeline, use `npm run reprocess-recent-episodes -- --count=3`. Each completed episode is checkpointed; rerunning reuses its transcript and Codex analysis. Add `--force-analysis` when the prompt or model changed and existing analysis must be replaced.
 
 ## Install on a phone
 
@@ -56,6 +63,10 @@ Add `-- --publish` to require a clean `main` worktree, fast-forward from `origin
 - Android: open the HTTPS deployment in Chrome and choose **Install app** or **Add to Home screen**.
 
 The service worker caches the app shell, episode metadata, and cue sheet. Podcast audio and Scryfall images remain network resources. A continuous HTML `<audio>` element is used so iOS and Android can keep audio playing in the background where the browser allows it.
+
+Reviewed episodes have two switchable timestamped tracks: **Main cards** for the card currently under review and **Also mentioned** for every supporting card the LLM found. Discussion episodes with no reviewed-card structure omit the empty main track and open directly on **Also mentioned**. The current card remains the single dominant card view on mobile; timeline entries sit below it rather than stacking several full cards into the viewport.
+
+During playback, incidental cards also appear in a compact **Also mentioned** shelf for 30 seconds beneath the current main card. Tapping one temporarily replaces the single card view, and **Show current card** returns to the episode's subject. Because availability is calculated from `audio.currentTime`, seeking back into that 30-second window restores the shelf automatically.
 
 ## Episode processing
 
@@ -92,7 +103,7 @@ npm run process-episode -- \
 
 MTGJSON does not carry a preferred printing image in `AtomicCards.json`, so generated cues use Scryfall's exact-name image endpoint while all names, rules text, mana costs, and type lines come from the local catalogue.
 
-Exact spelling alone is not enough for common words that are also card names (for example `Consider`) or the first face of a split card (for example `Down // Dirty`). After reviewing matches in context, save the accepted canonical names as a JSON array and pass it with `--approved-cards reviews/episode.approved-cards.json`. This makes a reviewed cue sheet reproducible without hand-editing generated JSON.
+Exact spelling alone is not enough for common words that are also card names (for example `Consider`) or the first face of a split card (for example `Down // Dirty`). After reviewing matches in context, save the primary timeline cards as a JSON array and pass it with `--approved-cards reviews/episode.approved-cards.json`. The processor uses fuzzy matching only for that reviewed primary list; non-primary multiword names are tracked conservatively as exact incidental mentions. One-word incidental names still require `--one-word-allowlist`, and `--blocked-cards` applies to both primary and incidental matches. This makes a reviewed cue sheet reproducible without hand-editing generated JSON.
 
 Review generated cues, correct or remove low-confidence items, add the final cue-sheet path to `dist/data/episodes.json`, and set that episode's `processed` field to `true`. The matcher can tolerate whole-name transcription errors such as "Keeley the Resourceful" because it scores word windows, but it never emits a cue unless the result maps to an actual Scryfall record.
 
@@ -122,6 +133,7 @@ The app also reconciles on `seeking`, `seeked`, `play`, `playing`, `pageshow`, w
 - `dist/data/` — show catalogue, per-show RSS snapshots, and static cue sheets.
 - `scripts/fetch-rss.mjs` — multi-feed RSS ingestion.
 - `scripts/process-episode.mjs` — audio download, transcription orchestration, bulk-catalogue matching, and cue generation.
+- `scripts/analyze-transcript-cards.mjs` — chunked structured-output LLM analysis for main and incidental card names.
 - `tests/` — cue selection, history, image fallback, and time-formatting tests.
 
 Scryfall card data and images are used in accordance with Scryfall's public API guidance. This is an unofficial fan prototype and is not affiliated with Legendary Creature Podcast, MTGGoldfish, Wizards of the Coast, or Scryfall.

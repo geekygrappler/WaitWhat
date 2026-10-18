@@ -1,7 +1,25 @@
 [
   {
-    "start": 148.06,
-    "cardId": "2df3187b-4b91-4de9-9b26-d48a30700cec",
+    "track": "mentioned",
+    "start": 57.78,
+    "end": 87.78,
+    "cardId": "feee9327-b937-46ba-a2aa-6c015ab6cdd5",
+    "cardName": "Primeval Titan",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Primeval Titan",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Trample\nWhenever this creature enters or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/feee9327-b937-46ba-a2aa-6c015ab6cdd5.jpg?1783941794"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 146.56,
+    "end": 176.56,
+    "cardId": "2f8f22fb-7291-4517-9b15-e98501f2856b",
     "cardName": "Splinter Twin",
     "confidence": 1,
     "needsReview": false,
@@ -10,28 +28,410 @@
       "manaCost": "{2}{R}{R}",
       "typeLine": "Enchantment — Aura",
       "oracleText": "Enchant creature\nEnchanted creature has \"{T}: Create a token that's a copy of this creature, except it has haste. Exile that token at the beginning of the next end step.\"",
-      "image": "https://api.scryfall.com/cards/named?exact=Splinter%20Twin&format=image&version=normal"
-    },
-    "end": 578.24
+      "image": "https://cards.scryfall.io/normal/front/2/f/2f8f22fb-7291-4517-9b15-e98501f2856b.jpg?1783941970"
+    }
   },
   {
-    "start": 578.24,
-    "cardId": "f34b9bc4-7bfe-47fd-ba23-4eeeb46026eb",
+    "track": "mentioned",
+    "start": 335.26,
+    "end": 365.26,
+    "cardId": "74087795-0b38-4fd2-9841-147583baca41",
+    "cardName": "Jace, Reality Sculptor",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Jace, Reality Sculptor",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Legendary Planeswalker — Jace",
+      "oracleText": "+1: Empower Jace X, where X is the number of Islands you control.\n−3: Until your next turn, whenever a creature attacks you or a planeswalker you control, it gets -5/-0 until end of turn.\n0: Exile all but the bottom card of each opponent's library. Activate only if there are twenty-five or more loyalty counters among Jaces you control.",
+      "image": "https://cards.scryfall.io/normal/front/7/4/74087795-0b38-4fd2-9841-147583baca41.jpg?1790075861"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 352.94,
+    "end": 382.94,
+    "cardId": "282588b9-3656-453b-aa25-2419e078ddc1",
+    "cardName": "Jace's Machinations",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jace's Machinations",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Until end of turn, you may activate loyalty abilities of Jace planeswalkers you control on any player's turn any time you could cast an instant.\nEmpower Jace 8. (Put eight loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")",
+      "image": "https://cards.scryfall.io/normal/front/2/8/282588b9-3656-453b-aa25-2419e078ddc1.jpg?1788878150"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 378.84,
+    "end": 408.84,
+    "cardId": "74087795-0b38-4fd2-9841-147583baca41",
+    "cardName": "Jace, Reality Sculptor",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Jace, Reality Sculptor",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Legendary Planeswalker — Jace",
+      "oracleText": "+1: Empower Jace X, where X is the number of Islands you control.\n−3: Until your next turn, whenever a creature attacks you or a planeswalker you control, it gets -5/-0 until end of turn.\n0: Exile all but the bottom card of each opponent's library. Activate only if there are twenty-five or more loyalty counters among Jaces you control.",
+      "image": "https://cards.scryfall.io/normal/front/7/4/74087795-0b38-4fd2-9841-147583baca41.jpg?1790075861"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 385.38,
+    "end": 415.38,
+    "cardId": "282588b9-3656-453b-aa25-2419e078ddc1",
+    "cardName": "Jace's Machinations",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jace's Machinations",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Until end of turn, you may activate loyalty abilities of Jace planeswalkers you control on any player's turn any time you could cast an instant.\nEmpower Jace 8. (Put eight loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")",
+      "image": "https://cards.scryfall.io/normal/front/2/8/282588b9-3656-453b-aa25-2419e078ddc1.jpg?1788878150"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 388.68,
+    "end": 418.68,
+    "cardId": "74087795-0b38-4fd2-9841-147583baca41",
+    "cardName": "Jace, Reality Sculptor",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Jace, Reality Sculptor",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Legendary Planeswalker — Jace",
+      "oracleText": "+1: Empower Jace X, where X is the number of Islands you control.\n−3: Until your next turn, whenever a creature attacks you or a planeswalker you control, it gets -5/-0 until end of turn.\n0: Exile all but the bottom card of each opponent's library. Activate only if there are twenty-five or more loyalty counters among Jaces you control.",
+      "image": "https://cards.scryfall.io/normal/front/7/4/74087795-0b38-4fd2-9841-147583baca41.jpg?1790075861"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 400.58,
+    "end": 430.58,
+    "cardId": "282588b9-3656-453b-aa25-2419e078ddc1",
+    "cardName": "Jace's Machinations",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jace's Machinations",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Until end of turn, you may activate loyalty abilities of Jace planeswalkers you control on any player's turn any time you could cast an instant.\nEmpower Jace 8. (Put eight loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")",
+      "image": "https://cards.scryfall.io/normal/front/2/8/282588b9-3656-453b-aa25-2419e078ddc1.jpg?1788878150"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 408.1,
+    "end": 438.1,
+    "cardId": "74087795-0b38-4fd2-9841-147583baca41",
+    "cardName": "Jace, Reality Sculptor",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Jace, Reality Sculptor",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Legendary Planeswalker — Jace",
+      "oracleText": "+1: Empower Jace X, where X is the number of Islands you control.\n−3: Until your next turn, whenever a creature attacks you or a planeswalker you control, it gets -5/-0 until end of turn.\n0: Exile all but the bottom card of each opponent's library. Activate only if there are twenty-five or more loyalty counters among Jaces you control.",
+      "image": "https://cards.scryfall.io/normal/front/7/4/74087795-0b38-4fd2-9841-147583baca41.jpg?1790075861"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 434.62,
+    "end": 464.62,
+    "cardId": "90a57c0e-fa61-45ef-955d-d296403967d5",
+    "cardName": "Island",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Island",
+      "manaCost": "",
+      "typeLine": "Basic Land — Island",
+      "oracleText": "({T}: Add {U}.)",
+      "image": "https://cards.scryfall.io/normal/front/9/0/90a57c0e-fa61-45ef-955d-d296403967d5.jpg?1783948658"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 446.4,
+    "end": 476.4,
+    "cardId": "90a57c0e-fa61-45ef-955d-d296403967d5",
+    "cardName": "Island",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Island",
+      "manaCost": "",
+      "typeLine": "Basic Land — Island",
+      "oracleText": "({T}: Add {U}.)",
+      "image": "https://cards.scryfall.io/normal/front/9/0/90a57c0e-fa61-45ef-955d-d296403967d5.jpg?1783948658"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 451.24,
+    "end": 481.24,
+    "cardId": "22db5bba-46c9-4a26-821d-303ddb386ea4",
+    "cardName": "Theorist's Sanctum",
+    "confidence": 0.64,
+    "needsReview": true,
+    "card": {
+      "name": "Theorist's Sanctum",
+      "manaCost": "",
+      "typeLine": "Land — Island",
+      "oracleText": "({T}: Add {U}.)\nAs this land enters, you may behold a Jace. If you don't, this land enters tapped. (To behold a Jace, choose a Jace you control or reveal a Jace card from your hand.)\n{2}{U}, {T}: Empower Jace 2.",
+      "image": "https://cards.scryfall.io/normal/front/2/2/22db5bba-46c9-4a26-821d-303ddb386ea4.jpg?1788878256"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 467.86,
+    "end": 497.86,
+    "cardId": "22db5bba-46c9-4a26-821d-303ddb386ea4",
+    "cardName": "Theorist's Sanctum",
+    "confidence": 0.64,
+    "needsReview": true,
+    "card": {
+      "name": "Theorist's Sanctum",
+      "manaCost": "",
+      "typeLine": "Land — Island",
+      "oracleText": "({T}: Add {U}.)\nAs this land enters, you may behold a Jace. If you don't, this land enters tapped. (To behold a Jace, choose a Jace you control or reveal a Jace card from your hand.)\n{2}{U}, {T}: Empower Jace 2.",
+      "image": "https://cards.scryfall.io/normal/front/2/2/22db5bba-46c9-4a26-821d-303ddb386ea4.jpg?1788878256"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 499.02,
+    "end": 529.02,
+    "cardId": "c1a00020-7c14-4503-a057-5763704bb83e",
+    "cardName": "Way of the Pyromancer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Way of the Pyromancer",
+      "manaCost": "{1}{R}",
+      "typeLine": "Legendary Enchantment",
+      "oracleText": "When Way of the Pyromancer enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")\nPlaneswalkers you control have \"[+1]: Add {R}.\"",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 514.32,
+    "end": 544.32,
+    "cardId": "c1a00020-7c14-4503-a057-5763704bb83e",
+    "cardName": "Way of the Pyromancer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Way of the Pyromancer",
+      "manaCost": "{1}{R}",
+      "typeLine": "Legendary Enchantment",
+      "oracleText": "When Way of the Pyromancer enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")\nPlaneswalkers you control have \"[+1]: Add {R}.\"",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 551.32,
+    "end": 581.32,
+    "cardId": "282588b9-3656-453b-aa25-2419e078ddc1",
+    "cardName": "Jace's Machinations",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jace's Machinations",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Until end of turn, you may activate loyalty abilities of Jace planeswalkers you control on any player's turn any time you could cast an instant.\nEmpower Jace 8. (Put eight loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")",
+      "image": "https://cards.scryfall.io/normal/front/2/8/282588b9-3656-453b-aa25-2419e078ddc1.jpg?1788878150"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 567.9,
+    "end": 597.9,
+    "cardId": "bbb03f2e-2b92-4aa1-afae-301ed5d151d3",
     "cardName": "Lightning Strike",
-    "confidence": 1,
+    "confidence": 0.98,
     "needsReview": false,
     "card": {
       "name": "Lightning Strike",
       "manaCost": "{1}{R}",
       "typeLine": "Instant",
       "oracleText": "Lightning Strike deals 3 damage to any target.",
-      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Strike&format=image&version=normal"
-    },
-    "end": 722.46
+      "image": "https://cards.scryfall.io/normal/front/b/b/bbb03f2e-2b92-4aa1-afae-301ed5d151d3.jpg?1783939760"
+    }
   },
   {
-    "start": 722.46,
-    "cardId": "03df6a57-37c9-46d3-83b3-4a6240100714",
+    "track": "mentioned",
+    "start": 574.8,
+    "end": 604.8,
+    "cardId": "bbb03f2e-2b92-4aa1-afae-301ed5d151d3",
+    "cardName": "Lightning Strike",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Strike",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Strike deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bbb03f2e-2b92-4aa1-afae-301ed5d151d3.jpg?1783939760"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 585.12,
+    "end": 615.12,
+    "cardId": "282588b9-3656-453b-aa25-2419e078ddc1",
+    "cardName": "Jace's Machinations",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jace's Machinations",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Until end of turn, you may activate loyalty abilities of Jace planeswalkers you control on any player's turn any time you could cast an instant.\nEmpower Jace 8. (Put eight loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")",
+      "image": "https://cards.scryfall.io/normal/front/2/8/282588b9-3656-453b-aa25-2419e078ddc1.jpg?1788878150"
+    },
+    "cards": [
+      {
+        "cardId": "282588b9-3656-453b-aa25-2419e078ddc1",
+        "cardName": "Jace's Machinations",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Jace's Machinations",
+          "manaCost": "{2}{U}",
+          "typeLine": "Instant",
+          "oracleText": "Until end of turn, you may activate loyalty abilities of Jace planeswalkers you control on any player's turn any time you could cast an instant.\nEmpower Jace 8. (Put eight loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")",
+          "image": "https://cards.scryfall.io/normal/front/2/8/282588b9-3656-453b-aa25-2419e078ddc1.jpg?1788878150"
+        }
+      },
+      {
+        "cardId": "c1a00020-7c14-4503-a057-5763704bb83e",
+        "cardName": "Way of the Pyromancer",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Way of the Pyromancer",
+          "manaCost": "{1}{R}",
+          "typeLine": "Legendary Enchantment",
+          "oracleText": "When Way of the Pyromancer enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")\nPlaneswalkers you control have \"[+1]: Add {R}.\"",
+          "image": "https://cards.scryfall.io/normal/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 590.1,
+    "end": 620.1,
+    "cardId": "c1a00020-7c14-4503-a057-5763704bb83e",
+    "cardName": "Way of the Pyromancer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Way of the Pyromancer",
+      "manaCost": "{1}{R}",
+      "typeLine": "Legendary Enchantment",
+      "oracleText": "When Way of the Pyromancer enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")\nPlaneswalkers you control have \"[+1]: Add {R}.\"",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 603.44,
+    "end": 633.44,
+    "cardId": "5ddb3936-8f5a-498d-a46c-27eb9546c76c",
+    "cardName": "Tibalt, the Fiend-Blooded",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Tibalt, the Fiend-Blooded",
+      "manaCost": "{R}{R}",
+      "typeLine": "Legendary Planeswalker — Tibalt",
+      "oracleText": "+1: Draw a card, then discard a card at random.\n−4: Tibalt deals damage equal to the number of cards in target player's hand to that player.\n−6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/5/d/5ddb3936-8f5a-498d-a46c-27eb9546c76c.jpg?1783940675"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 613.88,
+    "end": 643.88,
+    "cardId": "13059664-a940-4a66-8100-0c90b884bab4",
+    "cardName": "Tablet of Discovery",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Tablet of Discovery",
+      "manaCost": "{2}{R}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)\n{T}: Add {R}.\n{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13059664-a940-4a66-8100-0c90b884bab4.jpg?1783903664"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 616.48,
+    "end": 646.48,
+    "cardId": "13059664-a940-4a66-8100-0c90b884bab4",
+    "cardName": "Tablet of Discovery",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Tablet of Discovery",
+      "manaCost": "{2}{R}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)\n{T}: Add {R}.\n{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13059664-a940-4a66-8100-0c90b884bab4.jpg?1783903664"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 628.04,
+    "end": 658.04,
+    "cardId": "c1a00020-7c14-4503-a057-5763704bb83e",
+    "cardName": "Way of the Pyromancer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Way of the Pyromancer",
+      "manaCost": "{1}{R}",
+      "typeLine": "Legendary Enchantment",
+      "oracleText": "When Way of the Pyromancer enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")\nPlaneswalkers you control have \"[+1]: Add {R}.\"",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 682.1,
+    "end": 712.1,
+    "cardId": "2185c08f-bb4d-49d5-8b6c-c629a48bb61c",
+    "cardName": "Sanctum Lurker",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Sanctum Lurker",
+      "manaCost": "{2}{B}",
+      "typeLine": "Creature — Horror",
+      "oracleText": "When this creature enters, empower Jace 1.\nPlaneswalkers you control aren't put into their owners' graveyards for having 0 loyalty.\nPlaneswalkers you control have \"[+2]: This planeswalker deals 1 damage to each opponent and you gain 1 life.\"",
+      "image": "https://cards.scryfall.io/normal/front/2/1/2185c08f-bb4d-49d5-8b6c-c629a48bb61c.jpg?1789556729"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 721.28,
+    "end": 751.28,
+    "cardId": "596822f6-dbd4-4cc8-aa50-9331ff42544e",
     "cardName": "Hero's Downfall",
     "confidence": 1,
     "needsReview": false,
@@ -40,13 +440,30 @@
       "manaCost": "{1}{B}{B}",
       "typeLine": "Instant",
       "oracleText": "Destroy target creature or planeswalker.",
-      "image": "https://api.scryfall.com/cards/named?exact=Hero's%20Downfall&format=image&version=normal"
-    },
-    "end": 745.7
+      "image": "https://cards.scryfall.io/normal/front/5/9/596822f6-dbd4-4cc8-aa50-9331ff42544e.jpg?1783939779"
+    }
   },
   {
-    "start": 745.7,
-    "cardId": "61b6b1d1-4350-41c1-ac47-835b2831f24a",
+    "track": "mentioned",
+    "start": 741.82,
+    "end": 771.82,
+    "cardId": "13059664-a940-4a66-8100-0c90b884bab4",
+    "cardName": "Tablet of Discovery",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Tablet of Discovery",
+      "manaCost": "{2}{R}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)\n{T}: Add {R}.\n{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13059664-a940-4a66-8100-0c90b884bab4.jpg?1783903664"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 743.98,
+    "end": 773.98,
+    "cardId": "3cac0ad3-5107-4ed6-a688-d44bbd65e407",
     "cardName": "Jeskai Revelation",
     "confidence": 1,
     "needsReview": false,
@@ -55,28 +472,238 @@
       "manaCost": "{4}{U}{R}{W}",
       "typeLine": "Instant",
       "oracleText": "Return target spell or permanent to its owner's hand. Jeskai Revelation deals 4 damage to any target. Create two 1/1 white Monk creature tokens with prowess. Draw two cards. You gain 4 life.",
-      "image": "https://api.scryfall.com/cards/named?exact=Jeskai%20Revelation&format=image&version=normal"
-    },
-    "end": 768.78
+      "image": "https://cards.scryfall.io/normal/front/3/c/3cac0ad3-5107-4ed6-a688-d44bbd65e407.jpg?1783907311"
+    }
   },
   {
-    "start": 768.78,
-    "cardId": "19cf5798-4600-4a66-b1c7-de77bde157d0",
+    "track": "mentioned",
+    "start": 763.72,
+    "end": 793.72,
+    "cardId": "c1a00020-7c14-4503-a057-5763704bb83e",
+    "cardName": "Way of the Pyromancer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Way of the Pyromancer",
+      "manaCost": "{1}{R}",
+      "typeLine": "Legendary Enchantment",
+      "oracleText": "When Way of the Pyromancer enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")\nPlaneswalkers you control have \"[+1]: Add {R}.\"",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 766.86,
+    "end": 796.86,
+    "cardId": "13059664-a940-4a66-8100-0c90b884bab4",
     "cardName": "Tablet of Discovery",
-    "confidence": 1,
+    "confidence": 0.98,
     "needsReview": false,
     "card": {
       "name": "Tablet of Discovery",
       "manaCost": "{2}{R}",
       "typeLine": "Artifact",
       "oracleText": "When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)\n{T}: Add {R}.\n{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",
-      "image": "https://api.scryfall.com/cards/named?exact=Tablet%20of%20Discovery&format=image&version=normal"
-    },
-    "end": 908.08
+      "image": "https://cards.scryfall.io/normal/front/1/3/13059664-a940-4a66-8100-0c90b884bab4.jpg?1783903664"
+    }
   },
   {
-    "start": 908.08,
-    "cardId": "41820f91-27cf-41c0-bb5e-9adf6845a6a4",
+    "track": "mentioned",
+    "start": 770.68,
+    "end": 800.68,
+    "cardId": "282588b9-3656-453b-aa25-2419e078ddc1",
+    "cardName": "Jace's Machinations",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jace's Machinations",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Until end of turn, you may activate loyalty abilities of Jace planeswalkers you control on any player's turn any time you could cast an instant.\nEmpower Jace 8. (Put eight loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")",
+      "image": "https://cards.scryfall.io/normal/front/2/8/282588b9-3656-453b-aa25-2419e078ddc1.jpg?1788878150"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 771.78,
+    "end": 801.78,
+    "cardId": "13059664-a940-4a66-8100-0c90b884bab4",
+    "cardName": "Tablet of Discovery",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Tablet of Discovery",
+      "manaCost": "{2}{R}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)\n{T}: Add {R}.\n{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13059664-a940-4a66-8100-0c90b884bab4.jpg?1783903664"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 779.48,
+    "end": 809.48,
+    "cardId": "c1a00020-7c14-4503-a057-5763704bb83e",
+    "cardName": "Way of the Pyromancer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Way of the Pyromancer",
+      "manaCost": "{1}{R}",
+      "typeLine": "Legendary Enchantment",
+      "oracleText": "When Way of the Pyromancer enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")\nPlaneswalkers you control have \"[+1]: Add {R}.\"",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 813.78,
+    "end": 843.78,
+    "cardId": "3cac0ad3-5107-4ed6-a688-d44bbd65e407",
+    "cardName": "Jeskai Revelation",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jeskai Revelation",
+      "manaCost": "{4}{U}{R}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Return target spell or permanent to its owner's hand. Jeskai Revelation deals 4 damage to any target. Create two 1/1 white Monk creature tokens with prowess. Draw two cards. You gain 4 life.",
+      "image": "https://cards.scryfall.io/normal/front/3/c/3cac0ad3-5107-4ed6-a688-d44bbd65e407.jpg?1783907311"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 831.16,
+    "end": 861.16,
+    "cardId": "5ddb3936-8f5a-498d-a46c-27eb9546c76c",
+    "cardName": "Tibalt, the Fiend-Blooded",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tibalt, the Fiend-Blooded",
+      "manaCost": "{R}{R}",
+      "typeLine": "Legendary Planeswalker — Tibalt",
+      "oracleText": "+1: Draw a card, then discard a card at random.\n−4: Tibalt deals damage equal to the number of cards in target player's hand to that player.\n−6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/5/d/5ddb3936-8f5a-498d-a46c-27eb9546c76c.jpg?1783940675"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 832.84,
+    "end": 862.84,
+    "cardId": "5ddb3936-8f5a-498d-a46c-27eb9546c76c",
+    "cardName": "Tibalt, the Fiend-Blooded",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tibalt, the Fiend-Blooded",
+      "manaCost": "{R}{R}",
+      "typeLine": "Legendary Planeswalker — Tibalt",
+      "oracleText": "+1: Draw a card, then discard a card at random.\n−4: Tibalt deals damage equal to the number of cards in target player's hand to that player.\n−6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/5/d/5ddb3936-8f5a-498d-a46c-27eb9546c76c.jpg?1783940675"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 835.78,
+    "end": 865.78,
+    "cardId": "5ddb3936-8f5a-498d-a46c-27eb9546c76c",
+    "cardName": "Tibalt, the Fiend-Blooded",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tibalt, the Fiend-Blooded",
+      "manaCost": "{R}{R}",
+      "typeLine": "Legendary Planeswalker — Tibalt",
+      "oracleText": "+1: Draw a card, then discard a card at random.\n−4: Tibalt deals damage equal to the number of cards in target player's hand to that player.\n−6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/5/d/5ddb3936-8f5a-498d-a46c-27eb9546c76c.jpg?1783940675"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 855.3,
+    "end": 885.3,
+    "cardId": "13059664-a940-4a66-8100-0c90b884bab4",
+    "cardName": "Tablet of Discovery",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Tablet of Discovery",
+      "manaCost": "{2}{R}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)\n{T}: Add {R}.\n{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13059664-a940-4a66-8100-0c90b884bab4.jpg?1783903664"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 865.96,
+    "end": 895.96,
+    "cardId": "13059664-a940-4a66-8100-0c90b884bab4",
+    "cardName": "Tablet of Discovery",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Tablet of Discovery",
+      "manaCost": "{2}{R}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)\n{T}: Add {R}.\n{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13059664-a940-4a66-8100-0c90b884bab4.jpg?1783903664"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 881.24,
+    "end": 911.24,
+    "cardId": "13059664-a940-4a66-8100-0c90b884bab4",
+    "cardName": "Tablet of Discovery",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Tablet of Discovery",
+      "manaCost": "{2}{R}",
+      "typeLine": "Artifact",
+      "oracleText": "When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)\n{T}: Add {R}.\n{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13059664-a940-4a66-8100-0c90b884bab4.jpg?1783903664"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 888.14,
+    "end": 918.14,
+    "cardId": "0461867b-ec35-4d37-a398-5247e06c4afe",
+    "cardName": "Improbable Alliance",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Improbable Alliance",
+      "manaCost": "{U}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever you draw your second card each turn, create a 1/1 blue Faerie creature token with flying.\n{4}{U}{R}: Draw a card, then discard a card.",
+      "image": "https://cards.scryfall.io/normal/front/0/4/0461867b-ec35-4d37-a398-5247e06c4afe.jpg?1783932596"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 899.02,
+    "end": 929.02,
+    "cardId": "9a446cae-e93c-4574-8ffd-7688f9729a8a",
+    "cardName": "Hexhaven Invigorator",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Hexhaven Invigorator",
+      "manaCost": "{G}{G}{G}{G}",
+      "typeLine": "Creature — Chimera Horror",
+      "oracleText": "Vigilance\nWhenever this creature is dealt damage, you may search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/9/a/9a446cae-e93c-4574-8ffd-7688f9729a8a.jpg?1788878191"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 907.7,
+    "end": 937.7,
+    "cardId": "44c4476d-58f9-420d-9545-f5d580c589de",
     "cardName": "Phyrexian Obliterator",
     "confidence": 1,
     "needsReview": false,
@@ -85,43 +712,126 @@
       "manaCost": "{B}{B}{B}{B}",
       "typeLine": "Creature — Phyrexian Horror",
       "oracleText": "Trample\nWhenever a source deals damage to this creature, that source's controller sacrifices that many permanents of their choice.",
-      "image": "https://api.scryfall.com/cards/named?exact=Phyrexian%20Obliterator&format=image&version=normal"
-    },
-    "end": 929.44
+      "image": "https://cards.scryfall.io/normal/front/4/4/44c4476d-58f9-420d-9545-f5d580c589de.jpg?1783941312"
+    }
   },
   {
-    "start": 929.44,
-    "cardId": "a139eb7f-3853-490c-a839-35d0e5aed7b5",
+    "track": "mentioned",
+    "start": 924.78,
+    "end": 954.78,
+    "cardId": "9a446cae-e93c-4574-8ffd-7688f9729a8a",
+    "cardName": "Hexhaven Invigorator",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Hexhaven Invigorator",
+      "manaCost": "{G}{G}{G}{G}",
+      "typeLine": "Creature — Chimera Horror",
+      "oracleText": "Vigilance\nWhenever this creature is dealt damage, you may search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/9/a/9a446cae-e93c-4574-8ffd-7688f9729a8a.jpg?1788878191"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 927.62,
+    "end": 957.62,
+    "cardId": "483fcc58-cc6e-4452-a696-7b38e117c837",
     "cardName": "Enlightened Confidant",
-    "confidence": 1,
+    "confidence": 0.99,
     "needsReview": false,
     "card": {
       "name": "Enlightened Confidant",
       "manaCost": "{1}{W}",
       "typeLine": "Creature — Kor Cleric",
       "oracleText": "Lifelink\nAt the beginning of your end step, if you gained life this turn, surveil 1. If you put a card with mana value less than or equal to the amount of life you gained this turn into your graveyard this way, put that card into your hand.",
-      "image": "https://api.scryfall.com/cards/named?exact=Enlightened%20Confidant&format=image&version=normal"
-    },
-    "end": 1005.84
+      "image": "https://cards.scryfall.io/normal/front/4/8/483fcc58-cc6e-4452-a696-7b38e117c837.jpg?1788329184"
+    }
   },
   {
-    "start": 1005.84,
-    "cardId": "a139eb7f-3853-490c-a839-35d0e5aed7b5",
+    "track": "mentioned",
+    "start": 931.48,
+    "end": 961.48,
+    "cardId": "483fcc58-cc6e-4452-a696-7b38e117c837",
     "cardName": "Enlightened Confidant",
-    "confidence": 1,
+    "confidence": 0.99,
     "needsReview": false,
     "card": {
       "name": "Enlightened Confidant",
       "manaCost": "{1}{W}",
       "typeLine": "Creature — Kor Cleric",
       "oracleText": "Lifelink\nAt the beginning of your end step, if you gained life this turn, surveil 1. If you put a card with mana value less than or equal to the amount of life you gained this turn into your graveyard this way, put that card into your hand.",
-      "image": "https://api.scryfall.com/cards/named?exact=Enlightened%20Confidant&format=image&version=normal"
-    },
-    "end": 1014.42
+      "image": "https://cards.scryfall.io/normal/front/4/8/483fcc58-cc6e-4452-a696-7b38e117c837.jpg?1788329184"
+    }
   },
   {
-    "start": 1014.42,
-    "cardId": "45900b2f-f6a9-4c42-9642-008f3c1cf6dd",
+    "track": "mentioned",
+    "start": 971.5,
+    "end": 1001.5,
+    "cardId": "f70d1452-6b61-4c63-841f-4256ac498e9f",
+    "cardName": "Ajani's Pridemate",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Ajani's Pridemate",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Cat Soldier",
+      "oracleText": "Whenever you gain life, put a +1/+1 counter on this creature.",
+      "image": "https://cards.scryfall.io/normal/front/f/7/f70d1452-6b61-4c63-841f-4256ac498e9f.jpg?1783941838"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 976.54,
+    "end": 1006.54,
+    "cardId": "d5ee24ee-4d28-4634-bd43-90eff15c16dd",
+    "cardName": "Soul Warden",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Soul Warden",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "Whenever another creature enters, you gain 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d5ee24ee-4d28-4634-bd43-90eff15c16dd.jpg?1783946528"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 981.3,
+    "end": 1011.3,
+    "cardId": "f70d1452-6b61-4c63-841f-4256ac498e9f",
+    "cardName": "Ajani's Pridemate",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Ajani's Pridemate",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Cat Soldier",
+      "oracleText": "Whenever you gain life, put a +1/+1 counter on this creature.",
+      "image": "https://cards.scryfall.io/normal/front/f/7/f70d1452-6b61-4c63-841f-4256ac498e9f.jpg?1783941838"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1004.22,
+    "end": 1034.22,
+    "cardId": "483fcc58-cc6e-4452-a696-7b38e117c837",
+    "cardName": "Enlightened Confidant",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Enlightened Confidant",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Kor Cleric",
+      "oracleText": "Lifelink\nAt the beginning of your end step, if you gained life this turn, surveil 1. If you put a card with mana value less than or equal to the amount of life you gained this turn into your graveyard this way, put that card into your hand.",
+      "image": "https://cards.scryfall.io/normal/front/4/8/483fcc58-cc6e-4452-a696-7b38e117c837.jpg?1788329184"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1009.04,
+    "end": 1039.04,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
     "cardName": "Tarmogoyf",
     "confidence": 1,
     "needsReview": false,
@@ -130,146 +840,46 @@
       "manaCost": "{1}{G}",
       "typeLine": "Creature — Lhurgoyf",
       "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
-      "image": "https://api.scryfall.com/cards/named?exact=Tarmogoyf&format=image&version=normal"
-    },
-    "end": 1027.68
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
   },
   {
-    "start": 1027.68,
-    "cardId": "4457ed35-7c10-48c8-9776-456485fdf070",
+    "track": "mentioned",
+    "start": 1027.3,
+    "end": 1057.3,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
     "cardName": "Lightning Bolt",
-    "confidence": 1,
+    "confidence": 0.99,
     "needsReview": false,
     "card": {
       "name": "Lightning Bolt",
       "manaCost": "{R}",
       "typeLine": "Instant",
       "oracleText": "Lightning Bolt deals 3 damage to any target.",
-      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Bolt&format=image&version=normal"
-    },
-    "end": 1111.86
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
   },
   {
-    "start": 1111.86,
-    "cardId": "087f9ad7-e74f-40e2-8102-1ed2925d0418",
-    "cardName": "Rest in Peace",
-    "confidence": 1,
+    "track": "mentioned",
+    "start": 1032.38,
+    "end": 1062.38,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 0.99,
     "needsReview": false,
     "card": {
-      "name": "Rest in Peace",
-      "manaCost": "{1}{W}",
-      "typeLine": "Enchantment",
-      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
-      "image": "https://api.scryfall.com/cards/named?exact=Rest%20in%20Peace&format=image&version=normal"
-    },
-    "end": 1248.72
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
   },
   {
-    "start": 1248.72,
-    "cardId": "bd7c5a8b-cf62-41e1-a664-b16e3e5d142b",
-    "cardName": "Laughing Jasper Flint",
-    "confidence": 1,
-    "needsReview": false,
-    "card": {
-      "name": "Laughing Jasper Flint",
-      "manaCost": "{1}{B}{R}",
-      "typeLine": "Legendary Creature — Lizard Rogue",
-      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
-      "image": "https://api.scryfall.com/cards/named?exact=Laughing%20Jasper%20Flint&format=image&version=normal"
-    },
-    "end": 1282.12
-  },
-  {
-    "start": 1282.12,
-    "cardId": "bd7c5a8b-cf62-41e1-a664-b16e3e5d142b",
-    "cardName": "Laughing Jasper Flint",
-    "confidence": 1,
-    "needsReview": false,
-    "card": {
-      "name": "Laughing Jasper Flint",
-      "manaCost": "{1}{B}{R}",
-      "typeLine": "Legendary Creature — Lizard Rogue",
-      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
-      "image": "https://api.scryfall.com/cards/named?exact=Laughing%20Jasper%20Flint&format=image&version=normal"
-    },
-    "end": 1285.82
-  },
-  {
-    "start": 1285.82,
-    "cardId": "37e90cab-d904-4387-9d18-62f125c38c46",
-    "cardName": "Master of Arms",
-    "confidence": 1,
-    "needsReview": false,
-    "card": {
-      "name": "Master of Arms",
-      "manaCost": "{2}{W}",
-      "typeLine": "Creature — Human Soldier",
-      "oracleText": "First strike\n{1}{W}: Tap target creature blocking this creature.",
-      "image": "https://api.scryfall.com/cards/named?exact=Master%20of%20Arms&format=image&version=normal"
-    },
-    "end": 1292.2
-  },
-  {
-    "start": 1292.2,
-    "cardId": "bd7c5a8b-cf62-41e1-a664-b16e3e5d142b",
-    "cardName": "Laughing Jasper Flint",
-    "confidence": 1,
-    "needsReview": false,
-    "card": {
-      "name": "Laughing Jasper Flint",
-      "manaCost": "{1}{B}{R}",
-      "typeLine": "Legendary Creature — Lizard Rogue",
-      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
-      "image": "https://api.scryfall.com/cards/named?exact=Laughing%20Jasper%20Flint&format=image&version=normal"
-    },
-    "cards": [
-      {
-        "cardId": "bd7c5a8b-cf62-41e1-a664-b16e3e5d142b",
-        "cardName": "Laughing Jasper Flint",
-        "confidence": 1,
-        "needsReview": false,
-        "card": {
-          "name": "Laughing Jasper Flint",
-          "manaCost": "{1}{B}{R}",
-          "typeLine": "Legendary Creature — Lizard Rogue",
-          "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
-          "image": "https://api.scryfall.com/cards/named?exact=Laughing%20Jasper%20Flint&format=image&version=normal"
-        }
-      },
-      {
-        "cardId": "5facb256-b993-43f8-b971-b3a59a7434bf",
-        "cardName": "Last Laugh",
-        "confidence": 1,
-        "needsReview": false,
-        "card": {
-          "name": "Last Laugh",
-          "manaCost": "{2}{B}{B}",
-          "typeLine": "Enchantment",
-          "oracleText": "Whenever a permanent other than this enchantment is put into a graveyard from the battlefield, this enchantment deals 1 damage to each creature and each player.\nWhen no creatures are on the battlefield, sacrifice this enchantment.",
-          "image": "https://api.scryfall.com/cards/named?exact=Last%20Laugh&format=image&version=normal"
-        }
-      }
-    ],
-    "end": 1324.82
-  },
-  {
-    "start": 1324.82,
-    "cardId": "087f9ad7-e74f-40e2-8102-1ed2925d0418",
-    "cardName": "Rest in Peace",
-    "confidence": 1,
-    "needsReview": false,
-    "card": {
-      "name": "Rest in Peace",
-      "manaCost": "{1}{W}",
-      "typeLine": "Enchantment",
-      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
-      "image": "https://api.scryfall.com/cards/named?exact=Rest%20in%20Peace&format=image&version=normal"
-    },
-    "end": 1489.12
-  },
-  {
-    "start": 1489.12,
-    "cardId": "45900b2f-f6a9-4c42-9642-008f3c1cf6dd",
+    "track": "mentioned",
+    "start": 1038.24,
+    "end": 1068.24,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
     "cardName": "Tarmogoyf",
     "confidence": 1,
     "needsReview": false,
@@ -278,73 +888,770 @@
       "manaCost": "{1}{G}",
       "typeLine": "Creature — Lhurgoyf",
       "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
-      "image": "https://api.scryfall.com/cards/named?exact=Tarmogoyf&format=image&version=normal"
-    },
-    "end": 1918.36
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
   },
   {
-    "start": 1918.36,
-    "cardId": "16437a83-be52-44cd-a768-a767c9347eb2",
-    "cardName": "Fatal Push",
+    "track": "mentioned",
+    "start": 1053.2,
+    "end": 1083.2,
+    "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+    "cardName": "Darklight Phoenix",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Darklight Phoenix",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1061.4,
+    "end": 1091.4,
+    "cardId": "37c2b1d1-faa0-40fd-82f4-216604ce7635",
+    "cardName": "Rest in Peace",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1783940374"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1069.58,
+    "end": 1099.58,
+    "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+    "cardName": "Darklight Phoenix",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Darklight Phoenix",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1077.4,
+    "end": 1107.4,
+    "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+    "cardName": "Darklight Phoenix",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Darklight Phoenix",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1086.2,
+    "end": 1116.2,
+    "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+    "cardName": "Darklight Phoenix",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Darklight Phoenix",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1092.02,
+    "end": 1122.02,
+    "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+    "cardName": "Darklight Phoenix",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Darklight Phoenix",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1103.18,
+    "end": 1133.18,
+    "cardId": "787de9ce-02c5-4a17-a88b-d38e83dbeb0b",
+    "cardName": "Arclight Phoenix",
     "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Arclight Phoenix",
+      "manaCost": "{3}{R}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if you've cast three or more instant and sorcery spells this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/7/8/787de9ce-02c5-4a17-a88b-d38e83dbeb0b.jpg?1783934168"
+    },
+    "cards": [
+      {
+        "cardId": "787de9ce-02c5-4a17-a88b-d38e83dbeb0b",
+        "cardName": "Arclight Phoenix",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Arclight Phoenix",
+          "manaCost": "{3}{R}",
+          "typeLine": "Creature — Phoenix",
+          "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if you've cast three or more instant and sorcery spells this turn, return this card from your graveyard to the battlefield.",
+          "image": "https://cards.scryfall.io/normal/front/7/8/787de9ce-02c5-4a17-a88b-d38e83dbeb0b.jpg?1783934168"
+        }
+      },
+      {
+        "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+        "cardName": "Darklight Phoenix",
+        "confidence": 0.98,
+        "needsReview": false,
+        "card": {
+          "name": "Darklight Phoenix",
+          "manaCost": "{3}{B}",
+          "typeLine": "Creature — Phoenix",
+          "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+          "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1108.68,
+    "end": 1138.68,
+    "cardId": "37c2b1d1-faa0-40fd-82f4-216604ce7635",
+    "cardName": "Rest in Peace",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1783940374"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1120.82,
+    "end": 1150.82,
+    "cardId": "787de9ce-02c5-4a17-a88b-d38e83dbeb0b",
+    "cardName": "Arclight Phoenix",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Arclight Phoenix",
+      "manaCost": "{3}{R}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if you've cast three or more instant and sorcery spells this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/7/8/787de9ce-02c5-4a17-a88b-d38e83dbeb0b.jpg?1783934168"
+    },
+    "cards": [
+      {
+        "cardId": "787de9ce-02c5-4a17-a88b-d38e83dbeb0b",
+        "cardName": "Arclight Phoenix",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Arclight Phoenix",
+          "manaCost": "{3}{R}",
+          "typeLine": "Creature — Phoenix",
+          "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if you've cast three or more instant and sorcery spells this turn, return this card from your graveyard to the battlefield.",
+          "image": "https://cards.scryfall.io/normal/front/7/8/787de9ce-02c5-4a17-a88b-d38e83dbeb0b.jpg?1783934168"
+        }
+      },
+      {
+        "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+        "cardName": "Darklight Phoenix",
+        "confidence": 0.98,
+        "needsReview": false,
+        "card": {
+          "name": "Darklight Phoenix",
+          "manaCost": "{3}{B}",
+          "typeLine": "Creature — Phoenix",
+          "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+          "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1125.32,
+    "end": 1155.32,
+    "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+    "cardName": "Darklight Phoenix",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Darklight Phoenix",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1147.2,
+    "end": 1177.2,
+    "cardId": "d2705b43-a94a-44c0-8740-82e0b296820c",
+    "cardName": "Abhorrent Oculus",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Abhorrent Oculus",
+      "manaCost": "{2}{U}",
+      "typeLine": "Creature — Eye",
+      "oracleText": "As an additional cost to cast this spell, exile six cards from your graveyard.\nFlying\nAt the beginning of each opponent's upkeep, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",
+      "image": "https://cards.scryfall.io/normal/front/d/2/d2705b43-a94a-44c0-8740-82e0b296820c.jpg?1783909500"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1168.38,
+    "end": 1198.38,
+    "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+    "cardName": "Darklight Phoenix",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Darklight Phoenix",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1170.92,
+    "end": 1200.92,
+    "cardId": "c1a00020-7c14-4503-a057-5763704bb83e",
+    "cardName": "Way of the Pyromancer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Way of the Pyromancer",
+      "manaCost": "{1}{R}",
+      "typeLine": "Legendary Enchantment",
+      "oracleText": "When Way of the Pyromancer enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")\nPlaneswalkers you control have \"[+1]: Add {R}.\"",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1194.76,
+    "end": 1224.76,
+    "cardId": "4404d9d4-9cdd-4dad-a4f6-574d90db5052",
+    "cardName": "Master of Barbs",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Master of Barbs",
+      "manaCost": "{1}{R}",
+      "typeLine": "Creature — Lizard Bard",
+      "oracleText": "Menace\nWhenever one or more opponents are dealt noncombat damage, creatures you control get +1/+0 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/4/4/4404d9d4-9cdd-4dad-a4f6-574d90db5052.jpg?1789127596"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1200.18,
+    "end": 1230.18,
+    "cardId": "1ae41080-0d67-4719-adb2-49bf2a268b6c",
+    "cardName": "Hired Claw",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Hired Claw",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Lizard Mercenary",
+      "oracleText": "Whenever you attack with one or more Lizards, this creature deals 1 damage to target opponent.\n{1}{R}: Put a +1/+1 counter on this creature. Activate only if an opponent lost life this turn and only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/1/a/1ae41080-0d67-4719-adb2-49bf2a268b6c.jpg?1783910820"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1221.06,
+    "end": 1251.06,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1225.54,
+    "end": 1255.54,
+    "cardId": "4404d9d4-9cdd-4dad-a4f6-574d90db5052",
+    "cardName": "Master of Barbs",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Master of Barbs",
+      "manaCost": "{1}{R}",
+      "typeLine": "Creature — Lizard Bard",
+      "oracleText": "Menace\nWhenever one or more opponents are dealt noncombat damage, creatures you control get +1/+0 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/4/4/4404d9d4-9cdd-4dad-a4f6-574d90db5052.jpg?1789127596"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1245.56,
+    "end": 1275.56,
+    "cardId": "4404d9d4-9cdd-4dad-a4f6-574d90db5052",
+    "cardName": "Master of Barbs",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Master of Barbs",
+      "manaCost": "{1}{R}",
+      "typeLine": "Creature — Lizard Bard",
+      "oracleText": "Menace\nWhenever one or more opponents are dealt noncombat damage, creatures you control get +1/+0 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/4/4/4404d9d4-9cdd-4dad-a4f6-574d90db5052.jpg?1789127596"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1248.22,
+    "end": 1278.22,
+    "cardId": "af0b3a41-ba99-41e8-bcfb-5796500c17c7",
+    "cardName": "Laughing Jasper Flint",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Laughing Jasper Flint",
+      "manaCost": "{1}{B}{R}",
+      "typeLine": "Legendary Creature — Lizard Rogue",
+      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
+      "image": "https://cards.scryfall.io/normal/front/a/f/af0b3a41-ba99-41e8-bcfb-5796500c17c7.jpg?1783911791"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1265.52,
+    "end": 1295.52,
+    "cardId": "af0b3a41-ba99-41e8-bcfb-5796500c17c7",
+    "cardName": "Laughing Jasper Flint",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Laughing Jasper Flint",
+      "manaCost": "{1}{B}{R}",
+      "typeLine": "Legendary Creature — Lizard Rogue",
+      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
+      "image": "https://cards.scryfall.io/normal/front/a/f/af0b3a41-ba99-41e8-bcfb-5796500c17c7.jpg?1783911791"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1280.14,
+    "end": 1310.14,
+    "cardId": "af0b3a41-ba99-41e8-bcfb-5796500c17c7",
+    "cardName": "Laughing Jasper Flint",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Laughing Jasper Flint",
+      "manaCost": "{1}{B}{R}",
+      "typeLine": "Legendary Creature — Lizard Rogue",
+      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
+      "image": "https://cards.scryfall.io/normal/front/a/f/af0b3a41-ba99-41e8-bcfb-5796500c17c7.jpg?1783911791"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1285.02,
+    "end": 1315.02,
+    "cardId": "4404d9d4-9cdd-4dad-a4f6-574d90db5052",
+    "cardName": "Master of Barbs",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Master of Barbs",
+      "manaCost": "{1}{R}",
+      "typeLine": "Creature — Lizard Bard",
+      "oracleText": "Menace\nWhenever one or more opponents are dealt noncombat damage, creatures you control get +1/+0 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/4/4/4404d9d4-9cdd-4dad-a4f6-574d90db5052.jpg?1789127596"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1289.08,
+    "end": 1319.08,
+    "cardId": "af0b3a41-ba99-41e8-bcfb-5796500c17c7",
+    "cardName": "Laughing Jasper Flint",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Laughing Jasper Flint",
+      "manaCost": "{1}{B}{R}",
+      "typeLine": "Legendary Creature — Lizard Rogue",
+      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
+      "image": "https://cards.scryfall.io/normal/front/a/f/af0b3a41-ba99-41e8-bcfb-5796500c17c7.jpg?1783911791"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1307.06,
+    "end": 1337.06,
+    "cardId": "4ec912d5-cbe7-4d07-9ece-b03ac02d3055",
+    "cardName": "Dark Matter Manipulator",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Dark Matter Manipulator",
+      "manaCost": "{B}",
+      "typeLine": "Creature — Human Warlock",
+      "oracleText": "When this creature enters, mill three cards.\nThis creature gets +2/+0 for every seven cards in your graveyard.",
+      "image": "https://cards.scryfall.io/normal/front/4/e/4ec912d5-cbe7-4d07-9ece-b03ac02d3055.jpg?1789385959"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1308.54,
+    "end": 1338.54,
+    "cardId": "37c2b1d1-faa0-40fd-82f4-216604ce7635",
+    "cardName": "Rest in Peace",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1783940374"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1322.16,
+    "end": 1352.16,
+    "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+    "cardName": "Darklight Phoenix",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Darklight Phoenix",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+    },
+    "cards": [
+      {
+        "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+        "cardName": "Darklight Phoenix",
+        "confidence": 0.98,
+        "needsReview": false,
+        "card": {
+          "name": "Darklight Phoenix",
+          "manaCost": "{3}{B}",
+          "typeLine": "Creature — Phoenix",
+          "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+          "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+        }
+      },
+      {
+        "cardId": "37c2b1d1-faa0-40fd-82f4-216604ce7635",
+        "cardName": "Rest in Peace",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Rest in Peace",
+          "manaCost": "{1}{W}",
+          "typeLine": "Enchantment",
+          "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+          "image": "https://cards.scryfall.io/normal/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1783940374"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1489.12,
+    "end": 1519.12,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1533.64,
+    "end": 1563.64,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1799.22,
+    "end": 1829.22,
+    "cardId": "c1a00020-7c14-4503-a057-5763704bb83e",
+    "cardName": "Way of the Pyromancer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Way of the Pyromancer",
+      "manaCost": "{1}{R}",
+      "typeLine": "Legendary Enchantment",
+      "oracleText": "When Way of the Pyromancer enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")\nPlaneswalkers you control have \"[+1]: Add {R}.\"",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1a00020-7c14-4503-a057-5763704bb83e.jpg?1788878311"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1829.22,
+    "end": 1859.22,
+    "cardId": "3a64c5f4-9cfc-4d19-bd99-13d619b1aa9d",
+    "cardName": "Chandra's Emberling",
+    "confidence": 0.88,
+    "needsReview": true,
+    "card": {
+      "name": "Chandra's Emberling",
+      "manaCost": "{2}{R}",
+      "typeLine": "Creature — Gremlin Elemental",
+      "oracleText": "Haste\nWhenever you cast a noncreature spell, put a +1/+1 counter on this creature.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a64c5f4-9cfc-4d19-bd99-13d619b1aa9d.jpg?1789385708"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1917.48,
+    "end": 1947.48,
+    "cardId": "b5e81649-9954-424c-89d1-f87d73b66047",
+    "cardName": "Fatal Push",
+    "confidence": 0.99,
     "needsReview": false,
     "card": {
       "name": "Fatal Push",
       "manaCost": "{B}",
       "typeLine": "Instant",
       "oracleText": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.",
-      "image": "https://api.scryfall.com/cards/named?exact=Fatal%20Push&format=image&version=normal"
-    },
-    "end": 2015.3
+      "image": "https://cards.scryfall.io/normal/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1783936764"
+    }
   },
   {
-    "start": 2015.3,
-    "cardId": "eec81460-899d-4b4c-b33c-ce2ca704df17",
-    "cardName": "Crude Bent Blade",
+    "track": "mentioned",
+    "start": 1961.12,
+    "end": 1991.12,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1965.56,
+    "end": 1995.56,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2175.92,
+    "end": 2205.92,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2183.46,
+    "end": 2213.46,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+    "cardName": "Lightning Bolt",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2197.12,
+    "end": 2227.12,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
     "confidence": 1,
     "needsReview": false,
     "card": {
-      "name": "Crude Bent Blade",
-      "manaCost": "{2}{B}",
-      "typeLine": "Artifact — Equipment",
-      "oracleText": "When this Equipment enters, target opponent sacrifices a creature of their choice.\nEquipped creature gets +2/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
-      "image": "https://api.scryfall.com/cards/named?exact=Crude%20Bent%20Blade&format=image&version=normal"
-    },
-    "end": 2048.1
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
   },
   {
-    "start": 2048.1,
-    "cardId": "8aac06d0-c353-4af9-a243-feb59b9d0c54",
-    "cardName": "Malicious Intent",
+    "track": "mentioned",
+    "start": 2201.06,
+    "end": 2231.06,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
     "confidence": 1,
     "needsReview": false,
     "card": {
-      "name": "Malicious Intent",
-      "manaCost": "{1}{R}",
-      "typeLine": "Enchantment — Aura",
-      "oracleText": "Enchant creature\nEnchanted creature has \"{T}: Target creature can't block this turn.\"",
-      "image": "https://api.scryfall.com/cards/named?exact=Malicious%20Intent&format=image&version=normal"
-    },
-    "end": 2223.5
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
   },
   {
-    "start": 2223.5,
-    "cardId": "a139eb7f-3853-490c-a839-35d0e5aed7b5",
+    "track": "mentioned",
+    "start": 2221.94,
+    "end": 2251.94,
+    "cardId": "483fcc58-cc6e-4452-a696-7b38e117c837",
     "cardName": "Enlightened Confidant",
-    "confidence": 1,
-    "needsReview": false,
+    "confidence": 0.88,
+    "needsReview": true,
     "card": {
       "name": "Enlightened Confidant",
       "manaCost": "{1}{W}",
       "typeLine": "Creature — Kor Cleric",
       "oracleText": "Lifelink\nAt the beginning of your end step, if you gained life this turn, surveil 1. If you put a card with mana value less than or equal to the amount of life you gained this turn into your graveyard this way, put that card into your hand.",
-      "image": "https://api.scryfall.com/cards/named?exact=Enlightened%20Confidant&format=image&version=normal"
-    },
-    "end": 2938.54
+      "image": "https://cards.scryfall.io/normal/front/4/8/483fcc58-cc6e-4452-a696-7b38e117c837.jpg?1788329184"
+    }
   },
   {
-    "start": 2938.54,
-    "cardId": "fc734a75-93bf-448b-b347-810ae835fe49",
+    "track": "mentioned",
+    "start": 2248.76,
+    "end": 2278.76,
+    "cardId": "1a02ca71-5e39-4a5f-aaba-a1e3e10a6a3e",
+    "cardName": "Chalice of the Void",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Chalice of the Void",
+      "manaCost": "{X}{X}",
+      "typeLine": "Artifact",
+      "oracleText": "This artifact enters with X charge counters on it.\nWhenever a player casts a spell with mana value equal to the number of charge counters on this artifact, counter that spell.",
+      "image": "https://cards.scryfall.io/normal/front/1/a/1a02ca71-5e39-4a5f-aaba-a1e3e10a6a3e.jpg?1783944526"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2261.4,
+    "end": 2291.4,
+    "cardId": "a97cfefa-ade7-49f6-b2aa-1118b9db4935",
+    "cardName": "Mulldrifter",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mulldrifter",
+      "manaCost": "{4}{U}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "Flying\nWhen this creature enters, draw two cards.\nEvoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a97cfefa-ade7-49f6-b2aa-1118b9db4935.jpg?1783942900"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2412.44,
+    "end": 2442.44,
+    "cardId": "bbd5b8db-4a56-45bd-9704-a1316016ec5b",
+    "cardName": "Hunter of Eyeblights",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Hunter of Eyeblights",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Creature — Elf Assassin",
+      "oracleText": "When this creature enters, put a +1/+1 counter on target creature you don't control.\n{2}{B}, {T}: Destroy target creature with a counter on it.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bbd5b8db-4a56-45bd-9704-a1316016ec5b.jpg?1783942889"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2421.52,
+    "end": 2451.52,
+    "cardId": "94f7a441-bf2d-46fb-a7b6-9bd6137f86d9",
+    "cardName": "Dark Confidant",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dark Confidant",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/9/4/94f7a441-bf2d-46fb-a7b6-9bd6137f86d9.jpg?1783943673"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2937.72,
+    "end": 2967.72,
+    "cardId": "f99837b3-b487-43bb-846b-7a0e8afb6eef",
     "cardName": "Archangel's Light",
     "confidence": 1,
     "needsReview": false,
@@ -353,13 +1660,74 @@
       "manaCost": "{7}{W}",
       "typeLine": "Sorcery",
       "oracleText": "You gain 2 life for each card in your graveyard, then shuffle your graveyard into your library.",
-      "image": "https://api.scryfall.com/cards/named?exact=Archangel's%20Light&format=image&version=normal"
-    },
-    "end": 3003.56
+      "image": "https://cards.scryfall.io/normal/front/f/9/f99837b3-b487-43bb-846b-7a0e8afb6eef.jpg?1783940857"
+    }
   },
   {
-    "start": 3003.56,
-    "cardId": "52159875-354c-47f9-bb1c-cd65395fcc68",
+    "track": "mentioned",
+    "start": 2943.56,
+    "end": 2973.56,
+    "cardId": "f99837b3-b487-43bb-846b-7a0e8afb6eef",
+    "cardName": "Archangel's Light",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archangel's Light",
+      "manaCost": "{7}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "You gain 2 life for each card in your graveyard, then shuffle your graveyard into your library.",
+      "image": "https://cards.scryfall.io/normal/front/f/9/f99837b3-b487-43bb-846b-7a0e8afb6eef.jpg?1783940857"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2967.04,
+    "end": 2997.04,
+    "cardId": "f99837b3-b487-43bb-846b-7a0e8afb6eef",
+    "cardName": "Archangel's Light",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archangel's Light",
+      "manaCost": "{7}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "You gain 2 life for each card in your graveyard, then shuffle your graveyard into your library.",
+      "image": "https://cards.scryfall.io/normal/front/f/9/f99837b3-b487-43bb-846b-7a0e8afb6eef.jpg?1783940857"
+    },
+    "cards": [
+      {
+        "cardId": "f99837b3-b487-43bb-846b-7a0e8afb6eef",
+        "cardName": "Archangel's Light",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Archangel's Light",
+          "manaCost": "{7}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "You gain 2 life for each card in your graveyard, then shuffle your graveyard into your library.",
+          "image": "https://cards.scryfall.io/normal/front/f/9/f99837b3-b487-43bb-846b-7a0e8afb6eef.jpg?1783940857"
+        }
+      },
+      {
+        "cardId": "55318397-de3c-47ea-a088-72a24df5c8fa",
+        "cardName": "Skullclamp",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Skullclamp",
+          "manaCost": "{1}",
+          "typeLine": "Artifact — Equipment",
+          "oracleText": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}",
+          "image": "https://cards.scryfall.io/normal/front/5/5/55318397-de3c-47ea-a088-72a24df5c8fa.jpg?1783944419"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3002.96,
+    "end": 3032.96,
+    "cardId": "0b12e4b7-2c45-4795-94d3-901f89b8f290",
     "cardName": "Fiery Emancipation",
     "confidence": 1,
     "needsReview": false,
@@ -368,13 +1736,62 @@
       "manaCost": "{3}{R}{R}{R}",
       "typeLine": "Enchantment",
       "oracleText": "If a source you control would deal damage to a permanent or player, it deals triple that damage to that permanent or player instead.",
-      "image": "https://api.scryfall.com/cards/named?exact=Fiery%20Emancipation&format=image&version=normal"
-    },
-    "end": 3064.2
+      "image": "https://cards.scryfall.io/normal/front/0/b/0b12e4b7-2c45-4795-94d3-901f89b8f290.jpg?1783930692"
+    }
   },
   {
-    "start": 3064.2,
-    "cardId": "800c258a-cfc4-4a54-a667-065ea8dea69e",
+    "track": "mentioned",
+    "start": 3025.08,
+    "end": 3055.08,
+    "cardId": "1a27ba4d-53af-427d-9e51-be04db077fac",
+    "cardName": "Boon Reflection",
+    "confidence": 0.89,
+    "needsReview": true,
+    "card": {
+      "name": "Boon Reflection",
+      "manaCost": "{4}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "If you would gain life, you gain twice that much life instead.",
+      "image": "https://cards.scryfall.io/normal/front/1/a/1a27ba4d-53af-427d-9e51-be04db077fac.jpg?1783942769"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3028.64,
+    "end": 3058.64,
+    "cardId": "85ea185a-7b38-49f3-be73-be8180fb6295",
+    "cardName": "Rhox Faithmender",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Rhox Faithmender",
+      "manaCost": "{3}{W}",
+      "typeLine": "Creature — Rhino Monk",
+      "oracleText": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nIf you would gain life, you gain twice that much life instead.",
+      "image": "https://cards.scryfall.io/normal/front/8/5/85ea185a-7b38-49f3-be73-be8180fb6295.jpg?1783940514"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3032.7,
+    "end": 3062.7,
+    "cardId": "85ea185a-7b38-49f3-be73-be8180fb6295",
+    "cardName": "Rhox Faithmender",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Rhox Faithmender",
+      "manaCost": "{3}{W}",
+      "typeLine": "Creature — Rhino Monk",
+      "oracleText": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nIf you would gain life, you gain twice that much life instead.",
+      "image": "https://cards.scryfall.io/normal/front/8/5/85ea185a-7b38-49f3-be73-be8180fb6295.jpg?1783940514"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3060.8,
+    "end": 3090.8,
+    "cardId": "1b2ecf55-c1cc-4b28-b7ce-e1b25305155e",
     "cardName": "Lightning Helix",
     "confidence": 1,
     "needsReview": false,
@@ -383,13 +1800,186 @@
       "manaCost": "{R}{W}",
       "typeLine": "Instant",
       "oracleText": "Lightning Helix deals 3 damage to any target and you gain 3 life.",
-      "image": "https://api.scryfall.com/cards/named?exact=Lightning%20Helix&format=image&version=normal"
-    },
-    "end": 3130.48
+      "image": "https://cards.scryfall.io/normal/front/1/b/1b2ecf55-c1cc-4b28-b7ce-e1b25305155e.jpg?1783943619"
+    }
   },
   {
+    "track": "mentioned",
+    "start": 3067.8,
+    "end": 3097.8,
+    "cardId": "1b2ecf55-c1cc-4b28-b7ce-e1b25305155e",
+    "cardName": "Lightning Helix",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Helix",
+      "manaCost": "{R}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Helix deals 3 damage to any target and you gain 3 life.",
+      "image": "https://cards.scryfall.io/normal/front/1/b/1b2ecf55-c1cc-4b28-b7ce-e1b25305155e.jpg?1783943619"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3076.7,
+    "end": 3106.7,
+    "cardId": "404d9413-ef57-4b6e-8584-48a1dc7fe6f1",
+    "cardName": "Sphinx's Revelation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sphinx's Revelation",
+      "manaCost": "{X}{W}{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "You gain X life and draw X cards.",
+      "image": "https://cards.scryfall.io/normal/front/4/0/404d9413-ef57-4b6e-8584-48a1dc7fe6f1.jpg?1783940331"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3082.68,
+    "end": 3112.68,
+    "cardId": "ef058312-6926-49f8-ae72-a8d60fedbf6c",
+    "cardName": "Nephalia Drownyard",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Nephalia Drownyard",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "{T}: Add {C}.\n{1}{U}{B}, {T}: Target player mills three cards.",
+      "image": "https://cards.scryfall.io/normal/front/e/f/ef058312-6926-49f8-ae72-a8d60fedbf6c.jpg?1783940893"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3092.46,
+    "end": 3122.46,
+    "cardId": "44f19fe3-7a17-4c45-adfa-590f73dfebfa",
+    "cardName": "Vampire Nighthawk",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Vampire Nighthawk",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Creature — Vampire Shaman",
+      "oracleText": "Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+      "image": "https://cards.scryfall.io/normal/front/4/4/44f19fe3-7a17-4c45-adfa-590f73dfebfa.jpg?1783942148"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3095.04,
+    "end": 3125.04,
+    "cardId": "44f19fe3-7a17-4c45-adfa-590f73dfebfa",
+    "cardName": "Vampire Nighthawk",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Vampire Nighthawk",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Creature — Vampire Shaman",
+      "oracleText": "Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+      "image": "https://cards.scryfall.io/normal/front/4/4/44f19fe3-7a17-4c45-adfa-590f73dfebfa.jpg?1783942148"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3097.02,
+    "end": 3127.02,
+    "cardId": "28667c8b-d02c-4e57-a050-1549207b65d1",
+    "cardName": "Thragtusk",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thragtusk",
+      "manaCost": "{4}{G}",
+      "typeLine": "Creature — Beast",
+      "oracleText": "When this creature enters, you gain 5 life.\nWhen this creature leaves the battlefield, create a 3/3 green Beast creature token.",
+      "image": "https://cards.scryfall.io/normal/front/2/8/28667c8b-d02c-4e57-a050-1549207b65d1.jpg?1783940464"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3098.94,
+    "end": 3128.94,
+    "cardId": "6764ea7b-ccb3-4f39-b8ba-654a186210b9",
+    "cardName": "Baneslayer Angel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Baneslayer Angel",
+      "manaCost": "{3}{W}{W}",
+      "typeLine": "Creature — Angel",
+      "oracleText": "Flying, first strike, lifelink, protection from Demons and from Dragons",
+      "image": "https://cards.scryfall.io/normal/front/6/7/6764ea7b-ccb3-4f39-b8ba-654a186210b9.jpg?1783942404"
+    },
+    "cards": [
+      {
+        "cardId": "6764ea7b-ccb3-4f39-b8ba-654a186210b9",
+        "cardName": "Baneslayer Angel",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Baneslayer Angel",
+          "manaCost": "{3}{W}{W}",
+          "typeLine": "Creature — Angel",
+          "oracleText": "Flying, first strike, lifelink, protection from Demons and from Dragons",
+          "image": "https://cards.scryfall.io/normal/front/6/7/6764ea7b-ccb3-4f39-b8ba-654a186210b9.jpg?1783942404"
+        }
+      },
+      {
+        "cardId": "28667c8b-d02c-4e57-a050-1549207b65d1",
+        "cardName": "Thragtusk",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Thragtusk",
+          "manaCost": "{4}{G}",
+          "typeLine": "Creature — Beast",
+          "oracleText": "When this creature enters, you gain 5 life.\nWhen this creature leaves the battlefield, create a 3/3 green Beast creature token.",
+          "image": "https://cards.scryfall.io/normal/front/2/8/28667c8b-d02c-4e57-a050-1549207b65d1.jpg?1783940464"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3100.32,
+    "end": 3130.32,
+    "cardId": "6764ea7b-ccb3-4f39-b8ba-654a186210b9",
+    "cardName": "Baneslayer Angel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Baneslayer Angel",
+      "manaCost": "{3}{W}{W}",
+      "typeLine": "Creature — Angel",
+      "oracleText": "Flying, first strike, lifelink, protection from Demons and from Dragons",
+      "image": "https://cards.scryfall.io/normal/front/6/7/6764ea7b-ccb3-4f39-b8ba-654a186210b9.jpg?1783942404"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3101.68,
+    "end": 3131.68,
+    "cardId": "6764ea7b-ccb3-4f39-b8ba-654a186210b9",
+    "cardName": "Baneslayer Angel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Baneslayer Angel",
+      "manaCost": "{3}{W}{W}",
+      "typeLine": "Creature — Angel",
+      "oracleText": "Flying, first strike, lifelink, protection from Demons and from Dragons",
+      "image": "https://cards.scryfall.io/normal/front/6/7/6764ea7b-ccb3-4f39-b8ba-654a186210b9.jpg?1783942404"
+    }
+  },
+  {
+    "track": "mentioned",
     "start": 3130.48,
-    "cardId": "f70f1f2e-7277-4bc9-b0bb-b44a1da2c62f",
+    "end": 3160.48,
+    "cardId": "52f7c53d-0b53-400f-aa67-967547f3e394",
     "cardName": "Feed the Clan",
     "confidence": 1,
     "needsReview": false,
@@ -398,13 +1988,14 @@
       "manaCost": "{1}{G}",
       "typeLine": "Instant",
       "oracleText": "You gain 5 life.\nFerocious — You gain 10 life instead if you control a creature with power 4 or greater.",
-      "image": "https://api.scryfall.com/cards/named?exact=Feed%20the%20Clan&format=image&version=normal"
-    },
-    "end": 3153.64
+      "image": "https://cards.scryfall.io/normal/front/5/2/52f7c53d-0b53-400f-aa67-967547f3e394.jpg?1783939068"
+    }
   },
   {
-    "start": 3153.64,
-    "cardId": "d0209d3f-3f7e-4fd5-bce5-10bce6f29c86",
+    "track": "mentioned",
+    "start": 3153.16,
+    "end": 3183.16,
+    "cardId": "e0139f60-d48e-46fb-9f5a-1e3d7558c834",
     "cardName": "Time Walk",
     "confidence": 1,
     "needsReview": false,
@@ -413,13 +2004,94 @@
       "manaCost": "{1}{U}",
       "typeLine": "Sorcery",
       "oracleText": "Take an extra turn after this one.",
-      "image": "https://api.scryfall.com/cards/named?exact=Time%20Walk&format=image&version=normal"
-    },
-    "end": 3252.98
+      "image": "https://cards.scryfall.io/normal/front/e/0/e0139f60-d48e-46fb-9f5a-1e3d7558c834.jpg?1783948701"
+    }
   },
   {
-    "start": 3252.98,
-    "cardId": "ebbd5b9c-07ff-4b42-81c2-ba09539f3a42",
+    "track": "mentioned",
+    "start": 3154.48,
+    "end": 3184.48,
+    "cardId": "e0139f60-d48e-46fb-9f5a-1e3d7558c834",
+    "cardName": "Time Walk",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Time Walk",
+      "manaCost": "{1}{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "Take an extra turn after this one.",
+      "image": "https://cards.scryfall.io/normal/front/e/0/e0139f60-d48e-46fb-9f5a-1e3d7558c834.jpg?1783948701"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3159.56,
+    "end": 3189.56,
+    "cardId": "e0139f60-d48e-46fb-9f5a-1e3d7558c834",
+    "cardName": "Time Walk",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Time Walk",
+      "manaCost": "{1}{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "Take an extra turn after this one.",
+      "image": "https://cards.scryfall.io/normal/front/e/0/e0139f60-d48e-46fb-9f5a-1e3d7558c834.jpg?1783948701"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3198.5,
+    "end": 3228.5,
+    "cardId": "feee9327-b937-46ba-a2aa-6c015ab6cdd5",
+    "cardName": "Primeval Titan",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Primeval Titan",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Trample\nWhenever this creature enters or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/feee9327-b937-46ba-a2aa-6c015ab6cdd5.jpg?1783941794"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3243.44,
+    "end": 3273.44,
+    "cardId": "f3537373-ef54-4578-9d05-6216420ee349",
+    "cardName": "Esper Sentinel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Esper Sentinel",
+      "manaCost": "{W}",
+      "typeLine": "Artifact Creature — Human Soldier",
+      "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
+      "image": "https://cards.scryfall.io/normal/front/f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1783926893"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3247.5,
+    "end": 3277.5,
+    "cardId": "4a08ca06-58db-4ce6-b490-be4bea8956a1",
+    "cardName": "Sensei's Divining Top",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sensei's Divining Top",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put this artifact on top of its owner's library.",
+      "image": "https://cards.scryfall.io/normal/front/4/a/4a08ca06-58db-4ce6-b490-be4bea8956a1.jpg?1783944276"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3249.76,
+    "end": 3279.76,
+    "cardId": "ee99acde-796c-423b-81ed-13d33e210925",
     "cardName": "Breach the Multiverse",
     "confidence": 1,
     "needsReview": false,
@@ -428,11 +2100,11 @@
       "manaCost": "{5}{B}{B}",
       "typeLine": "Sorcery",
       "oracleText": "Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.",
-      "image": "https://api.scryfall.com/cards/named?exact=Breach%20the%20Multiverse&format=image&version=normal"
+      "image": "https://cards.scryfall.io/normal/front/e/e/ee99acde-796c-423b-81ed-13d33e210925.jpg?1783916892"
     },
     "cards": [
       {
-        "cardId": "ebbd5b9c-07ff-4b42-81c2-ba09539f3a42",
+        "cardId": "ee99acde-796c-423b-81ed-13d33e210925",
         "cardName": "Breach the Multiverse",
         "confidence": 1,
         "needsReview": false,
@@ -441,11 +2113,24 @@
           "manaCost": "{5}{B}{B}",
           "typeLine": "Sorcery",
           "oracleText": "Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.",
-          "image": "https://api.scryfall.com/cards/named?exact=Breach%20the%20Multiverse&format=image&version=normal"
+          "image": "https://cards.scryfall.io/normal/front/e/e/ee99acde-796c-423b-81ed-13d33e210925.jpg?1783916892"
         }
       },
       {
-        "cardId": "70ac902e-1eb5-4f83-a5a6-00ac89cfe50f",
+        "cardId": "84e64f38-b1f3-47cd-8cfb-a4861369aca3",
+        "cardName": "Toxrill, the Corrosive",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Toxrill, the Corrosive",
+          "manaCost": "{5}{B}{B}",
+          "typeLine": "Legendary Creature — Slug Horror",
+          "oracleText": "At the beginning of each end step, put a slime counter on each creature you don't control.\nCreatures you don't control get -1/-1 for each slime counter on them.\nWhenever a creature you don't control with a slime counter on it dies, create a 1/1 black Slug creature token.\n{U}{B}, Sacrifice a Slug: Draw a card.",
+          "image": "https://cards.scryfall.io/normal/front/8/4/84e64f38-b1f3-47cd-8cfb-a4861369aca3.jpg?1783924850"
+        }
+      },
+      {
+        "cardId": "8cbedb0a-34ca-4d42-bb43-cbea0f3c6d02",
         "cardName": "Void Winnower",
         "confidence": 1,
         "needsReview": false,
@@ -454,15 +2139,29 @@
           "manaCost": "{9}",
           "typeLine": "Creature — Eldrazi",
           "oracleText": "Your opponents can't cast spells with even mana values. (Zero is even.)\nYour opponents can't block with creatures with even mana values.",
-          "image": "https://api.scryfall.com/cards/named?exact=Void%20Winnower&format=image&version=normal"
+          "image": "https://cards.scryfall.io/normal/front/8/c/8cbedb0a-34ca-4d42-bb43-cbea0f3c6d02.jpg?1783938221"
+        }
+      },
+      {
+        "cardId": "4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c",
+        "cardName": "Yavimaya, Cradle of Growth",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Yavimaya, Cradle of Growth",
+          "manaCost": "",
+          "typeLine": "Legendary Land",
+          "oracleText": "Each land is a Forest in addition to its other land types.",
+          "image": "https://cards.scryfall.io/normal/front/4/e/4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c.jpg?1783926791"
         }
       }
-    ],
-    "end": 3302.06
+    ]
   },
   {
-    "start": 3302.06,
-    "cardId": "5def9f38-0a0b-4e8d-9f9d-29dcb46520b4",
+    "track": "mentioned",
+    "start": 3298.56,
+    "end": 3328.56,
+    "cardId": "f3537373-ef54-4578-9d05-6216420ee349",
     "cardName": "Esper Sentinel",
     "confidence": 1,
     "needsReview": false,
@@ -471,13 +2170,42 @@
       "manaCost": "{W}",
       "typeLine": "Artifact Creature — Human Soldier",
       "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
-      "image": "https://api.scryfall.com/cards/named?exact=Esper%20Sentinel&format=image&version=normal"
+      "image": "https://cards.scryfall.io/normal/front/f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1783926893"
     },
-    "end": 3315.84
+    "cards": [
+      {
+        "cardId": "f3537373-ef54-4578-9d05-6216420ee349",
+        "cardName": "Esper Sentinel",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Esper Sentinel",
+          "manaCost": "{W}",
+          "typeLine": "Artifact Creature — Human Soldier",
+          "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
+          "image": "https://cards.scryfall.io/normal/front/f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1783926893"
+        }
+      },
+      {
+        "cardId": "4a08ca06-58db-4ce6-b490-be4bea8956a1",
+        "cardName": "Sensei's Divining Top",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Sensei's Divining Top",
+          "manaCost": "{1}",
+          "typeLine": "Artifact",
+          "oracleText": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put this artifact on top of its owner's library.",
+          "image": "https://cards.scryfall.io/normal/front/4/a/4a08ca06-58db-4ce6-b490-be4bea8956a1.jpg?1783944276"
+        }
+      }
+    ]
   },
   {
-    "start": 3315.84,
-    "cardId": "967e8b3f-8266-4d9a-a38b-d0e10184e1e4",
+    "track": "mentioned",
+    "start": 3309.34,
+    "end": 3339.34,
+    "cardId": "d2cb3bdf-dff5-4285-ad67-ae7ca84c9fbc",
     "cardName": "Akroma's Memorial",
     "confidence": 1,
     "needsReview": false,
@@ -486,13 +2214,14 @@
       "manaCost": "{7}",
       "typeLine": "Legendary Artifact",
       "oracleText": "Creatures you control have flying, first strike, vigilance, trample, haste, and protection from black and from red.",
-      "image": "https://api.scryfall.com/cards/named?exact=Akroma's%20Memorial&format=image&version=normal"
-    },
-    "end": 3379.02
+      "image": "https://cards.scryfall.io/normal/front/d/2/d2cb3bdf-dff5-4285-ad67-ae7ca84c9fbc.jpg?1783943092"
+    }
   },
   {
-    "start": 3379.02,
-    "cardId": "5def9f38-0a0b-4e8d-9f9d-29dcb46520b4",
+    "track": "mentioned",
+    "start": 3376.1,
+    "end": 3406.1,
+    "cardId": "f3537373-ef54-4578-9d05-6216420ee349",
     "cardName": "Esper Sentinel",
     "confidence": 1,
     "needsReview": false,
@@ -501,36 +2230,102 @@
       "manaCost": "{W}",
       "typeLine": "Artifact Creature — Human Soldier",
       "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
-      "image": "https://api.scryfall.com/cards/named?exact=Esper%20Sentinel&format=image&version=normal"
+      "image": "https://cards.scryfall.io/normal/front/f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1783926893"
     },
-    "end": 3395.22
+    "cards": [
+      {
+        "cardId": "f3537373-ef54-4578-9d05-6216420ee349",
+        "cardName": "Esper Sentinel",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Esper Sentinel",
+          "manaCost": "{W}",
+          "typeLine": "Artifact Creature — Human Soldier",
+          "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
+          "image": "https://cards.scryfall.io/normal/front/f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1783926893"
+        }
+      },
+      {
+        "cardId": "4a08ca06-58db-4ce6-b490-be4bea8956a1",
+        "cardName": "Sensei's Divining Top",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Sensei's Divining Top",
+          "manaCost": "{1}",
+          "typeLine": "Artifact",
+          "oracleText": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put this artifact on top of its owner's library.",
+          "image": "https://cards.scryfall.io/normal/front/4/a/4a08ca06-58db-4ce6-b490-be4bea8956a1.jpg?1783944276"
+        }
+      }
+    ]
   },
   {
-    "start": 3395.22,
-    "cardId": "fae36da0-bf9c-484f-b2fe-dd8ab2effc5c",
-    "cardName": "Virtue of Persistence // Locthwain Scorn",
+    "track": "mentioned",
+    "start": 3390.84,
+    "end": 3420.84,
+    "cardId": "f3537373-ef54-4578-9d05-6216420ee349",
+    "cardName": "Esper Sentinel",
     "confidence": 1,
     "needsReview": false,
     "card": {
-      "name": "Virtue of Persistence // Locthwain Scorn",
-      "manaCost": "{5}{B}{B}",
-      "typeLine": "Enchantment",
-      "oracleText": "At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.",
-      "image": "https://api.scryfall.com/cards/named?exact=Virtue%20of%20Persistence%20%2F%2F%20Locthwain%20Scorn&format=image&version=normal",
-      "faces": [
-        {
-          "name": "Virtue of Persistence",
-          "manaCost": "{5}{B}{B}",
-          "typeLine": "Enchantment",
-          "oracleText": "At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control."
-        }
-      ]
+      "name": "Esper Sentinel",
+      "manaCost": "{W}",
+      "typeLine": "Artifact Creature — Human Soldier",
+      "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
+      "image": "https://cards.scryfall.io/normal/front/f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1783926893"
     },
-    "end": 3403.4
+    "cards": [
+      {
+        "cardId": "f3537373-ef54-4578-9d05-6216420ee349",
+        "cardName": "Esper Sentinel",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Esper Sentinel",
+          "manaCost": "{W}",
+          "typeLine": "Artifact Creature — Human Soldier",
+          "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
+          "image": "https://cards.scryfall.io/normal/front/f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1783926893"
+        }
+      },
+      {
+        "cardId": "4a08ca06-58db-4ce6-b490-be4bea8956a1",
+        "cardName": "Sensei's Divining Top",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Sensei's Divining Top",
+          "manaCost": "{1}",
+          "typeLine": "Artifact",
+          "oracleText": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put this artifact on top of its owner's library.",
+          "image": "https://cards.scryfall.io/normal/front/4/a/4a08ca06-58db-4ce6-b490-be4bea8956a1.jpg?1783944276"
+        }
+      }
+    ]
   },
   {
-    "start": 3403.4,
-    "cardId": "eaffdf95-8e20-408d-99fa-3adc9e19523d",
+    "track": "mentioned",
+    "start": 3395.08,
+    "end": 3425.08,
+    "cardId": "4a45a631-f899-4414-8e0a-64d987e9ba8b",
+    "cardName": "Virtus the Veiled",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Virtus the Veiled",
+      "manaCost": "{2}{B}",
+      "typeLine": "Legendary Creature — Azra Assassin",
+      "oracleText": "Partner with Gorm the Great (When this creature enters, target player may put Gorm into their hand from their library, then shuffle.)\nDeathtouch\nWhenever Virtus deals combat damage to a player, that player loses half their life, rounded up.",
+      "image": "https://cards.scryfall.io/normal/front/4/a/4a45a631-f899-4414-8e0a-64d987e9ba8b.jpg?1783934879"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3402.92,
+    "end": 3432.92,
+    "cardId": "c15dfe35-c570-4aaf-b82d-270c15464fe2",
     "cardName": "Misleading Signpost",
     "confidence": 1,
     "needsReview": false,
@@ -539,13 +2334,14 @@
       "manaCost": "{2}{U}",
       "typeLine": "Artifact",
       "oracleText": "Flash\nWhen this artifact enters during the declare attackers step, you may reselect which player or permanent target attacking creature is attacking. (It can't attack its controller or their permanents.)\n{T}: Add {U}.",
-      "image": "https://api.scryfall.com/cards/named?exact=Misleading%20Signpost&format=image&version=normal"
-    },
-    "end": 3413.1
+      "image": "https://cards.scryfall.io/normal/front/c/1/c15dfe35-c570-4aaf-b82d-270c15464fe2.jpg?1783914988"
+    }
   },
   {
-    "start": 3413.1,
-    "cardId": "b1544f21-7e98-461b-aed5-e748b0168c52",
+    "track": "mentioned",
+    "start": 3412.96,
+    "end": 3442.96,
+    "cardId": "386ea9eb-abc1-4862-aa2d-8fb808d79490",
     "cardName": "Swords to Plowshares",
     "confidence": 1,
     "needsReview": false,
@@ -554,13 +2350,14 @@
       "manaCost": "{W}",
       "typeLine": "Instant",
       "oracleText": "Exile target creature. Its controller gains life equal to its power.",
-      "image": "https://api.scryfall.com/cards/named?exact=Swords%20to%20Plowshares&format=image&version=normal"
-    },
-    "end": 3419.42
+      "image": "https://cards.scryfall.io/normal/front/3/8/386ea9eb-abc1-4862-aa2d-8fb808d79490.jpg?1783948709"
+    }
   },
   {
-    "start": 3419.42,
-    "cardId": "ebbd5b9c-07ff-4b42-81c2-ba09539f3a42",
+    "track": "mentioned",
+    "start": 3417.18,
+    "end": 3447.18,
+    "cardId": "ee99acde-796c-423b-81ed-13d33e210925",
     "cardName": "Breach the Multiverse",
     "confidence": 1,
     "needsReview": false,
@@ -569,7 +2366,163 @@
       "manaCost": "{5}{B}{B}",
       "typeLine": "Sorcery",
       "oracleText": "Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.",
-      "image": "https://api.scryfall.com/cards/named?exact=Breach%20the%20Multiverse&format=image&version=normal"
+      "image": "https://cards.scryfall.io/normal/front/e/e/ee99acde-796c-423b-81ed-13d33e210925.jpg?1783916892"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3428.4,
+    "end": 3458.4,
+    "cardId": "f3537373-ef54-4578-9d05-6216420ee349",
+    "cardName": "Esper Sentinel",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Esper Sentinel",
+      "manaCost": "{W}",
+      "typeLine": "Artifact Creature — Human Soldier",
+      "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
+      "image": "https://cards.scryfall.io/normal/front/f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1783926893"
+    },
+    "cards": [
+      {
+        "cardId": "f3537373-ef54-4578-9d05-6216420ee349",
+        "cardName": "Esper Sentinel",
+        "confidence": 0.98,
+        "needsReview": false,
+        "card": {
+          "name": "Esper Sentinel",
+          "manaCost": "{W}",
+          "typeLine": "Artifact Creature — Human Soldier",
+          "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
+          "image": "https://cards.scryfall.io/normal/front/f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1783926893"
+        }
+      },
+      {
+        "cardId": "8cbedb0a-34ca-4d42-bb43-cbea0f3c6d02",
+        "cardName": "Void Winnower",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Void Winnower",
+          "manaCost": "{9}",
+          "typeLine": "Creature — Eldrazi",
+          "oracleText": "Your opponents can't cast spells with even mana values. (Zero is even.)\nYour opponents can't block with creatures with even mana values.",
+          "image": "https://cards.scryfall.io/normal/front/8/c/8cbedb0a-34ca-4d42-bb43-cbea0f3c6d02.jpg?1783938221"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3445.06,
+    "end": 3475.06,
+    "cardId": "def384ff-1b6f-4c4f-8151-3c72c29b63ce",
+    "cardName": "Soothsaying",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Soothsaying",
+      "manaCost": "{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "{3}{U}{U}: Shuffle your library.\n{X}: Look at the top X cards of your library, then put them back in any order.",
+      "image": "https://cards.scryfall.io/normal/front/d/e/def384ff-1b6f-4c4f-8151-3c72c29b63ce.jpg?1783945960"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3446.62,
+    "end": 3476.62,
+    "cardId": "4a08ca06-58db-4ce6-b490-be4bea8956a1",
+    "cardName": "Sensei's Divining Top",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Sensei's Divining Top",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put this artifact on top of its owner's library.",
+      "image": "https://cards.scryfall.io/normal/front/4/a/4a08ca06-58db-4ce6-b490-be4bea8956a1.jpg?1783944276"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3463.22,
+    "end": 3493.22,
+    "cardId": "4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c",
+    "cardName": "Yavimaya, Cradle of Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Yavimaya, Cradle of Growth",
+      "manaCost": "",
+      "typeLine": "Legendary Land",
+      "oracleText": "Each land is a Forest in addition to its other land types.",
+      "image": "https://cards.scryfall.io/normal/front/4/e/4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c.jpg?1783926791"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3469.68,
+    "end": 3499.68,
+    "cardId": "4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c",
+    "cardName": "Yavimaya, Cradle of Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Yavimaya, Cradle of Growth",
+      "manaCost": "",
+      "typeLine": "Legendary Land",
+      "oracleText": "Each land is a Forest in addition to its other land types.",
+      "image": "https://cards.scryfall.io/normal/front/4/e/4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c.jpg?1783926791"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3505.44,
+    "end": 3535.44,
+    "cardId": "eace2c85-976c-425e-9800-5a6ccbd91b56",
+    "cardName": "Mountain",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Mountain",
+      "manaCost": "",
+      "typeLine": "Basic Land — Mountain",
+      "oracleText": "({T}: Add {R}.)",
+      "image": "https://cards.scryfall.io/normal/front/e/a/eace2c85-976c-425e-9800-5a6ccbd91b56.jpg?1783948657"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3514.98,
+    "end": 3544.98,
+    "cardId": "eace2c85-976c-425e-9800-5a6ccbd91b56",
+    "cardName": "Mountain",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Mountain",
+      "manaCost": "",
+      "typeLine": "Basic Land — Mountain",
+      "oracleText": "({T}: Add {R}.)",
+      "image": "https://cards.scryfall.io/normal/front/e/a/eace2c85-976c-425e-9800-5a6ccbd91b56.jpg?1783948657"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3551.3,
+    "end": 3581.3,
+    "cardId": "003cb181-7b1d-474a-ba26-84319791bc2b",
+    "cardName": "Oracle of the Alpha",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Oracle of the Alpha",
+      "manaCost": "{2}{U}",
+      "typeLine": "Creature — Bird Wizard",
+      "oracleText": "Flying\nWhen Oracle of the Alpha enters the battlefield, conjure the Power Nine into your library, then shuffle.\nWhenever Oracle of the Alpha attacks, scry 1.",
+      "image": "https://cards.scryfall.io/normal/front/0/0/003cb181-7b1d-474a-ba26-84319791bc2b.jpg?1783921003"
     }
   }
 ]

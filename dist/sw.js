@@ -1,10 +1,10 @@
-const CACHE = "wait-what-shell-v21";
+const CACHE = "wait-what-shell-v26";
 const SHELL = [
   "./",
   "./index.html",
-  "./styles.css?v=16",
-  "./app.js?v=19",
-  "./core.js?v=14",
+  "./styles.css?v=21",
+  "./app.js?v=23",
+  "./core.js?v=18",
   "./manifest.webmanifest",
   "./icon.svg",
   "./data/shows.json",
@@ -29,7 +29,7 @@ self.addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
   if (event.request.method !== "GET" || url.origin !== self.location.origin) return;
   if (event.request.mode === "navigate" || url.pathname.includes("/data/")) {
-    event.respondWith(fetch(event.request).then((response) => {
+    event.respondWith(fetch(event.request, { cache: "no-store" }).then((response) => {
       const copy = response.clone();
       caches.open(CACHE).then((cache) => cache.put(event.request, copy));
       return response;

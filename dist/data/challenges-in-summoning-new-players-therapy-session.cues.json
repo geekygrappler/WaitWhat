@@ -1,7 +1,217 @@
 [
   {
-    "start": 2355.58,
-    "cardId": "70f14b10-8129-4249-a267-8b4be5d9befa",
+    "track": "mentioned",
+    "start": 1099.84,
+    "end": 1129.84,
+    "cardId": "36d4574a-3266-4497-b145-fb25820d8a7f",
+    "cardName": "Goreclaw, Terror of Qal Sisma",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Goreclaw, Terror of Qal Sisma",
+      "manaCost": "{3}{G}",
+      "typeLine": "Legendary Creature — Bear",
+      "oracleText": "Creature spells you cast with power 4 or greater cost {2} less to cast.\nWhenever Goreclaw attacks, each creature you control with power 4 or greater gets +1/+1 and gains trample until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/3/6/36d4574a-3266-4497-b145-fb25820d8a7f.jpg?1783934534"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1881.32,
+    "end": 1911.32,
+    "cardId": "35b57113-b39a-460b-b4aa-02606b40bbd0",
+    "cardName": "Geist of Saint Traft",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Geist of Saint Traft",
+      "manaCost": "{1}{W}{U}",
+      "typeLine": "Legendary Creature — Spirit Cleric",
+      "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat.",
+      "image": "https://cards.scryfall.io/normal/front/3/5/35b57113-b39a-460b-b4aa-02606b40bbd0.jpg?1783940907"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1906.32,
+    "end": 1936.32,
+    "cardId": "3b3e889a-5865-4464-9923-bffa25c50cd2",
+    "cardName": "Gluntch, the Bestower",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Gluntch, the Bestower",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Creature — Jellyfish",
+      "oracleText": "Flying\nAt the beginning of your end step, choose a player. They put two +1/+1 counters on a creature they control. Choose a second player to draw a card. Then choose a third player to create two Treasure tokens.",
+      "image": "https://cards.scryfall.io/normal/front/3/b/3b3e889a-5865-4464-9923-bffa25c50cd2.jpg?1783922694"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1944.84,
+    "end": 1974.84,
+    "cardId": "5151b81b-6d10-40de-9e65-89923e4c03d9",
+    "cardName": "Danse Macabre",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Danse Macabre",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player sacrifices a nontoken creature of their choice. Roll a d20 and add the toughness of the creature you sacrificed this way.\n1—14 | Return a creature card put into a graveyard this way to the battlefield under your control.\n15+ | Return up to two creature cards put into graveyards this way to the battlefield under your control.",
+      "image": "https://cards.scryfall.io/normal/front/5/1/5151b81b-6d10-40de-9e65-89923e4c03d9.jpg?1783926251"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1951.32,
+    "end": 1981.32,
+    "cardId": "6f3d2dc5-7b9d-4af6-9f3b-4de90fbf63c9",
+    "cardName": "Niv-Mizzet, Parun",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Niv-Mizzet, Parun",
+      "manaCost": "{U}{U}{U}{R}{R}{R}",
+      "typeLine": "Legendary Creature — Dragon Wizard",
+      "oracleText": "This spell can't be countered.\nFlying\nWhenever you draw a card, Niv-Mizzet deals 1 damage to any target.\nWhenever a player casts an instant or sorcery spell, you draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/6/f/6f3d2dc5-7b9d-4af6-9f3b-4de90fbf63c9.jpg?1783934125"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1963.6,
+    "end": 1993.6,
+    "cardId": "3b3e889a-5865-4464-9923-bffa25c50cd2",
+    "cardName": "Gluntch, the Bestower",
+    "confidence": 0.93,
+    "needsReview": true,
+    "card": {
+      "name": "Gluntch, the Bestower",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Creature — Jellyfish",
+      "oracleText": "Flying\nAt the beginning of your end step, choose a player. They put two +1/+1 counters on a creature they control. Choose a second player to draw a card. Then choose a third player to create two Treasure tokens.",
+      "image": "https://cards.scryfall.io/normal/front/3/b/3b3e889a-5865-4464-9923-bffa25c50cd2.jpg?1783922694"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1995.68,
+    "end": 2025.68,
+    "cardId": "5d58ba68-05c1-4cd8-a93d-321cd1739ccb",
+    "cardName": "Rishkar's Expertise",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Rishkar's Expertise",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Draw cards equal to the greatest power among creatures you control.\nYou may cast a spell with mana value 5 or less from your hand without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/5/d/5d58ba68-05c1-4cd8-a93d-321cd1739ccb.jpg?1783936738"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2112.86,
+    "end": 2142.86,
+    "cardId": "31e4b7a1-b377-49d2-a92e-4bcb0db35f16",
+    "cardName": "Bello, Bard of the Brambles",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Bello, Bard of the Brambles",
+      "manaCost": "{1}{R}{G}",
+      "typeLine": "Legendary Creature — Raccoon Bard",
+      "oracleText": "During your turn, each non-Equipment artifact and non-Aura enchantment you control with mana value 4 or greater is a 4/4 Elemental creature in addition to its other types and has indestructible, haste, and \"Whenever this creature deals combat damage to a player, draw a card.\"",
+      "image": "https://cards.scryfall.io/normal/front/3/1/31e4b7a1-b377-49d2-a92e-4bcb0db35f16.jpg?1783910738"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2122.12,
+    "end": 2152.12,
+    "cardId": "31e4b7a1-b377-49d2-a92e-4bcb0db35f16",
+    "cardName": "Bello, Bard of the Brambles",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Bello, Bard of the Brambles",
+      "manaCost": "{1}{R}{G}",
+      "typeLine": "Legendary Creature — Raccoon Bard",
+      "oracleText": "During your turn, each non-Equipment artifact and non-Aura enchantment you control with mana value 4 or greater is a 4/4 Elemental creature in addition to its other types and has indestructible, haste, and \"Whenever this creature deals combat damage to a player, draw a card.\"",
+      "image": "https://cards.scryfall.io/normal/front/3/1/31e4b7a1-b377-49d2-a92e-4bcb0db35f16.jpg?1783910738"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2126.34,
+    "end": 2156.34,
+    "cardId": "31e4b7a1-b377-49d2-a92e-4bcb0db35f16",
+    "cardName": "Bello, Bard of the Brambles",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Bello, Bard of the Brambles",
+      "manaCost": "{1}{R}{G}",
+      "typeLine": "Legendary Creature — Raccoon Bard",
+      "oracleText": "During your turn, each non-Equipment artifact and non-Aura enchantment you control with mana value 4 or greater is a 4/4 Elemental creature in addition to its other types and has indestructible, haste, and \"Whenever this creature deals combat damage to a player, draw a card.\"",
+      "image": "https://cards.scryfall.io/normal/front/3/1/31e4b7a1-b377-49d2-a92e-4bcb0db35f16.jpg?1783910738"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2137.88,
+    "end": 2167.88,
+    "cardId": "31e4b7a1-b377-49d2-a92e-4bcb0db35f16",
+    "cardName": "Bello, Bard of the Brambles",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Bello, Bard of the Brambles",
+      "manaCost": "{1}{R}{G}",
+      "typeLine": "Legendary Creature — Raccoon Bard",
+      "oracleText": "During your turn, each non-Equipment artifact and non-Aura enchantment you control with mana value 4 or greater is a 4/4 Elemental creature in addition to its other types and has indestructible, haste, and \"Whenever this creature deals combat damage to a player, draw a card.\"",
+      "image": "https://cards.scryfall.io/normal/front/3/1/31e4b7a1-b377-49d2-a92e-4bcb0db35f16.jpg?1783910738"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2340.64,
+    "end": 2370.64,
+    "cardId": "e5d1c814-4c22-4917-95ae-dffaf491db32",
+    "cardName": "Omo, Queen of Vesuva",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Omo, Queen of Vesuva",
+      "manaCost": "{2}{G/U}",
+      "typeLine": "Legendary Creature — Shapeshifter Noble",
+      "oracleText": "Whenever Omo enters or attacks, put an everything counter on each of up to one target land and up to one target creature.\nEach land with an everything counter on it is every land type in addition to its other types.\nEach nonland creature with an everything counter on it is every creature type.",
+      "image": "https://cards.scryfall.io/normal/front/e/5/e5d1c814-4c22-4917-95ae-dffaf491db32.jpg?1783911439"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2348.78,
+    "end": 2378.78,
+    "cardId": "56c1227e-bea7-47cb-bbec-389a3d585af5",
+    "cardName": "Kenrith, the Returned King",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kenrith, the Returned King",
+      "manaCost": "{4}{W}",
+      "typeLine": "Legendary Creature — Human Noble",
+      "oracleText": "{R}: All creatures gain trample and haste until end of turn.\n{1}{G}: Put a +1/+1 counter on target creature.\n{2}{W}: Target player gains 5 life.\n{3}{U}: Target player draws a card.\n{4}{B}: Put target creature card from a graveyard onto the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/5/6/56c1227e-bea7-47cb-bbec-389a3d585af5.jpg?1783932556"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2355.06,
+    "end": 2385.06,
+    "cardId": "d14993b6-ed8d-4b9b-b54c-2837b343a61e",
     "cardName": "Astral Slide",
     "confidence": 1,
     "needsReview": false,
@@ -10,13 +220,78 @@
       "manaCost": "{2}{W}",
       "typeLine": "Enchantment",
       "oracleText": "Whenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step.",
-      "image": "https://api.scryfall.com/cards/named?exact=Astral%20Slide&format=image&version=normal"
-    },
-    "end": 3256.28
+      "image": "https://cards.scryfall.io/normal/front/d/1/d14993b6-ed8d-4b9b-b54c-2837b343a61e.jpg?1783945104"
+    }
   },
   {
+    "track": "mentioned",
+    "start": 2360.18,
+    "end": 2390.18,
+    "cardId": "d14993b6-ed8d-4b9b-b54c-2837b343a61e",
+    "cardName": "Astral Slide",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Astral Slide",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/d/1/d14993b6-ed8d-4b9b-b54c-2837b343a61e.jpg?1783945104"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3017.44,
+    "end": 3047.44,
+    "cardId": "0873cfa8-046c-4b14-ae22-3fd6a691f763",
+    "cardName": "The Council of Four",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Council of Four",
+      "manaCost": "{3}{W}{U}",
+      "typeLine": "Legendary Creature — Human Noble",
+      "oracleText": "Whenever a player draws their second card during their turn, you draw a card.\nWhenever a player casts their second spell during their turn, you create a 2/2 white Knight creature token.",
+      "image": "https://cards.scryfall.io/normal/front/0/8/0873cfa8-046c-4b14-ae22-3fd6a691f763.jpg?1783922695"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3046.46,
+    "end": 3076.46,
+    "cardId": "3926f037-aaec-416e-a486-b59aae6faf44",
+    "cardName": "Sygg, River Cutthroat",
+    "confidence": 0.6,
+    "needsReview": true,
+    "card": {
+      "name": "Sygg, River Cutthroat",
+      "manaCost": "{U/B}{U/B}",
+      "typeLine": "Legendary Creature — Merfolk Rogue",
+      "oracleText": "At the beginning of each end step, if an opponent lost 3 or more life this turn, you may draw a card. (Damage causes loss of life.)",
+      "image": "https://cards.scryfall.io/normal/front/3/9/3926f037-aaec-416e-a486-b59aae6faf44.jpg?1783942728"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3055.54,
+    "end": 3085.54,
+    "cardId": "40463be5-89e2-410b-9a4b-770f70d14293",
+    "cardName": "Ashling, Flame Dancer",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Ashling, Flame Dancer",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Legendary Creature — Elemental Shaman",
+      "oracleText": "You don't lose unspent red mana as steps and phases end.\nMagecraft — Whenever you cast or copy an instant or sorcery spell, discard a card, then draw a card. If this is the second time this ability has resolved this turn, Ashling deals 2 damage to each opponent and each creature they control. If it's the third time, add {R}{R}{R}{R}.",
+      "image": "https://cards.scryfall.io/normal/front/4/0/40463be5-89e2-410b-9a4b-770f70d14293.jpg?1783911273"
+    }
+  },
+  {
+    "track": "mentioned",
     "start": 3256.28,
-    "cardId": "d64e96bf-6815-462c-93b4-c9c22dc43eda",
+    "end": 3286.28,
+    "cardId": "ab11a4db-5504-4f52-9c2f-eae05a0a8415",
     "cardName": "By Invitation Only",
     "confidence": 1,
     "needsReview": false,
@@ -25,27 +300,94 @@
       "manaCost": "{3}{W}{W}",
       "typeLine": "Sorcery",
       "oracleText": "Choose a number between 0 and 13. Each player sacrifices that many creatures of their choice.",
-      "image": "https://api.scryfall.com/cards/named?exact=By%20Invitation%20Only&format=image&version=normal"
-    },
-    "end": 3351.54
+      "image": "https://cards.scryfall.io/normal/front/a/b/ab11a4db-5504-4f52-9c2f-eae05a0a8415.jpg?1783924740"
+    }
   },
   {
-    "start": 3351.54,
-    "cardId": "942407bf-862a-4a0b-b19d-b9f8ee833026",
-    "cardName": "Jasmine Boreal",
+    "track": "mentioned",
+    "start": 3285.56,
+    "end": 3315.56,
+    "cardId": "75ec8548-5790-4eac-8780-cdd126438192",
+    "cardName": "Pharika, God of Affliction",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Pharika, God of Affliction",
+      "manaCost": "{1}{B}{G}",
+      "typeLine": "Legendary Enchantment Creature — God",
+      "oracleText": "Indestructible\nAs long as your devotion to black and green is less than seven, Pharika isn't a creature.\n{B}{G}: Exile target creature card from a graveyard. Its owner creates a 1/1 black and green Snake enchantment creature token with deathtouch.",
+      "image": "https://cards.scryfall.io/normal/front/7/5/75ec8548-5790-4eac-8780-cdd126438192.jpg?1783939402"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3351.18,
+    "end": 3381.18,
+    "cardId": "c1f5bcc4-3ec7-42ae-8e4b-80a9b9135ff0",
+    "cardName": "Jasmine Boreal of the Seven",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jasmine Boreal of the Seven",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Creature — Human Druid",
+      "oracleText": "{T}: Add {G}{W}. Spend this mana only to cast creature spells with no abilities.\nCreatures you control with no abilities can't be blocked by creatures with abilities.",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1f5bcc4-3ec7-42ae-8e4b-80a9b9135ff0.jpg?1791785416"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3355.98,
+    "end": 3385.98,
+    "cardId": "c1f5bcc4-3ec7-42ae-8e4b-80a9b9135ff0",
+    "cardName": "Jasmine Boreal of the Seven",
     "confidence": 1,
     "needsReview": false,
     "card": {
-      "name": "Jasmine Boreal",
-      "manaCost": "{3}{G}{W}",
-      "typeLine": "Legendary Creature — Human",
-      "image": "https://api.scryfall.com/cards/named?exact=Jasmine%20Boreal&format=image&version=normal"
-    },
-    "end": 3560.68
+      "name": "Jasmine Boreal of the Seven",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Creature — Human Druid",
+      "oracleText": "{T}: Add {G}{W}. Spend this mana only to cast creature spells with no abilities.\nCreatures you control with no abilities can't be blocked by creatures with abilities.",
+      "image": "https://cards.scryfall.io/normal/front/c/1/c1f5bcc4-3ec7-42ae-8e4b-80a9b9135ff0.jpg?1791785416"
+    }
   },
   {
-    "start": 3560.68,
-    "cardId": "d13fc657-c6fc-4394-bc70-691050550226",
+    "track": "mentioned",
+    "start": 3408.28,
+    "end": 3438.28,
+    "cardId": "1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019",
+    "cardName": "Elas il-Kor, Sadistic Pilgrim",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Elas il-Kor, Sadistic Pilgrim",
+      "manaCost": "{W}{B}",
+      "typeLine": "Legendary Creature — Phyrexian Kor Cleric",
+      "oracleText": "Deathtouch\nWhenever another creature you control enters, you gain 1 life.\nWhenever another creature you control dies, each opponent loses 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/1/c/1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019.jpg?1783921287"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3555.1,
+    "end": 3585.1,
+    "cardId": "35b57113-b39a-460b-b4aa-02606b40bbd0",
+    "cardName": "Geist of Saint Traft",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Geist of Saint Traft",
+      "manaCost": "{1}{W}{U}",
+      "typeLine": "Legendary Creature — Spirit Cleric",
+      "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat.",
+      "image": "https://cards.scryfall.io/normal/front/3/5/35b57113-b39a-460b-b4aa-02606b40bbd0.jpg?1783940907"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3559.14,
+    "end": 3589.14,
+    "cardId": "389f3f7b-be40-4a2d-b5cc-28471a577981",
     "cardName": "Sheltered by Ghosts",
     "confidence": 1,
     "needsReview": false,
@@ -54,13 +396,74 @@
       "manaCost": "{1}{W}",
       "typeLine": "Enchantment — Aura",
       "oracleText": "Enchant creature you control\nWhen this Aura enters, exile target nonland permanent an opponent controls until this Aura leaves the battlefield.\nEnchanted creature gets +1/+0 and has lifelink and ward {2}.",
-      "image": "https://api.scryfall.com/cards/named?exact=Sheltered%20by%20Ghosts&format=image&version=normal"
-    },
-    "end": 4053.82
+      "image": "https://cards.scryfall.io/normal/front/3/8/389f3f7b-be40-4a2d-b5cc-28471a577981.jpg?1783909504"
+    }
   },
   {
+    "track": "mentioned",
+    "start": 3893.64,
+    "end": 3923.64,
+    "cardId": "034e0929-b2c7-4b5f-94f2-8eaf4fb1a2a1",
+    "cardName": "Sauron, the Dark Lord",
+    "confidence": 0.83,
+    "needsReview": true,
+    "card": {
+      "name": "Sauron, the Dark Lord",
+      "manaCost": "{3}{U}{B}{R}",
+      "typeLine": "Legendary Creature — Avatar Horror",
+      "oracleText": "Ward—Sacrifice a legendary artifact or legendary creature.\nWhenever an opponent casts a spell, amass Orcs 1.\nWhenever an Army you control deals combat damage to a player, the Ring tempts you.\nWhenever the Ring tempts you, you may discard your hand. If you do, draw four cards.",
+      "image": "https://cards.scryfall.io/normal/front/0/3/034e0929-b2c7-4b5f-94f2-8eaf4fb1a2a1.jpg?1783916249"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3909.04,
+    "end": 3939.04,
+    "cardId": "35b57113-b39a-460b-b4aa-02606b40bbd0",
+    "cardName": "Geist of Saint Traft",
+    "confidence": 0.87,
+    "needsReview": true,
+    "card": {
+      "name": "Geist of Saint Traft",
+      "manaCost": "{1}{W}{U}",
+      "typeLine": "Legendary Creature — Spirit Cleric",
+      "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat.",
+      "image": "https://cards.scryfall.io/normal/front/3/5/35b57113-b39a-460b-b4aa-02606b40bbd0.jpg?1783940907"
+    },
+    "cards": [
+      {
+        "cardId": "35b57113-b39a-460b-b4aa-02606b40bbd0",
+        "cardName": "Geist of Saint Traft",
+        "confidence": 0.87,
+        "needsReview": true,
+        "card": {
+          "name": "Geist of Saint Traft",
+          "manaCost": "{1}{W}{U}",
+          "typeLine": "Legendary Creature — Spirit Cleric",
+          "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat.",
+          "image": "https://cards.scryfall.io/normal/front/3/5/35b57113-b39a-460b-b4aa-02606b40bbd0.jpg?1783940907"
+        }
+      },
+      {
+        "cardId": "3b3e889a-5865-4464-9923-bffa25c50cd2",
+        "cardName": "Gluntch, the Bestower",
+        "confidence": 0.98,
+        "needsReview": false,
+        "card": {
+          "name": "Gluntch, the Bestower",
+          "manaCost": "{1}{G}{W}",
+          "typeLine": "Legendary Creature — Jellyfish",
+          "oracleText": "Flying\nAt the beginning of your end step, choose a player. They put two +1/+1 counters on a creature they control. Choose a second player to draw a card. Then choose a third player to create two Treasure tokens.",
+          "image": "https://cards.scryfall.io/normal/front/3/b/3b3e889a-5865-4464-9923-bffa25c50cd2.jpg?1783922694"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
     "start": 4053.82,
-    "cardId": "605c1ee0-5e8a-4e0a-a99b-42a38873f822",
+    "end": 4083.82,
+    "cardId": "fd60ee8d-fb50-41df-89a8-aed5a53d755f",
     "cardName": "Welcoming Vampire",
     "confidence": 1,
     "needsReview": false,
@@ -69,7 +472,39 @@
       "manaCost": "{2}{W}",
       "typeLine": "Creature — Vampire",
       "oracleText": "Flying\nWhenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.",
-      "image": "https://api.scryfall.com/cards/named?exact=Welcoming%20Vampire&format=image&version=normal"
+      "image": "https://cards.scryfall.io/normal/front/f/d/fd60ee8d-fb50-41df-89a8-aed5a53d755f.jpg?1783924768"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4561.38,
+    "end": 4591.38,
+    "cardId": "3836dddd-a7e4-499f-ad49-ce298aa65720",
+    "cardName": "Ancient Copper Dragon",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Ancient Copper Dragon",
+      "manaCost": "{4}{R}{R}",
+      "typeLine": "Creature — Elder Dragon",
+      "oracleText": "Flying\nWhenever this creature deals combat damage to a player, roll a d20. You create a number of Treasure tokens equal to the result.",
+      "image": "https://cards.scryfall.io/normal/front/3/8/3836dddd-a7e4-499f-ad49-ce298aa65720.jpg?1783922745"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4778.84,
+    "end": 4808.84,
+    "cardId": "fbdb68cc-5516-481a-94c5-59f6c69b8a17",
+    "cardName": "Hope Estheim",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Hope Estheim",
+      "manaCost": "{W}{U}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Lifelink\nAt the beginning of your end step, each opponent mills X cards, where X is the amount of life you gained this turn.",
+      "image": "https://cards.scryfall.io/normal/front/f/b/fbdb68cc-5516-481a-94c5-59f6c69b8a17.jpg?1783906569"
     }
   }
 ]

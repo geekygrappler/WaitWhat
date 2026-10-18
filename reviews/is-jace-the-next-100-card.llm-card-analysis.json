@@ -1,0 +1,1281 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Is Jace the Next $100 Card?",
+  "chunks": 2,
+  "mentions": [
+    {
+      "canonicalName": "Aether Theorist",
+      "spokenText": "Jace, the theorist",
+      "role": "incidental",
+      "startSeconds": 77.8,
+      "evidence": "Jace, the theorist, is kind of absurdly pricey.",
+      "confidence": 0.96,
+      "modelName": "Jace, the Theorist",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aether Theorist",
+      "spokenText": "Jace",
+      "role": "incidental",
+      "startSeconds": 117.5,
+      "evidence": "maybe a bit of Standard and Jace",
+      "confidence": 0.92,
+      "modelName": "Jace, the Theorist",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Maximum Carnage",
+      "spokenText": "Maximum Carnage",
+      "role": "incidental",
+      "startSeconds": 679.06,
+      "evidence": "Yeah, there's Maximum Carnage.",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Broken Visage",
+      "spokenText": "Brooklyn Visionary",
+      "role": "incidental",
+      "startSeconds": 882.64,
+      "evidence": "Spider-Man, India and Brooklyn Visionary",
+      "confidence": 0.81,
+      "modelName": "Brooklyn Visionary",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Spider-Man India",
+      "spokenText": "Spider-Man, India",
+      "role": "incidental",
+      "startSeconds": 882.64,
+      "evidence": "Spider-Man, India and Brooklyn Visionary",
+      "confidence": 0.93,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hela, Mistress of Darkness // Dark Tutor",
+      "spokenText": "Mistress of Darkness",
+      "role": "incidental",
+      "startSeconds": 1200.44,
+      "evidence": "Mistress of Darkness, six mana, four black, black",
+      "confidence": 0.94,
+      "modelName": "Hela, Mistress of Darkness",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darkest Hour",
+      "spokenText": "Dark Tutor",
+      "role": "incidental",
+      "startSeconds": 1227.32,
+      "evidence": "we have Dark Tutor, one black, black sorcery",
+      "confidence": 0.99,
+      "modelName": "Dark Tutor",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darkest Hour",
+      "spokenText": "dark tutoring",
+      "role": "incidental",
+      "startSeconds": 1275.56,
+      "evidence": "waiting for it to die, and then dark tutoring",
+      "confidence": 0.97,
+      "modelName": "Dark Tutor",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lion's Eye Diamond",
+      "spokenText": "lion's eye diamond",
+      "role": "incidental",
+      "startSeconds": 1279.92,
+      "evidence": "discarding it, like, lion's eye diamond, maybe",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darkest Hour",
+      "spokenText": "dark tutor",
+      "role": "incidental",
+      "startSeconds": 1284.12,
+      "evidence": "make three mana, dark tutor, get your combo",
+      "confidence": 0.99,
+      "modelName": "Dark Tutor",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lion's Eye Diamond",
+      "spokenText": "LED",
+      "role": "incidental",
+      "startSeconds": 1284.12,
+      "evidence": "Crack your LED, make three mana",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hatred",
+      "spokenText": "hatred",
+      "role": "incidental",
+      "startSeconds": 1290.64,
+      "evidence": "cast a hatred and make, like, 30 zombies",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doom Blade",
+      "spokenText": "Doom Blade",
+      "role": "incidental",
+      "startSeconds": 1313.28,
+      "evidence": "it dies to Doom Blade",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darkest Hour",
+      "spokenText": "Dark Tutor",
+      "role": "incidental",
+      "startSeconds": 1324.84,
+      "evidence": "the Dark Tutor",
+      "confidence": 0.99,
+      "modelName": "Dark Tutor",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Titan",
+      "spokenText": "Grave Titan",
+      "role": "incidental",
+      "startSeconds": 1338.38,
+      "evidence": "But it's like Grave Titan",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hela, Mistress of Darkness // Dark Tutor",
+      "spokenText": "Heela",
+      "role": "incidental",
+      "startSeconds": 1348.64,
+      "evidence": "I called it Heela during my preview",
+      "confidence": 0.94,
+      "modelName": "Hela, Mistress of Darkness",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hela, Mistress of Darkness // Dark Tutor",
+      "spokenText": "Heela",
+      "role": "incidental",
+      "startSeconds": 1352.42,
+      "evidence": "it's Heela. People were very salty",
+      "confidence": 0.94,
+      "modelName": "Hela, Mistress of Darkness",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hela, Mistress of Darkness // Dark Tutor",
+      "spokenText": "Heela",
+      "role": "incidental",
+      "startSeconds": 1354.82,
+      "evidence": "Heela, but what do you think of",
+      "confidence": 0.94,
+      "modelName": "Hela, Mistress of Darkness",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cool but Rude",
+      "spokenText": "Cool But Rude",
+      "role": "incidental",
+      "startSeconds": 1388.66,
+      "evidence": "a Cool But Rude shell",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cool but Rude",
+      "spokenText": "Cool But Rude",
+      "role": "incidental",
+      "startSeconds": 1392.52,
+      "evidence": "find, like, your Cool But Rude or your discard outlet",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Magitek Infantry",
+      "spokenText": "Magic. Ileana Rasputin.",
+      "role": "incidental",
+      "startSeconds": 1404.22,
+      "evidence": "We got Magic. Ileana Rasputin.",
+      "confidence": 0.94,
+      "modelName": "Magik, Illyana Rasputin",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Leo & Shredder",
+      "spokenText": "Darkchild. Demon uncaged.",
+      "role": "incidental",
+      "startSeconds": 1424.1,
+      "evidence": "She turns into Darkchild. Demon uncaged.",
+      "confidence": 0.9,
+      "modelName": "Darkchylde, Demon Uncaged",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Leo & Shredder",
+      "spokenText": "Dark Child",
+      "role": "incidental",
+      "startSeconds": 1440.72,
+      "evidence": "Dark Child gains indestructible until end of turn.",
+      "confidence": 0.9,
+      "modelName": "Darkchylde, Demon Uncaged",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doom Blade",
+      "spokenText": "Doom Blade",
+      "role": "incidental",
+      "startSeconds": 1458.56,
+      "evidence": "It dies to Doom Blade.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Prosper, Tome-Bound",
+      "spokenText": "prosper",
+      "role": "incidental",
+      "startSeconds": 1489.6,
+      "evidence": "good and prosper right",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bejeweled Warg",
+      "spokenText": "bejeweled barg",
+      "role": "incidental",
+      "startSeconds": 1534.7,
+      "evidence": "was it bejeweled barg or whatever",
+      "confidence": 0.55,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doom Blade",
+      "spokenText": "doom blade",
+      "role": "incidental",
+      "startSeconds": 1580.4,
+      "evidence": "talking a lot about dies to doom blade",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doom Blade",
+      "spokenText": "doom blades",
+      "role": "incidental",
+      "startSeconds": 1602.08,
+      "evidence": "if everyone's running doom blades",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doom Blade",
+      "spokenText": "doom blades",
+      "role": "incidental",
+      "startSeconds": 1606.96,
+      "evidence": "if everyone's running doom blades are you playing the front side",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Moonmist",
+      "spokenText": "Moon mist",
+      "role": "incidental",
+      "startSeconds": 1673.06,
+      "evidence": "Moon mist.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Moonmist",
+      "spokenText": "moon mist",
+      "role": "incidental",
+      "startSeconds": 1674.3,
+      "evidence": "Can we moon mist?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Moonmist",
+      "spokenText": "moon mist",
+      "role": "incidental",
+      "startSeconds": 1675.86,
+      "evidence": "We can't even moon mist it.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Moonmist",
+      "spokenText": "moon mist",
+      "role": "incidental",
+      "startSeconds": 1677.04,
+      "evidence": "We can't moon mist.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Darkhold",
+      "spokenText": "The Darkhold",
+      "role": "incidental",
+      "startSeconds": 1687.78,
+      "evidence": "The Darkhold?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Penance Stare",
+      "spokenText": "jobless stare",
+      "role": "incidental",
+      "startSeconds": 1688.66,
+      "evidence": "what is this jobless stare, Seth?",
+      "confidence": 0.75,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Penance Stare",
+      "spokenText": "Penn and Stare",
+      "role": "incidental",
+      "startSeconds": 1691.06,
+      "evidence": "Oh, this is Penn and Stare.",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Darkhold",
+      "spokenText": "the Darkhold",
+      "role": "incidental",
+      "startSeconds": 1694.3,
+      "evidence": "Okay, the Darkhold.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Darkhold",
+      "spokenText": "the Darkhold",
+      "role": "incidental",
+      "startSeconds": 1702.06,
+      "evidence": "put a sin counter on the Darkhold",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Arena",
+      "spokenText": "Phyrexian Arena",
+      "role": "incidental",
+      "startSeconds": 1708.66,
+      "evidence": "I thought it was Phyrexian Arena",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Locthwain",
+      "spokenText": "Kessel Aquane",
+      "role": "incidental",
+      "startSeconds": 1718.72,
+      "evidence": "the one ring was Kessel Aquane",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Repay in Kind",
+      "spokenText": "repaint time",
+      "role": "incidental",
+      "startSeconds": 1718.72,
+      "evidence": "with a repaint time built in",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The One Ring",
+      "spokenText": "the one ring",
+      "role": "incidental",
+      "startSeconds": 1718.72,
+      "evidence": "If the one ring was Kessel Aquane",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The One Ring",
+      "spokenText": "the one ring",
+      "role": "incidental",
+      "startSeconds": 1727.02,
+      "evidence": "way safer than the one ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The One Ring",
+      "spokenText": "the one ring",
+      "role": "incidental",
+      "startSeconds": 1731.3,
+      "evidence": "The way the one ring works",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Repay in Kind",
+      "spokenText": "Repaying Kind",
+      "role": "incidental",
+      "startSeconds": 1764.26,
+      "evidence": "doing Repaying Kind shenanigans",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mister Negative",
+      "spokenText": "Mr. Negative",
+      "role": "incidental",
+      "startSeconds": 1766.06,
+      "evidence": "Mr. Negative, any sort of those life loss",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Repay in Kind",
+      "spokenText": "repay no wait i mean repaying",
+      "role": "incidental",
+      "startSeconds": 1772.34,
+      "evidence": "repay no wait i mean repaying it's three three plus seven",
+      "confidence": 0.87,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Repay in Kind",
+      "spokenText": "repaying kind",
+      "role": "incidental",
+      "startSeconds": 1795.68,
+      "evidence": "three mana away from doing the repaying kind",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Repay in Kind",
+      "spokenText": "repaying kind",
+      "role": "incidental",
+      "startSeconds": 1802.08,
+      "evidence": "get them with the repaying kind it's eight plus three",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Repay in Kind",
+      "spokenText": "repaying kind",
+      "role": "incidental",
+      "startSeconds": 1811,
+      "evidence": "if you play repaying kind you would play this too",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Repay in Kind",
+      "spokenText": "repaying kind",
+      "role": "incidental",
+      "startSeconds": 1815.3,
+      "evidence": "as a repaying kind i think it's perfectly fine",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Repay in Kind",
+      "spokenText": "repaying kind",
+      "role": "incidental",
+      "startSeconds": 1820.02,
+      "evidence": "in a deck that would want repaying kind",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Arena",
+      "spokenText": "Fraxian Arena",
+      "role": "incidental",
+      "startSeconds": 1845.66,
+      "evidence": "as a Fraxian Arena is where it goes wrong",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Arena",
+      "spokenText": "arena",
+      "role": "incidental",
+      "startSeconds": 1851.64,
+      "evidence": "on turn three like an arena",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Repay in Kind",
+      "spokenText": "reading playing kind",
+      "role": "incidental",
+      "startSeconds": 1876.02,
+      "evidence": "you play reading playing kind effects",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Last Ride",
+      "spokenText": "the last ride",
+      "role": "incidental",
+      "startSeconds": 1894.98,
+      "evidence": "we still have like the last ride",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Death's Shadow",
+      "spokenText": "death shadow",
+      "role": "incidental",
+      "startSeconds": 1900.58,
+      "evidence": "but death shadow stuff",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Death's Shadow",
+      "spokenText": "death shadow",
+      "role": "incidental",
+      "startSeconds": 1905.42,
+      "evidence": "yeah yeah death shadow stuff like that",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Angel's Grace",
+      "spokenText": "angels grace",
+      "role": "incidental",
+      "startSeconds": 1920.32,
+      "evidence": "just angels grace every turn",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Platinum Angel",
+      "spokenText": "platinum angel",
+      "role": "incidental",
+      "startSeconds": 1930.02,
+      "evidence": "we do have platinum angel in standard",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Platinum Angel",
+      "spokenText": "platinum angel",
+      "role": "incidental",
+      "startSeconds": 1934.86,
+      "evidence": "the the platinum angel",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Repay in Kind",
+      "spokenText": "repaying kind",
+      "role": "incidental",
+      "startSeconds": 1954.2,
+      "evidence": "want repaying kind effects",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Arena",
+      "spokenText": "Arena",
+      "role": "incidental",
+      "startSeconds": 1966.06,
+      "evidence": "a generically good card, like you had mentioned, like Arena",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Parker Luck",
+      "spokenText": "Parker Luck",
+      "role": "incidental",
+      "startSeconds": 1971.34,
+      "evidence": "maybe Parker Luck and all of this",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Arena",
+      "spokenText": "phyrexian arena",
+      "role": "incidental",
+      "startSeconds": 2006.9,
+      "evidence": "you're talking about phyrexian arena like seven seven life",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Locthwain",
+      "spokenText": "Castle Aquin",
+      "role": "incidental",
+      "startSeconds": 2047.32,
+      "evidence": "What about Castle Aquincrim?",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Locthwain",
+      "spokenText": "castle lockwain",
+      "role": "incidental",
+      "startSeconds": 2057.68,
+      "evidence": "castle lockwain in a lot of my black decks",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Arena",
+      "spokenText": "arena",
+      "role": "incidental",
+      "startSeconds": 2068.06,
+      "evidence": "my skepticism of playing it like an arena",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Locthwain",
+      "spokenText": "castle lockwain",
+      "role": "incidental",
+      "startSeconds": 2072.5,
+      "evidence": "my experience with castle lockwain",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Exsanguinate",
+      "spokenText": "exsanguinades",
+      "role": "incidental",
+      "startSeconds": 2072.5,
+      "evidence": "with garry's and like exsanguinades",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gray Merchant of Asphodel",
+      "spokenText": "garry's",
+      "role": "incidental",
+      "startSeconds": 2072.5,
+      "evidence": "gain enough life with garry's",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Locthwain",
+      "spokenText": "Locktoy",
+      "role": "incidental",
+      "startSeconds": 2084.94,
+      "evidence": "I like Locktoy",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Castle Locthwain",
+      "spokenText": "Locktoy",
+      "role": "incidental",
+      "startSeconds": 2085.96,
+      "evidence": "I like Locktoy",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hela's Arcanum",
+      "spokenText": "Hela's Arcanum",
+      "role": "main",
+      "startSeconds": 2095.22,
+      "evidence": "Hela's Arcanum. Five mana, three black, black",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Consume the Meek",
+      "spokenText": "consume the meek",
+      "role": "incidental",
+      "startSeconds": 2200.26,
+      "evidence": "consume the meek isn't it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rise of the Deathbringer",
+      "spokenText": "rise of the of the death bringer",
+      "role": "incidental",
+      "startSeconds": 2214.36,
+      "evidence": "rise of the of the death bringer or whatever",
+      "confidence": 0.58,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rise of the Deathbringer",
+      "spokenText": "Rise of the Deathspeaker",
+      "role": "incidental",
+      "startSeconds": 2252,
+      "evidence": "Rise of the Deathspeaker... at instant speed",
+      "confidence": 0.52,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rise of the Deathbringer",
+      "spokenText": "Rise of the Deathbringer",
+      "role": "incidental",
+      "startSeconds": 2255.34,
+      "evidence": "Rise of the Deathbringer or whatever",
+      "confidence": 0.62,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avengers Disassembled",
+      "spokenText": "Avengers Disassembled",
+      "role": "incidental",
+      "startSeconds": 2309.26,
+      "evidence": "you'd rather just Avengers Disassembled",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Penance Stare",
+      "spokenText": "Pen and Stare",
+      "role": "main",
+      "startSeconds": 2390.88,
+      "evidence": "Pen and Stare. I know you brought this up when it was first spoiled",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Llanowar Elves",
+      "spokenText": "a land of war",
+      "role": "incidental",
+      "startSeconds": 2407.3,
+      "evidence": "it doesn't get like a land of war",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal push",
+      "role": "incidental",
+      "startSeconds": 2429.7,
+      "evidence": "the world of fatal push",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal push",
+      "role": "incidental",
+      "startSeconds": 2435.64,
+      "evidence": "now everyone just has a fatal push",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Llanowar Elves",
+      "spokenText": "lawnmower elves",
+      "role": "incidental",
+      "startSeconds": 2446.32,
+      "evidence": "if the the format is all lawnmower elves",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal push",
+      "role": "incidental",
+      "startSeconds": 2455.3,
+      "evidence": "then it's like just fatal push",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal push",
+      "role": "incidental",
+      "startSeconds": 2459.74,
+      "evidence": "you know how i feel about fatal push",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal push",
+      "role": "incidental",
+      "startSeconds": 2482.74,
+      "evidence": "fatal push light",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal push",
+      "role": "incidental",
+      "startSeconds": 2488.74,
+      "evidence": "worst things happen to magic fatal push is up there",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords to plowshares",
+      "role": "incidental",
+      "startSeconds": 2492.94,
+      "evidence": "that's like swords to plowshares for standard",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Llanowar Elves",
+      "spokenText": "lawn or elf",
+      "role": "incidental",
+      "startSeconds": 2503.22,
+      "evidence": "if everything is a lawn or elf",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Penance Stare",
+      "spokenText": "Ten and stairs",
+      "role": "main",
+      "startSeconds": 2538.88,
+      "evidence": "Ten and stairs in the format",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "incidental",
+      "startSeconds": 2546.42,
+      "evidence": "it's to keep Tarmogoyf in check",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "incidental",
+      "startSeconds": 2548.5,
+      "evidence": "Is this about Tarmogoyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "incidental",
+      "startSeconds": 2549.76,
+      "evidence": "Is this all about Tarmogoyf, actually",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeskai Revelation",
+      "spokenText": "Jeskai Revelation",
+      "role": "incidental",
+      "startSeconds": 2563.74,
+      "evidence": "Let's play against Jeskai Revelation and not attack",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Heroic Intervention",
+      "spokenText": "heroic intervention",
+      "role": "incidental",
+      "startSeconds": 2742.3,
+      "evidence": "it has heroic intervention with X-Men",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fierce Guardianship",
+      "spokenText": "Fierce Guardianship",
+      "role": "incidental",
+      "startSeconds": 2745.04,
+      "evidence": "Fierce Guardianship with Namor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Heroic Intervention",
+      "spokenText": "Heroic Intervention",
+      "role": "incidental",
+      "startSeconds": 2761.34,
+      "evidence": "I don't play Heroic Intervention",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "Theorist Jace Bellerin",
+      "role": "main",
+      "startSeconds": 3112.6,
+      "evidence": "How expensive do you think the Theorist Jace Bellerin will get?",
+      "confidence": 0.78,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "shielder the apocalypse",
+      "role": "incidental",
+      "startSeconds": 3146.52,
+      "evidence": "a shielder the apocalypse",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Great Henge",
+      "spokenText": "the great henge",
+      "role": "incidental",
+      "startSeconds": 3146.52,
+      "evidence": "i think of the great henge",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "jace",
+      "role": "main",
+      "startSeconds": 3157.44,
+      "evidence": "is jace the next card on this list",
+      "confidence": 0.78,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "shield",
+      "role": "incidental",
+      "startSeconds": 3164.46,
+      "evidence": "is this the next shield",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "jace",
+      "role": "main",
+      "startSeconds": 3169.26,
+      "evidence": "do you think jace actually is just like a staple",
+      "confidence": 0.78,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "jace",
+      "role": "main",
+      "startSeconds": 3173.42,
+      "evidence": "i do think jace is that good",
+      "confidence": 0.78,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "jace",
+      "role": "main",
+      "startSeconds": 3182.16,
+      "evidence": "the year is 2026 jace is on top",
+      "confidence": 0.76,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, the Mind Sculptor",
+      "spokenText": "jason mind sculptor",
+      "role": "incidental",
+      "startSeconds": 3196.94,
+      "evidence": "it's better than jason mind sculptor",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "jace",
+      "role": "main",
+      "startSeconds": 3202.64,
+      "evidence": "jace comes back and ruins magic",
+      "confidence": 0.76,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "jace bellerans",
+      "role": "main",
+      "startSeconds": 3232.3,
+      "evidence": "the base modern deck starts with four jace bellerans",
+      "confidence": 0.78,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "Jace",
+      "role": "main",
+      "startSeconds": 3302.46,
+      "evidence": "the Jace is too slow",
+      "confidence": 0.78,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Questing Beast",
+      "spokenText": "Questing Beast",
+      "role": "incidental",
+      "startSeconds": 3322.24,
+      "evidence": "Questing Beast solves",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "Jace",
+      "role": "main",
+      "startSeconds": 3329.22,
+      "evidence": "It applies pressure while sniping the Jace",
+      "confidence": 0.78,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "Jace",
+      "role": "main",
+      "startSeconds": 3335.26,
+      "evidence": "let's say you want Jace in your collection",
+      "confidence": 0.78,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "incidental",
+      "startSeconds": 3345.68,
+      "evidence": "Check the price of Tarmogoyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "incidental",
+      "startSeconds": 3351.02,
+      "evidence": "oh, look at Tarmogoyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "incidental",
+      "startSeconds": 3354.64,
+      "evidence": "The biggest investment in magic, Tarmogoyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, the Mind Sculptor",
+      "spokenText": "Mind Sculptor",
+      "role": "incidental",
+      "startSeconds": 3359.08,
+      "evidence": "Theorist, though, is better than Mind Sculptor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Theorist, Jace Beleren",
+      "spokenText": "Theorist",
+      "role": "main",
+      "startSeconds": 3359.08,
+      "evidence": "believe that Theorist, though, is better than Mind Sculptor",
+      "confidence": 0.78,
+      "modelName": "Theorist Jace Beleren",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, the Mind Sculptor",
+      "spokenText": "Mind Sculptor",
+      "role": "incidental",
+      "startSeconds": 3364.88,
+      "evidence": "I think it actually is better than Mind Sculptor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, the Mind Sculptor",
+      "spokenText": "Mind Sculptor",
+      "role": "incidental",
+      "startSeconds": 3384.64,
+      "evidence": "than Mind Sculptor in his heyday",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, the Mind Sculptor",
+      "spokenText": "Jace",
+      "role": "incidental",
+      "startSeconds": 3391.88,
+      "evidence": "is it better than Jace was at its peak",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, the Mind Sculptor",
+      "spokenText": "Jace",
+      "role": "incidental",
+      "startSeconds": 3394.02,
+      "evidence": "Jace was very far ahead of everything else back in 2011 or 2012",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, the Mind Sculptor",
+      "spokenText": "Mind Sculptor",
+      "role": "incidental",
+      "startSeconds": 3405.86,
+      "evidence": "you would play this over to the Mind Sculptor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, Arcane Strategist",
+      "spokenText": "Vryn's Prodigy",
+      "role": "incidental",
+      "startSeconds": 3433.22,
+      "evidence": "Like Vryn's Prodigy, he was nuts",
+      "confidence": 1,
+      "modelName": "Jace, Vryn's Prodigy",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, the Mind Sculptor",
+      "spokenText": "Mindsculpting",
+      "role": "incidental",
+      "startSeconds": 3436.9,
+      "evidence": "Mindsculpting nuts",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace, Arcane Strategist",
+      "spokenText": "Flip Jace",
+      "role": "incidental",
+      "startSeconds": 3440.5,
+      "evidence": "we had Flip Jace",
+      "confidence": 0.99,
+      "modelName": "Jace, Vryn's Prodigy",
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [
+    "Hela's Arcanum",
+    "Penance Stare",
+    "The Theorist, Jace Beleren"
+  ],
+  "incidentalCards": [
+    "Aether Theorist",
+    "Angel's Grace",
+    "Avengers Disassembled",
+    "Bejeweled Warg",
+    "Broken Visage",
+    "Castle Locthwain",
+    "Consume the Meek",
+    "Cool but Rude",
+    "Dark Leo & Shredder",
+    "Darkest Hour",
+    "Death's Shadow",
+    "Doom Blade",
+    "Exsanguinate",
+    "Fatal Push",
+    "Fierce Guardianship",
+    "Grave Titan",
+    "Gray Merchant of Asphodel",
+    "Hatred",
+    "Hela, Mistress of Darkness // Dark Tutor",
+    "Heroic Intervention",
+    "Jace, Arcane Strategist",
+    "Jace, the Mind Sculptor",
+    "Jeskai Revelation",
+    "Lion's Eye Diamond",
+    "Llanowar Elves",
+    "Magitek Infantry",
+    "Maximum Carnage",
+    "Mister Negative",
+    "Moonmist",
+    "Parker Luck",
+    "Phyrexian Arena",
+    "Platinum Angel",
+    "Prosper, Tome-Bound",
+    "Questing Beast",
+    "Repay in Kind",
+    "Rise of the Deathbringer",
+    "Sheoldred, the Apocalypse",
+    "Spider-Man India",
+    "Swords to Plowshares",
+    "Tarmogoyf",
+    "The Darkhold",
+    "The Great Henge",
+    "The Last Ride",
+    "The One Ring"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "validation": {
+    "matchedMainCards": [
+      "Hela's Arcanum",
+      "Penance Stare",
+      "The Theorist, Jace Beleren"
+    ],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Aether Theorist",
+      "Angel's Grace",
+      "Avengers Disassembled",
+      "Bejeweled Warg",
+      "Broken Visage",
+      "Castle Locthwain",
+      "Consume the Meek",
+      "Cool but Rude",
+      "Dark Leo & Shredder",
+      "Darkest Hour",
+      "Death's Shadow",
+      "Doom Blade",
+      "Exsanguinate",
+      "Fatal Push",
+      "Fierce Guardianship",
+      "Grave Titan",
+      "Gray Merchant of Asphodel",
+      "Hatred",
+      "Hela, Mistress of Darkness // Dark Tutor",
+      "Heroic Intervention",
+      "Jace, Arcane Strategist",
+      "Jace, the Mind Sculptor",
+      "Jeskai Revelation",
+      "Lion's Eye Diamond",
+      "Llanowar Elves",
+      "Magitek Infantry",
+      "Maximum Carnage",
+      "Mister Negative",
+      "Moonmist",
+      "Parker Luck",
+      "Phyrexian Arena",
+      "Platinum Angel",
+      "Prosper, Tome-Bound",
+      "Questing Beast",
+      "Repay in Kind",
+      "Rise of the Deathbringer",
+      "Sheoldred, the Apocalypse",
+      "Spider-Man India",
+      "Swords to Plowshares",
+      "Tarmogoyf",
+      "The Darkhold",
+      "The Great Henge",
+      "The Last Ride",
+      "The One Ring"
+    ],
+    "unmatchedIncidentalCards": []
+  },
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 27,
+    "unresolvedMentions": []
+  }
+}

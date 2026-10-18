@@ -1,0 +1,516 @@
+{
+  "model": "gpt-6-astra",
+  "title": "God Packs Come to Magic",
+  "chunks": 2,
+  "mentions": [
+    {
+      "canonicalName": "Aang",
+      "spokenText": "Johnny'd",
+      "role": "incidental",
+      "startSeconds": 299.12,
+      "evidence": "someone had Johnny'd them on Curved",
+      "confidence": 0.7,
+      "modelName": "Ajani",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "a Johnny",
+      "role": "incidental",
+      "startSeconds": 308.36,
+      "evidence": "we get scuffed by a Johnny",
+      "confidence": 0.7,
+      "modelName": "Ajani",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kindred Judgment",
+      "spokenText": "kindred judgment",
+      "role": "incidental",
+      "startSeconds": 359.74,
+      "evidence": "if they uh kindred judgment or whatever",
+      "confidence": 0.6,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "a johnny",
+      "role": "incidental",
+      "startSeconds": 366.08,
+      "evidence": "if they play a johnny",
+      "confidence": 0.7,
+      "modelName": "Ajani",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace",
+      "spokenText": "jaces",
+      "role": "incidental",
+      "startSeconds": 399.5,
+      "evidence": "do you use your jaces",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "a johnny",
+      "role": "incidental",
+      "startSeconds": 410.62,
+      "evidence": "a johnny comes down like wrecks your face",
+      "confidence": 0.7,
+      "modelName": "Ajani",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "the johnny",
+      "role": "incidental",
+      "startSeconds": 416.12,
+      "evidence": "the johnny is a sweeper",
+      "confidence": 0.7,
+      "modelName": "Ajani",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Enigma Sphinx",
+      "spokenText": "zamir sphinx",
+      "role": "incidental",
+      "startSeconds": 424.94,
+      "evidence": "zamir sphinx comes down ruins your face",
+      "confidence": 0.55,
+      "modelName": "Zamir Sphinx",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "Ajani",
+      "role": "incidental",
+      "startSeconds": 496.86,
+      "evidence": "That Ajani?",
+      "confidence": 0.7,
+      "modelName": "Ajani",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thoughtseize",
+      "spokenText": "thought seized",
+      "role": "incidental",
+      "startSeconds": 505.88,
+      "evidence": "I thought seized him",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Chandra",
+      "spokenText": "chandra",
+      "role": "incidental",
+      "startSeconds": 544.72,
+      "evidence": "you get the chandra",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Garruk",
+      "spokenText": "garrick",
+      "role": "incidental",
+      "startSeconds": 544.72,
+      "evidence": "if you get like the garrick",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Chandra",
+      "spokenText": "Chandra's",
+      "role": "incidental",
+      "startSeconds": 548.18,
+      "evidence": "you get both Chandra's",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "red ajani",
+      "role": "incidental",
+      "startSeconds": 573.9,
+      "evidence": "lost plenty of pools with the red ajani",
+      "confidence": 0.7,
+      "modelName": "Ajani",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Garruk",
+      "spokenText": "garrix",
+      "role": "incidental",
+      "startSeconds": 573.9,
+      "evidence": "with the echo pair garrix",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Crude Bent Blade",
+      "spokenText": "crude bent blade",
+      "role": "incidental",
+      "startSeconds": 731.3,
+      "evidence": "three crude bent blade equipped swing",
+      "confidence": 0.5,
+      "modelName": "Crude Bentblade",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Delver's Torch",
+      "spokenText": "delver",
+      "role": "incidental",
+      "startSeconds": 736.42,
+      "evidence": "you're good at delver you pick up a control deck",
+      "confidence": 0.8,
+      "modelName": "Delver of Secrets",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "red johnny",
+      "role": "incidental",
+      "startSeconds": 758.54,
+      "evidence": "red johnny might be the most bomby limited bomb",
+      "confidence": 0.7,
+      "modelName": "Ajani",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace",
+      "spokenText": "jay",
+      "role": "incidental",
+      "startSeconds": 795.74,
+      "evidence": "if you have a jay sitting around you get two two twos",
+      "confidence": 0.6,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "ajani",
+      "role": "incidental",
+      "startSeconds": 817.2,
+      "evidence": "on ajani by the way",
+      "confidence": 0.7,
+      "modelName": "Ajani",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "ajani",
+      "role": "incidental",
+      "startSeconds": 827.38,
+      "evidence": "ajani did nothing on this board",
+      "confidence": 0.7,
+      "modelName": "Ajani",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "ajani",
+      "role": "incidental",
+      "startSeconds": 849.66,
+      "evidence": "ajani is like the very the very opposite",
+      "confidence": 0.65,
+      "modelName": "Ajani",
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Elesh Norn, Grand Cenobite",
+      "spokenText": "Phyrexian Elish Norn",
+      "role": "incidental",
+      "startSeconds": 1323.98,
+      "evidence": "Remember Phyrexian Elish Norn?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Elesh Norn, Grand Cenobite",
+      "spokenText": "Phyrexian Elish Norn",
+      "role": "incidental",
+      "startSeconds": 1326.52,
+      "evidence": "the judge promo Phyrexian Elish Norn",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Elesh Norn, Grand Cenobite",
+      "spokenText": "Elish Norn",
+      "role": "incidental",
+      "startSeconds": 1341.66,
+      "evidence": "paid full price for Elish Norn",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Elesh Norn, Grand Cenobite",
+      "spokenText": "firexian elish norn",
+      "role": "incidental",
+      "startSeconds": 1394.52,
+      "evidence": "like firexian elish norn",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Soul Stone",
+      "spokenText": "soul stone",
+      "role": "incidental",
+      "startSeconds": 1690.02,
+      "evidence": "the fancy cosmic like soul stone",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "alpha lotuses",
+      "role": "incidental",
+      "startSeconds": 1753.06,
+      "evidence": "alpha lotuses can you find",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "alpha lotuses",
+      "role": "incidental",
+      "startSeconds": 1758.92,
+      "evidence": "alpha lotuses sitting out there",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "Alpha Lotus",
+      "role": "incidental",
+      "startSeconds": 1810.62,
+      "evidence": "What do I want to buy? Alpha Lotus.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "black lotuses",
+      "role": "incidental",
+      "startSeconds": 1834.88,
+      "evidence": "buying black lotuses",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jodah, the Unifier",
+      "spokenText": "Jota the Unifier",
+      "role": "incidental",
+      "startSeconds": 1890.88,
+      "evidence": "a Jota the Unifier card sleeve",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jodah, the Unifier",
+      "spokenText": "Jota",
+      "role": "incidental",
+      "startSeconds": 2006.14,
+      "evidence": "Is Jota an existing card sleeve",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal push",
+      "role": "incidental",
+      "startSeconds": 2420.02,
+      "evidence": "I can't get a foil like fatal push",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Daxos of Meletis",
+      "spokenText": "daxos",
+      "role": "incidental",
+      "startSeconds": 2427.22,
+      "evidence": "daxos or whatever",
+      "confidence": 0.45,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nexus of Fate",
+      "spokenText": "Nexus of Fate",
+      "role": "incidental",
+      "startSeconds": 2614.66,
+      "evidence": "we saw that with Nexus of Fate back in the day",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal pushes",
+      "role": "incidental",
+      "startSeconds": 2692.54,
+      "evidence": "some fatal pushes",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal pushes",
+      "role": "incidental",
+      "startSeconds": 2957.26,
+      "evidence": "they were actually pretty pricey right the fatal pushes",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Earthbending Student",
+      "spokenText": "earthbending students",
+      "role": "incidental",
+      "startSeconds": 2961.78,
+      "evidence": "what does this mean for earthbending students",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stock Up",
+      "spokenText": "stock ups",
+      "role": "incidental",
+      "startSeconds": 2961.78,
+      "evidence": "or stock ups of the world",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Impossible Man",
+      "spokenText": "impossible man",
+      "role": "incidental",
+      "startSeconds": 2967.36,
+      "evidence": "impossible man that was from the marvel jumpstart",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Earthbending Student",
+      "spokenText": "Earthbending student",
+      "role": "incidental",
+      "startSeconds": 2976.9,
+      "evidence": "And Earthbending student is kind of the same",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plains",
+      "spokenText": "planes",
+      "role": "incidental",
+      "startSeconds": 3016.56,
+      "evidence": "the land station all full art planes",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plains",
+      "spokenText": "planes",
+      "role": "incidental",
+      "startSeconds": 3023.14,
+      "evidence": "why are there full art planes in bulk",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Unstoppable Slasher",
+      "spokenText": "Unstoppable Slasher",
+      "role": "incidental",
+      "startSeconds": 3194.14,
+      "evidence": "on that Unstoppable Slasher",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dawn's Truce",
+      "spokenText": "don's truth",
+      "role": "incidental",
+      "startSeconds": 3266.82,
+      "evidence": "formation don's truth",
+      "confidence": 0.92,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Unbreakable Formation",
+      "spokenText": "formation",
+      "role": "incidental",
+      "startSeconds": 3266.82,
+      "evidence": "formation don's truth",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Unbreakable Formation",
+      "spokenText": "Unbreakable Formation",
+      "role": "incidental",
+      "startSeconds": 3344.64,
+      "evidence": "Unbreakable Formation.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [],
+  "incidentalCards": [
+    "Aang",
+    "Black Lotus",
+    "Chandra",
+    "Crude Bent Blade",
+    "Dawn's Truce",
+    "Daxos of Meletis",
+    "Delver's Torch",
+    "Earthbending Student",
+    "Elesh Norn, Grand Cenobite",
+    "Enigma Sphinx",
+    "Fatal Push",
+    "Garruk",
+    "Impossible Man",
+    "Jace",
+    "Jodah, the Unifier",
+    "Kindred Judgment",
+    "Nexus of Fate",
+    "Plains",
+    "Stock Up",
+    "The Soul Stone",
+    "Thoughtseize",
+    "Unbreakable Formation",
+    "Unstoppable Slasher"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "validation": {
+    "matchedMainCards": [],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Aang",
+      "Black Lotus",
+      "Chandra",
+      "Crude Bent Blade",
+      "Dawn's Truce",
+      "Daxos of Meletis",
+      "Delver's Torch",
+      "Earthbending Student",
+      "Elesh Norn, Grand Cenobite",
+      "Enigma Sphinx",
+      "Fatal Push",
+      "Garruk",
+      "Impossible Man",
+      "Jace",
+      "Jodah, the Unifier",
+      "Kindred Judgment",
+      "Nexus of Fate",
+      "Plains",
+      "Stock Up",
+      "The Soul Stone",
+      "Thoughtseize",
+      "Unbreakable Formation",
+      "Unstoppable Slasher"
+    ],
+    "unmatchedIncidentalCards": []
+  },
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 14,
+    "unresolvedMentions": []
+  }
+}
