@@ -7,9 +7,9 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/13425689-11ed-468a-973a-14c189e4363f/Commander_Clash_Podcast_273_Cards_that_will_Never_be_Powercrept.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "cueSheet": "./data/cards-that-will-never-be-power-crept.cues.json",
     "processed": true,
-    "source": "MTGGoldfish Commander Clash Podcast RSS",
-    "cueSheet": "./data/cards-that-will-never-be-power-crept.cues.json"
+    "source": "MTGGoldfish Commander Clash Podcast RSS"
   },
   {
     "id": "commander-deckbuilding-traps",
@@ -19,9 +19,9 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/ba25b0e6-2705-4895-aa12-ae7425fe93a5/Commander_Clash_Podcast_272_Deckbuilding_Traps.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "cueSheet": "./data/commander-deckbuilding-traps.cues.json",
     "processed": true,
-    "source": "MTGGoldfish Commander Clash Podcast RSS",
-    "cueSheet": "./data/commander-deckbuilding-traps.cues.json"
+    "source": "MTGGoldfish Commander Clash Podcast RSS"
   },
   {
     "id": "the-most-important-cards-from-reality-fracture",
@@ -31,9 +31,9 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/20568075-67bc-4e02-9745-d897003437d5/Commander_Clash_Podcast_271_most_important_cards_from_reality_fracture.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "cueSheet": "./data/the-most-important-cards-from-reality-fracture.cues.json",
     "processed": true,
-    "source": "MTGGoldfish Commander Clash Podcast RSS",
-    "cueSheet": "./data/the-most-important-cards-from-reality-fracture.cues.json"
+    "source": "MTGGoldfish Commander Clash Podcast RSS"
   },
   {
     "id": "the-most-annoying-commanders",

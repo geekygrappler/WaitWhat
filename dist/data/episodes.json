@@ -19,9 +19,9 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/356-Optimization_Unpacked_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/ones-relationship-with-optimizing-in-edh",
     "artwork": "https://static.libsyn.com/p/assets/c/2/6/f/c26f41a0df7e94d788c4a68c3ddbc4f2/356_Thumbnail_2000x2000.png",
+    "cueSheet": "./data/one-s-relationship-with-optimizing-in-edh.cues.json",
     "processed": true,
-    "source": "Legendary Creature Podcast RSS",
-    "cueSheet": "./data/one-s-relationship-with-optimizing-in-edh.cues.json"
+    "source": "Legendary Creature Podcast RSS"
   },
   {
     "id": "challenges-in-summoning-new-players-therapy-session",

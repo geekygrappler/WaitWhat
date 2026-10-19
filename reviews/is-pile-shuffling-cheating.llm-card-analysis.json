@@ -1,0 +1,589 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Is Pile Shuffling Cheating?",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Siege Rhino",
+      "spokenText": "Siege Rhino",
+      "role": "incidental",
+      "startSeconds": 67.6,
+      "evidence": "Like Siege Rhino.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Siege Rhino",
+      "spokenText": "Siege Rhino",
+      "role": "incidental",
+      "startSeconds": 68.76,
+      "evidence": "Siege Rhino.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace",
+      "spokenText": "Jace",
+      "role": "incidental",
+      "startSeconds": 85.56,
+      "evidence": "I got my anime Jace",
+      "confidence": 0.6,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jace",
+      "spokenText": "Jaces",
+      "role": "incidental",
+      "startSeconds": 105.32,
+      "evidence": "pre spike prices for my Jaces",
+      "confidence": 0.6,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kindred Judgment",
+      "spokenText": "kindred judgment",
+      "role": "incidental",
+      "startSeconds": 868.02,
+      "evidence": "kindred judgment right",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "a johnny",
+      "role": "incidental",
+      "startSeconds": 931.02,
+      "evidence": "did you open a johnny in there",
+      "confidence": 0.65,
+      "modelName": "Ajani",
+      "catalogueConfidence": 0.805
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "a johnny",
+      "role": "incidental",
+      "startSeconds": 937.34,
+      "evidence": "if you opened a johnny",
+      "confidence": 0.65,
+      "modelName": "Ajani",
+      "catalogueConfidence": 0.805
+    },
+    {
+      "canonicalName": "Snarl Song",
+      "spokenText": "Snarl",
+      "role": "incidental",
+      "startSeconds": 1010.3,
+      "evidence": "Soup needed, what is it, Snarl?",
+      "confidence": 0.65,
+      "modelName": "Snarlsong",
+      "catalogueConfidence": 0.98
+    },
+    {
+      "canonicalName": "Snarl Song",
+      "spokenText": "Snarl song",
+      "role": "incidental",
+      "startSeconds": 1012.38,
+      "evidence": "Snarl song.",
+      "confidence": 0.75,
+      "modelName": "Snarlsong",
+      "catalogueConfidence": 0.98
+    },
+    {
+      "canonicalName": "Crush",
+      "spokenText": "the Crusher",
+      "role": "incidental",
+      "startSeconds": 1018.86,
+      "evidence": "the Crusher, which is green, green, red, red",
+      "confidence": 0.5,
+      "modelName": "Crusher",
+      "catalogueConfidence": 0.943
+    },
+    {
+      "canonicalName": "Garruk",
+      "spokenText": "Garrick",
+      "role": "incidental",
+      "startSeconds": 1023.94,
+      "evidence": "into like black, black, Garrick",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Garruk",
+      "spokenText": "Garak's",
+      "role": "incidental",
+      "startSeconds": 1061.94,
+      "evidence": "that Garak's coming in hot",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Garruk",
+      "spokenText": "Garak",
+      "role": "incidental",
+      "startSeconds": 1064.26,
+      "evidence": "the black Garak is coming in super fast",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mind Twist",
+      "spokenText": "mind twist",
+      "role": "incidental",
+      "startSeconds": 1104.94,
+      "evidence": "of course mind twist on four",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mind Twist",
+      "spokenText": "time twist",
+      "role": "incidental",
+      "startSeconds": 1110.96,
+      "evidence": "opening the time twist or time",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mind Twist",
+      "spokenText": "mind twist",
+      "role": "incidental",
+      "startSeconds": 1119.92,
+      "evidence": "yeah mind twist",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Captain Lannery Storm",
+      "spokenText": "Captain Lannery Storm",
+      "role": "incidental",
+      "startSeconds": 1136.76,
+      "evidence": "You get Captain Lannery Storm",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mind Twist",
+      "spokenText": "Nine twists",
+      "role": "incidental",
+      "startSeconds": 1144.38,
+      "evidence": "Nine twists, Umazon, Jitte.",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Umezawa's Jitte",
+      "spokenText": "Umazon, Jitte",
+      "role": "incidental",
+      "startSeconds": 1144.38,
+      "evidence": "Nine twists, Umazon, Jitte.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Umezawa's Jitte",
+      "spokenText": "Jitte",
+      "role": "incidental",
+      "startSeconds": 1149.94,
+      "evidence": "Turtles had Jitte as well",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Splinter Twin",
+      "spokenText": "Splinter Twin",
+      "role": "incidental",
+      "startSeconds": 1163.22,
+      "evidence": "Splinter Twin got me a box.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "a Johnny",
+      "role": "incidental",
+      "startSeconds": 1170.94,
+      "evidence": "It's like a Johnny on crack.",
+      "confidence": 0.65,
+      "modelName": "Ajani",
+      "catalogueConfidence": 0.805
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "a Johnny",
+      "role": "incidental",
+      "startSeconds": 1175,
+      "evidence": "Oh, a Johnny is",
+      "confidence": 0.65,
+      "modelName": "Ajani",
+      "catalogueConfidence": 0.805
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "johnny",
+      "role": "incidental",
+      "startSeconds": 1194.76,
+      "evidence": "it's an x5 that gets around to johnny",
+      "confidence": 0.65,
+      "modelName": "Ajani",
+      "catalogueConfidence": 0.805
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "a johnny",
+      "role": "incidental",
+      "startSeconds": 1199.42,
+      "evidence": "a johnny crim i've been shocked at like how good that card is",
+      "confidence": 0.65,
+      "modelName": "Ajani",
+      "catalogueConfidence": 0.805
+    },
+    {
+      "canonicalName": "Aang",
+      "spokenText": "a johnny",
+      "role": "incidental",
+      "startSeconds": 1209.24,
+      "evidence": "what have you thought of a johnny in standard",
+      "confidence": 0.65,
+      "modelName": "Ajani",
+      "catalogueConfidence": 0.805
+    },
+    {
+      "canonicalName": "Get Lost",
+      "spokenText": "get lost",
+      "role": "incidental",
+      "startSeconds": 1222.06,
+      "evidence": "a get lost. I am just sitting here",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doom Blade",
+      "spokenText": "doom blade",
+      "role": "incidental",
+      "startSeconds": 1758.86,
+      "evidence": "forget dies to doom blade",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Goblin Charbelcher",
+      "spokenText": "belcher",
+      "role": "incidental",
+      "startSeconds": 1862.68,
+      "evidence": "There's no belcher.",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Emrakul, the Aeons Torn",
+      "spokenText": "emiracle",
+      "role": "incidental",
+      "startSeconds": 1879.94,
+      "evidence": "your mono red decks playing a emiracle a 10 drop",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Howling Mine",
+      "spokenText": "howling mind",
+      "role": "incidental",
+      "startSeconds": 1944.14,
+      "evidence": "you effectively have a howling mind going on",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tundra",
+      "spokenText": "tundra",
+      "role": "incidental",
+      "startSeconds": 2015.32,
+      "evidence": "tundra needs to be eight billion dollars",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tundra",
+      "spokenText": "tundras",
+      "role": "incidental",
+      "startSeconds": 2019.76,
+      "evidence": "make more tundras please",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "badger mole",
+      "role": "incidental",
+      "startSeconds": 2150.52,
+      "evidence": "the badger mole problem",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "badger mole come",
+      "role": "incidental",
+      "startSeconds": 2156.66,
+      "evidence": "badger mole come did you answer it",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Once Upon a Time",
+      "spokenText": "once upon a time",
+      "role": "incidental",
+      "startSeconds": 2171.76,
+      "evidence": "once upon a time into ponder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ponder",
+      "spokenText": "ponder",
+      "role": "incidental",
+      "startSeconds": 2171.76,
+      "evidence": "once upon a time into ponder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal push",
+      "role": "incidental",
+      "startSeconds": 2193.32,
+      "evidence": "one of those five better be a fatal push",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "Badger, Mold Cub",
+      "role": "incidental",
+      "startSeconds": 2221.3,
+      "evidence": "Obviously, Badger, Mold Cub, yes, that has to",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "badger mole cub",
+      "role": "incidental",
+      "startSeconds": 2289.68,
+      "evidence": "swing into the badger mole cub",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Llanowar Elves",
+      "spokenText": "lawnmower elf",
+      "role": "incidental",
+      "startSeconds": 2289.68,
+      "evidence": "lawnmower elf fire breathe it to six",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "Badger Bowl come",
+      "role": "incidental",
+      "startSeconds": 2351.48,
+      "evidence": "I can do that with Badger Bowl come.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "Badger Bowl",
+      "role": "incidental",
+      "startSeconds": 2353.26,
+      "evidence": "Badger Bowl, sure.",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Torpor Orb",
+      "spokenText": "torpor orb",
+      "role": "incidental",
+      "startSeconds": 2447.88,
+      "evidence": "having a torpor orb as a commander",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brainstorm",
+      "spokenText": "brainstorm",
+      "role": "incidental",
+      "startSeconds": 2569.54,
+      "evidence": "your deck is like brainstorm, ponder, preordain",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ponder",
+      "spokenText": "ponder",
+      "role": "incidental",
+      "startSeconds": 2569.54,
+      "evidence": "your deck is like brainstorm, ponder, preordain",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preordain",
+      "spokenText": "preordain",
+      "role": "incidental",
+      "startSeconds": 2569.54,
+      "evidence": "your deck is like brainstorm, ponder, preordain",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "badger will come",
+      "role": "incidental",
+      "startSeconds": 2577.62,
+      "evidence": "versus like, oh, badger will come",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "badger mole cub",
+      "role": "incidental",
+      "startSeconds": 2667.36,
+      "evidence": "which is badger mole cub",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "badger mole cub",
+      "role": "incidental",
+      "startSeconds": 2673.2,
+      "evidence": "your plan b is play your own badger mole cub",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Omniscience",
+      "spokenText": "omniscient",
+      "role": "incidental",
+      "startSeconds": 2682.8,
+      "evidence": "when they're omniscient",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Counterspell",
+      "spokenText": "counter spell",
+      "role": "incidental",
+      "startSeconds": 2735.02,
+      "evidence": "play the days you play the counter spell play the stifle",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Daze",
+      "spokenText": "days",
+      "role": "incidental",
+      "startSeconds": 2735.02,
+      "evidence": "play the days you play the counter spell play the stifle",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stifle",
+      "spokenText": "stifle",
+      "role": "incidental",
+      "startSeconds": 2735.02,
+      "evidence": "play the days you play the counter spell play the stifle",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Laughing Jasper Flint",
+      "spokenText": "laughing Jasper plant",
+      "role": "incidental",
+      "startSeconds": 3231.36,
+      "evidence": "How are you going to split a laughing Jasper plant?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [],
+  "incidentalCards": [
+    "Aang",
+    "Badgermole Cub",
+    "Brainstorm",
+    "Captain Lannery Storm",
+    "Counterspell",
+    "Crush",
+    "Daze",
+    "Doom Blade",
+    "Emrakul, the Aeons Torn",
+    "Fatal Push",
+    "Garruk",
+    "Get Lost",
+    "Goblin Charbelcher",
+    "Howling Mine",
+    "Jace",
+    "Kindred Judgment",
+    "Laughing Jasper Flint",
+    "Llanowar Elves",
+    "Mind Twist",
+    "Omniscience",
+    "Once Upon a Time",
+    "Ponder",
+    "Preordain",
+    "Siege Rhino",
+    "Snarl Song",
+    "Splinter Twin",
+    "Stifle",
+    "Torpor Orb",
+    "Tundra",
+    "Umezawa's Jitte"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 10,
+    "unresolvedMentions": []
+  },
+  "validation": {
+    "matchedMainCards": [],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Aang",
+      "Badgermole Cub",
+      "Brainstorm",
+      "Captain Lannery Storm",
+      "Counterspell",
+      "Crush",
+      "Daze",
+      "Doom Blade",
+      "Emrakul, the Aeons Torn",
+      "Fatal Push",
+      "Garruk",
+      "Get Lost",
+      "Goblin Charbelcher",
+      "Howling Mine",
+      "Jace",
+      "Kindred Judgment",
+      "Laughing Jasper Flint",
+      "Llanowar Elves",
+      "Mind Twist",
+      "Omniscience",
+      "Once Upon a Time",
+      "Ponder",
+      "Preordain",
+      "Siege Rhino",
+      "Snarl Song",
+      "Splinter Twin",
+      "Stifle",
+      "Torpor Orb",
+      "Tundra",
+      "Umezawa's Jitte"
+    ],
+    "unmatchedIncidentalCards": []
+  }
+}

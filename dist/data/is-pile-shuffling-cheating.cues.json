@@ -1,0 +1,936 @@
+[
+  {
+    "track": "mentioned",
+    "start": 67.6,
+    "end": 97.6,
+    "cardId": "9011126a-20bd-4c86-a63b-1691f79ac247",
+    "cardName": "Siege Rhino",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Siege Rhino",
+      "manaCost": "{1}{W}{B}{G}",
+      "typeLine": "Creature — Rhino",
+      "oracleText": "Trample\nWhen this creature enters, each opponent loses 3 life and you gain 3 life.",
+      "image": "https://cards.scryfall.io/normal/front/9/0/9011126a-20bd-4c86-a63b-1691f79ac247.jpg?1783939053"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 68.76,
+    "end": 98.76,
+    "cardId": "9011126a-20bd-4c86-a63b-1691f79ac247",
+    "cardName": "Siege Rhino",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Siege Rhino",
+      "manaCost": "{1}{W}{B}{G}",
+      "typeLine": "Creature — Rhino",
+      "oracleText": "Trample\nWhen this creature enters, each opponent loses 3 life and you gain 3 life.",
+      "image": "https://cards.scryfall.io/normal/front/9/0/9011126a-20bd-4c86-a63b-1691f79ac247.jpg?1783939053"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 85.56,
+    "end": 115.56,
+    "cardId": "8d1e424f-6407-4f8c-bed2-eaf148237c81",
+    "cardName": "Jace",
+    "confidence": 0.6,
+    "needsReview": true,
+    "card": {
+      "name": "Jace",
+      "manaCost": "",
+      "typeLine": "Token Planeswalker — Jace",
+      "oracleText": "−1: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)\n−3: Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d1e424f-6407-4f8c-bed2-eaf148237c81.jpg?1789738324"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 105.32,
+    "end": 135.32,
+    "cardId": "8d1e424f-6407-4f8c-bed2-eaf148237c81",
+    "cardName": "Jace",
+    "confidence": 0.6,
+    "needsReview": true,
+    "card": {
+      "name": "Jace",
+      "manaCost": "",
+      "typeLine": "Token Planeswalker — Jace",
+      "oracleText": "−1: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)\n−3: Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d1e424f-6407-4f8c-bed2-eaf148237c81.jpg?1789738324"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 868.02,
+    "end": 898.02,
+    "cardId": "6f9f814b-8249-4e48-a05e-4c84060fe6fb",
+    "cardName": "Kindred Judgment",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Kindred Judgment",
+      "manaCost": "{5}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose a creature type. Destroy all creatures that aren't of the chosen type.",
+      "image": "https://cards.scryfall.io/normal/front/6/f/6f9f814b-8249-4e48-a05e-4c84060fe6fb.jpg?1789470776"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 931.02,
+    "end": 961.02,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 937.34,
+    "end": 967.34,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1010.3,
+    "end": 1040.3,
+    "cardId": "fc4c7fa2-aebb-4636-9afd-f1010c923316",
+    "cardName": "Snarl Song",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Snarl Song",
+      "manaCost": "{5}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Converge — Create two 0/0 green and blue Fractal creature tokens. Put X +1/+1 counters on each of them and you gain X life, where X is the number of colors of mana spent to cast this spell.",
+      "image": "https://cards.scryfall.io/normal/front/f/c/fc4c7fa2-aebb-4636-9afd-f1010c923316.jpg?1783903655"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1012.38,
+    "end": 1042.38,
+    "cardId": "fc4c7fa2-aebb-4636-9afd-f1010c923316",
+    "cardName": "Snarl Song",
+    "confidence": 0.75,
+    "needsReview": true,
+    "card": {
+      "name": "Snarl Song",
+      "manaCost": "{5}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Converge — Create two 0/0 green and blue Fractal creature tokens. Put X +1/+1 counters on each of them and you gain X life, where X is the number of colors of mana spent to cast this spell.",
+      "image": "https://cards.scryfall.io/normal/front/f/c/fc4c7fa2-aebb-4636-9afd-f1010c923316.jpg?1783903655"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1018.86,
+    "end": 1048.8600000000001,
+    "cardId": "a29d5e01-6f83-4749-8340-774054bd2956",
+    "cardName": "Crush",
+    "confidence": 0.5,
+    "needsReview": true,
+    "card": {
+      "name": "Crush",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target noncreature artifact.",
+      "image": "https://cards.scryfall.io/normal/front/a/2/a29d5e01-6f83-4749-8340-774054bd2956.jpg?1783941380"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1023.94,
+    "end": 1053.94,
+    "cardId": "16481c20-92a9-4d1c-8441-1601dce78c42",
+    "cardName": "Garruk",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Garruk",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {G})",
+      "image": "https://cards.scryfall.io/normal/front/1/6/16481c20-92a9-4d1c-8441-1601dce78c42.jpg?1783930761"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1061.94,
+    "end": 1091.94,
+    "cardId": "16481c20-92a9-4d1c-8441-1601dce78c42",
+    "cardName": "Garruk",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Garruk",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {G})",
+      "image": "https://cards.scryfall.io/normal/front/1/6/16481c20-92a9-4d1c-8441-1601dce78c42.jpg?1783930761"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1064.26,
+    "end": 1094.26,
+    "cardId": "16481c20-92a9-4d1c-8441-1601dce78c42",
+    "cardName": "Garruk",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Garruk",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {G})",
+      "image": "https://cards.scryfall.io/normal/front/1/6/16481c20-92a9-4d1c-8441-1601dce78c42.jpg?1783930761"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1104.94,
+    "end": 1134.94,
+    "cardId": "eee9e106-a248-49d2-b8c8-6bbcd56ce739",
+    "cardName": "Mind Twist",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Mind Twist",
+      "manaCost": "{X}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Target player discards X cards at random.",
+      "image": "https://cards.scryfall.io/normal/front/e/e/eee9e106-a248-49d2-b8c8-6bbcd56ce739.jpg?1783948693"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1110.96,
+    "end": 1140.96,
+    "cardId": "eee9e106-a248-49d2-b8c8-6bbcd56ce739",
+    "cardName": "Mind Twist",
+    "confidence": 0.88,
+    "needsReview": true,
+    "card": {
+      "name": "Mind Twist",
+      "manaCost": "{X}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Target player discards X cards at random.",
+      "image": "https://cards.scryfall.io/normal/front/e/e/eee9e106-a248-49d2-b8c8-6bbcd56ce739.jpg?1783948693"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1119.92,
+    "end": 1149.92,
+    "cardId": "eee9e106-a248-49d2-b8c8-6bbcd56ce739",
+    "cardName": "Mind Twist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mind Twist",
+      "manaCost": "{X}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Target player discards X cards at random.",
+      "image": "https://cards.scryfall.io/normal/front/e/e/eee9e106-a248-49d2-b8c8-6bbcd56ce739.jpg?1783948693"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1136.76,
+    "end": 1166.76,
+    "cardId": "5ab86a8a-7a0a-473e-9a97-da2fe0ab866c",
+    "cardName": "Captain Lannery Storm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Captain Lannery Storm",
+      "manaCost": "{2}{R}",
+      "typeLine": "Legendary Creature — Human Pirate",
+      "oracleText": "Haste\nWhenever Captain Lannery Storm attacks, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nWhenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/5/a/5ab86a8a-7a0a-473e-9a97-da2fe0ab866c.jpg?1783935752"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1144.38,
+    "end": 1174.38,
+    "cardId": "eee9e106-a248-49d2-b8c8-6bbcd56ce739",
+    "cardName": "Mind Twist",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Mind Twist",
+      "manaCost": "{X}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Target player discards X cards at random.",
+      "image": "https://cards.scryfall.io/normal/front/e/e/eee9e106-a248-49d2-b8c8-6bbcd56ce739.jpg?1783948693"
+    },
+    "cards": [
+      {
+        "cardId": "eee9e106-a248-49d2-b8c8-6bbcd56ce739",
+        "cardName": "Mind Twist",
+        "confidence": 0.97,
+        "needsReview": false,
+        "card": {
+          "name": "Mind Twist",
+          "manaCost": "{X}{B}",
+          "typeLine": "Sorcery",
+          "oracleText": "Target player discards X cards at random.",
+          "image": "https://cards.scryfall.io/normal/front/e/e/eee9e106-a248-49d2-b8c8-6bbcd56ce739.jpg?1783948693"
+        }
+      },
+      {
+        "cardId": "3b6e5956-f795-451b-bb24-56462d1ced27",
+        "cardName": "Umezawa's Jitte",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Umezawa's Jitte",
+          "manaCost": "{2}",
+          "typeLine": "Legendary Artifact — Equipment",
+          "oracleText": "Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.\nRemove a charge counter from Umezawa's Jitte: Choose one —\n• Equipped creature gets +2/+2 until end of turn.\n• Target creature gets -1/-1 until end of turn.\n• You gain 2 life.\nEquip {2}",
+          "image": "https://cards.scryfall.io/normal/front/3/b/3b6e5956-f795-451b-bb24-56462d1ced27.jpg?1783944176"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1149.94,
+    "end": 1179.94,
+    "cardId": "3b6e5956-f795-451b-bb24-56462d1ced27",
+    "cardName": "Umezawa's Jitte",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Umezawa's Jitte",
+      "manaCost": "{2}",
+      "typeLine": "Legendary Artifact — Equipment",
+      "oracleText": "Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.\nRemove a charge counter from Umezawa's Jitte: Choose one —\n• Equipped creature gets +2/+2 until end of turn.\n• Target creature gets -1/-1 until end of turn.\n• You gain 2 life.\nEquip {2}",
+      "image": "https://cards.scryfall.io/normal/front/3/b/3b6e5956-f795-451b-bb24-56462d1ced27.jpg?1783944176"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1163.22,
+    "end": 1193.22,
+    "cardId": "2f8f22fb-7291-4517-9b15-e98501f2856b",
+    "cardName": "Splinter Twin",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Splinter Twin",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nEnchanted creature has \"{T}: Create a token that's a copy of this creature, except it has haste. Exile that token at the beginning of the next end step.\"",
+      "image": "https://cards.scryfall.io/normal/front/2/f/2f8f22fb-7291-4517-9b15-e98501f2856b.jpg?1783941970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1170.94,
+    "end": 1200.94,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1175,
+    "end": 1205,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1194.76,
+    "end": 1224.76,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1199.42,
+    "end": 1229.42,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1209.24,
+    "end": 1239.24,
+    "cardId": "b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c",
+    "cardName": "Aang",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Aang",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b56dc1ed-3810-4b1e-b6ad-d1ab07d47b4c.jpg?1783905028"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1222.06,
+    "end": 1252.06,
+    "cardId": "522aa72b-2b8c-484c-872b-f082101cee35",
+    "cardName": "Get Lost",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Get Lost",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature, enchantment, or planeswalker. Its controller creates two Map tokens. (They're artifacts with \"{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.\")",
+      "image": "https://cards.scryfall.io/normal/front/5/2/522aa72b-2b8c-484c-872b-f082101cee35.jpg?1783913812"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1758.86,
+    "end": 1788.86,
+    "cardId": "6e19acff-f3dd-417a-a9ab-ea3e36c1ba61",
+    "cardName": "Doom Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://cards.scryfall.io/normal/front/6/e/6e19acff-f3dd-417a-a9ab-ea3e36c1ba61.jpg?1783942383"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1862.68,
+    "end": 1892.68,
+    "cardId": "b6c37fc1-4842-4bc5-93ed-83fff9e420f2",
+    "cardName": "Goblin Charbelcher",
+    "confidence": 0.88,
+    "needsReview": true,
+    "card": {
+      "name": "Goblin Charbelcher",
+      "manaCost": "{4}",
+      "typeLine": "Artifact",
+      "oracleText": "{3}, {T}: Reveal cards from the top of your library until you reveal a land card. This artifact deals damage equal to the number of nonland cards revealed this way to any target. If the revealed land card was a Mountain, this artifact deals double that damage instead. Put the revealed cards on the bottom of your library in any order.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6c37fc1-4842-4bc5-93ed-83fff9e420f2.jpg?1783944520"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1879.94,
+    "end": 1909.94,
+    "cardId": "67600383-bbb8-411c-b8e6-2296650bc747",
+    "cardName": "Emrakul, the Aeons Torn",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Emrakul, the Aeons Torn",
+      "manaCost": "{15}",
+      "typeLine": "Legendary Creature — Eldrazi",
+      "oracleText": "This spell can't be countered.\nWhen you cast this spell, take an extra turn after this one.\nFlying, protection from spells that are one or more colors, annihilator 6\nWhen Emrakul is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.",
+      "image": "https://cards.scryfall.io/normal/front/6/7/67600383-bbb8-411c-b8e6-2296650bc747.jpg?1783942013"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1944.14,
+    "end": 1974.14,
+    "cardId": "51f8f6e1-a451-4262-90d3-5107caf54175",
+    "cardName": "Howling Mine",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Howling Mine",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "At the beginning of each player's draw step, if this artifact is untapped, that player draws an additional card.",
+      "image": "https://cards.scryfall.io/normal/front/5/1/51f8f6e1-a451-4262-90d3-5107caf54175.jpg?1783948666"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2015.32,
+    "end": 2045.32,
+    "cardId": "a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb",
+    "cardName": "Tundra",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tundra",
+      "manaCost": "",
+      "typeLine": "Land — Plains Island",
+      "oracleText": "({T}: Add {W} or {U}.)",
+      "image": "https://cards.scryfall.io/normal/front/a/0/a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb.jpg?1783948659"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2019.76,
+    "end": 2049.76,
+    "cardId": "a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb",
+    "cardName": "Tundra",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tundra",
+      "manaCost": "",
+      "typeLine": "Land — Plains Island",
+      "oracleText": "({T}: Add {W} or {U}.)",
+      "image": "https://cards.scryfall.io/normal/front/a/0/a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb.jpg?1783948659"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2150.52,
+    "end": 2180.52,
+    "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+    "cardName": "Badgermole Cub",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Badgermole Cub",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Badger Mole",
+      "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+      "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2156.66,
+    "end": 2186.66,
+    "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+    "cardName": "Badgermole Cub",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Badgermole Cub",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Badger Mole",
+      "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+      "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2171.76,
+    "end": 2201.76,
+    "cardId": "4034e5ba-9974-43e3-bde7-8d9b4586c3a4",
+    "cardName": "Once Upon a Time",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Once Upon a Time",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "If this spell is the first spell you've cast this game, you may cast it without paying its mana cost.\nLook at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+      "image": "https://cards.scryfall.io/normal/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1783932607"
+    },
+    "cards": [
+      {
+        "cardId": "4034e5ba-9974-43e3-bde7-8d9b4586c3a4",
+        "cardName": "Once Upon a Time",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Once Upon a Time",
+          "manaCost": "{1}{G}",
+          "typeLine": "Instant",
+          "oracleText": "If this spell is the first spell you've cast this game, you may cast it without paying its mana cost.\nLook at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+          "image": "https://cards.scryfall.io/normal/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1783932607"
+        }
+      },
+      {
+        "cardId": "ba6b6fc5-5077-4812-b8e9-906783dbaf67",
+        "cardName": "Ponder",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Ponder",
+          "manaCost": "{U}",
+          "typeLine": "Sorcery",
+          "oracleText": "Look at the top three cards of your library, then put them back in any order. You may shuffle.\nDraw a card.",
+          "image": "https://cards.scryfall.io/normal/front/b/a/ba6b6fc5-5077-4812-b8e9-906783dbaf67.jpg?1783942899"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2193.32,
+    "end": 2223.32,
+    "cardId": "b5e81649-9954-424c-89d1-f87d73b66047",
+    "cardName": "Fatal Push",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fatal Push",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1783936764"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2221.3,
+    "end": 2251.3,
+    "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+    "cardName": "Badgermole Cub",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Badgermole Cub",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Badger Mole",
+      "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+      "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2289.68,
+    "end": 2319.68,
+    "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+    "cardName": "Badgermole Cub",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Badgermole Cub",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Badger Mole",
+      "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+      "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+    },
+    "cards": [
+      {
+        "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+        "cardName": "Badgermole Cub",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Badgermole Cub",
+          "manaCost": "{1}{G}",
+          "typeLine": "Creature — Badger Mole",
+          "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+          "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+        }
+      },
+      {
+        "cardId": "d4f1cc9e-4f99-4c26-ac1b-8ef069fa8ceb",
+        "cardName": "Llanowar Elves",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Llanowar Elves",
+          "manaCost": "{G}",
+          "typeLine": "Creature — Elf Druid",
+          "oracleText": "{T}: Add {G}.",
+          "image": "https://cards.scryfall.io/normal/front/d/4/d4f1cc9e-4f99-4c26-ac1b-8ef069fa8ceb.jpg?1783948674"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2351.48,
+    "end": 2381.48,
+    "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+    "cardName": "Badgermole Cub",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Badgermole Cub",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Badger Mole",
+      "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+      "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2353.26,
+    "end": 2383.26,
+    "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+    "cardName": "Badgermole Cub",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Badgermole Cub",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Badger Mole",
+      "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+      "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2447.88,
+    "end": 2477.88,
+    "cardId": "953610f6-ea96-4e71-969f-50ecac09c091",
+    "cardName": "Torpor Orb",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Torpor Orb",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "Creatures entering don't cause abilities to trigger.",
+      "image": "https://cards.scryfall.io/normal/front/9/5/953610f6-ea96-4e71-969f-50ecac09c091.jpg?1783941290"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2569.54,
+    "end": 2599.54,
+    "cardId": "8d42d7aa-7f53-4cfc-842a-086aab2448d1",
+    "cardName": "Brainstorm",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Brainstorm",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Draw three cards, then put two cards from your hand on top of your library in any order.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d42d7aa-7f53-4cfc-842a-086aab2448d1.jpg?1783947518"
+    },
+    "cards": [
+      {
+        "cardId": "8d42d7aa-7f53-4cfc-842a-086aab2448d1",
+        "cardName": "Brainstorm",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Brainstorm",
+          "manaCost": "{U}",
+          "typeLine": "Instant",
+          "oracleText": "Draw three cards, then put two cards from your hand on top of your library in any order.",
+          "image": "https://cards.scryfall.io/normal/front/8/d/8d42d7aa-7f53-4cfc-842a-086aab2448d1.jpg?1783947518"
+        }
+      },
+      {
+        "cardId": "ba6b6fc5-5077-4812-b8e9-906783dbaf67",
+        "cardName": "Ponder",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Ponder",
+          "manaCost": "{U}",
+          "typeLine": "Sorcery",
+          "oracleText": "Look at the top three cards of your library, then put them back in any order. You may shuffle.\nDraw a card.",
+          "image": "https://cards.scryfall.io/normal/front/b/a/ba6b6fc5-5077-4812-b8e9-906783dbaf67.jpg?1783942899"
+        }
+      },
+      {
+        "cardId": "e3868c3d-4fcd-444b-866f-0f8e50ce7b67",
+        "cardName": "Preordain",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Preordain",
+          "manaCost": "{U}",
+          "typeLine": "Sorcery",
+          "oracleText": "Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+          "image": "https://cards.scryfall.io/normal/front/e/3/e3868c3d-4fcd-444b-866f-0f8e50ce7b67.jpg?1783941822"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2577.62,
+    "end": 2607.62,
+    "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+    "cardName": "Badgermole Cub",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Badgermole Cub",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Badger Mole",
+      "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+      "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2667.36,
+    "end": 2697.36,
+    "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+    "cardName": "Badgermole Cub",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Badgermole Cub",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Badger Mole",
+      "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+      "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2673.2,
+    "end": 2703.2,
+    "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+    "cardName": "Badgermole Cub",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Badgermole Cub",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Badger Mole",
+      "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+      "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2682.8,
+    "end": 2712.8,
+    "cardId": "1088f33e-cb5f-4248-ae8e-280c4e41f291",
+    "cardName": "Omniscience",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Omniscience",
+      "manaCost": "{7}{U}{U}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "You may cast spells from your hand without paying their mana costs.",
+      "image": "https://cards.scryfall.io/normal/front/1/0/1088f33e-cb5f-4248-ae8e-280c4e41f291.jpg?1783940505"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2735.02,
+    "end": 2765.02,
+    "cardId": "0df55e3f-14de-46ef-b6b1-616618724d9e",
+    "cardName": "Counterspell",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Counterspell",
+      "manaCost": "{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell.",
+      "image": "https://cards.scryfall.io/normal/front/0/d/0df55e3f-14de-46ef-b6b1-616618724d9e.jpg?1783948707"
+    },
+    "cards": [
+      {
+        "cardId": "0df55e3f-14de-46ef-b6b1-616618724d9e",
+        "cardName": "Counterspell",
+        "confidence": 0.94,
+        "needsReview": false,
+        "card": {
+          "name": "Counterspell",
+          "manaCost": "{U}{U}",
+          "typeLine": "Instant",
+          "oracleText": "Counter target spell.",
+          "image": "https://cards.scryfall.io/normal/front/0/d/0df55e3f-14de-46ef-b6b1-616618724d9e.jpg?1783948707"
+        }
+      },
+      {
+        "cardId": "d03bff25-0d5e-4dcf-8d75-6df846afea3b",
+        "cardName": "Daze",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Daze",
+          "manaCost": "{1}{U}",
+          "typeLine": "Instant",
+          "oracleText": "You may return an Island you control to its owner's hand rather than pay this spell's mana cost.\nCounter target spell unless its controller pays {1}.",
+          "image": "https://cards.scryfall.io/normal/front/d/0/d03bff25-0d5e-4dcf-8d75-6df846afea3b.jpg?1789015977"
+        }
+      },
+      {
+        "cardId": "2d7643c0-b2db-478f-944e-b27b77bad3eb",
+        "cardName": "Stifle",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Stifle",
+          "manaCost": "{U}",
+          "typeLine": "Instant",
+          "oracleText": "Counter target activated or triggered ability. (Mana abilities can't be targeted.)",
+          "image": "https://cards.scryfall.io/normal/front/2/d/2d7643c0-b2db-478f-944e-b27b77bad3eb.jpg?1783944884"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3231.36,
+    "end": 3261.36,
+    "cardId": "af0b3a41-ba99-41e8-bcfb-5796500c17c7",
+    "cardName": "Laughing Jasper Flint",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Laughing Jasper Flint",
+      "manaCost": "{1}{B}{R}",
+      "typeLine": "Legendary Creature — Lizard Rogue",
+      "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
+      "image": "https://cards.scryfall.io/normal/front/a/f/af0b3a41-ba99-41e8-bcfb-5796500c17c7.jpg?1783911791"
+    }
+  }
+]
