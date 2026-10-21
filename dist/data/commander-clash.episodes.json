@@ -1,5 +1,17 @@
 [
   {
+    "id": "ranking-archetypes-by-how-much-they-suck-to-play-against",
+    "title": "Ranking Archetypes (By How Much They Suck to Play Against)",
+    "published": "2026-10-20T15:00:15.000Z",
+    "duration": 4127,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/5d0e7b64-e317-497c-8576-037a0bd82953/274_Commander_Clash_Podcast_Archetypes_That_Suck_to_Play_Against.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "processed": true,
+    "source": "MTGGoldfish Commander Clash Podcast RSS",
+    "cueSheet": "./data/ranking-archetypes-by-how-much-they-suck-to-play-against.cues.json"
+  },
+  {
     "id": "cards-that-will-never-be-power-crept",
     "title": "Cards That Will NEVER Be Power Crept",
     "published": "2026-10-13T15:00:23.000Z",
@@ -211,17 +223,6 @@
     "published": "2026-06-09T18:47:22.000Z",
     "duration": 4369,
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/29a02b91-bdec-45f2-a2e1-f71ad785aabb/CommanderClashPodcast_255_WouldYouRather.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
-    "source": "MTGGoldfish Commander Clash Podcast RSS"
-  },
-  {
-    "id": "toxic-commander-habits-ranked",
-    "title": "Toxic Commander Habits Ranked",
-    "published": "2026-06-02T15:00:19.000Z",
-    "duration": 4403,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/5ed3b919-6f79-4728-ba75-2b55cf42f1b1/commander_clash_podcast_254_sins_tierlist.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
     "processed": false,

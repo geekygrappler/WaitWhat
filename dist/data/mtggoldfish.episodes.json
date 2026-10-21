@@ -7,9 +7,9 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/8475e6b1-1b6f-450a-94b1-e8122cd222ee/mtggoldfish_podcast_610_IsPileShufflingCheating.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
+    "cueSheet": "./data/is-pile-shuffling-cheating.cues.json",
     "processed": true,
-    "source": "MTGGoldfish Podcast RSS",
-    "cueSheet": "./data/is-pile-shuffling-cheating.cues.json"
+    "source": "MTGGoldfish Podcast RSS"
   },
   {
     "id": "is-jace-the-next-100-card",
