@@ -7,9 +7,9 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/5d0e7b64-e317-497c-8576-037a0bd82953/274_Commander_Clash_Podcast_Archetypes_That_Suck_to_Play_Against.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "cueSheet": "./data/ranking-archetypes-by-how-much-they-suck-to-play-against.cues.json",
     "processed": true,
-    "source": "MTGGoldfish Commander Clash Podcast RSS",
-    "cueSheet": "./data/ranking-archetypes-by-how-much-they-suck-to-play-against.cues.json"
+    "source": "MTGGoldfish Commander Clash Podcast RSS"
   },
   {
     "id": "cards-that-will-never-be-power-crept",

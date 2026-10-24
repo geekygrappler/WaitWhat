@@ -1,5 +1,17 @@
 [
   {
+    "id": "reality-fracture-cards-for-your-99",
+    "title": "Reality Fracture | Cards for Your 99",
+    "published": "2026-10-22T22:55:00.000Z",
+    "duration": 5341,
+    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/358-Reality_Fracture_Other_99_mixdown.mp3?dest-id=534396",
+    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/reality-fracture-cards-for-your-99",
+    "artwork": "https://static.libsyn.com/p/assets/8/b/b/9/8bb929028443e2e8a04421dee9605cbd/358_Thumbnail_2000x2000.png",
+    "processed": true,
+    "source": "Legendary Creature Podcast RSS",
+    "cueSheet": "./data/reality-fracture-cards-for-your-99.cues.json"
+  },
+  {
     "id": "reality-fracture-legends-review",
     "title": "Reality Fracture | Legends Review",
     "published": "2026-10-13T04:21:00.000Z",
@@ -212,17 +224,6 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/339-Spellslinger_3.0_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/spellslinger-we-go-now",
     "artwork": "https://static.libsyn.com/p/assets/b/5/7/9/b579fc48f7d8c1ef16c3140a3186d450/Thumbnail_2000x2000.png",
-    "processed": false,
-    "source": "Legendary Creature Podcast RSS"
-  },
-  {
-    "id": "spellslinger-university-school-of-high-mana-value",
-    "title": "Spellslinger University | School of High Mana Value",
-    "published": "2026-03-17T05:56:00.000Z",
-    "duration": 9001,
-    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/338-Spellslinger_U_High_MV_mixdown.mp3?dest-id=534396",
-    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/spellslinger-university-school-of-high-mana-value",
-    "artwork": "https://static.libsyn.com/p/assets/3/3/2/c/332c980e1c688dc3d959afa2a1bf1c87/338-Title_Image_Thumbnail.png",
     "processed": false,
     "source": "Legendary Creature Podcast RSS"
   }
