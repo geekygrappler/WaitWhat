@@ -200,12 +200,12 @@ async function download(url, destination) {
   if (existsSync(destination)) return;
   const partial = `${destination}.part`;
   let lastError;
-  for (let attempt = 1; attempt <= 3; attempt += 1) {
+  for (let attempt = 1; attempt <= 5; attempt += 1) {
     try {
       const response = await fetch(url, {
         headers: { "user-agent": "WaitWhatPodcasts/0.2" },
         redirect: "follow",
-        signal: AbortSignal.timeout(60_000),
+        signal: AbortSignal.timeout(60 * 60_000),
       });
       if (!response.ok || !response.body) throw new Error(`Audio download failed: ${response.status}`);
       await pipeline(Readable.fromWeb(response.body), createWriteStream(partial));
@@ -214,7 +214,7 @@ async function download(url, destination) {
     } catch (error) {
       lastError = error;
       await rm(partial, { force: true });
-      console.warn(`Audio download attempt ${attempt}/3 failed for ${path.basename(destination)}: ${error.message}`);
+      console.warn(`Audio download attempt ${attempt}/5 failed for ${path.basename(destination)}: ${error.message}`);
     }
   }
   throw lastError;
