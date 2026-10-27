@@ -1,0 +1,1641 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Star Trek Spoilers",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Smaug",
+      "spokenText": "smog",
+      "role": "incidental",
+      "startSeconds": 435.8,
+      "evidence": "getting that smog tutored up",
+      "confidence": 0.72,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Allies",
+      "spokenText": "Alderos",
+      "role": "incidental",
+      "startSeconds": 461.42,
+      "evidence": "between that and Alderos",
+      "confidence": 0.65,
+      "modelName": "Alderos",
+      "catalogueConfidence": 0.797
+    },
+    {
+      "canonicalName": "Allies",
+      "spokenText": "Alderos",
+      "role": "incidental",
+      "startSeconds": 465.84,
+      "evidence": "Alderos was sick",
+      "confidence": 0.65,
+      "modelName": "Alderos",
+      "catalogueConfidence": 0.797
+    },
+    {
+      "canonicalName": "Jace Beleren",
+      "spokenText": "Jace Baloran",
+      "role": "incidental",
+      "startSeconds": 497.64,
+      "evidence": "Jace Baloran",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "badger moles",
+      "role": "incidental",
+      "startSeconds": 505.34,
+      "evidence": "getting rid of badger moles",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stormchaser's Talent",
+      "spokenText": "storm chasers talent",
+      "role": "incidental",
+      "startSeconds": 505.34,
+      "evidence": "storm chasers talent",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kaito, Bane of Nightmares",
+      "spokenText": "Kaidos",
+      "role": "incidental",
+      "startSeconds": 557.48,
+      "evidence": "to play more Kaidos",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Electrolyze",
+      "spokenText": "electrolyzes",
+      "role": "incidental",
+      "startSeconds": 668.82,
+      "evidence": "i love my electrolyzes",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Savannah Lions",
+      "spokenText": "Savannah Lions-y",
+      "role": "incidental",
+      "startSeconds": 1158.32,
+      "evidence": "sound like Savannah Lions-y stuff",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Savannah Lions",
+      "spokenText": "Savannah Lions",
+      "role": "incidental",
+      "startSeconds": 1165.64,
+      "evidence": "So Savannah Lions gives all your artifact creatures vigilance",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "Superior Spider-Man",
+      "role": "incidental",
+      "startSeconds": 1245.1,
+      "evidence": "we've seen Superior Spider-Man run wild",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deceit",
+      "spokenText": "Deceit",
+      "role": "incidental",
+      "startSeconds": 1269.42,
+      "evidence": "This isn't, like, Deceit or anything",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "Superior Spider-Man",
+      "role": "incidental",
+      "startSeconds": 1281.74,
+      "evidence": "that mode does line up really well with Superior Spider-Man",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "Superior Spider-Man",
+      "role": "incidental",
+      "startSeconds": 1290.04,
+      "evidence": "a one-of in Superior Spider-Man",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "Scotty, Miracle Worker",
+      "role": "incidental",
+      "startSeconds": 1335.74,
+      "evidence": "we're going to talk about Scotty, Miracle Worker",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "Scotty",
+      "role": "incidental",
+      "startSeconds": 1350.08,
+      "evidence": "Scotty can't be beamed up",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "Scotty",
+      "role": "incidental",
+      "startSeconds": 1371.04,
+      "evidence": "you cannot beam Scotty up",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Dream Beavers",
+      "spokenText": "Dream Beavers",
+      "role": "incidental",
+      "startSeconds": 1381.18,
+      "evidence": "Is Dream Beavers about to go wild",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dream Beavers",
+      "spokenText": "Dream Beavers",
+      "role": "incidental",
+      "startSeconds": 1383.74,
+      "evidence": "Is Dream Beavers",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nurturing Pixie",
+      "spokenText": "pixie",
+      "role": "incidental",
+      "startSeconds": 1415.54,
+      "evidence": "pick up your pixie",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lier, Disciple of the Drowned",
+      "spokenText": "Leer",
+      "role": "incidental",
+      "startSeconds": 1424.68,
+      "evidence": "it's like Leer, but you can't combo with it",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "Scotty",
+      "role": "incidental",
+      "startSeconds": 1424.68,
+      "evidence": "And Scotty itself",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Lier, Disciple of the Drowned",
+      "spokenText": "Leer",
+      "role": "incidental",
+      "startSeconds": 1431.24,
+      "evidence": "if you want to turn it into a Leer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Memnite",
+      "spokenText": "Memnite",
+      "role": "incidental",
+      "startSeconds": 1431.24,
+      "evidence": "a Memnite to keep casting",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ornithopter",
+      "spokenText": "Ornithopter",
+      "role": "incidental",
+      "startSeconds": 1431.24,
+      "evidence": "You need, like, an Ornithopter",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dream Beavers",
+      "spokenText": "Dream Beavers",
+      "role": "incidental",
+      "startSeconds": 1461.42,
+      "evidence": "like Dream Beavers, as Richard has mentioned",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Floodpits Drowner",
+      "spokenText": "Floodpits Drowner",
+      "role": "incidental",
+      "startSeconds": 1464.88,
+      "evidence": "Floodpits Drowner and all of that's going to rotate",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "Scotty Miracle Worker",
+      "role": "incidental",
+      "startSeconds": 1475.7,
+      "evidence": "the Scotty Miracle Worker is a three mana two three",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "Scotty",
+      "role": "incidental",
+      "startSeconds": 1499.52,
+      "evidence": "You can Scotty and beam me up on the same turn",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "Scotty",
+      "role": "incidental",
+      "startSeconds": 1511.02,
+      "evidence": "Scotty is exactly what you want",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "scotty",
+      "role": "incidental",
+      "startSeconds": 1524.88,
+      "evidence": "isn't scotty gonna be tilting",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Open Communications",
+      "spokenText": "open communications",
+      "role": "incidental",
+      "startSeconds": 1554.88,
+      "evidence": "open communications a single blue draw a card",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Energizer",
+      "spokenText": "energize",
+      "role": "incidental",
+      "startSeconds": 1566.9,
+      "evidence": "energize return target creature opponent's hand",
+      "confidence": 0.93,
+      "modelName": "Energize",
+      "catalogueConfidence": 0.978
+    },
+    {
+      "canonicalName": "Dream Beavers",
+      "spokenText": "Dream Beaver's",
+      "role": "incidental",
+      "startSeconds": 1585.02,
+      "evidence": "Dream Beaver's Beam Me Up deck",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "Scotty",
+      "role": "incidental",
+      "startSeconds": 1600.56,
+      "evidence": "I think Scotty was the mythic",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "scotty",
+      "role": "incidental",
+      "startSeconds": 1646.6,
+      "evidence": "i think scotty could do some miracles",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Spelljack",
+      "spokenText": "Spelljacket",
+      "role": "incidental",
+      "startSeconds": 1664.52,
+      "evidence": "things back like Spelljacket",
+      "confidence": 0.75,
+      "modelName": "Spelljacker",
+      "catalogueConfidence": 0.964
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "Scotty",
+      "role": "incidental",
+      "startSeconds": 1679.3,
+      "evidence": "like Scotty is the",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Eddymurk Crab",
+      "spokenText": "Eddie",
+      "role": "incidental",
+      "startSeconds": 1684.16,
+      "evidence": "the Eddie",
+      "confidence": 0.84,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "Scotty",
+      "role": "incidental",
+      "startSeconds": 1692.5,
+      "evidence": "I don't know about Scotty",
+      "confidence": 0.98,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Open Communications",
+      "spokenText": "open communications",
+      "role": "incidental",
+      "startSeconds": 1694.52,
+      "evidence": "what about like open communications or something",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sunderflock",
+      "spokenText": "Sunderflock",
+      "role": "incidental",
+      "startSeconds": 1702.04,
+      "evidence": "keep picking up my Sunderflock",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sunderflock",
+      "spokenText": "Sunderflock's",
+      "role": "incidental",
+      "startSeconds": 1720.86,
+      "evidence": "Sunderflock's like two mana",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eliminate the Impossible",
+      "spokenText": "Garrick",
+      "role": "incidental",
+      "startSeconds": 1765.66,
+      "evidence": "Garrick is back, guys",
+      "confidence": 0.9,
+      "modelName": "Elim Garak, Simple Tailor",
+      "catalogueConfidence": 0.798
+    },
+    {
+      "canonicalName": "Eliminate the Impossible",
+      "spokenText": "Elam Garrick, simple trainer",
+      "role": "incidental",
+      "startSeconds": 1767.16,
+      "evidence": "Elam Garrick, simple trainer",
+      "confidence": 0.95,
+      "modelName": "Elim Garak, Simple Tailor",
+      "catalogueConfidence": 0.798
+    },
+    {
+      "canonicalName": "Eliminate the Impossible",
+      "spokenText": "G-A-R-A-K",
+      "role": "incidental",
+      "startSeconds": 1770.52,
+      "evidence": "It's G-A-R-A-K",
+      "confidence": 0.95,
+      "modelName": "Elim Garak, Simple Tailor",
+      "catalogueConfidence": 0.798
+    },
+    {
+      "canonicalName": "Doom Blade",
+      "spokenText": "doom blade",
+      "role": "incidental",
+      "startSeconds": 1878.54,
+      "evidence": "this dies to doom blade",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Abrade",
+      "spokenText": "a braid",
+      "role": "incidental",
+      "startSeconds": 1899.58,
+      "evidence": "a braid's a dilemma card",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deceit",
+      "spokenText": "Deceit",
+      "role": "incidental",
+      "startSeconds": 1959.88,
+      "evidence": "It's not like, example, Deceit",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deceit",
+      "spokenText": "Deceit",
+      "role": "incidental",
+      "startSeconds": 1963.28,
+      "evidence": "Deceit the elementals",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deceit",
+      "spokenText": "deceit",
+      "role": "incidental",
+      "startSeconds": 1973.38,
+      "evidence": "a thought sees effective deceit",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thoughtseize",
+      "spokenText": "thought sees",
+      "role": "incidental",
+      "startSeconds": 1973.38,
+      "evidence": "a thought sees effective deceit",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deceit",
+      "spokenText": "Deceit",
+      "role": "incidental",
+      "startSeconds": 1989.42,
+      "evidence": "Deceit has the blue option or the black option",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gala Greeters",
+      "spokenText": "Galag readers",
+      "role": "incidental",
+      "startSeconds": 2010.08,
+      "evidence": "like Galag readers that are alliances",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scour",
+      "spokenText": "scotty",
+      "role": "incidental",
+      "startSeconds": 2075.88,
+      "evidence": "scotty because he was a three man a two three",
+      "confidence": 0.65,
+      "modelName": "Scotty",
+      "catalogueConfidence": 0.79
+    },
+    {
+      "canonicalName": "Infinite Authority",
+      "spokenText": "infinite diversity",
+      "role": "main",
+      "startSeconds": 2104.96,
+      "evidence": "okay infinite diversity",
+      "confidence": 0.99,
+      "modelName": "Infinite Diversity",
+      "catalogueConfidence": 0.874
+    },
+    {
+      "canonicalName": "Infinite Authority",
+      "spokenText": "infinite diversity",
+      "role": "main",
+      "startSeconds": 2142.08,
+      "evidence": "X out infinite diversity",
+      "confidence": 0.99,
+      "modelName": "Infinite Diversity",
+      "catalogueConfidence": 0.874
+    },
+    {
+      "canonicalName": "Doorkeeper",
+      "spokenText": "Zookeeper",
+      "role": "incidental",
+      "startSeconds": 2197,
+      "evidence": "Oh, my God. Zookeeper",
+      "confidence": 0.7,
+      "modelName": "Zookeeper",
+      "catalogueConfidence": 0.896
+    },
+    {
+      "canonicalName": "Doorkeeper",
+      "spokenText": "Zookeeper",
+      "role": "incidental",
+      "startSeconds": 2198.32,
+      "evidence": "how many types does Zookeeper have?",
+      "confidence": 0.7,
+      "modelName": "Zookeeper",
+      "catalogueConfidence": 0.896
+    },
+    {
+      "canonicalName": "Abrade",
+      "spokenText": "a brain",
+      "role": "incidental",
+      "startSeconds": 2216.18,
+      "evidence": "You copy a brain like four times",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Spider-Ham, Peter Porker",
+      "spokenText": "spider pig",
+      "role": "incidental",
+      "startSeconds": 2227.38,
+      "evidence": "then you're using spider pig",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fork",
+      "spokenText": "fork",
+      "role": "incidental",
+      "startSeconds": 2285.1,
+      "evidence": "Can't you just, like, fork it and call it a day?",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fork",
+      "spokenText": "fork",
+      "role": "incidental",
+      "startSeconds": 2288.06,
+      "evidence": "what if you want to fork it a whole bunch?",
+      "confidence": 0.8,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fork",
+      "spokenText": "fork",
+      "role": "incidental",
+      "startSeconds": 2294.84,
+      "evidence": "I guess the fork is expensive",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Infinite Authority",
+      "spokenText": "infinite, infinite diversities",
+      "role": "main",
+      "startSeconds": 2296.82,
+      "evidence": "a nine mana spell, like, infinite, infinite diversities",
+      "confidence": 0.99,
+      "modelName": "Infinite Diversity",
+      "catalogueConfidence": 0.874
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "lightning bolt",
+      "role": "incidental",
+      "startSeconds": 2332.04,
+      "evidence": "I was going to say lightning bolt",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Explosive Singularity",
+      "spokenText": "Explosive Singularity",
+      "role": "incidental",
+      "startSeconds": 2340.1,
+      "evidence": "Explosive Singularity?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Explosive Singularity",
+      "spokenText": "Explosive Singularity",
+      "role": "incidental",
+      "startSeconds": 2341.54,
+      "evidence": "Explosive Singularity",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Searing Wind",
+      "spokenText": "Searing wins",
+      "role": "incidental",
+      "startSeconds": 2345.16,
+      "evidence": "Searing wins?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Searing Wind",
+      "spokenText": "Searing wins",
+      "role": "incidental",
+      "startSeconds": 2346.52,
+      "evidence": "Searing wins",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zada, Hedron Grinder",
+      "spokenText": "Zada",
+      "role": "incidental",
+      "startSeconds": 2357.92,
+      "evidence": "like a Zada deck or something?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Field of the Dead",
+      "spokenText": "Field of the Dead",
+      "role": "incidental",
+      "startSeconds": 2409,
+      "evidence": "would be? Field of the Dead",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Field of the Dead",
+      "spokenText": "Field of the Dead",
+      "role": "incidental",
+      "startSeconds": 2412.92,
+      "evidence": "Field of the Dead? That sounds great",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Excavation Elephant",
+      "spokenText": "Excaliban Game Master",
+      "role": "main",
+      "startSeconds": 2416.38,
+      "evidence": "Excaliban Game Master",
+      "confidence": 0.94,
+      "modelName": "Excalbian Gamemaster",
+      "catalogueConfidence": 0.813
+    },
+    {
+      "canonicalName": "Excavation Elephant",
+      "spokenText": "Excalbian",
+      "role": "main",
+      "startSeconds": 2424.74,
+      "evidence": "It's Excalbian",
+      "confidence": 0.96,
+      "modelName": "Excalbian Gamemaster",
+      "catalogueConfidence": 0.813
+    },
+    {
+      "canonicalName": "Excavation Elephant",
+      "spokenText": "Excalbian",
+      "role": "main",
+      "startSeconds": 2427.34,
+      "evidence": "Excalbian",
+      "confidence": 0.96,
+      "modelName": "Excalbian Gamemaster",
+      "catalogueConfidence": 0.813
+    },
+    {
+      "canonicalName": "Field of the Dead",
+      "spokenText": "feel the dead",
+      "role": "incidental",
+      "startSeconds": 2449.82,
+      "evidence": "you feel the dead upon entering",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avenger of Zendikar",
+      "spokenText": "Avengers Endicar",
+      "role": "incidental",
+      "startSeconds": 2453.76,
+      "evidence": "it's like white Avengers Endicar",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avenger of Zendikar",
+      "spokenText": "Avengers Endicar",
+      "role": "incidental",
+      "startSeconds": 2456.88,
+      "evidence": "Worst white Avengers Endicar",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Field of the Dead",
+      "spokenText": "field of dead",
+      "role": "incidental",
+      "startSeconds": 2526.4,
+      "evidence": "we just play field of dead",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Field of the Dead",
+      "spokenText": "field of dead",
+      "role": "incidental",
+      "startSeconds": 2532.6,
+      "evidence": "you just don't want to play field of dead",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avenger of Zendikar",
+      "spokenText": "avenger of zender car",
+      "role": "incidental",
+      "startSeconds": 2537.52,
+      "evidence": "like a avenger of zender car",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avenger of Zendikar",
+      "spokenText": "avenger",
+      "role": "incidental",
+      "startSeconds": 2542.46,
+      "evidence": "not as strong as avenger",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Moonshaker Cavalry",
+      "spokenText": "Moonshaker",
+      "role": "incidental",
+      "startSeconds": 2552.26,
+      "evidence": "And then you untap Moonshaker",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Excavation Elephant",
+      "spokenText": "Excalbian",
+      "role": "main",
+      "startSeconds": 2563.1,
+      "evidence": "this whatever Excalbian, he's a gamer",
+      "confidence": 0.96,
+      "modelName": "Excalbian Gamemaster",
+      "catalogueConfidence": 0.813
+    },
+    {
+      "canonicalName": "Excavation Elephant",
+      "spokenText": "Excalbion Game Master",
+      "role": "main",
+      "startSeconds": 2588.92,
+      "evidence": "put Excalbion Game Master into it",
+      "confidence": 0.96,
+      "modelName": "Excalbian Gamemaster",
+      "catalogueConfidence": 0.813
+    },
+    {
+      "canonicalName": "Sun Titan",
+      "spokenText": "Sun Titan",
+      "role": "incidental",
+      "startSeconds": 2599.56,
+      "evidence": "Like, Sun Titan",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grand Crescendo",
+      "spokenText": "Grand crescendo",
+      "role": "incidental",
+      "startSeconds": 2620.64,
+      "evidence": "Grand crescendo",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Martial Coup",
+      "spokenText": "martial coup",
+      "role": "incidental",
+      "startSeconds": 2621.98,
+      "evidence": "like the martial coup",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Excavation Elephant",
+      "spokenText": "Excalbion",
+      "role": "main",
+      "startSeconds": 2639.56,
+      "evidence": "Excalbion",
+      "confidence": 0.96,
+      "modelName": "Excalbian Gamemaster",
+      "catalogueConfidence": 0.813
+    },
+    {
+      "canonicalName": "Overlord of the Mistmoors",
+      "spokenText": "overlord",
+      "role": "incidental",
+      "startSeconds": 2664.02,
+      "evidence": "overlord just better than this?",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Overlord of the Mistmoors",
+      "spokenText": "white overlord",
+      "role": "incidental",
+      "startSeconds": 2674.28,
+      "evidence": "to the white overlord anyway?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Death in Heaven",
+      "spokenText": "Death is irrelevant",
+      "role": "main",
+      "startSeconds": 2697.02,
+      "evidence": "Death is irrelevant",
+      "confidence": 0.99,
+      "modelName": "Death Is Irrelevant",
+      "catalogueConfidence": 0.895
+    },
+    {
+      "canonicalName": "Virtus the Veiled",
+      "spokenText": "virtue of persistence",
+      "role": "incidental",
+      "startSeconds": 2767.16,
+      "evidence": "virtue of persistence is just like there",
+      "confidence": 1,
+      "modelName": "Virtue of Persistence",
+      "catalogueConfidence": 0.838
+    },
+    {
+      "canonicalName": "Virtus the Veiled",
+      "spokenText": "virtue of persistence",
+      "role": "incidental",
+      "startSeconds": 2780.28,
+      "evidence": "If you play virtue of persistence",
+      "confidence": 1,
+      "modelName": "Virtue of Persistence",
+      "catalogueConfidence": 0.838
+    },
+    {
+      "canonicalName": "The Soul Stone",
+      "spokenText": "the soul stone",
+      "role": "incidental",
+      "startSeconds": 2798.52,
+      "evidence": "the soul stone right",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Virtus the Veiled",
+      "spokenText": "Virtue",
+      "role": "incidental",
+      "startSeconds": 2828.48,
+      "evidence": "even Virtue doesn't see much playing",
+      "confidence": 0.99,
+      "modelName": "Virtue of Persistence",
+      "catalogueConfidence": 0.838
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "incidental",
+      "startSeconds": 2853.96,
+      "evidence": "We have literal reanimate one mana",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Death in Heaven",
+      "spokenText": "death is irrelevant",
+      "role": "main",
+      "startSeconds": 2863.86,
+      "evidence": "win a game with death is irrelevant",
+      "confidence": 1,
+      "modelName": "Death Is Irrelevant",
+      "catalogueConfidence": 0.895
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords",
+      "role": "incidental",
+      "startSeconds": 2878.76,
+      "evidence": "it can be swords",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Soul Stone",
+      "spokenText": "Soul Stone",
+      "role": "incidental",
+      "startSeconds": 2893.29,
+      "evidence": "how Soul Stone is better",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Soul Stone",
+      "spokenText": "Soul Stone",
+      "role": "incidental",
+      "startSeconds": 2897.15,
+      "evidence": "Soul Stone is also legal in Commander",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Death in Heaven",
+      "spokenText": "Death is Irrelevant",
+      "role": "main",
+      "startSeconds": 2904.31,
+      "evidence": "on your way to casting Death is Irrelevant",
+      "confidence": 1,
+      "modelName": "Death Is Irrelevant",
+      "catalogueConfidence": 0.895
+    },
+    {
+      "canonicalName": "The Soul Stone",
+      "spokenText": "Soul Stone",
+      "role": "incidental",
+      "startSeconds": 2904.31,
+      "evidence": "But a Soul Stone",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Death in Heaven",
+      "spokenText": "Death is Irrelevant",
+      "role": "main",
+      "startSeconds": 2910.19,
+      "evidence": "Death is Irrelevant, Krim",
+      "confidence": 1,
+      "modelName": "Death Is Irrelevant",
+      "catalogueConfidence": 0.895
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hit it",
+      "role": "main",
+      "startSeconds": 2936.67,
+      "evidence": "busted is hit it",
+      "confidence": 0.98,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Llanowar Elves",
+      "spokenText": "lanyard where elves",
+      "role": "incidental",
+      "startSeconds": 2959.07,
+      "evidence": "turn one lanyard where elves",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Overlord of the Hauntwoods",
+      "spokenText": "overlord of the hauntwoods",
+      "role": "incidental",
+      "startSeconds": 2964.29,
+      "evidence": "turn three overlord of the hauntwoods",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Frostcliff Siege",
+      "spokenText": "frost cleft siege",
+      "role": "incidental",
+      "startSeconds": 2969.03,
+      "evidence": "what frost cleft siege i think is the standard one",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Quantum Riddler",
+      "spokenText": "quantum riddler",
+      "role": "incidental",
+      "startSeconds": 2969.03,
+      "evidence": "see play with quantum riddler",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Strixhaven Stadium",
+      "spokenText": "strict save it's strict saving stadium",
+      "role": "incidental",
+      "startSeconds": 3072.21,
+      "evidence": "the strict save it's strict saving stadium",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhythm of the Wild",
+      "spokenText": "Rhythm of the Wild",
+      "role": "incidental",
+      "startSeconds": 3086.07,
+      "evidence": "but like Rhythm of the Wild",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhythm of the Wild",
+      "spokenText": "Rhythm of the Wild",
+      "role": "incidental",
+      "startSeconds": 3095.43,
+      "evidence": "than Rhythm of the Wild?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fervor",
+      "spokenText": "Fervor",
+      "role": "incidental",
+      "startSeconds": 3102.57,
+      "evidence": "Fervor or something",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wood Elves",
+      "spokenText": "wood elves",
+      "role": "incidental",
+      "startSeconds": 3135.27,
+      "evidence": "I could be playing wood elves",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hit it",
+      "role": "main",
+      "startSeconds": 3153.83,
+      "evidence": "If it's hit it, lose 10 life",
+      "confidence": 0.99,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmagoyf",
+      "role": "incidental",
+      "startSeconds": 3173.59,
+      "evidence": "Tarmagoyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmagoyf",
+      "role": "incidental",
+      "startSeconds": 3175.57,
+      "evidence": "We found a Tarmagoyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "goyfin",
+      "role": "incidental",
+      "startSeconds": 3180.49,
+      "evidence": "He's the goyfin",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "goyfin",
+      "role": "incidental",
+      "startSeconds": 3190.89,
+      "evidence": "and grows our goyfin",
+      "confidence": 0.91,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmagoyf",
+      "role": "incidental",
+      "startSeconds": 3195.87,
+      "evidence": "This might actually fix Tarmagoyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Goyf",
+      "role": "incidental",
+      "startSeconds": 3201.63,
+      "evidence": "with Goyf though",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ajani's Anguish",
+      "spokenText": "Ajani's Anguish",
+      "role": "incidental",
+      "startSeconds": 3203.45,
+      "evidence": "Ajani's Anguish",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ajani's Anguish",
+      "spokenText": "Ajani's Anguish",
+      "role": "incidental",
+      "startSeconds": 3206.47,
+      "evidence": "Ajani's Anguish is good, man",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ajani's Anguish",
+      "spokenText": "Ajani's Anguish",
+      "role": "incidental",
+      "startSeconds": 3211.11,
+      "evidence": "with our Ajani's Anguish",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Goyf's",
+      "role": "incidental",
+      "startSeconds": 3217.23,
+      "evidence": "eight Goyf's Trample",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fatal Push",
+      "spokenText": "fatal pushes",
+      "role": "incidental",
+      "startSeconds": 3222.11,
+      "evidence": "two fatal pushes",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hitting it up",
+      "role": "main",
+      "startSeconds": 3231.65,
+      "evidence": "you plan on hitting it up all the time",
+      "confidence": 0.75,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Fear of Missing Out",
+      "spokenText": "FOMO",
+      "role": "incidental",
+      "startSeconds": 3240.67,
+      "evidence": "You already have FOMO",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fear of Missing Out",
+      "spokenText": "FOMO",
+      "role": "incidental",
+      "startSeconds": 3246.45,
+      "evidence": "go FOMO on four with Goyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Goyf",
+      "role": "incidental",
+      "startSeconds": 3246.45,
+      "evidence": "go FOMO on four with Goyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Goyf",
+      "role": "incidental",
+      "startSeconds": 3254.51,
+      "evidence": "Pasted double strike Goyf",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hit it",
+      "role": "main",
+      "startSeconds": 3261.63,
+      "evidence": "it's gonna be sick dude hit it",
+      "confidence": 0.97,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "tarmacoy",
+      "role": "incidental",
+      "startSeconds": 3268.17,
+      "evidence": "tarmacoy going light speed",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "lightning bolt",
+      "role": "incidental",
+      "startSeconds": 3335.41,
+      "evidence": "if you spin into a lightning bolt",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "lightning bolt",
+      "role": "incidental",
+      "startSeconds": 3338.05,
+      "evidence": "you can essentially lightning bolt for every card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "bolt",
+      "role": "incidental",
+      "startSeconds": 3340.75,
+      "evidence": "You exile it, bolt, exile it",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boltwave",
+      "spokenText": "Bolt Wave",
+      "role": "incidental",
+      "startSeconds": 3354.11,
+      "evidence": "I'm trying to hit Bolt Wave with this",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scroll Rack",
+      "spokenText": "scroll rack",
+      "role": "incidental",
+      "startSeconds": 3431.35,
+      "evidence": "scroll rack or something to control this",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boltwave",
+      "spokenText": "Bolt Wave",
+      "role": "incidental",
+      "startSeconds": 3461.01,
+      "evidence": "Like, Bolt Wave?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "Lightning Bolt",
+      "role": "incidental",
+      "startSeconds": 3462.07,
+      "evidence": "Lightning Bolt?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Manamorphose",
+      "spokenText": "Manamorphose",
+      "role": "incidental",
+      "startSeconds": 3465.03,
+      "evidence": "Hitting Manamorphose is one of the best",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grapeshot",
+      "spokenText": "grape shot",
+      "role": "incidental",
+      "startSeconds": 3468.43,
+      "evidence": "then like hit a grape shot",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Manamorphose",
+      "spokenText": "Anamorphosis",
+      "role": "incidental",
+      "startSeconds": 3468.43,
+      "evidence": "keep casting Anamorphosis draw card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doomsday Excruciator",
+      "spokenText": "Doomsday Scruciator",
+      "role": "incidental",
+      "startSeconds": 3489.75,
+      "evidence": "Doomsday Scruciator",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boltwave",
+      "spokenText": "bolt wave",
+      "role": "incidental",
+      "startSeconds": 3519.03,
+      "evidence": "imagine it being bolt wave",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boltwave",
+      "spokenText": "bolt wave",
+      "role": "incidental",
+      "startSeconds": 3523.01,
+      "evidence": "bolt wave enough times to actually kill the table",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boltwave",
+      "spokenText": "bolt wave",
+      "role": "incidental",
+      "startSeconds": 3530.39,
+      "evidence": "and bolt wave and see if it works",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boltwave",
+      "spokenText": "bolt wave",
+      "role": "incidental",
+      "startSeconds": 3534.51,
+      "evidence": "enough cards in hand to bolt wave",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boltwave",
+      "spokenText": "bolt waving",
+      "role": "incidental",
+      "startSeconds": 3553.69,
+      "evidence": "If you're bolt waving",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [
+    "Death in Heaven",
+    "Excavation Elephant",
+    "Hit // Run",
+    "Infinite Authority"
+  ],
+  "incidentalCards": [
+    "Abrade",
+    "Ajani's Anguish",
+    "Allies",
+    "Avenger of Zendikar",
+    "Badgermole Cub",
+    "Boltwave",
+    "Deceit",
+    "Doom Blade",
+    "Doomsday Excruciator",
+    "Doorkeeper",
+    "Dream Beavers",
+    "Eddymurk Crab",
+    "Electrolyze",
+    "Eliminate the Impossible",
+    "Energizer",
+    "Explosive Singularity",
+    "Fatal Push",
+    "Fear of Missing Out",
+    "Fervor",
+    "Field of the Dead",
+    "Floodpits Drowner",
+    "Fork",
+    "Frostcliff Siege",
+    "Gala Greeters",
+    "Grand Crescendo",
+    "Grapeshot",
+    "Jace Beleren",
+    "Kaito, Bane of Nightmares",
+    "Lier, Disciple of the Drowned",
+    "Lightning Bolt",
+    "Llanowar Elves",
+    "Manamorphose",
+    "Martial Coup",
+    "Memnite",
+    "Moonshaker Cavalry",
+    "Nurturing Pixie",
+    "Open Communications",
+    "Ornithopter",
+    "Overlord of the Hauntwoods",
+    "Overlord of the Mistmoors",
+    "Quantum Riddler",
+    "Reanimate",
+    "Rhythm of the Wild",
+    "Savannah Lions",
+    "Scorch Spitter",
+    "Scour",
+    "Scroll Rack",
+    "Searing Wind",
+    "Smaug",
+    "Spelljack",
+    "Spider-Ham, Peter Porker",
+    "Stormchaser's Talent",
+    "Strixhaven Stadium",
+    "Sun Titan",
+    "Sunderflock",
+    "Superior Spider-Man",
+    "Swords to Plowshares",
+    "Tarmogoyf",
+    "The Soul Stone",
+    "Thoughtseize",
+    "Virtus the Veiled",
+    "Wood Elves",
+    "Zada, Hedron Grinder"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 42,
+    "unresolvedMentions": [
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q stacking the deck",
+        "role": "incidental",
+        "startSeconds": 960.2,
+        "evidence": "I see, like, Q stacking the deck",
+        "confidence": 0.97
+      },
+      {
+        "canonicalName": "Armus, Skin of Evil",
+        "spokenText": "Armus of Skin of Evil",
+        "role": "incidental",
+        "startSeconds": 1250.2,
+        "evidence": "it's Armus of Skin of Evil",
+        "confidence": 0.97
+      },
+      {
+        "canonicalName": "Armus, Skin of Evil",
+        "spokenText": "Armus",
+        "role": "incidental",
+        "startSeconds": 1272.28,
+        "evidence": "Armus, seven mana, six, six, Menace",
+        "confidence": 0.97
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "q stacking the deck",
+        "role": "main",
+        "startSeconds": 3279.57,
+        "evidence": "it's q stacking the deck",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 3369.85,
+        "evidence": "the miserable Q-decks in Commander",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 3415.51,
+        "evidence": "Q is in the command zone",
+        "confidence": 1
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 3480.47,
+        "evidence": "What if you hit another Q?",
+        "confidence": 1
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 3545.01,
+        "evidence": "even if Q dies, you still have this ability",
+        "confidence": 1
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 3547.49,
+        "evidence": "it's okay that Q dies",
+        "confidence": 1
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 3570.81,
+        "evidence": "if I hit Q again",
+        "confidence": 1
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Qing",
+        "role": "main",
+        "startSeconds": 3580.47,
+        "evidence": "Then you keep Qing and you get more",
+        "confidence": 0.98
+      }
+    ]
+  },
+  "validation": {
+    "matchedMainCards": [
+      "Death in Heaven",
+      "Excavation Elephant",
+      "Hit // Run",
+      "Infinite Authority"
+    ],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Abrade",
+      "Ajani's Anguish",
+      "Allies",
+      "Avenger of Zendikar",
+      "Badgermole Cub",
+      "Boltwave",
+      "Deceit",
+      "Doom Blade",
+      "Doomsday Excruciator",
+      "Doorkeeper",
+      "Dream Beavers",
+      "Eddymurk Crab",
+      "Electrolyze",
+      "Eliminate the Impossible",
+      "Energizer",
+      "Explosive Singularity",
+      "Fatal Push",
+      "Fear of Missing Out",
+      "Fervor",
+      "Field of the Dead",
+      "Floodpits Drowner",
+      "Fork",
+      "Frostcliff Siege",
+      "Gala Greeters",
+      "Grand Crescendo",
+      "Grapeshot",
+      "Jace Beleren",
+      "Kaito, Bane of Nightmares",
+      "Lier, Disciple of the Drowned",
+      "Lightning Bolt",
+      "Llanowar Elves",
+      "Manamorphose",
+      "Martial Coup",
+      "Memnite",
+      "Moonshaker Cavalry",
+      "Nurturing Pixie",
+      "Open Communications",
+      "Ornithopter",
+      "Overlord of the Hauntwoods",
+      "Overlord of the Mistmoors",
+      "Quantum Riddler",
+      "Reanimate",
+      "Rhythm of the Wild",
+      "Savannah Lions",
+      "Scorch Spitter",
+      "Scour",
+      "Scroll Rack",
+      "Searing Wind",
+      "Smaug",
+      "Spelljack",
+      "Spider-Ham, Peter Porker",
+      "Stormchaser's Talent",
+      "Strixhaven Stadium",
+      "Sun Titan",
+      "Sunderflock",
+      "Superior Spider-Man",
+      "Swords to Plowshares",
+      "Tarmogoyf",
+      "The Soul Stone",
+      "Thoughtseize",
+      "Virtus the Veiled",
+      "Wood Elves",
+      "Zada, Hedron Grinder"
+    ],
+    "unmatchedIncidentalCards": []
+  }
+}

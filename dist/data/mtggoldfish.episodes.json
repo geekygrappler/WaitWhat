@@ -1,5 +1,17 @@
 [
   {
+    "id": "star-trek-spoilers",
+    "title": "Star Trek Spoilers",
+    "published": "2026-10-26T21:59:28.000Z",
+    "duration": 3655,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/ccd6d63a-1b24-4ec0-99eb-2db5bc879974/mtggoldfish_podcast_611_StarTrekSpoilers.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
+    "processed": true,
+    "source": "MTGGoldfish Podcast RSS",
+    "cueSheet": "./data/star-trek-spoilers.cues.json"
+  },
+  {
     "id": "is-pile-shuffling-cheating",
     "title": "Is Pile Shuffling Cheating?",
     "published": "2026-10-19T20:05:55.000Z",
@@ -212,17 +224,6 @@
     "published": "2026-06-15T20:42:07.000Z",
     "duration": 4337,
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/c35bda0b-8201-4b03-a021-126d75ad556c/mtggoldfish_podcast_592_WhatWillMagicLookLikeIn2030_.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
-    "processed": false,
-    "source": "MTGGoldfish Podcast RSS"
-  },
-  {
-    "id": "how-many-legends-is-too-many-legends",
-    "title": "How Many Legends Is Too Many Legends?",
-    "published": "2026-06-08T21:42:00.000Z",
-    "duration": 4003,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/9cf07748-d87c-40ab-b07c-f8d0ca3b1bc9/mtggoldfish_podcast_591_HowManyLegendsIsTooManyLegends.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
     "processed": false,

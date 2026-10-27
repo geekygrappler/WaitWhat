@@ -1,5 +1,17 @@
 [
   {
+    "id": "the-best-card-of-every-color-combination",
+    "title": "The Best Card of Every Color Combination",
+    "published": "2026-10-27T15:00:14.000Z",
+    "duration": 5297,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/e1e2ebbb-33e0-4aac-bef6-6db6f86959ce/Commander_Clash_Podcast_275_Best_Card_of_Every_Color_Combination.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "processed": true,
+    "source": "MTGGoldfish Commander Clash Podcast RSS",
+    "cueSheet": "./data/the-best-card-of-every-color-combination.cues.json"
+  },
+  {
     "id": "ranking-archetypes-by-how-much-they-suck-to-play-against",
     "title": "Ranking Archetypes (By How Much They Suck to Play Against)",
     "published": "2026-10-20T15:00:15.000Z",
@@ -212,17 +224,6 @@
     "published": "2026-06-16T15:00:10.000Z",
     "duration": 4477,
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/01b95b30-79ab-47b8-931b-3f5654e33706/commander_clash_podcast_256_marvel_super_heroes.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
-    "source": "MTGGoldfish Commander Clash Podcast RSS"
-  },
-  {
-    "id": "would-you-rather",
-    "title": "Would You Rather?",
-    "published": "2026-06-09T18:47:22.000Z",
-    "duration": 4369,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/29a02b91-bdec-45f2-a2e1-f71ad785aabb/CommanderClashPodcast_255_WouldYouRather.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
     "processed": false,

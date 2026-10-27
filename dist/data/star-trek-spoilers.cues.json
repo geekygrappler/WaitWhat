@@ -1,0 +1,3680 @@
+[
+  {
+    "track": "mentioned",
+    "start": 435.8,
+    "end": 465.8,
+    "cardId": "16d2b87e-f8f9-4756-9ea2-64bc5c13bb96",
+    "cardName": "Smaug",
+    "confidence": 0.72,
+    "needsReview": true,
+    "card": {
+      "name": "Smaug",
+      "manaCost": "",
+      "typeLine": "Token Legendary Creature — Dragon",
+      "oracleText": "Flying, haste\nWhen this creature dies, create fourteen Treasure tokens.",
+      "image": "https://cards.scryfall.io/normal/front/1/6/16d2b87e-f8f9-4756-9ea2-64bc5c13bb96.jpg?1783916047"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 461.42,
+    "end": 491.42,
+    "cardId": "a5663076-9524-4c40-803a-8f98cb18534d",
+    "cardName": "Allies",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Allies",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "Creatures work together\n(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/a/5/a5663076-9524-4c40-803a-8f98cb18534d.jpg?1783905034"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 465.84,
+    "end": 495.84,
+    "cardId": "a5663076-9524-4c40-803a-8f98cb18534d",
+    "cardName": "Allies",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Allies",
+      "manaCost": "",
+      "typeLine": "Card",
+      "oracleText": "Creatures work together\n(Theme color: {W})",
+      "image": "https://cards.scryfall.io/normal/front/a/5/a5663076-9524-4c40-803a-8f98cb18534d.jpg?1783905034"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 497.64,
+    "end": 527.64,
+    "cardId": "cdffb058-1af0-41bb-956a-ae10e092c389",
+    "cardName": "Jace Beleren",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Jace Beleren",
+      "manaCost": "{1}{U}{U}",
+      "typeLine": "Legendary Planeswalker — Jace",
+      "oracleText": "+2: Each player draws a card.\n−1: Target player draws a card.\n−10: Target player mills twenty cards.",
+      "image": "https://cards.scryfall.io/normal/front/c/d/cdffb058-1af0-41bb-956a-ae10e092c389.jpg?1783942901"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 505.34,
+    "end": 535.3399999999999,
+    "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+    "cardName": "Badgermole Cub",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Badgermole Cub",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Badger Mole",
+      "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+      "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+    },
+    "cards": [
+      {
+        "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+        "cardName": "Badgermole Cub",
+        "confidence": 0.95,
+        "needsReview": false,
+        "card": {
+          "name": "Badgermole Cub",
+          "manaCost": "{1}{G}",
+          "typeLine": "Creature — Badger Mole",
+          "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+          "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+        }
+      },
+      {
+        "cardId": "a36e682d-b43d-4e08-bf5b-70d7e924dbe5",
+        "cardName": "Stormchaser's Talent",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Stormchaser's Talent",
+          "manaCost": "{U}",
+          "typeLine": "Enchantment — Class",
+          "oracleText": "(Gain the next level as a sorcery to add its ability.)\nWhen this Class enters, create a 1/1 blue and red Otter creature token with prowess.\n{3}{U}: Level 2\nWhen this Class becomes level 2, return target instant or sorcery card from your graveyard to your hand.\n{5}{U}: Level 3\nWhenever you cast an instant or sorcery spell, create a 1/1 blue and red Otter creature token with prowess.",
+          "image": "https://cards.scryfall.io/normal/front/a/3/a36e682d-b43d-4e08-bf5b-70d7e924dbe5.jpg?1786399178"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 557.48,
+    "end": 587.48,
+    "cardId": "55a14f30-4ff9-4472-90a6-c3139f1c18e5",
+    "cardName": "Kaito, Bane of Nightmares",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Kaito, Bane of Nightmares",
+      "manaCost": "{2}{U}{B}",
+      "typeLine": "Legendary Planeswalker — Kaito",
+      "oracleText": "Ninjutsu {1}{U}{B} ({1}{U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nDuring your turn, as long as Kaito has one or more loyalty counters on him, he's a 3/4 Ninja creature and has hexproof.\n+1: You get an emblem with \"Ninjas you control get +1/+1.\"\n0: Surveil 2. Then draw a card for each opponent who lost life this turn.\n−2: Tap target creature. Put two stun counters on it.",
+      "image": "https://cards.scryfall.io/normal/front/5/5/55a14f30-4ff9-4472-90a6-c3139f1c18e5.jpg?1784963190"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 668.82,
+    "end": 698.82,
+    "cardId": "ef42b5b2-6504-486c-aaa0-9d5e4769ba1d",
+    "cardName": "Electrolyze",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Electrolyze",
+      "manaCost": "{1}{U}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Electrolyze deals 2 damage divided as you choose among one or two targets.\nDraw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/f/ef42b5b2-6504-486c-aaa0-9d5e4769ba1d.jpg?1783943479"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1158.32,
+    "end": 1188.32,
+    "cardId": "d05b92bd-797e-413f-a8b0-32e0937a1ee0",
+    "cardName": "Savannah Lions",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Savannah Lions",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Cat",
+      "oracleText": "",
+      "image": "https://cards.scryfall.io/normal/front/d/0/d05b92bd-797e-413f-a8b0-32e0937a1ee0.jpg?1783948710"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1165.64,
+    "end": 1195.64,
+    "cardId": "d05b92bd-797e-413f-a8b0-32e0937a1ee0",
+    "cardName": "Savannah Lions",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Savannah Lions",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Cat",
+      "oracleText": "",
+      "image": "https://cards.scryfall.io/normal/front/d/0/d05b92bd-797e-413f-a8b0-32e0937a1ee0.jpg?1783948710"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1245.1,
+    "end": 1275.1,
+    "cardId": "ad4adc3e-ec41-4406-8ff2-59ba8067cf4e",
+    "cardName": "Superior Spider-Man",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Superior Spider-Man",
+      "manaCost": "{2}{U}{B}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Mind Swap — You may have Superior Spider-Man enter as a copy of any creature card in a graveyard, except his name is Superior Spider-Man and he's a 4/4 Spider Human Hero in addition to his other types. When you do, exile that card.",
+      "image": "https://cards.scryfall.io/normal/front/a/d/ad4adc3e-ec41-4406-8ff2-59ba8067cf4e.jpg?1783905308"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1269.42,
+    "end": 1299.42,
+    "cardId": "bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6",
+    "cardName": "Deceit",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Deceit",
+      "manaCost": "{4}{U/B}{U/B}",
+      "typeLine": "Creature — Elemental Incarnation",
+      "oracleText": "When this creature enters, if {U}{U} was spent to cast it, return up to one other target nonland permanent to its owner's hand.\nWhen this creature enters, if {B}{B} was spent to cast it, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nEvoke {U/B}{U/B}",
+      "image": "https://cards.scryfall.io/normal/front/b/d/bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6.jpg?1783904420"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1281.74,
+    "end": 1311.74,
+    "cardId": "ad4adc3e-ec41-4406-8ff2-59ba8067cf4e",
+    "cardName": "Superior Spider-Man",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Superior Spider-Man",
+      "manaCost": "{2}{U}{B}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Mind Swap — You may have Superior Spider-Man enter as a copy of any creature card in a graveyard, except his name is Superior Spider-Man and he's a 4/4 Spider Human Hero in addition to his other types. When you do, exile that card.",
+      "image": "https://cards.scryfall.io/normal/front/a/d/ad4adc3e-ec41-4406-8ff2-59ba8067cf4e.jpg?1783905308"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1290.04,
+    "end": 1320.04,
+    "cardId": "ad4adc3e-ec41-4406-8ff2-59ba8067cf4e",
+    "cardName": "Superior Spider-Man",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Superior Spider-Man",
+      "manaCost": "{2}{U}{B}",
+      "typeLine": "Legendary Creature — Spider Human Hero",
+      "oracleText": "Mind Swap — You may have Superior Spider-Man enter as a copy of any creature card in a graveyard, except his name is Superior Spider-Man and he's a 4/4 Spider Human Hero in addition to his other types. When you do, exile that card.",
+      "image": "https://cards.scryfall.io/normal/front/a/d/ad4adc3e-ec41-4406-8ff2-59ba8067cf4e.jpg?1783905308"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1335.74,
+    "end": 1365.74,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.796,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1350.08,
+    "end": 1380.08,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.796,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1371.04,
+    "end": 1401.04,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.796,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1381.18,
+    "end": 1411.18,
+    "cardId": "600e3bc1-9777-4057-a11e-4f61582636c6",
+    "cardName": "Dream Beavers",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Dream Beavers",
+      "manaCost": "{B}",
+      "typeLine": "Creature — Beaver Nightmare",
+      "oracleText": "Flying\nWhen this creature enters, each opponent loses 1 life and you gain 1 life. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+      "image": "https://cards.scryfall.io/normal/front/6/0/600e3bc1-9777-4057-a11e-4f61582636c6.jpg?1783904107"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1383.74,
+    "end": 1413.74,
+    "cardId": "600e3bc1-9777-4057-a11e-4f61582636c6",
+    "cardName": "Dream Beavers",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Dream Beavers",
+      "manaCost": "{B}",
+      "typeLine": "Creature — Beaver Nightmare",
+      "oracleText": "Flying\nWhen this creature enters, each opponent loses 1 life and you gain 1 life. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+      "image": "https://cards.scryfall.io/normal/front/6/0/600e3bc1-9777-4057-a11e-4f61582636c6.jpg?1783904107"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1415.54,
+    "end": 1445.54,
+    "cardId": "0fe155f6-888b-41a0-a9a0-be7bea998718",
+    "cardName": "Nurturing Pixie",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Nurturing Pixie",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Faerie Rogue",
+      "oracleText": "Flying\nWhen this creature enters, return up to one target non-Faerie, nonland permanent you control to its owner's hand. If a permanent was returned this way, put a +1/+1 counter on this creature.",
+      "image": "https://cards.scryfall.io/normal/front/0/f/0fe155f6-888b-41a0-a9a0-be7bea998718.jpg?1783911855"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1424.68,
+    "end": 1454.68,
+    "cardId": "9d67b9ec-7f53-4df6-b2cc-afd7efda6bb4",
+    "cardName": "Lier, Disciple of the Drowned",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Lier, Disciple of the Drowned",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Spells can't be countered.\nEach instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/9/d/9d67b9ec-7f53-4df6-b2cc-afd7efda6bb4.jpg?1783925515"
+    },
+    "cards": [
+      {
+        "cardId": "9d67b9ec-7f53-4df6-b2cc-afd7efda6bb4",
+        "cardName": "Lier, Disciple of the Drowned",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Lier, Disciple of the Drowned",
+          "manaCost": "{3}{U}{U}",
+          "typeLine": "Legendary Creature — Human Wizard",
+          "oracleText": "Spells can't be countered.\nEach instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.",
+          "image": "https://cards.scryfall.io/normal/front/9/d/9d67b9ec-7f53-4df6-b2cc-afd7efda6bb4.jpg?1783925515"
+        }
+      },
+      {
+        "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+        "cardName": "Scorch Spitter",
+        "confidence": 0.796,
+        "needsReview": true,
+        "card": {
+          "name": "Scorch Spitter",
+          "manaCost": "{R}",
+          "typeLine": "Creature — Elemental Lizard",
+          "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+          "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1431.24,
+    "end": 1461.24,
+    "cardId": "9d67b9ec-7f53-4df6-b2cc-afd7efda6bb4",
+    "cardName": "Lier, Disciple of the Drowned",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Lier, Disciple of the Drowned",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Spells can't be countered.\nEach instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/9/d/9d67b9ec-7f53-4df6-b2cc-afd7efda6bb4.jpg?1783925515"
+    },
+    "cards": [
+      {
+        "cardId": "9d67b9ec-7f53-4df6-b2cc-afd7efda6bb4",
+        "cardName": "Lier, Disciple of the Drowned",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Lier, Disciple of the Drowned",
+          "manaCost": "{3}{U}{U}",
+          "typeLine": "Legendary Creature — Human Wizard",
+          "oracleText": "Spells can't be countered.\nEach instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost.",
+          "image": "https://cards.scryfall.io/normal/front/9/d/9d67b9ec-7f53-4df6-b2cc-afd7efda6bb4.jpg?1783925515"
+        }
+      },
+      {
+        "cardId": "469cc4e0-49c0-4009-97ea-28e44addec69",
+        "cardName": "Memnite",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Memnite",
+          "manaCost": "{0}",
+          "typeLine": "Artifact Creature — Construct",
+          "oracleText": "",
+          "image": "https://cards.scryfall.io/normal/front/4/6/469cc4e0-49c0-4009-97ea-28e44addec69.jpg?1783941703"
+        }
+      },
+      {
+        "cardId": "59cc9bdb-7cf2-4795-bac7-ffff605c9eb0",
+        "cardName": "Ornithopter",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Ornithopter",
+          "manaCost": "{0}",
+          "typeLine": "Artifact Creature — Thopter",
+          "oracleText": "Flying",
+          "image": "https://cards.scryfall.io/normal/front/5/9/59cc9bdb-7cf2-4795-bac7-ffff605c9eb0.jpg?1783948360"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1461.42,
+    "end": 1491.42,
+    "cardId": "600e3bc1-9777-4057-a11e-4f61582636c6",
+    "cardName": "Dream Beavers",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Dream Beavers",
+      "manaCost": "{B}",
+      "typeLine": "Creature — Beaver Nightmare",
+      "oracleText": "Flying\nWhen this creature enters, each opponent loses 1 life and you gain 1 life. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+      "image": "https://cards.scryfall.io/normal/front/6/0/600e3bc1-9777-4057-a11e-4f61582636c6.jpg?1783904107"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1464.88,
+    "end": 1494.88,
+    "cardId": "a6a62aa3-8edb-4000-8ebd-15ec4b00eed7",
+    "cardName": "Floodpits Drowner",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Floodpits Drowner",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Merfolk",
+      "oracleText": "Flash\nVigilance\nWhen this creature enters, tap target creature an opponent controls and put a stun counter on it.\n{1}{U}, {T}: Shuffle this creature and target creature with a stun counter on it into their owners' libraries.",
+      "image": "https://cards.scryfall.io/normal/front/a/6/a6a62aa3-8edb-4000-8ebd-15ec4b00eed7.jpg?1783909494"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1475.7,
+    "end": 1505.7,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.796,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1499.52,
+    "end": 1529.52,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.796,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1511.02,
+    "end": 1541.02,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.796,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1524.88,
+    "end": 1554.88,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.796,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1554.88,
+    "end": 1584.88,
+    "cardId": "8eeec269-13f0-4923-9f13-e995acd73e00",
+    "cardName": "Open Communications",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Open Communications",
+      "manaCost": "{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "Draw a card.\nBeam me up {2}{U} (You may cast this card from your graveyard for {2}{U} if you also return a creature you control to its owner's hand. Then exile this spell.)",
+      "image": "https://cards.scryfall.io/normal/front/8/e/8eeec269-13f0-4923-9f13-e995acd73e00.jpg?1786396013"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1566.9,
+    "end": 1596.9,
+    "cardId": "914f204c-7f3d-41f2-a771-0b6227d539eb",
+    "cardName": "Energizer",
+    "confidence": 0.93,
+    "needsReview": true,
+    "card": {
+      "name": "Energizer",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Juggernaut",
+      "oracleText": "{2}, {T}: Put a +1/+1 counter on this creature.",
+      "image": "https://cards.scryfall.io/normal/front/9/1/914f204c-7f3d-41f2-a771-0b6227d539eb.jpg?1783946605"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1585.02,
+    "end": 1615.02,
+    "cardId": "600e3bc1-9777-4057-a11e-4f61582636c6",
+    "cardName": "Dream Beavers",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Dream Beavers",
+      "manaCost": "{B}",
+      "typeLine": "Creature — Beaver Nightmare",
+      "oracleText": "Flying\nWhen this creature enters, each opponent loses 1 life and you gain 1 life. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+      "image": "https://cards.scryfall.io/normal/front/6/0/600e3bc1-9777-4057-a11e-4f61582636c6.jpg?1783904107"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1600.56,
+    "end": 1630.56,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.796,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1646.6,
+    "end": 1676.6,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.796,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1664.52,
+    "end": 1694.52,
+    "cardId": "3eda8c7b-ce35-482a-bece-52a30cc78a9a",
+    "cardName": "Spelljack",
+    "confidence": 0.75,
+    "needsReview": true,
+    "card": {
+      "name": "Spelljack",
+      "manaCost": "{3}{U}{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may play it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.)",
+      "image": "https://cards.scryfall.io/normal/front/3/e/3eda8c7b-ce35-482a-bece-52a30cc78a9a.jpg?1783945126"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1679.3,
+    "end": 1709.3,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.796,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1684.16,
+    "end": 1714.16,
+    "cardId": "e6d45abe-4962-47d9-a54e-7e623ea8647c",
+    "cardName": "Eddymurk Crab",
+    "confidence": 0.84,
+    "needsReview": true,
+    "card": {
+      "name": "Eddymurk Crab",
+      "manaCost": "{5}{U}{U}",
+      "typeLine": "Creature — Elemental Crab",
+      "oracleText": "Flash\nThis spell costs {1} less to cast for each instant and sorcery card in your graveyard.\nThis creature enters tapped if it's not your turn.\nWhen this creature enters, tap up to two target creatures.",
+      "image": "https://cards.scryfall.io/normal/front/e/6/e6d45abe-4962-47d9-a54e-7e623ea8647c.jpg?1783910850"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1692.5,
+    "end": 1722.5,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.796,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1694.52,
+    "end": 1724.52,
+    "cardId": "8eeec269-13f0-4923-9f13-e995acd73e00",
+    "cardName": "Open Communications",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Open Communications",
+      "manaCost": "{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "Draw a card.\nBeam me up {2}{U} (You may cast this card from your graveyard for {2}{U} if you also return a creature you control to its owner's hand. Then exile this spell.)",
+      "image": "https://cards.scryfall.io/normal/front/8/e/8eeec269-13f0-4923-9f13-e995acd73e00.jpg?1786396013"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1702.04,
+    "end": 1732.04,
+    "cardId": "e5b6221e-cb22-45e4-bb98-2b960afc614c",
+    "cardName": "Sunderflock",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Sunderflock",
+      "manaCost": "{7}{U}{U}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "This spell costs {X} less to cast, where X is the greatest mana value among Elementals you control.\nFlying\nWhen this creature enters, if you cast it, return all non-Elemental creatures to their owners' hands.",
+      "image": "https://cards.scryfall.io/normal/front/e/5/e5b6221e-cb22-45e4-bb98-2b960afc614c.jpg?1783904481"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1720.86,
+    "end": 1750.86,
+    "cardId": "e5b6221e-cb22-45e4-bb98-2b960afc614c",
+    "cardName": "Sunderflock",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Sunderflock",
+      "manaCost": "{7}{U}{U}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "This spell costs {X} less to cast, where X is the greatest mana value among Elementals you control.\nFlying\nWhen this creature enters, if you cast it, return all non-Elemental creatures to their owners' hands.",
+      "image": "https://cards.scryfall.io/normal/front/e/5/e5b6221e-cb22-45e4-bb98-2b960afc614c.jpg?1783904481"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1765.66,
+    "end": 1795.66,
+    "cardId": "486f1cc2-c162-448e-91a9-577d7d796584",
+    "cardName": "Eliminate the Impossible",
+    "confidence": 0.798,
+    "needsReview": true,
+    "card": {
+      "name": "Eliminate the Impossible",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Investigate. Creatures your opponents control get -2/-0 until end of turn. If any of them are suspected, they're no longer suspected. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+      "image": "https://cards.scryfall.io/normal/front/4/8/486f1cc2-c162-448e-91a9-577d7d796584.jpg?1783912910"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1767.16,
+    "end": 1797.16,
+    "cardId": "486f1cc2-c162-448e-91a9-577d7d796584",
+    "cardName": "Eliminate the Impossible",
+    "confidence": 0.798,
+    "needsReview": true,
+    "card": {
+      "name": "Eliminate the Impossible",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Investigate. Creatures your opponents control get -2/-0 until end of turn. If any of them are suspected, they're no longer suspected. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+      "image": "https://cards.scryfall.io/normal/front/4/8/486f1cc2-c162-448e-91a9-577d7d796584.jpg?1783912910"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1770.52,
+    "end": 1800.52,
+    "cardId": "486f1cc2-c162-448e-91a9-577d7d796584",
+    "cardName": "Eliminate the Impossible",
+    "confidence": 0.798,
+    "needsReview": true,
+    "card": {
+      "name": "Eliminate the Impossible",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Investigate. Creatures your opponents control get -2/-0 until end of turn. If any of them are suspected, they're no longer suspected. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+      "image": "https://cards.scryfall.io/normal/front/4/8/486f1cc2-c162-448e-91a9-577d7d796584.jpg?1783912910"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1878.54,
+    "end": 1908.54,
+    "cardId": "6e19acff-f3dd-417a-a9ab-ea3e36c1ba61",
+    "cardName": "Doom Blade",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://cards.scryfall.io/normal/front/6/e/6e19acff-f3dd-417a-a9ab-ea3e36c1ba61.jpg?1783942383"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1899.58,
+    "end": 1929.58,
+    "cardId": "84319dfb-eaf7-4b98-8c4f-30f5e779591b",
+    "cardName": "Abrade",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Abrade",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one —\n• Abrade deals 3 damage to target creature.\n• Destroy target artifact.",
+      "image": "https://cards.scryfall.io/normal/front/8/4/84319dfb-eaf7-4b98-8c4f-30f5e779591b.jpg?1783936033"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1959.88,
+    "end": 1989.88,
+    "cardId": "bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6",
+    "cardName": "Deceit",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Deceit",
+      "manaCost": "{4}{U/B}{U/B}",
+      "typeLine": "Creature — Elemental Incarnation",
+      "oracleText": "When this creature enters, if {U}{U} was spent to cast it, return up to one other target nonland permanent to its owner's hand.\nWhen this creature enters, if {B}{B} was spent to cast it, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nEvoke {U/B}{U/B}",
+      "image": "https://cards.scryfall.io/normal/front/b/d/bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6.jpg?1783904420"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1963.28,
+    "end": 1993.28,
+    "cardId": "bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6",
+    "cardName": "Deceit",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Deceit",
+      "manaCost": "{4}{U/B}{U/B}",
+      "typeLine": "Creature — Elemental Incarnation",
+      "oracleText": "When this creature enters, if {U}{U} was spent to cast it, return up to one other target nonland permanent to its owner's hand.\nWhen this creature enters, if {B}{B} was spent to cast it, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nEvoke {U/B}{U/B}",
+      "image": "https://cards.scryfall.io/normal/front/b/d/bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6.jpg?1783904420"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1973.38,
+    "end": 2003.38,
+    "cardId": "bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6",
+    "cardName": "Deceit",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Deceit",
+      "manaCost": "{4}{U/B}{U/B}",
+      "typeLine": "Creature — Elemental Incarnation",
+      "oracleText": "When this creature enters, if {U}{U} was spent to cast it, return up to one other target nonland permanent to its owner's hand.\nWhen this creature enters, if {B}{B} was spent to cast it, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nEvoke {U/B}{U/B}",
+      "image": "https://cards.scryfall.io/normal/front/b/d/bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6.jpg?1783904420"
+    },
+    "cards": [
+      {
+        "cardId": "bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6",
+        "cardName": "Deceit",
+        "confidence": 0.95,
+        "needsReview": false,
+        "card": {
+          "name": "Deceit",
+          "manaCost": "{4}{U/B}{U/B}",
+          "typeLine": "Creature — Elemental Incarnation",
+          "oracleText": "When this creature enters, if {U}{U} was spent to cast it, return up to one other target nonland permanent to its owner's hand.\nWhen this creature enters, if {B}{B} was spent to cast it, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nEvoke {U/B}{U/B}",
+          "image": "https://cards.scryfall.io/normal/front/b/d/bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6.jpg?1783904420"
+        }
+      },
+      {
+        "cardId": "3df8c148-e87d-4043-9d8b-ec72bf8b6d5d",
+        "cardName": "Thoughtseize",
+        "confidence": 0.98,
+        "needsReview": false,
+        "card": {
+          "name": "Thoughtseize",
+          "manaCost": "{B}",
+          "typeLine": "Sorcery",
+          "oracleText": "Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.",
+          "image": "https://cards.scryfall.io/normal/front/3/d/3df8c148-e87d-4043-9d8b-ec72bf8b6d5d.jpg?1783942883"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1989.42,
+    "end": 2019.42,
+    "cardId": "bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6",
+    "cardName": "Deceit",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deceit",
+      "manaCost": "{4}{U/B}{U/B}",
+      "typeLine": "Creature — Elemental Incarnation",
+      "oracleText": "When this creature enters, if {U}{U} was spent to cast it, return up to one other target nonland permanent to its owner's hand.\nWhen this creature enters, if {B}{B} was spent to cast it, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nEvoke {U/B}{U/B}",
+      "image": "https://cards.scryfall.io/normal/front/b/d/bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6.jpg?1783904420"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2010.08,
+    "end": 2040.08,
+    "cardId": "3c1baaa2-bd0b-4627-b93a-0753e0acd0f2",
+    "cardName": "Gala Greeters",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Gala Greeters",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "Alliance — Whenever another creature you control enters, choose one that hasn't been chosen this turn —\n• Put a +1/+1 counter on this creature.\n• Create a tapped Treasure token.\n• You gain 2 life.",
+      "image": "https://cards.scryfall.io/normal/front/3/c/3c1baaa2-bd0b-4627-b93a-0753e0acd0f2.jpg?1783923104"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2075.88,
+    "end": 2105.88,
+    "cardId": "cac5162e-39ea-4f01-92eb-182fe23c1608",
+    "cardName": "Scour",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Scour",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles.",
+      "image": "https://cards.scryfall.io/normal/front/c/a/cac5162e-39ea-4f01-92eb-182fe23c1608.jpg?1783946084"
+    }
+  },
+  {
+    "start": 2104.96,
+    "cardId": "dc60077f-d577-4a6c-a78f-697317024c40",
+    "cardName": "Infinite Authority",
+    "confidence": 0.874,
+    "needsReview": true,
+    "card": {
+      "name": "Infinite Authority",
+      "manaCost": "{W}{W}{W}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nWhenever enchanted creature blocks or becomes blocked by a creature with toughness 3 or less, destroy the other creature at end of combat. At the beginning of the next end step, if that creature was destroyed this way, put a +1/+1 counter on the first creature.",
+      "image": "https://cards.scryfall.io/normal/front/d/c/dc60077f-d577-4a6c-a78f-697317024c40.jpg?1783948085"
+    },
+    "end": 2416.38,
+    "mentions": [
+      {
+        "start": 2197,
+        "cards": [
+          {
+            "cardId": "5c31221f-3753-4d5c-905a-6b558ab648ae",
+            "cardName": "Doorkeeper",
+            "confidence": 0.7,
+            "needsReview": true,
+            "card": {
+              "name": "Doorkeeper",
+              "manaCost": "{1}{U}",
+              "typeLine": "Creature — Homunculus",
+              "oracleText": "Defender\n{2}{U}, {T}: Target player mills X cards, where X is the number of creatures you control with defender.",
+              "image": "https://cards.scryfall.io/normal/front/5/c/5c31221f-3753-4d5c-905a-6b558ab648ae.jpg?1783940369"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2198.32,
+        "cards": [
+          {
+            "cardId": "5c31221f-3753-4d5c-905a-6b558ab648ae",
+            "cardName": "Doorkeeper",
+            "confidence": 0.7,
+            "needsReview": true,
+            "card": {
+              "name": "Doorkeeper",
+              "manaCost": "{1}{U}",
+              "typeLine": "Creature — Homunculus",
+              "oracleText": "Defender\n{2}{U}, {T}: Target player mills X cards, where X is the number of creatures you control with defender.",
+              "image": "https://cards.scryfall.io/normal/front/5/c/5c31221f-3753-4d5c-905a-6b558ab648ae.jpg?1783940369"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2216.18,
+        "cards": [
+          {
+            "cardId": "84319dfb-eaf7-4b98-8c4f-30f5e779591b",
+            "cardName": "Abrade",
+            "confidence": 0.78,
+            "needsReview": true,
+            "card": {
+              "name": "Abrade",
+              "manaCost": "{1}{R}",
+              "typeLine": "Instant",
+              "oracleText": "Choose one —\n• Abrade deals 3 damage to target creature.\n• Destroy target artifact.",
+              "image": "https://cards.scryfall.io/normal/front/8/4/84319dfb-eaf7-4b98-8c4f-30f5e779591b.jpg?1783936033"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2227.38,
+        "cards": [
+          {
+            "cardId": "41f18f42-b86b-4a12-9f0d-76b761571195",
+            "cardName": "Spider-Ham, Peter Porker",
+            "confidence": 0.78,
+            "needsReview": true,
+            "card": {
+              "name": "Spider-Ham, Peter Porker",
+              "manaCost": "{1}{G}",
+              "typeLine": "Legendary Creature — Spider Boar Hero",
+              "oracleText": "When Spider-Ham enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nAnimal May-Ham — Other Spiders, Boars, Bats, Bears, Birds, Cats, Dogs, Frogs, Jackals, Lizards, Mice, Otters, Rabbits, Raccoons, Rats, Squirrels, Turtles, and Wolves you control get +1/+1.",
+              "image": "https://cards.scryfall.io/normal/front/4/1/41f18f42-b86b-4a12-9f0d-76b761571195.jpg?1783905324"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2285.1,
+        "cards": [
+          {
+            "cardId": "e6b43916-fe2d-417a-a550-d7c795023297",
+            "cardName": "Fork",
+            "confidence": 0.85,
+            "needsReview": true,
+            "card": {
+              "name": "Fork",
+              "manaCost": "{R}{R}",
+              "typeLine": "Instant",
+              "oracleText": "Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.",
+              "image": "https://cards.scryfall.io/normal/front/e/6/e6b43916-fe2d-417a-a550-d7c795023297.jpg?1783948686"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2288.06,
+        "cards": [
+          {
+            "cardId": "e6b43916-fe2d-417a-a550-d7c795023297",
+            "cardName": "Fork",
+            "confidence": 0.8,
+            "needsReview": true,
+            "card": {
+              "name": "Fork",
+              "manaCost": "{R}{R}",
+              "typeLine": "Instant",
+              "oracleText": "Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.",
+              "image": "https://cards.scryfall.io/normal/front/e/6/e6b43916-fe2d-417a-a550-d7c795023297.jpg?1783948686"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2294.84,
+        "cards": [
+          {
+            "cardId": "e6b43916-fe2d-417a-a550-d7c795023297",
+            "cardName": "Fork",
+            "confidence": 0.85,
+            "needsReview": true,
+            "card": {
+              "name": "Fork",
+              "manaCost": "{R}{R}",
+              "typeLine": "Instant",
+              "oracleText": "Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.",
+              "image": "https://cards.scryfall.io/normal/front/e/6/e6b43916-fe2d-417a-a550-d7c795023297.jpg?1783948686"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2332.04,
+        "cards": [
+          {
+            "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+            "cardName": "Lightning Bolt",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Lightning Bolt",
+              "manaCost": "{R}",
+              "typeLine": "Instant",
+              "oracleText": "Lightning Bolt deals 3 damage to any target.",
+              "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2340.1,
+        "cards": [
+          {
+            "cardId": "e6cdd822-44a1-4d58-9de4-69fc56eae255",
+            "cardName": "Explosive Singularity",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Explosive Singularity",
+              "manaCost": "{8}{R}{R}",
+              "typeLine": "Sorcery",
+              "oracleText": "As an additional cost to cast this spell, you may tap any number of untapped creatures you control. This spell costs {1} less to cast for each creature tapped this way.\nExplosive Singularity deals 10 damage to any target.",
+              "image": "https://cards.scryfall.io/normal/front/e/6/e6cdd822-44a1-4d58-9de4-69fc56eae255.jpg?1783923869"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2341.54,
+        "cards": [
+          {
+            "cardId": "e6cdd822-44a1-4d58-9de4-69fc56eae255",
+            "cardName": "Explosive Singularity",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Explosive Singularity",
+              "manaCost": "{8}{R}{R}",
+              "typeLine": "Sorcery",
+              "oracleText": "As an additional cost to cast this spell, you may tap any number of untapped creatures you control. This spell costs {1} less to cast for each creature tapped this way.\nExplosive Singularity deals 10 damage to any target.",
+              "image": "https://cards.scryfall.io/normal/front/e/6/e6cdd822-44a1-4d58-9de4-69fc56eae255.jpg?1783923869"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2345.16,
+        "cards": [
+          {
+            "cardId": "7b761f97-3690-497a-b6ab-c71f61b8e841",
+            "cardName": "Searing Wind",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Searing Wind",
+              "manaCost": "{8}{R}",
+              "typeLine": "Instant",
+              "oracleText": "Searing Wind deals 10 damage to any target.",
+              "image": "https://cards.scryfall.io/normal/front/7/b/7b761f97-3690-497a-b6ab-c71f61b8e841.jpg?1783945776"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2346.52,
+        "cards": [
+          {
+            "cardId": "7b761f97-3690-497a-b6ab-c71f61b8e841",
+            "cardName": "Searing Wind",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Searing Wind",
+              "manaCost": "{8}{R}",
+              "typeLine": "Instant",
+              "oracleText": "Searing Wind deals 10 damage to any target.",
+              "image": "https://cards.scryfall.io/normal/front/7/b/7b761f97-3690-497a-b6ab-c71f61b8e841.jpg?1783945776"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2357.92,
+        "cards": [
+          {
+            "cardId": "fc0969f1-92a0-47c3-8eff-d106fbef2f7e",
+            "cardName": "Zada, Hedron Grinder",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Zada, Hedron Grinder",
+              "manaCost": "{3}{R}",
+              "typeLine": "Legendary Creature — Goblin Ally",
+              "oracleText": "Whenever you cast an instant or sorcery spell that targets only Zada, copy that spell for each other creature you control that the spell could target. Each copy targets a different one of those creatures.",
+              "image": "https://cards.scryfall.io/normal/front/f/c/fc0969f1-92a0-47c3-8eff-d106fbef2f7e.jpg?1783938190"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2409,
+        "cards": [
+          {
+            "cardId": "470ca3f4-29aa-4c4c-8ff2-8cdd70c69943",
+            "cardName": "Field of the Dead",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Field of the Dead",
+              "manaCost": "",
+              "typeLine": "Land",
+              "oracleText": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",
+              "image": "https://cards.scryfall.io/normal/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1783932937"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2412.92,
+        "cards": [
+          {
+            "cardId": "470ca3f4-29aa-4c4c-8ff2-8cdd70c69943",
+            "cardName": "Field of the Dead",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Field of the Dead",
+              "manaCost": "",
+              "typeLine": "Land",
+              "oracleText": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",
+              "image": "https://cards.scryfall.io/normal/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1783932937"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2197,
+    "end": 2227,
+    "cardId": "5c31221f-3753-4d5c-905a-6b558ab648ae",
+    "cardName": "Doorkeeper",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Doorkeeper",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Homunculus",
+      "oracleText": "Defender\n{2}{U}, {T}: Target player mills X cards, where X is the number of creatures you control with defender.",
+      "image": "https://cards.scryfall.io/normal/front/5/c/5c31221f-3753-4d5c-905a-6b558ab648ae.jpg?1783940369"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2198.32,
+    "end": 2228.32,
+    "cardId": "5c31221f-3753-4d5c-905a-6b558ab648ae",
+    "cardName": "Doorkeeper",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Doorkeeper",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Homunculus",
+      "oracleText": "Defender\n{2}{U}, {T}: Target player mills X cards, where X is the number of creatures you control with defender.",
+      "image": "https://cards.scryfall.io/normal/front/5/c/5c31221f-3753-4d5c-905a-6b558ab648ae.jpg?1783940369"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2216.18,
+    "end": 2246.18,
+    "cardId": "84319dfb-eaf7-4b98-8c4f-30f5e779591b",
+    "cardName": "Abrade",
+    "confidence": 0.78,
+    "needsReview": true,
+    "card": {
+      "name": "Abrade",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one —\n• Abrade deals 3 damage to target creature.\n• Destroy target artifact.",
+      "image": "https://cards.scryfall.io/normal/front/8/4/84319dfb-eaf7-4b98-8c4f-30f5e779591b.jpg?1783936033"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2227.38,
+    "end": 2257.38,
+    "cardId": "41f18f42-b86b-4a12-9f0d-76b761571195",
+    "cardName": "Spider-Ham, Peter Porker",
+    "confidence": 0.78,
+    "needsReview": true,
+    "card": {
+      "name": "Spider-Ham, Peter Porker",
+      "manaCost": "{1}{G}",
+      "typeLine": "Legendary Creature — Spider Boar Hero",
+      "oracleText": "When Spider-Ham enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nAnimal May-Ham — Other Spiders, Boars, Bats, Bears, Birds, Cats, Dogs, Frogs, Jackals, Lizards, Mice, Otters, Rabbits, Raccoons, Rats, Squirrels, Turtles, and Wolves you control get +1/+1.",
+      "image": "https://cards.scryfall.io/normal/front/4/1/41f18f42-b86b-4a12-9f0d-76b761571195.jpg?1783905324"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2285.1,
+    "end": 2315.1,
+    "cardId": "e6b43916-fe2d-417a-a550-d7c795023297",
+    "cardName": "Fork",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Fork",
+      "manaCost": "{R}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.",
+      "image": "https://cards.scryfall.io/normal/front/e/6/e6b43916-fe2d-417a-a550-d7c795023297.jpg?1783948686"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2288.06,
+    "end": 2318.06,
+    "cardId": "e6b43916-fe2d-417a-a550-d7c795023297",
+    "cardName": "Fork",
+    "confidence": 0.8,
+    "needsReview": true,
+    "card": {
+      "name": "Fork",
+      "manaCost": "{R}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.",
+      "image": "https://cards.scryfall.io/normal/front/e/6/e6b43916-fe2d-417a-a550-d7c795023297.jpg?1783948686"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2294.84,
+    "end": 2324.84,
+    "cardId": "e6b43916-fe2d-417a-a550-d7c795023297",
+    "cardName": "Fork",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Fork",
+      "manaCost": "{R}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.",
+      "image": "https://cards.scryfall.io/normal/front/e/6/e6b43916-fe2d-417a-a550-d7c795023297.jpg?1783948686"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2332.04,
+    "end": 2362.04,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2340.1,
+    "end": 2370.1,
+    "cardId": "e6cdd822-44a1-4d58-9de4-69fc56eae255",
+    "cardName": "Explosive Singularity",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Explosive Singularity",
+      "manaCost": "{8}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "As an additional cost to cast this spell, you may tap any number of untapped creatures you control. This spell costs {1} less to cast for each creature tapped this way.\nExplosive Singularity deals 10 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/e/6/e6cdd822-44a1-4d58-9de4-69fc56eae255.jpg?1783923869"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2341.54,
+    "end": 2371.54,
+    "cardId": "e6cdd822-44a1-4d58-9de4-69fc56eae255",
+    "cardName": "Explosive Singularity",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Explosive Singularity",
+      "manaCost": "{8}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "As an additional cost to cast this spell, you may tap any number of untapped creatures you control. This spell costs {1} less to cast for each creature tapped this way.\nExplosive Singularity deals 10 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/e/6/e6cdd822-44a1-4d58-9de4-69fc56eae255.jpg?1783923869"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2345.16,
+    "end": 2375.16,
+    "cardId": "7b761f97-3690-497a-b6ab-c71f61b8e841",
+    "cardName": "Searing Wind",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Searing Wind",
+      "manaCost": "{8}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Searing Wind deals 10 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/7/b/7b761f97-3690-497a-b6ab-c71f61b8e841.jpg?1783945776"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2346.52,
+    "end": 2376.52,
+    "cardId": "7b761f97-3690-497a-b6ab-c71f61b8e841",
+    "cardName": "Searing Wind",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Searing Wind",
+      "manaCost": "{8}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Searing Wind deals 10 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/7/b/7b761f97-3690-497a-b6ab-c71f61b8e841.jpg?1783945776"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2357.92,
+    "end": 2387.92,
+    "cardId": "fc0969f1-92a0-47c3-8eff-d106fbef2f7e",
+    "cardName": "Zada, Hedron Grinder",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Zada, Hedron Grinder",
+      "manaCost": "{3}{R}",
+      "typeLine": "Legendary Creature — Goblin Ally",
+      "oracleText": "Whenever you cast an instant or sorcery spell that targets only Zada, copy that spell for each other creature you control that the spell could target. Each copy targets a different one of those creatures.",
+      "image": "https://cards.scryfall.io/normal/front/f/c/fc0969f1-92a0-47c3-8eff-d106fbef2f7e.jpg?1783938190"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2409,
+    "end": 2439,
+    "cardId": "470ca3f4-29aa-4c4c-8ff2-8cdd70c69943",
+    "cardName": "Field of the Dead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Field of the Dead",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",
+      "image": "https://cards.scryfall.io/normal/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1783932937"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2412.92,
+    "end": 2442.92,
+    "cardId": "470ca3f4-29aa-4c4c-8ff2-8cdd70c69943",
+    "cardName": "Field of the Dead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Field of the Dead",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",
+      "image": "https://cards.scryfall.io/normal/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1783932937"
+    }
+  },
+  {
+    "start": 2416.38,
+    "cardId": "760ce08a-49d3-4cdf-bbe2-33dd8a6a7966",
+    "cardName": "Excavation Elephant",
+    "confidence": 0.813,
+    "needsReview": true,
+    "card": {
+      "name": "Excavation Elephant",
+      "manaCost": "{4}{W}",
+      "typeLine": "Creature — Elephant",
+      "oracleText": "Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)\nWhen this creature enters, if it was kicked, return target artifact card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/7/6/760ce08a-49d3-4cdf-bbe2-33dd8a6a7966.jpg?1783935045"
+    },
+    "end": 2697.02,
+    "mentions": [
+      {
+        "start": 2449.82,
+        "cards": [
+          {
+            "cardId": "470ca3f4-29aa-4c4c-8ff2-8cdd70c69943",
+            "cardName": "Field of the Dead",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Field of the Dead",
+              "manaCost": "",
+              "typeLine": "Land",
+              "oracleText": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",
+              "image": "https://cards.scryfall.io/normal/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1783932937"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2453.76,
+        "cards": [
+          {
+            "cardId": "dde073e0-f329-4ab0-8e31-a48929e017ce",
+            "cardName": "Avenger of Zendikar",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Avenger of Zendikar",
+              "manaCost": "{5}{G}{G}",
+              "typeLine": "Creature — Elemental",
+              "oracleText": "When this creature enters, create a 0/1 green Plant creature token for each land you control.\nLandfall — Whenever a land you control enters, you may put a +1/+1 counter on each Plant creature you control.",
+              "image": "https://cards.scryfall.io/normal/front/d/d/dde073e0-f329-4ab0-8e31-a48929e017ce.jpg?1783942047"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2456.88,
+        "cards": [
+          {
+            "cardId": "dde073e0-f329-4ab0-8e31-a48929e017ce",
+            "cardName": "Avenger of Zendikar",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Avenger of Zendikar",
+              "manaCost": "{5}{G}{G}",
+              "typeLine": "Creature — Elemental",
+              "oracleText": "When this creature enters, create a 0/1 green Plant creature token for each land you control.\nLandfall — Whenever a land you control enters, you may put a +1/+1 counter on each Plant creature you control.",
+              "image": "https://cards.scryfall.io/normal/front/d/d/dde073e0-f329-4ab0-8e31-a48929e017ce.jpg?1783942047"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2526.4,
+        "cards": [
+          {
+            "cardId": "470ca3f4-29aa-4c4c-8ff2-8cdd70c69943",
+            "cardName": "Field of the Dead",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Field of the Dead",
+              "manaCost": "",
+              "typeLine": "Land",
+              "oracleText": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",
+              "image": "https://cards.scryfall.io/normal/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1783932937"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2532.6,
+        "cards": [
+          {
+            "cardId": "470ca3f4-29aa-4c4c-8ff2-8cdd70c69943",
+            "cardName": "Field of the Dead",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Field of the Dead",
+              "manaCost": "",
+              "typeLine": "Land",
+              "oracleText": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",
+              "image": "https://cards.scryfall.io/normal/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1783932937"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2537.52,
+        "cards": [
+          {
+            "cardId": "dde073e0-f329-4ab0-8e31-a48929e017ce",
+            "cardName": "Avenger of Zendikar",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Avenger of Zendikar",
+              "manaCost": "{5}{G}{G}",
+              "typeLine": "Creature — Elemental",
+              "oracleText": "When this creature enters, create a 0/1 green Plant creature token for each land you control.\nLandfall — Whenever a land you control enters, you may put a +1/+1 counter on each Plant creature you control.",
+              "image": "https://cards.scryfall.io/normal/front/d/d/dde073e0-f329-4ab0-8e31-a48929e017ce.jpg?1783942047"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2542.46,
+        "cards": [
+          {
+            "cardId": "dde073e0-f329-4ab0-8e31-a48929e017ce",
+            "cardName": "Avenger of Zendikar",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Avenger of Zendikar",
+              "manaCost": "{5}{G}{G}",
+              "typeLine": "Creature — Elemental",
+              "oracleText": "When this creature enters, create a 0/1 green Plant creature token for each land you control.\nLandfall — Whenever a land you control enters, you may put a +1/+1 counter on each Plant creature you control.",
+              "image": "https://cards.scryfall.io/normal/front/d/d/dde073e0-f329-4ab0-8e31-a48929e017ce.jpg?1783942047"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2552.26,
+        "cards": [
+          {
+            "cardId": "092c48bd-b648-4c9e-aa99-cac3c407911d",
+            "cardName": "Moonshaker Cavalry",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Moonshaker Cavalry",
+              "manaCost": "{5}{W}{W}{W}",
+              "typeLine": "Creature — Spirit Knight",
+              "oracleText": "Flying\nWhen this creature enters, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.",
+              "image": "https://cards.scryfall.io/normal/front/0/9/092c48bd-b648-4c9e-aa99-cac3c407911d.jpg?1783915130"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2599.56,
+        "cards": [
+          {
+            "cardId": "d8db2b8e-dce9-49b7-833f-381ee55288cb",
+            "cardName": "Sun Titan",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Sun Titan",
+              "manaCost": "{4}{W}{W}",
+              "typeLine": "Creature — Giant",
+              "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+              "image": "https://cards.scryfall.io/normal/front/d/8/d8db2b8e-dce9-49b7-833f-381ee55288cb.jpg?1783941831"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2620.64,
+        "cards": [
+          {
+            "cardId": "41b489a6-f838-41ad-aca0-a437849bb789",
+            "cardName": "Grand Crescendo",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Grand Crescendo",
+              "manaCost": "{X}{W}{W}",
+              "typeLine": "Instant",
+              "oracleText": "Create X 1/1 green and white Citizen creature tokens. Creatures you control gain indestructible until end of turn.",
+              "image": "https://cards.scryfall.io/normal/front/4/1/41b489a6-f838-41ad-aca0-a437849bb789.jpg?1783923330"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2621.98,
+        "cards": [
+          {
+            "cardId": "4201385f-6f74-4e3d-aafb-0eff82cb24c1",
+            "cardName": "Martial Coup",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Martial Coup",
+              "manaCost": "{X}{W}{W}",
+              "typeLine": "Sorcery",
+              "oracleText": "Create X 1/1 white Soldier creature tokens. If X is 5 or more, destroy all other creatures.",
+              "image": "https://cards.scryfall.io/normal/front/4/2/4201385f-6f74-4e3d-aafb-0eff82cb24c1.jpg?1783942492"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2664.02,
+        "cards": [
+          {
+            "cardId": "6bcafc2e-cef6-412d-8c5d-1658c3337292",
+            "cardName": "Overlord of the Mistmoors",
+            "confidence": 0.94,
+            "needsReview": false,
+            "card": {
+              "name": "Overlord of the Mistmoors",
+              "manaCost": "{5}{W}{W}",
+              "typeLine": "Enchantment Creature — Avatar Horror",
+              "oracleText": "Impending 4—{2}{W}{W} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\nWhenever this permanent enters or attacks, create two 2/1 white Insect creature tokens with flying.",
+              "image": "https://cards.scryfall.io/normal/front/6/b/6bcafc2e-cef6-412d-8c5d-1658c3337292.jpg?1783909507"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2674.28,
+        "cards": [
+          {
+            "cardId": "6bcafc2e-cef6-412d-8c5d-1658c3337292",
+            "cardName": "Overlord of the Mistmoors",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Overlord of the Mistmoors",
+              "manaCost": "{5}{W}{W}",
+              "typeLine": "Enchantment Creature — Avatar Horror",
+              "oracleText": "Impending 4—{2}{W}{W} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\nWhenever this permanent enters or attacks, create two 2/1 white Insect creature tokens with flying.",
+              "image": "https://cards.scryfall.io/normal/front/6/b/6bcafc2e-cef6-412d-8c5d-1658c3337292.jpg?1783909507"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2449.82,
+    "end": 2479.82,
+    "cardId": "470ca3f4-29aa-4c4c-8ff2-8cdd70c69943",
+    "cardName": "Field of the Dead",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Field of the Dead",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",
+      "image": "https://cards.scryfall.io/normal/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1783932937"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2453.76,
+    "end": 2483.76,
+    "cardId": "dde073e0-f329-4ab0-8e31-a48929e017ce",
+    "cardName": "Avenger of Zendikar",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Avenger of Zendikar",
+      "manaCost": "{5}{G}{G}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "When this creature enters, create a 0/1 green Plant creature token for each land you control.\nLandfall — Whenever a land you control enters, you may put a +1/+1 counter on each Plant creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/d/d/dde073e0-f329-4ab0-8e31-a48929e017ce.jpg?1783942047"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2456.88,
+    "end": 2486.88,
+    "cardId": "dde073e0-f329-4ab0-8e31-a48929e017ce",
+    "cardName": "Avenger of Zendikar",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Avenger of Zendikar",
+      "manaCost": "{5}{G}{G}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "When this creature enters, create a 0/1 green Plant creature token for each land you control.\nLandfall — Whenever a land you control enters, you may put a +1/+1 counter on each Plant creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/d/d/dde073e0-f329-4ab0-8e31-a48929e017ce.jpg?1783942047"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2526.4,
+    "end": 2556.4,
+    "cardId": "470ca3f4-29aa-4c4c-8ff2-8cdd70c69943",
+    "cardName": "Field of the Dead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Field of the Dead",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",
+      "image": "https://cards.scryfall.io/normal/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1783932937"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2532.6,
+    "end": 2562.6,
+    "cardId": "470ca3f4-29aa-4c4c-8ff2-8cdd70c69943",
+    "cardName": "Field of the Dead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Field of the Dead",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped.\n{T}: Add {C}.\nWhenever this land or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",
+      "image": "https://cards.scryfall.io/normal/front/4/7/470ca3f4-29aa-4c4c-8ff2-8cdd70c69943.jpg?1783932937"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2537.52,
+    "end": 2567.52,
+    "cardId": "dde073e0-f329-4ab0-8e31-a48929e017ce",
+    "cardName": "Avenger of Zendikar",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Avenger of Zendikar",
+      "manaCost": "{5}{G}{G}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "When this creature enters, create a 0/1 green Plant creature token for each land you control.\nLandfall — Whenever a land you control enters, you may put a +1/+1 counter on each Plant creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/d/d/dde073e0-f329-4ab0-8e31-a48929e017ce.jpg?1783942047"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2542.46,
+    "end": 2572.46,
+    "cardId": "dde073e0-f329-4ab0-8e31-a48929e017ce",
+    "cardName": "Avenger of Zendikar",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Avenger of Zendikar",
+      "manaCost": "{5}{G}{G}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "When this creature enters, create a 0/1 green Plant creature token for each land you control.\nLandfall — Whenever a land you control enters, you may put a +1/+1 counter on each Plant creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/d/d/dde073e0-f329-4ab0-8e31-a48929e017ce.jpg?1783942047"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2552.26,
+    "end": 2582.26,
+    "cardId": "092c48bd-b648-4c9e-aa99-cac3c407911d",
+    "cardName": "Moonshaker Cavalry",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Moonshaker Cavalry",
+      "manaCost": "{5}{W}{W}{W}",
+      "typeLine": "Creature — Spirit Knight",
+      "oracleText": "Flying\nWhen this creature enters, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.",
+      "image": "https://cards.scryfall.io/normal/front/0/9/092c48bd-b648-4c9e-aa99-cac3c407911d.jpg?1783915130"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2599.56,
+    "end": 2629.56,
+    "cardId": "d8db2b8e-dce9-49b7-833f-381ee55288cb",
+    "cardName": "Sun Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sun Titan",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/d/8/d8db2b8e-dce9-49b7-833f-381ee55288cb.jpg?1783941831"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2620.64,
+    "end": 2650.64,
+    "cardId": "41b489a6-f838-41ad-aca0-a437849bb789",
+    "cardName": "Grand Crescendo",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grand Crescendo",
+      "manaCost": "{X}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Create X 1/1 green and white Citizen creature tokens. Creatures you control gain indestructible until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/4/1/41b489a6-f838-41ad-aca0-a437849bb789.jpg?1783923330"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2621.98,
+    "end": 2651.98,
+    "cardId": "4201385f-6f74-4e3d-aafb-0eff82cb24c1",
+    "cardName": "Martial Coup",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Martial Coup",
+      "manaCost": "{X}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Create X 1/1 white Soldier creature tokens. If X is 5 or more, destroy all other creatures.",
+      "image": "https://cards.scryfall.io/normal/front/4/2/4201385f-6f74-4e3d-aafb-0eff82cb24c1.jpg?1783942492"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2664.02,
+    "end": 2694.02,
+    "cardId": "6bcafc2e-cef6-412d-8c5d-1658c3337292",
+    "cardName": "Overlord of the Mistmoors",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Overlord of the Mistmoors",
+      "manaCost": "{5}{W}{W}",
+      "typeLine": "Enchantment Creature — Avatar Horror",
+      "oracleText": "Impending 4—{2}{W}{W} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\nWhenever this permanent enters or attacks, create two 2/1 white Insect creature tokens with flying.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6bcafc2e-cef6-412d-8c5d-1658c3337292.jpg?1783909507"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2674.28,
+    "end": 2704.28,
+    "cardId": "6bcafc2e-cef6-412d-8c5d-1658c3337292",
+    "cardName": "Overlord of the Mistmoors",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Overlord of the Mistmoors",
+      "manaCost": "{5}{W}{W}",
+      "typeLine": "Enchantment Creature — Avatar Horror",
+      "oracleText": "Impending 4—{2}{W}{W} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\nWhenever this permanent enters or attacks, create two 2/1 white Insect creature tokens with flying.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6bcafc2e-cef6-412d-8c5d-1658c3337292.jpg?1783909507"
+    }
+  },
+  {
+    "start": 2697.02,
+    "cardId": "96c55c73-eed0-433c-b1a4-c2edae06a77f",
+    "cardName": "Death in Heaven",
+    "confidence": 0.895,
+    "needsReview": true,
+    "card": {
+      "name": "Death in Heaven",
+      "manaCost": "{3}{B}",
+      "typeLine": "Enchantment — Saga",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Target player mills two cards, then exiles their graveyard.\nIII — Put all creature cards exiled with this enchantment onto the battlefield face down under your control. They're 2/2 Cyberman artifact creatures.",
+      "image": "https://cards.scryfall.io/normal/front/9/6/96c55c73-eed0-433c-b1a4-c2edae06a77f.jpg?1783914658"
+    },
+    "end": 2936.67,
+    "mentions": [
+      {
+        "start": 2767.16,
+        "cards": [
+          {
+            "cardId": "4a45a631-f899-4414-8e0a-64d987e9ba8b",
+            "cardName": "Virtus the Veiled",
+            "confidence": 0.838,
+            "needsReview": true,
+            "card": {
+              "name": "Virtus the Veiled",
+              "manaCost": "{2}{B}",
+              "typeLine": "Legendary Creature — Azra Assassin",
+              "oracleText": "Partner with Gorm the Great (When this creature enters, target player may put Gorm into their hand from their library, then shuffle.)\nDeathtouch\nWhenever Virtus deals combat damage to a player, that player loses half their life, rounded up.",
+              "image": "https://cards.scryfall.io/normal/front/4/a/4a45a631-f899-4414-8e0a-64d987e9ba8b.jpg?1783934879"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2780.28,
+        "cards": [
+          {
+            "cardId": "4a45a631-f899-4414-8e0a-64d987e9ba8b",
+            "cardName": "Virtus the Veiled",
+            "confidence": 0.838,
+            "needsReview": true,
+            "card": {
+              "name": "Virtus the Veiled",
+              "manaCost": "{2}{B}",
+              "typeLine": "Legendary Creature — Azra Assassin",
+              "oracleText": "Partner with Gorm the Great (When this creature enters, target player may put Gorm into their hand from their library, then shuffle.)\nDeathtouch\nWhenever Virtus deals combat damage to a player, that player loses half their life, rounded up.",
+              "image": "https://cards.scryfall.io/normal/front/4/a/4a45a631-f899-4414-8e0a-64d987e9ba8b.jpg?1783934879"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2798.52,
+        "cards": [
+          {
+            "cardId": "1982f910-a9bd-4e94-a187-84381b22aacc",
+            "cardName": "The Soul Stone",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "The Soul Stone",
+              "manaCost": "{1}{B}",
+              "typeLine": "Legendary Artifact — Infinity Stone",
+              "oracleText": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)\n∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",
+              "image": "https://cards.scryfall.io/normal/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1783905342"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2828.48,
+        "cards": [
+          {
+            "cardId": "4a45a631-f899-4414-8e0a-64d987e9ba8b",
+            "cardName": "Virtus the Veiled",
+            "confidence": 0.838,
+            "needsReview": true,
+            "card": {
+              "name": "Virtus the Veiled",
+              "manaCost": "{2}{B}",
+              "typeLine": "Legendary Creature — Azra Assassin",
+              "oracleText": "Partner with Gorm the Great (When this creature enters, target player may put Gorm into their hand from their library, then shuffle.)\nDeathtouch\nWhenever Virtus deals combat damage to a player, that player loses half their life, rounded up.",
+              "image": "https://cards.scryfall.io/normal/front/4/a/4a45a631-f899-4414-8e0a-64d987e9ba8b.jpg?1783934879"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2853.96,
+        "cards": [
+          {
+            "cardId": "ae1ef31c-8ca5-444c-8f39-e1d1827318f5",
+            "cardName": "Reanimate",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Reanimate",
+              "manaCost": "{B}",
+              "typeLine": "Sorcery",
+              "oracleText": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value.",
+              "image": "https://cards.scryfall.io/normal/front/a/e/ae1ef31c-8ca5-444c-8f39-e1d1827318f5.jpg?1783946636"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2878.76,
+        "cards": [
+          {
+            "cardId": "386ea9eb-abc1-4862-aa2d-8fb808d79490",
+            "cardName": "Swords to Plowshares",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Swords to Plowshares",
+              "manaCost": "{W}",
+              "typeLine": "Instant",
+              "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+              "image": "https://cards.scryfall.io/normal/front/3/8/386ea9eb-abc1-4862-aa2d-8fb808d79490.jpg?1783948709"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2893.29,
+        "cards": [
+          {
+            "cardId": "1982f910-a9bd-4e94-a187-84381b22aacc",
+            "cardName": "The Soul Stone",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "The Soul Stone",
+              "manaCost": "{1}{B}",
+              "typeLine": "Legendary Artifact — Infinity Stone",
+              "oracleText": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)\n∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",
+              "image": "https://cards.scryfall.io/normal/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1783905342"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2897.15,
+        "cards": [
+          {
+            "cardId": "1982f910-a9bd-4e94-a187-84381b22aacc",
+            "cardName": "The Soul Stone",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "The Soul Stone",
+              "manaCost": "{1}{B}",
+              "typeLine": "Legendary Artifact — Infinity Stone",
+              "oracleText": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)\n∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",
+              "image": "https://cards.scryfall.io/normal/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1783905342"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2904.31,
+        "cards": [
+          {
+            "cardId": "1982f910-a9bd-4e94-a187-84381b22aacc",
+            "cardName": "The Soul Stone",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "The Soul Stone",
+              "manaCost": "{1}{B}",
+              "typeLine": "Legendary Artifact — Infinity Stone",
+              "oracleText": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)\n∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",
+              "image": "https://cards.scryfall.io/normal/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1783905342"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2767.16,
+    "end": 2797.16,
+    "cardId": "4a45a631-f899-4414-8e0a-64d987e9ba8b",
+    "cardName": "Virtus the Veiled",
+    "confidence": 0.838,
+    "needsReview": true,
+    "card": {
+      "name": "Virtus the Veiled",
+      "manaCost": "{2}{B}",
+      "typeLine": "Legendary Creature — Azra Assassin",
+      "oracleText": "Partner with Gorm the Great (When this creature enters, target player may put Gorm into their hand from their library, then shuffle.)\nDeathtouch\nWhenever Virtus deals combat damage to a player, that player loses half their life, rounded up.",
+      "image": "https://cards.scryfall.io/normal/front/4/a/4a45a631-f899-4414-8e0a-64d987e9ba8b.jpg?1783934879"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2780.28,
+    "end": 2810.28,
+    "cardId": "4a45a631-f899-4414-8e0a-64d987e9ba8b",
+    "cardName": "Virtus the Veiled",
+    "confidence": 0.838,
+    "needsReview": true,
+    "card": {
+      "name": "Virtus the Veiled",
+      "manaCost": "{2}{B}",
+      "typeLine": "Legendary Creature — Azra Assassin",
+      "oracleText": "Partner with Gorm the Great (When this creature enters, target player may put Gorm into their hand from their library, then shuffle.)\nDeathtouch\nWhenever Virtus deals combat damage to a player, that player loses half their life, rounded up.",
+      "image": "https://cards.scryfall.io/normal/front/4/a/4a45a631-f899-4414-8e0a-64d987e9ba8b.jpg?1783934879"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2798.52,
+    "end": 2828.52,
+    "cardId": "1982f910-a9bd-4e94-a187-84381b22aacc",
+    "cardName": "The Soul Stone",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "The Soul Stone",
+      "manaCost": "{1}{B}",
+      "typeLine": "Legendary Artifact — Infinity Stone",
+      "oracleText": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)\n∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1783905342"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2828.48,
+    "end": 2858.48,
+    "cardId": "4a45a631-f899-4414-8e0a-64d987e9ba8b",
+    "cardName": "Virtus the Veiled",
+    "confidence": 0.838,
+    "needsReview": true,
+    "card": {
+      "name": "Virtus the Veiled",
+      "manaCost": "{2}{B}",
+      "typeLine": "Legendary Creature — Azra Assassin",
+      "oracleText": "Partner with Gorm the Great (When this creature enters, target player may put Gorm into their hand from their library, then shuffle.)\nDeathtouch\nWhenever Virtus deals combat damage to a player, that player loses half their life, rounded up.",
+      "image": "https://cards.scryfall.io/normal/front/4/a/4a45a631-f899-4414-8e0a-64d987e9ba8b.jpg?1783934879"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2853.96,
+    "end": 2883.96,
+    "cardId": "ae1ef31c-8ca5-444c-8f39-e1d1827318f5",
+    "cardName": "Reanimate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Reanimate",
+      "manaCost": "{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value.",
+      "image": "https://cards.scryfall.io/normal/front/a/e/ae1ef31c-8ca5-444c-8f39-e1d1827318f5.jpg?1783946636"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2878.76,
+    "end": 2908.76,
+    "cardId": "386ea9eb-abc1-4862-aa2d-8fb808d79490",
+    "cardName": "Swords to Plowshares",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Swords to Plowshares",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+      "image": "https://cards.scryfall.io/normal/front/3/8/386ea9eb-abc1-4862-aa2d-8fb808d79490.jpg?1783948709"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2893.29,
+    "end": 2923.29,
+    "cardId": "1982f910-a9bd-4e94-a187-84381b22aacc",
+    "cardName": "The Soul Stone",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "The Soul Stone",
+      "manaCost": "{1}{B}",
+      "typeLine": "Legendary Artifact — Infinity Stone",
+      "oracleText": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)\n∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1783905342"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2897.15,
+    "end": 2927.15,
+    "cardId": "1982f910-a9bd-4e94-a187-84381b22aacc",
+    "cardName": "The Soul Stone",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "The Soul Stone",
+      "manaCost": "{1}{B}",
+      "typeLine": "Legendary Artifact — Infinity Stone",
+      "oracleText": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)\n∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1783905342"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2904.31,
+    "end": 2934.31,
+    "cardId": "1982f910-a9bd-4e94-a187-84381b22aacc",
+    "cardName": "The Soul Stone",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "The Soul Stone",
+      "manaCost": "{1}{B}",
+      "typeLine": "Legendary Artifact — Infinity Stone",
+      "oracleText": "Indestructible\n{T}: Add {B}.\n{6}{B}, {T}, Exile a creature you control: Harness The Soul Stone. (Once harnessed, its ∞ ability is active.)\n∞ — At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/1/9/1982f910-a9bd-4e94-a187-84381b22aacc.jpg?1783905342"
+    }
+  },
+  {
+    "start": 2936.67,
+    "cardId": "b44c30a9-1af4-4287-a809-d2de4e8b4070",
+    "cardName": "Hit // Run",
+    "confidence": 0.848,
+    "needsReview": true,
+    "card": {
+      "name": "Hit // Run",
+      "manaCost": "{1}{B}{R} // {3}{R}{G}",
+      "typeLine": "Instant // Instant",
+      "image": "https://cards.scryfall.io/normal/front/b/4/b44c30a9-1af4-4287-a809-d2de4e8b4070.jpg?1783943385",
+      "faces": [
+        {
+          "name": "Hit",
+          "manaCost": "{1}{B}{R}",
+          "typeLine": "Instant",
+          "oracleText": "Target player sacrifices an artifact or creature of their choice. Hit deals damage to that player equal to that permanent's mana value."
+        },
+        {
+          "name": "Run",
+          "manaCost": "{3}{R}{G}",
+          "typeLine": "Instant",
+          "oracleText": "Attacking creatures you control get +1/+0 until end of turn for each other attacking creature."
+        }
+      ]
+    },
+    "mentions": [
+      {
+        "start": 2959.07,
+        "cards": [
+          {
+            "cardId": "d4f1cc9e-4f99-4c26-ac1b-8ef069fa8ceb",
+            "cardName": "Llanowar Elves",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Llanowar Elves",
+              "manaCost": "{G}",
+              "typeLine": "Creature — Elf Druid",
+              "oracleText": "{T}: Add {G}.",
+              "image": "https://cards.scryfall.io/normal/front/d/4/d4f1cc9e-4f99-4c26-ac1b-8ef069fa8ceb.jpg?1783948674"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2964.29,
+        "cards": [
+          {
+            "cardId": "05d08ff1-edcc-4c76-96e0-683b3da36ebb",
+            "cardName": "Overlord of the Hauntwoods",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Overlord of the Hauntwoods",
+              "manaCost": "{3}{G}{G}",
+              "typeLine": "Enchantment Creature — Avatar Horror",
+              "oracleText": "Impending 4—{1}{G}{G} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\nWhenever this permanent enters or attacks, create a tapped colorless land token named Everywhere that is every basic land type.",
+              "image": "https://cards.scryfall.io/normal/front/0/5/05d08ff1-edcc-4c76-96e0-683b3da36ebb.jpg?1783909450"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2969.03,
+        "cards": [
+          {
+            "cardId": "a750aabb-9788-494a-841f-bf75717970a7",
+            "cardName": "Frostcliff Siege",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Frostcliff Siege",
+              "manaCost": "{1}{U}{R}",
+              "typeLine": "Enchantment",
+              "oracleText": "As this enchantment enters, choose Jeskai or Temur.\n• Jeskai — Whenever one or more creatures you control deal combat damage to a player, draw a card.\n• Temur — Creatures you control get +1/+0 and have trample and haste.",
+              "image": "https://cards.scryfall.io/normal/front/a/7/a750aabb-9788-494a-841f-bf75717970a7.jpg?1783907317"
+            }
+          },
+          {
+            "cardId": "120be808-ff3b-4fca-96a1-4db6b9825856",
+            "cardName": "Quantum Riddler",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Quantum Riddler",
+              "manaCost": "{3}{U}{U}",
+              "typeLine": "Creature — Sphinx",
+              "oracleText": "Flying\nWhen this creature enters, draw a card.\nAs long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.\nWarp {1}{U}",
+              "image": "https://cards.scryfall.io/normal/front/1/2/120be808-ff3b-4fca-96a1-4db6b9825856.jpg?1783905977"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3072.21,
+        "cards": [
+          {
+            "cardId": "421674ee-4b85-4942-b166-952598165826",
+            "cardName": "Strixhaven Stadium",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Strixhaven Stadium",
+              "manaCost": "{3}",
+              "typeLine": "Artifact",
+              "oracleText": "{T}: Add {C}. Put a point counter on this artifact.\nWhenever a creature deals combat damage to you, remove a point counter from this artifact.\nWhenever a creature you control deals combat damage to an opponent, put a point counter on this artifact. Then if it has ten or more point counters on it, remove them all and that player loses the game.",
+              "image": "https://cards.scryfall.io/normal/front/4/2/421674ee-4b85-4942-b166-952598165826.jpg?1783927278"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3086.07,
+        "cards": [
+          {
+            "cardId": "84062ce2-fea2-4e06-b83b-7cc597fb2a1b",
+            "cardName": "Rhythm of the Wild",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Rhythm of the Wild",
+              "manaCost": "{1}{R}{G}",
+              "typeLine": "Enchantment",
+              "oracleText": "Creature spells you control can't be countered.\nNontoken creatures you control have riot. (They enter with your choice of a +1/+1 counter or haste.)",
+              "image": "https://cards.scryfall.io/normal/front/8/4/84062ce2-fea2-4e06-b83b-7cc597fb2a1b.jpg?1783933638"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3095.43,
+        "cards": [
+          {
+            "cardId": "84062ce2-fea2-4e06-b83b-7cc597fb2a1b",
+            "cardName": "Rhythm of the Wild",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Rhythm of the Wild",
+              "manaCost": "{1}{R}{G}",
+              "typeLine": "Enchantment",
+              "oracleText": "Creature spells you control can't be countered.\nNontoken creatures you control have riot. (They enter with your choice of a +1/+1 counter or haste.)",
+              "image": "https://cards.scryfall.io/normal/front/8/4/84062ce2-fea2-4e06-b83b-7cc597fb2a1b.jpg?1783933638"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3102.57,
+        "cards": [
+          {
+            "cardId": "b4df70ea-2b6b-4e25-a564-655989ef16fa",
+            "cardName": "Fervor",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Fervor",
+              "manaCost": "{2}{R}",
+              "typeLine": "Enchantment",
+              "oracleText": "Creatures you control have haste. (They can attack and {T} as soon as they come under your control.)",
+              "image": "https://cards.scryfall.io/normal/front/b/4/b4df70ea-2b6b-4e25-a564-655989ef16fa.jpg?1783946728"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3135.27,
+        "cards": [
+          {
+            "cardId": "b7f1fb90-5c85-46a5-802d-248cc0250921",
+            "cardName": "Wood Elves",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Wood Elves",
+              "manaCost": "{2}{G}",
+              "typeLine": "Creature — Elf Scout",
+              "oracleText": "When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+              "image": "https://cards.scryfall.io/normal/front/b/7/b7f1fb90-5c85-46a5-802d-248cc0250921.jpg?1783946800"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3173.59,
+        "cards": [
+          {
+            "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+            "cardName": "Tarmogoyf",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Tarmogoyf",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Lhurgoyf",
+              "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+              "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3175.57,
+        "cards": [
+          {
+            "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+            "cardName": "Tarmogoyf",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Tarmogoyf",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Lhurgoyf",
+              "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+              "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3180.49,
+        "cards": [
+          {
+            "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+            "cardName": "Tarmogoyf",
+            "confidence": 0.88,
+            "needsReview": true,
+            "card": {
+              "name": "Tarmogoyf",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Lhurgoyf",
+              "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+              "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3190.89,
+        "cards": [
+          {
+            "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+            "cardName": "Tarmogoyf",
+            "confidence": 0.91,
+            "needsReview": true,
+            "card": {
+              "name": "Tarmogoyf",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Lhurgoyf",
+              "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+              "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3195.87,
+        "cards": [
+          {
+            "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+            "cardName": "Tarmogoyf",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Tarmogoyf",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Lhurgoyf",
+              "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+              "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3201.63,
+        "cards": [
+          {
+            "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+            "cardName": "Tarmogoyf",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Tarmogoyf",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Lhurgoyf",
+              "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+              "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3203.45,
+        "cards": [
+          {
+            "cardId": "d9039a58-2f17-4b8a-b714-3a2f0b46f057",
+            "cardName": "Ajani's Anguish",
+            "confidence": 0.95,
+            "needsReview": false,
+            "card": {
+              "name": "Ajani's Anguish",
+              "manaCost": "{X}{R}",
+              "typeLine": "Enchantment",
+              "oracleText": "When this enchantment enters, it deals X damage to any target.\nCreatures you control have trample.",
+              "image": "https://cards.scryfall.io/normal/front/d/9/d9039a58-2f17-4b8a-b714-3a2f0b46f057.jpg?1789470674"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3206.47,
+        "cards": [
+          {
+            "cardId": "d9039a58-2f17-4b8a-b714-3a2f0b46f057",
+            "cardName": "Ajani's Anguish",
+            "confidence": 0.95,
+            "needsReview": false,
+            "card": {
+              "name": "Ajani's Anguish",
+              "manaCost": "{X}{R}",
+              "typeLine": "Enchantment",
+              "oracleText": "When this enchantment enters, it deals X damage to any target.\nCreatures you control have trample.",
+              "image": "https://cards.scryfall.io/normal/front/d/9/d9039a58-2f17-4b8a-b714-3a2f0b46f057.jpg?1789470674"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3211.11,
+        "cards": [
+          {
+            "cardId": "d9039a58-2f17-4b8a-b714-3a2f0b46f057",
+            "cardName": "Ajani's Anguish",
+            "confidence": 0.95,
+            "needsReview": false,
+            "card": {
+              "name": "Ajani's Anguish",
+              "manaCost": "{X}{R}",
+              "typeLine": "Enchantment",
+              "oracleText": "When this enchantment enters, it deals X damage to any target.\nCreatures you control have trample.",
+              "image": "https://cards.scryfall.io/normal/front/d/9/d9039a58-2f17-4b8a-b714-3a2f0b46f057.jpg?1789470674"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3217.23,
+        "cards": [
+          {
+            "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+            "cardName": "Tarmogoyf",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Tarmogoyf",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Lhurgoyf",
+              "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+              "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3222.11,
+        "cards": [
+          {
+            "cardId": "b5e81649-9954-424c-89d1-f87d73b66047",
+            "cardName": "Fatal Push",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Fatal Push",
+              "manaCost": "{B}",
+              "typeLine": "Instant",
+              "oracleText": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.",
+              "image": "https://cards.scryfall.io/normal/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1783936764"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3240.67,
+        "cards": [
+          {
+            "cardId": "9d48aaff-46ab-411b-9456-171d4709f951",
+            "cardName": "Fear of Missing Out",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Fear of Missing Out",
+              "manaCost": "{1}{R}",
+              "typeLine": "Enchantment Creature — Nightmare",
+              "oracleText": "When this creature enters, discard a card, then draw a card.\nDelirium — Whenever this creature attacks for the first time each turn, if there are four or more card types among cards in your graveyard, untap target creature. After this phase, there is an additional combat phase.",
+              "image": "https://cards.scryfall.io/normal/front/9/d/9d48aaff-46ab-411b-9456-171d4709f951.jpg?1783909470"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3246.45,
+        "cards": [
+          {
+            "cardId": "9d48aaff-46ab-411b-9456-171d4709f951",
+            "cardName": "Fear of Missing Out",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Fear of Missing Out",
+              "manaCost": "{1}{R}",
+              "typeLine": "Enchantment Creature — Nightmare",
+              "oracleText": "When this creature enters, discard a card, then draw a card.\nDelirium — Whenever this creature attacks for the first time each turn, if there are four or more card types among cards in your graveyard, untap target creature. After this phase, there is an additional combat phase.",
+              "image": "https://cards.scryfall.io/normal/front/9/d/9d48aaff-46ab-411b-9456-171d4709f951.jpg?1783909470"
+            }
+          },
+          {
+            "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+            "cardName": "Tarmogoyf",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Tarmogoyf",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Lhurgoyf",
+              "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+              "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3254.51,
+        "cards": [
+          {
+            "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+            "cardName": "Tarmogoyf",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Tarmogoyf",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Lhurgoyf",
+              "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+              "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3268.17,
+        "cards": [
+          {
+            "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+            "cardName": "Tarmogoyf",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Tarmogoyf",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Lhurgoyf",
+              "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+              "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3335.41,
+        "cards": [
+          {
+            "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+            "cardName": "Lightning Bolt",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Lightning Bolt",
+              "manaCost": "{R}",
+              "typeLine": "Instant",
+              "oracleText": "Lightning Bolt deals 3 damage to any target.",
+              "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3338.05,
+        "cards": [
+          {
+            "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+            "cardName": "Lightning Bolt",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Lightning Bolt",
+              "manaCost": "{R}",
+              "typeLine": "Instant",
+              "oracleText": "Lightning Bolt deals 3 damage to any target.",
+              "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3340.75,
+        "cards": [
+          {
+            "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+            "cardName": "Lightning Bolt",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Lightning Bolt",
+              "manaCost": "{R}",
+              "typeLine": "Instant",
+              "oracleText": "Lightning Bolt deals 3 damage to any target.",
+              "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3354.11,
+        "cards": [
+          {
+            "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+            "cardName": "Boltwave",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Boltwave",
+              "manaCost": "{R}",
+              "typeLine": "Sorcery",
+              "oracleText": "Boltwave deals 3 damage to each opponent.",
+              "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3431.35,
+        "cards": [
+          {
+            "cardId": "5f7346d8-1aef-4618-88e6-74bd8865e0f3",
+            "cardName": "Scroll Rack",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Scroll Rack",
+              "manaCost": "{2}",
+              "typeLine": "Artifact",
+              "oracleText": "{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.",
+              "image": "https://cards.scryfall.io/normal/front/5/f/5f7346d8-1aef-4618-88e6-74bd8865e0f3.jpg?1783946601"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3461.01,
+        "cards": [
+          {
+            "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+            "cardName": "Boltwave",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Boltwave",
+              "manaCost": "{R}",
+              "typeLine": "Sorcery",
+              "oracleText": "Boltwave deals 3 damage to each opponent.",
+              "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3462.07,
+        "cards": [
+          {
+            "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+            "cardName": "Lightning Bolt",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Lightning Bolt",
+              "manaCost": "{R}",
+              "typeLine": "Instant",
+              "oracleText": "Lightning Bolt deals 3 damage to any target.",
+              "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3465.03,
+        "cards": [
+          {
+            "cardId": "50283122-b8c4-4fb3-8eba-6252b72222f4",
+            "cardName": "Manamorphose",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Manamorphose",
+              "manaCost": "{1}{R/G}",
+              "typeLine": "Instant",
+              "oracleText": "Add two mana in any combination of colors.\nDraw a card.",
+              "image": "https://cards.scryfall.io/normal/front/5/0/50283122-b8c4-4fb3-8eba-6252b72222f4.jpg?1783942721"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3468.43,
+        "cards": [
+          {
+            "cardId": "4ee33cb6-768e-44a0-b6f4-b8638aa84330",
+            "cardName": "Grapeshot",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Grapeshot",
+              "manaCost": "{1}{R}",
+              "typeLine": "Sorcery",
+              "oracleText": "Grapeshot deals 1 damage to any target.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+              "image": "https://cards.scryfall.io/normal/front/4/e/4ee33cb6-768e-44a0-b6f4-b8638aa84330.jpg?1783943221"
+            }
+          },
+          {
+            "cardId": "50283122-b8c4-4fb3-8eba-6252b72222f4",
+            "cardName": "Manamorphose",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Manamorphose",
+              "manaCost": "{1}{R/G}",
+              "typeLine": "Instant",
+              "oracleText": "Add two mana in any combination of colors.\nDraw a card.",
+              "image": "https://cards.scryfall.io/normal/front/5/0/50283122-b8c4-4fb3-8eba-6252b72222f4.jpg?1783942721"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3489.75,
+        "cards": [
+          {
+            "cardId": "542c89b6-48c6-4fcb-8a4c-b5ed2fa1d384",
+            "cardName": "Doomsday Excruciator",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Doomsday Excruciator",
+              "manaCost": "{B}{B}{B}{B}{B}{B}",
+              "typeLine": "Creature — Demon",
+              "oracleText": "Flying\nWhen this creature enters, if it was cast, each player exiles all but the bottom six cards of their library face down.\nAt the beginning of your upkeep, draw a card.",
+              "image": "https://cards.scryfall.io/normal/front/5/4/542c89b6-48c6-4fcb-8a4c-b5ed2fa1d384.jpg?1783909483"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3519.03,
+        "cards": [
+          {
+            "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+            "cardName": "Boltwave",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Boltwave",
+              "manaCost": "{R}",
+              "typeLine": "Sorcery",
+              "oracleText": "Boltwave deals 3 damage to each opponent.",
+              "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3523.01,
+        "cards": [
+          {
+            "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+            "cardName": "Boltwave",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Boltwave",
+              "manaCost": "{R}",
+              "typeLine": "Sorcery",
+              "oracleText": "Boltwave deals 3 damage to each opponent.",
+              "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3530.39,
+        "cards": [
+          {
+            "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+            "cardName": "Boltwave",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Boltwave",
+              "manaCost": "{R}",
+              "typeLine": "Sorcery",
+              "oracleText": "Boltwave deals 3 damage to each opponent.",
+              "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3534.51,
+        "cards": [
+          {
+            "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+            "cardName": "Boltwave",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Boltwave",
+              "manaCost": "{R}",
+              "typeLine": "Sorcery",
+              "oracleText": "Boltwave deals 3 damage to each opponent.",
+              "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3553.69,
+        "cards": [
+          {
+            "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+            "cardName": "Boltwave",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Boltwave",
+              "manaCost": "{R}",
+              "typeLine": "Sorcery",
+              "oracleText": "Boltwave deals 3 damage to each opponent.",
+              "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2959.07,
+    "end": 2989.07,
+    "cardId": "d4f1cc9e-4f99-4c26-ac1b-8ef069fa8ceb",
+    "cardName": "Llanowar Elves",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Llanowar Elves",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Elf Druid",
+      "oracleText": "{T}: Add {G}.",
+      "image": "https://cards.scryfall.io/normal/front/d/4/d4f1cc9e-4f99-4c26-ac1b-8ef069fa8ceb.jpg?1783948674"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2964.29,
+    "end": 2994.29,
+    "cardId": "05d08ff1-edcc-4c76-96e0-683b3da36ebb",
+    "cardName": "Overlord of the Hauntwoods",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Overlord of the Hauntwoods",
+      "manaCost": "{3}{G}{G}",
+      "typeLine": "Enchantment Creature — Avatar Horror",
+      "oracleText": "Impending 4—{1}{G}{G} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\nWhenever this permanent enters or attacks, create a tapped colorless land token named Everywhere that is every basic land type.",
+      "image": "https://cards.scryfall.io/normal/front/0/5/05d08ff1-edcc-4c76-96e0-683b3da36ebb.jpg?1783909450"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2969.03,
+    "end": 2999.03,
+    "cardId": "a750aabb-9788-494a-841f-bf75717970a7",
+    "cardName": "Frostcliff Siege",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Frostcliff Siege",
+      "manaCost": "{1}{U}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "As this enchantment enters, choose Jeskai or Temur.\n• Jeskai — Whenever one or more creatures you control deal combat damage to a player, draw a card.\n• Temur — Creatures you control get +1/+0 and have trample and haste.",
+      "image": "https://cards.scryfall.io/normal/front/a/7/a750aabb-9788-494a-841f-bf75717970a7.jpg?1783907317"
+    },
+    "cards": [
+      {
+        "cardId": "a750aabb-9788-494a-841f-bf75717970a7",
+        "cardName": "Frostcliff Siege",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Frostcliff Siege",
+          "manaCost": "{1}{U}{R}",
+          "typeLine": "Enchantment",
+          "oracleText": "As this enchantment enters, choose Jeskai or Temur.\n• Jeskai — Whenever one or more creatures you control deal combat damage to a player, draw a card.\n• Temur — Creatures you control get +1/+0 and have trample and haste.",
+          "image": "https://cards.scryfall.io/normal/front/a/7/a750aabb-9788-494a-841f-bf75717970a7.jpg?1783907317"
+        }
+      },
+      {
+        "cardId": "120be808-ff3b-4fca-96a1-4db6b9825856",
+        "cardName": "Quantum Riddler",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Quantum Riddler",
+          "manaCost": "{3}{U}{U}",
+          "typeLine": "Creature — Sphinx",
+          "oracleText": "Flying\nWhen this creature enters, draw a card.\nAs long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.\nWarp {1}{U}",
+          "image": "https://cards.scryfall.io/normal/front/1/2/120be808-ff3b-4fca-96a1-4db6b9825856.jpg?1783905977"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3072.21,
+    "end": 3102.21,
+    "cardId": "421674ee-4b85-4942-b166-952598165826",
+    "cardName": "Strixhaven Stadium",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Strixhaven Stadium",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}. Put a point counter on this artifact.\nWhenever a creature deals combat damage to you, remove a point counter from this artifact.\nWhenever a creature you control deals combat damage to an opponent, put a point counter on this artifact. Then if it has ten or more point counters on it, remove them all and that player loses the game.",
+      "image": "https://cards.scryfall.io/normal/front/4/2/421674ee-4b85-4942-b166-952598165826.jpg?1783927278"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3086.07,
+    "end": 3116.07,
+    "cardId": "84062ce2-fea2-4e06-b83b-7cc597fb2a1b",
+    "cardName": "Rhythm of the Wild",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rhythm of the Wild",
+      "manaCost": "{1}{R}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "Creature spells you control can't be countered.\nNontoken creatures you control have riot. (They enter with your choice of a +1/+1 counter or haste.)",
+      "image": "https://cards.scryfall.io/normal/front/8/4/84062ce2-fea2-4e06-b83b-7cc597fb2a1b.jpg?1783933638"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3095.43,
+    "end": 3125.43,
+    "cardId": "84062ce2-fea2-4e06-b83b-7cc597fb2a1b",
+    "cardName": "Rhythm of the Wild",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rhythm of the Wild",
+      "manaCost": "{1}{R}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "Creature spells you control can't be countered.\nNontoken creatures you control have riot. (They enter with your choice of a +1/+1 counter or haste.)",
+      "image": "https://cards.scryfall.io/normal/front/8/4/84062ce2-fea2-4e06-b83b-7cc597fb2a1b.jpg?1783933638"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3102.57,
+    "end": 3132.57,
+    "cardId": "b4df70ea-2b6b-4e25-a564-655989ef16fa",
+    "cardName": "Fervor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fervor",
+      "manaCost": "{2}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Creatures you control have haste. (They can attack and {T} as soon as they come under your control.)",
+      "image": "https://cards.scryfall.io/normal/front/b/4/b4df70ea-2b6b-4e25-a564-655989ef16fa.jpg?1783946728"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3135.27,
+    "end": 3165.27,
+    "cardId": "b7f1fb90-5c85-46a5-802d-248cc0250921",
+    "cardName": "Wood Elves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wood Elves",
+      "manaCost": "{2}{G}",
+      "typeLine": "Creature — Elf Scout",
+      "oracleText": "When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/b/7/b7f1fb90-5c85-46a5-802d-248cc0250921.jpg?1783946800"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3173.59,
+    "end": 3203.59,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3175.57,
+    "end": 3205.57,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3180.49,
+    "end": 3210.49,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 0.88,
+    "needsReview": true,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3190.89,
+    "end": 3220.89,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 0.91,
+    "needsReview": true,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3195.87,
+    "end": 3225.87,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3201.63,
+    "end": 3231.63,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3203.45,
+    "end": 3233.45,
+    "cardId": "d9039a58-2f17-4b8a-b714-3a2f0b46f057",
+    "cardName": "Ajani's Anguish",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Ajani's Anguish",
+      "manaCost": "{X}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, it deals X damage to any target.\nCreatures you control have trample.",
+      "image": "https://cards.scryfall.io/normal/front/d/9/d9039a58-2f17-4b8a-b714-3a2f0b46f057.jpg?1789470674"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3206.47,
+    "end": 3236.47,
+    "cardId": "d9039a58-2f17-4b8a-b714-3a2f0b46f057",
+    "cardName": "Ajani's Anguish",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Ajani's Anguish",
+      "manaCost": "{X}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, it deals X damage to any target.\nCreatures you control have trample.",
+      "image": "https://cards.scryfall.io/normal/front/d/9/d9039a58-2f17-4b8a-b714-3a2f0b46f057.jpg?1789470674"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3211.11,
+    "end": 3241.11,
+    "cardId": "d9039a58-2f17-4b8a-b714-3a2f0b46f057",
+    "cardName": "Ajani's Anguish",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Ajani's Anguish",
+      "manaCost": "{X}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, it deals X damage to any target.\nCreatures you control have trample.",
+      "image": "https://cards.scryfall.io/normal/front/d/9/d9039a58-2f17-4b8a-b714-3a2f0b46f057.jpg?1789470674"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3217.23,
+    "end": 3247.23,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3222.11,
+    "end": 3252.11,
+    "cardId": "b5e81649-9954-424c-89d1-f87d73b66047",
+    "cardName": "Fatal Push",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fatal Push",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature if it has mana value 2 or less.\nRevolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1783936764"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3240.67,
+    "end": 3270.67,
+    "cardId": "9d48aaff-46ab-411b-9456-171d4709f951",
+    "cardName": "Fear of Missing Out",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Fear of Missing Out",
+      "manaCost": "{1}{R}",
+      "typeLine": "Enchantment Creature — Nightmare",
+      "oracleText": "When this creature enters, discard a card, then draw a card.\nDelirium — Whenever this creature attacks for the first time each turn, if there are four or more card types among cards in your graveyard, untap target creature. After this phase, there is an additional combat phase.",
+      "image": "https://cards.scryfall.io/normal/front/9/d/9d48aaff-46ab-411b-9456-171d4709f951.jpg?1783909470"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3246.45,
+    "end": 3276.45,
+    "cardId": "9d48aaff-46ab-411b-9456-171d4709f951",
+    "cardName": "Fear of Missing Out",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fear of Missing Out",
+      "manaCost": "{1}{R}",
+      "typeLine": "Enchantment Creature — Nightmare",
+      "oracleText": "When this creature enters, discard a card, then draw a card.\nDelirium — Whenever this creature attacks for the first time each turn, if there are four or more card types among cards in your graveyard, untap target creature. After this phase, there is an additional combat phase.",
+      "image": "https://cards.scryfall.io/normal/front/9/d/9d48aaff-46ab-411b-9456-171d4709f951.jpg?1783909470"
+    },
+    "cards": [
+      {
+        "cardId": "9d48aaff-46ab-411b-9456-171d4709f951",
+        "cardName": "Fear of Missing Out",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Fear of Missing Out",
+          "manaCost": "{1}{R}",
+          "typeLine": "Enchantment Creature — Nightmare",
+          "oracleText": "When this creature enters, discard a card, then draw a card.\nDelirium — Whenever this creature attacks for the first time each turn, if there are four or more card types among cards in your graveyard, untap target creature. After this phase, there is an additional combat phase.",
+          "image": "https://cards.scryfall.io/normal/front/9/d/9d48aaff-46ab-411b-9456-171d4709f951.jpg?1783909470"
+        }
+      },
+      {
+        "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+        "cardName": "Tarmogoyf",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Tarmogoyf",
+          "manaCost": "{1}{G}",
+          "typeLine": "Creature — Lhurgoyf",
+          "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+          "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3254.51,
+    "end": 3284.51,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3268.17,
+    "end": 3298.17,
+    "cardId": "b6876d9e-0908-43ac-8542-09c7aa02b5ba",
+    "cardName": "Tarmogoyf",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tarmogoyf",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Lhurgoyf",
+      "oracleText": "Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.",
+      "image": "https://cards.scryfall.io/normal/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1783943094"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3335.41,
+    "end": 3365.41,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3338.05,
+    "end": 3368.05,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3340.75,
+    "end": 3370.75,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+    "cardName": "Lightning Bolt",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3354.11,
+    "end": 3384.11,
+    "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+    "cardName": "Boltwave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Boltwave",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Boltwave deals 3 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3431.35,
+    "end": 3461.35,
+    "cardId": "5f7346d8-1aef-4618-88e6-74bd8865e0f3",
+    "cardName": "Scroll Rack",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Scroll Rack",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.",
+      "image": "https://cards.scryfall.io/normal/front/5/f/5f7346d8-1aef-4618-88e6-74bd8865e0f3.jpg?1783946601"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3461.01,
+    "end": 3491.01,
+    "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+    "cardName": "Boltwave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Boltwave",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Boltwave deals 3 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3462.07,
+    "end": 3492.07,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3465.03,
+    "end": 3495.03,
+    "cardId": "50283122-b8c4-4fb3-8eba-6252b72222f4",
+    "cardName": "Manamorphose",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Manamorphose",
+      "manaCost": "{1}{R/G}",
+      "typeLine": "Instant",
+      "oracleText": "Add two mana in any combination of colors.\nDraw a card.",
+      "image": "https://cards.scryfall.io/normal/front/5/0/50283122-b8c4-4fb3-8eba-6252b72222f4.jpg?1783942721"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3468.43,
+    "end": 3498.43,
+    "cardId": "4ee33cb6-768e-44a0-b6f4-b8638aa84330",
+    "cardName": "Grapeshot",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grapeshot",
+      "manaCost": "{1}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Grapeshot deals 1 damage to any target.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+      "image": "https://cards.scryfall.io/normal/front/4/e/4ee33cb6-768e-44a0-b6f4-b8638aa84330.jpg?1783943221"
+    },
+    "cards": [
+      {
+        "cardId": "4ee33cb6-768e-44a0-b6f4-b8638aa84330",
+        "cardName": "Grapeshot",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Grapeshot",
+          "manaCost": "{1}{R}",
+          "typeLine": "Sorcery",
+          "oracleText": "Grapeshot deals 1 damage to any target.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+          "image": "https://cards.scryfall.io/normal/front/4/e/4ee33cb6-768e-44a0-b6f4-b8638aa84330.jpg?1783943221"
+        }
+      },
+      {
+        "cardId": "50283122-b8c4-4fb3-8eba-6252b72222f4",
+        "cardName": "Manamorphose",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Manamorphose",
+          "manaCost": "{1}{R/G}",
+          "typeLine": "Instant",
+          "oracleText": "Add two mana in any combination of colors.\nDraw a card.",
+          "image": "https://cards.scryfall.io/normal/front/5/0/50283122-b8c4-4fb3-8eba-6252b72222f4.jpg?1783942721"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3489.75,
+    "end": 3519.75,
+    "cardId": "542c89b6-48c6-4fcb-8a4c-b5ed2fa1d384",
+    "cardName": "Doomsday Excruciator",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doomsday Excruciator",
+      "manaCost": "{B}{B}{B}{B}{B}{B}",
+      "typeLine": "Creature — Demon",
+      "oracleText": "Flying\nWhen this creature enters, if it was cast, each player exiles all but the bottom six cards of their library face down.\nAt the beginning of your upkeep, draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/5/4/542c89b6-48c6-4fcb-8a4c-b5ed2fa1d384.jpg?1783909483"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3519.03,
+    "end": 3549.03,
+    "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+    "cardName": "Boltwave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Boltwave",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Boltwave deals 3 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3523.01,
+    "end": 3553.01,
+    "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+    "cardName": "Boltwave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Boltwave",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Boltwave deals 3 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3530.39,
+    "end": 3560.39,
+    "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+    "cardName": "Boltwave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Boltwave",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Boltwave deals 3 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3534.51,
+    "end": 3564.51,
+    "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+    "cardName": "Boltwave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Boltwave",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Boltwave deals 3 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3553.69,
+    "end": 3583.69,
+    "cardId": "8d1ec351-5e70-4eb2-b590-6bff94ef8178",
+    "cardName": "Boltwave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Boltwave",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Boltwave deals 3 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d1ec351-5e70-4eb2-b590-6bff94ef8178.jpg?1783909105"
+    }
+  }
+]
