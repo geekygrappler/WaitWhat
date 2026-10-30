@@ -7,9 +7,9 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/ccd6d63a-1b24-4ec0-99eb-2db5bc879974/mtggoldfish_podcast_611_StarTrekSpoilers.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
+    "cueSheet": "./data/star-trek-spoilers.cues.json",
     "processed": true,
-    "source": "MTGGoldfish Podcast RSS",
-    "cueSheet": "./data/star-trek-spoilers.cues.json"
+    "source": "MTGGoldfish Podcast RSS"
   },
   {
     "id": "is-pile-shuffling-cheating",

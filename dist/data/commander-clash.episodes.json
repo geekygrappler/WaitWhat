@@ -7,9 +7,9 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/e1e2ebbb-33e0-4aac-bef6-6db6f86959ce/Commander_Clash_Podcast_275_Best_Card_of_Every_Color_Combination.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "cueSheet": "./data/the-best-card-of-every-color-combination.cues.json",
     "processed": true,
-    "source": "MTGGoldfish Commander Clash Podcast RSS",
-    "cueSheet": "./data/the-best-card-of-every-color-combination.cues.json"
+    "source": "MTGGoldfish Commander Clash Podcast RSS"
   },
   {
     "id": "ranking-archetypes-by-how-much-they-suck-to-play-against",

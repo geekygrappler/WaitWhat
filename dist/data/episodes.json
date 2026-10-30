@@ -1,5 +1,17 @@
 [
   {
+    "id": "one-foot-in-the-grave-graveyard-series",
+    "title": "One Foot in the Grave | Graveyard Series",
+    "published": "2026-10-30T04:51:00.000Z",
+    "duration": 5281,
+    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/359-One_Foot_in_the_Grave_mixdown.mp3?dest-id=534396",
+    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/one-foot-in-the-grave-graveyard-series",
+    "artwork": "https://static.libsyn.com/p/assets/e/c/a/2/eca2d36ef6b8f0aea04421dee9605cbd/359_Thumbnail_2000x2000.png",
+    "processed": true,
+    "source": "Legendary Creature Podcast RSS",
+    "cueSheet": "./data/one-foot-in-the-grave-graveyard-series.cues.json"
+  },
+  {
     "id": "reality-fracture-cards-for-your-99",
     "title": "Reality Fracture | Cards for Your 99",
     "published": "2026-10-22T22:55:00.000Z",
@@ -213,17 +225,6 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/340-Back_Foot_Spell_Slinger_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/spellslinger-draw-go",
     "artwork": "https://static.libsyn.com/p/assets/1/7/7/f/177f6e34d5af2940d959afa2a1bf1c87/Thumbnail_2000x2000-20260409-vg3pyidt9m.png",
-    "processed": false,
-    "source": "Legendary Creature Podcast RSS"
-  },
-  {
-    "id": "spellslinger-we-go-now",
-    "title": "Spellslinger | We Go Now!",
-    "published": "2026-03-31T04:43:00.000Z",
-    "duration": 9001,
-    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/339-Spellslinger_3.0_mixdown.mp3?dest-id=534396",
-    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/spellslinger-we-go-now",
-    "artwork": "https://static.libsyn.com/p/assets/b/5/7/9/b579fc48f7d8c1ef16c3140a3186d450/Thumbnail_2000x2000.png",
     "processed": false,
     "source": "Legendary Creature Podcast RSS"
   }

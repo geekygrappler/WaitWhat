@@ -1,0 +1,4072 @@
+[
+  {
+    "track": "mentioned",
+    "start": 258.04,
+    "end": 288.04,
+    "cardId": "13d7e352-4d01-4947-a76f-f8a01dd876cc",
+    "cardName": "Thassa's Oracle",
+    "confidence": 0.73,
+    "needsReview": true,
+    "card": {
+      "name": "Thassa's Oracle",
+      "manaCost": "{U}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13d7e352-4d01-4947-a76f-f8a01dd876cc.jpg?1783931482"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 322.38,
+    "end": 352.38,
+    "cardId": "6b5e28e8-1e6d-4e7f-bc85-427bb39ae14b",
+    "cardName": "Mizzix's Mastery",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mizzix's Mastery",
+      "manaCost": "{3}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Exile target card that's an instant or sorcery from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost. Exile Mizzix's Mastery.\nOverload {5}{R}{R}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b5e28e8-1e6d-4e7f-bc85-427bb39ae14b.jpg?1783938111"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 533.14,
+    "end": 563.14,
+    "cardId": "529c38b3-7397-4dac-9859-acd9cd451c32",
+    "cardName": "Bojuka Bog",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Bojuka Bog",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped.\nWhen this land enters, exile target player's graveyard.\n{T}: Add {B}.",
+      "image": "https://cards.scryfall.io/normal/front/5/2/529c38b3-7397-4dac-9859-acd9cd451c32.jpg?1783942037"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 535.38,
+    "end": 565.38,
+    "cardId": "6cd91eeb-7abf-4538-91dc-47c736dfc237",
+    "cardName": "Scavenger Grounds",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Scavenger Grounds",
+      "manaCost": "",
+      "typeLine": "Land — Desert",
+      "oracleText": "{T}: Add {C}.\n{2}, {T}, Sacrifice a Desert: Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/6/c/6cd91eeb-7abf-4538-91dc-47c736dfc237.jpg?1783935994"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 549.64,
+    "end": 579.64,
+    "cardId": "529c38b3-7397-4dac-9859-acd9cd451c32",
+    "cardName": "Bojuka Bog",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bojuka Bog",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped.\nWhen this land enters, exile target player's graveyard.\n{T}: Add {B}.",
+      "image": "https://cards.scryfall.io/normal/front/5/2/529c38b3-7397-4dac-9859-acd9cd451c32.jpg?1783942037"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 565.54,
+    "end": 595.54,
+    "cardId": "f43bf91d-bc08-417f-a549-64919c24052a",
+    "cardName": "Meren of Clan Nel Toth",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Meren of Clan Nel Toth",
+      "manaCost": "{2}{B}{G}",
+      "typeLine": "Legendary Creature — Human Shaman",
+      "oracleText": "Whenever another creature you control dies, you get an experience counter.\nAt the beginning of your end step, choose target creature card in your graveyard. If that card's mana value is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand.",
+      "image": "https://cards.scryfall.io/normal/front/f/4/f43bf91d-bc08-417f-a549-64919c24052a.jpg?1783938107"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 568.9,
+    "end": 598.9,
+    "cardId": "f43bf91d-bc08-417f-a549-64919c24052a",
+    "cardName": "Meren of Clan Nel Toth",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Meren of Clan Nel Toth",
+      "manaCost": "{2}{B}{G}",
+      "typeLine": "Legendary Creature — Human Shaman",
+      "oracleText": "Whenever another creature you control dies, you get an experience counter.\nAt the beginning of your end step, choose target creature card in your graveyard. If that card's mana value is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand.",
+      "image": "https://cards.scryfall.io/normal/front/f/4/f43bf91d-bc08-417f-a549-64919c24052a.jpg?1783938107"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 738.92,
+    "end": 768.92,
+    "cardId": "8f7b632b-ee20-4082-8376-1dae53f91b70",
+    "cardName": "Codex Shredder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Codex Shredder",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Target player mills a card. (They put the top card of their library into their graveyard.)\n{5}, {T}, Sacrifice this artifact: Return target card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/8/f/8f7b632b-ee20-4082-8376-1dae53f91b70.jpg?1783940324"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 783.14,
+    "end": 813.14,
+    "cardId": "529c38b3-7397-4dac-9859-acd9cd451c32",
+    "cardName": "Bojuka Bog",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Bojuka Bog",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "This land enters tapped.\nWhen this land enters, exile target player's graveyard.\n{T}: Add {B}.",
+      "image": "https://cards.scryfall.io/normal/front/5/2/529c38b3-7397-4dac-9859-acd9cd451c32.jpg?1783942037"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 902.44,
+    "end": 932.44,
+    "cardId": "ebf68793-22a2-4a59-9d37-6791584edca1",
+    "cardName": "Kastral, the Windcrested",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kastral, the Windcrested",
+      "manaCost": "{3}{W}{U}",
+      "typeLine": "Legendary Creature — Bird Scout",
+      "oracleText": "Flying\nWhenever one or more Birds you control deal combat damage to a player, choose one —\n• You may put a Bird creature card from your hand or graveyard onto the battlefield with a finality counter on it.\n• Put a +1/+1 counter on each Bird you control.\n• Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/b/ebf68793-22a2-4a59-9d37-6791584edca1.jpg?1783910795"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 907.7,
+    "end": 937.7,
+    "cardId": "ebf68793-22a2-4a59-9d37-6791584edca1",
+    "cardName": "Kastral, the Windcrested",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kastral, the Windcrested",
+      "manaCost": "{3}{W}{U}",
+      "typeLine": "Legendary Creature — Bird Scout",
+      "oracleText": "Flying\nWhenever one or more Birds you control deal combat damage to a player, choose one —\n• You may put a Bird creature card from your hand or graveyard onto the battlefield with a finality counter on it.\n• Put a +1/+1 counter on each Bird you control.\n• Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/b/ebf68793-22a2-4a59-9d37-6791584edca1.jpg?1783910795"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 920.98,
+    "end": 950.98,
+    "cardId": "5480d92e-5c03-49b8-8bdd-fbcce80de998",
+    "cardName": "Grazilaxx, Illithid Scholar",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Grazilaxx, Illithid Scholar",
+      "manaCost": "{1}{U}{U}",
+      "typeLine": "Legendary Creature — Horror",
+      "oracleText": "Whenever a creature you control becomes blocked, you may return it to its owner's hand.\nWhenever one or more creatures you control deal combat damage to a player, draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/5/4/5480d92e-5c03-49b8-8bdd-fbcce80de998.jpg?1783926393"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 986.22,
+    "end": 1016.22,
+    "cardId": "be8ec9e1-2c8e-496d-9111-4d453b75b578",
+    "cardName": "Massacre Girl",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Massacre Girl",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Legendary Creature — Human Assassin",
+      "oracleText": "Menace\nWhen Massacre Girl enters, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/b/e/be8ec9e1-2c8e-496d-9111-4d453b75b578.jpg?1783933441"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1032.38,
+    "end": 1062.38,
+    "cardId": "5a501252-e722-4ebf-bcf7-f53a42745fa7",
+    "cardName": "Negate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Negate",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target noncreature spell.",
+      "image": "https://cards.scryfall.io/normal/front/5/a/5a501252-e722-4ebf-bcf7-f53a42745fa7.jpg?1783942799"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1077.44,
+    "end": 1107.44,
+    "cardId": "e2f04b83-da9d-4bb1-99ce-2ff78503c635",
+    "cardName": "Ishai, Ojutai Dragonspeaker",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Ishai, Ojutai Dragonspeaker",
+      "manaCost": "{2}{W}{U}",
+      "typeLine": "Legendary Creature — Bird Monk",
+      "oracleText": "Flying\nWhenever an opponent casts a spell, put a +1/+1 counter on Ishai.\nPartner (You can have two commanders if both have partner.)",
+      "image": "https://cards.scryfall.io/normal/front/e/2/e2f04b83-da9d-4bb1-99ce-2ff78503c635.jpg?1783937085"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1082.34,
+    "end": 1112.34,
+    "cardId": "be8ec9e1-2c8e-496d-9111-4d453b75b578",
+    "cardName": "Massacre Girl",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Massacre Girl",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Legendary Creature — Human Assassin",
+      "oracleText": "Menace\nWhen Massacre Girl enters, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/b/e/be8ec9e1-2c8e-496d-9111-4d453b75b578.jpg?1783933441"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1106.48,
+    "end": 1136.48,
+    "cardId": "6b26c05b-f166-40ab-9693-2129b4bf75e9",
+    "cardName": "Ascend from Avernus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ascend from Avernus",
+      "manaCost": "{X}{W}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return all creature and planeswalker cards with mana value X or less from your graveyard to the battlefield. Exile Ascend from Avernus.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1123,
+    "end": 1153,
+    "cardId": "be8ec9e1-2c8e-496d-9111-4d453b75b578",
+    "cardName": "Massacre Girl",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Massacre Girl",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Legendary Creature — Human Assassin",
+      "oracleText": "Menace\nWhen Massacre Girl enters, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/b/e/be8ec9e1-2c8e-496d-9111-4d453b75b578.jpg?1783933441"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1139.62,
+    "end": 1169.62,
+    "cardId": "6b26c05b-f166-40ab-9693-2129b4bf75e9",
+    "cardName": "Ascend from Avernus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ascend from Avernus",
+      "manaCost": "{X}{W}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return all creature and planeswalker cards with mana value X or less from your graveyard to the battlefield. Exile Ascend from Avernus.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1145.92,
+    "end": 1175.92,
+    "cardId": "ebf68793-22a2-4a59-9d37-6791584edca1",
+    "cardName": "Kastral, the Windcrested",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kastral, the Windcrested",
+      "manaCost": "{3}{W}{U}",
+      "typeLine": "Legendary Creature — Bird Scout",
+      "oracleText": "Flying\nWhenever one or more Birds you control deal combat damage to a player, choose one —\n• You may put a Bird creature card from your hand or graveyard onto the battlefield with a finality counter on it.\n• Put a +1/+1 counter on each Bird you control.\n• Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/b/ebf68793-22a2-4a59-9d37-6791584edca1.jpg?1783910795"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1159.08,
+    "end": 1189.08,
+    "cardId": "6b26c05b-f166-40ab-9693-2129b4bf75e9",
+    "cardName": "Ascend from Avernus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ascend from Avernus",
+      "manaCost": "{X}{W}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return all creature and planeswalker cards with mana value X or less from your graveyard to the battlefield. Exile Ascend from Avernus.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1189.86,
+    "end": 1219.86,
+    "cardId": "389f0045-218d-41cd-bdca-8a9a0ab1b31b",
+    "cardName": "Battlefield Raptor",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Battlefield Raptor",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Bird",
+      "oracleText": "Flying, first strike",
+      "image": "https://cards.scryfall.io/normal/front/3/8/389f0045-218d-41cd-bdca-8a9a0ab1b31b.jpg?1783928290"
+    },
+    "cards": [
+      {
+        "cardId": "389f0045-218d-41cd-bdca-8a9a0ab1b31b",
+        "cardName": "Battlefield Raptor",
+        "confidence": 0.94,
+        "needsReview": false,
+        "card": {
+          "name": "Battlefield Raptor",
+          "manaCost": "{W}",
+          "typeLine": "Creature — Bird",
+          "oracleText": "Flying, first strike",
+          "image": "https://cards.scryfall.io/normal/front/3/8/389f0045-218d-41cd-bdca-8a9a0ab1b31b.jpg?1783928290"
+        }
+      },
+      {
+        "cardId": "eca84e5a-4ce8-47fa-98b8-9d2dc65dd6c8",
+        "cardName": "Senu, Keen-Eyed Protector",
+        "confidence": 0.95,
+        "needsReview": false,
+        "card": {
+          "name": "Senu, Keen-Eyed Protector",
+          "manaCost": "{1}{W}",
+          "typeLine": "Legendary Creature — Bird Scout",
+          "oracleText": "Flying, vigilance\n{T}, Exile Senu: You gain 2 life and scry 2.\nWhen a legendary creature you control attacks and isn't blocked, if this card is exiled, put it onto the battlefield attacking.",
+          "image": "https://cards.scryfall.io/normal/front/e/c/eca84e5a-4ce8-47fa-98b8-9d2dc65dd6c8.jpg?1783910929"
+        }
+      },
+      {
+        "cardId": "306fec2c-d8b7-4f4b-8f58-10e3b9f3158f",
+        "cardName": "Shrike Force",
+        "confidence": 0.98,
+        "needsReview": false,
+        "card": {
+          "name": "Shrike Force",
+          "manaCost": "{2}{W}",
+          "typeLine": "Creature — Bird Knight",
+          "oracleText": "Flying, double strike, vigilance",
+          "image": "https://cards.scryfall.io/normal/front/3/0/306fec2c-d8b7-4f4b-8f58-10e3b9f3158f.jpg?1783910856"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1195.36,
+    "end": 1225.36,
+    "cardId": "31b1bf08-aba1-4197-8afe-05c1fc783307",
+    "cardName": "Ledger Shredder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ledger Shredder",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Bird Advisor",
+      "oracleText": "Flying\nWhenever a player casts their second spell each turn, this creature connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)",
+      "image": "https://cards.scryfall.io/normal/front/3/1/31b1bf08-aba1-4197-8afe-05c1fc783307.jpg?1783922988"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1199.22,
+    "end": 1229.22,
+    "cardId": "e2f04b83-da9d-4bb1-99ce-2ff78503c635",
+    "cardName": "Ishai, Ojutai Dragonspeaker",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ishai, Ojutai Dragonspeaker",
+      "manaCost": "{2}{W}{U}",
+      "typeLine": "Legendary Creature — Bird Monk",
+      "oracleText": "Flying\nWhenever an opponent casts a spell, put a +1/+1 counter on Ishai.\nPartner (You can have two commanders if both have partner.)",
+      "image": "https://cards.scryfall.io/normal/front/e/2/e2f04b83-da9d-4bb1-99ce-2ff78503c635.jpg?1783937085"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1201.12,
+    "end": 1231.12,
+    "cardId": "e2f04b83-da9d-4bb1-99ce-2ff78503c635",
+    "cardName": "Ishai, Ojutai Dragonspeaker",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Ishai, Ojutai Dragonspeaker",
+      "manaCost": "{2}{W}{U}",
+      "typeLine": "Legendary Creature — Bird Monk",
+      "oracleText": "Flying\nWhenever an opponent casts a spell, put a +1/+1 counter on Ishai.\nPartner (You can have two commanders if both have partner.)",
+      "image": "https://cards.scryfall.io/normal/front/e/2/e2f04b83-da9d-4bb1-99ce-2ff78503c635.jpg?1783937085"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1254.04,
+    "end": 1284.04,
+    "cardId": "6b26c05b-f166-40ab-9693-2129b4bf75e9",
+    "cardName": "Ascend from Avernus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ascend from Avernus",
+      "manaCost": "{X}{W}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return all creature and planeswalker cards with mana value X or less from your graveyard to the battlefield. Exile Ascend from Avernus.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1268.56,
+    "end": 1298.56,
+    "cardId": "6b26c05b-f166-40ab-9693-2129b4bf75e9",
+    "cardName": "Ascend from Avernus",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Ascend from Avernus",
+      "manaCost": "{X}{W}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return all creature and planeswalker cards with mana value X or less from your graveyard to the battlefield. Exile Ascend from Avernus.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1294.24,
+    "end": 1324.24,
+    "cardId": "8f5a620c-fde7-4b72-bf8a-efc4f14560c5",
+    "cardName": "Heroic Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Heroic Intervention",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Permanents you control gain hexproof and indestructible until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/8/f/8f5a620c-fde7-4b72-bf8a-efc4f14560c5.jpg?1783936743"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1310.32,
+    "end": 1340.32,
+    "cardId": "8f72bfa0-efef-48ce-aff8-d5818ed71ba6",
+    "cardName": "Dawn's Truce",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dawn's Truce",
+      "manaCost": "{1}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nYou and permanents you control gain hexproof until end of turn. If the gift was promised, permanents you control also gain indestructible until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/8/f/8f72bfa0-efef-48ce-aff8-d5818ed71ba6.jpg?1783910863"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1312.34,
+    "end": 1342.34,
+    "cardId": "be8ec9e1-2c8e-496d-9111-4d453b75b578",
+    "cardName": "Massacre Girl",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Massacre Girl",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Legendary Creature — Human Assassin",
+      "oracleText": "Menace\nWhen Massacre Girl enters, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/b/e/be8ec9e1-2c8e-496d-9111-4d453b75b578.jpg?1783933441"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1324.96,
+    "end": 1354.96,
+    "cardId": "6b26c05b-f166-40ab-9693-2129b4bf75e9",
+    "cardName": "Ascend from Avernus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ascend from Avernus",
+      "manaCost": "{X}{W}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return all creature and planeswalker cards with mana value X or less from your graveyard to the battlefield. Exile Ascend from Avernus.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1351.18,
+    "end": 1381.18,
+    "cardId": "6b26c05b-f166-40ab-9693-2129b4bf75e9",
+    "cardName": "Ascend from Avernus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ascend from Avernus",
+      "manaCost": "{X}{W}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return all creature and planeswalker cards with mana value X or less from your graveyard to the battlefield. Exile Ascend from Avernus.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1373.74,
+    "end": 1403.74,
+    "cardId": "ebf68793-22a2-4a59-9d37-6791584edca1",
+    "cardName": "Kastral, the Windcrested",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kastral, the Windcrested",
+      "manaCost": "{3}{W}{U}",
+      "typeLine": "Legendary Creature — Bird Scout",
+      "oracleText": "Flying\nWhenever one or more Birds you control deal combat damage to a player, choose one —\n• You may put a Bird creature card from your hand or graveyard onto the battlefield with a finality counter on it.\n• Put a +1/+1 counter on each Bird you control.\n• Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/b/ebf68793-22a2-4a59-9d37-6791584edca1.jpg?1783910795"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1412.24,
+    "end": 1442.24,
+    "cardId": "6b26c05b-f166-40ab-9693-2129b4bf75e9",
+    "cardName": "Ascend from Avernus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ascend from Avernus",
+      "manaCost": "{X}{W}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return all creature and planeswalker cards with mana value X or less from your graveyard to the battlefield. Exile Ascend from Avernus.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1424.16,
+    "end": 1454.16,
+    "cardId": "99988f41-99b4-4423-be5f-9dc4ec7d813b",
+    "cardName": "Kangee, Sky Warden",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kangee, Sky Warden",
+      "manaCost": "{3}{W}{U}",
+      "typeLine": "Legendary Creature — Bird Wizard",
+      "oracleText": "Flying, vigilance\nWhenever Kangee attacks, attacking creatures with flying get +2/+0 until end of turn.\nWhenever Kangee blocks, blocking creatures with flying get +0/+2 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/9/9/99988f41-99b4-4423-be5f-9dc4ec7d813b.jpg?1783928773"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1428.26,
+    "end": 1458.26,
+    "cardId": "99988f41-99b4-4423-be5f-9dc4ec7d813b",
+    "cardName": "Kangee, Sky Warden",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kangee, Sky Warden",
+      "manaCost": "{3}{W}{U}",
+      "typeLine": "Legendary Creature — Bird Wizard",
+      "oracleText": "Flying, vigilance\nWhenever Kangee attacks, attacking creatures with flying get +2/+0 until end of turn.\nWhenever Kangee blocks, blocking creatures with flying get +0/+2 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/9/9/99988f41-99b4-4423-be5f-9dc4ec7d813b.jpg?1783928773"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1460.88,
+    "end": 1490.88,
+    "cardId": "fe9d717f-242f-4e70-9f6d-8885eac13cf4",
+    "cardName": "Calix, Guided by Fate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Calix, Guided by Fate",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Enchantment Creature — Human Druid",
+      "oracleText": "Constellation — Whenever Calix or another enchantment you control enters, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe9d717f-242f-4e70-9f6d-8885eac13cf4.jpg?1783916467"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1473.3,
+    "end": 1503.3,
+    "cardId": "fe9d717f-242f-4e70-9f6d-8885eac13cf4",
+    "cardName": "Calix, Guided by Fate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Calix, Guided by Fate",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Enchantment Creature — Human Druid",
+      "oracleText": "Constellation — Whenever Calix or another enchantment you control enters, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe9d717f-242f-4e70-9f6d-8885eac13cf4.jpg?1783916467"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1481.92,
+    "end": 1511.92,
+    "cardId": "1c7fffe8-709c-4cb4-bbad-e4a0c35b616a",
+    "cardName": "Oblivion Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Oblivion Ring",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile another target nonland permanent.\nWhen this enchantment leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/1/c/1c7fffe8-709c-4cb4-bbad-e4a0c35b616a.jpg?1783942910"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1492.68,
+    "end": 1522.68,
+    "cardId": "fe9d717f-242f-4e70-9f6d-8885eac13cf4",
+    "cardName": "Calix, Guided by Fate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Calix, Guided by Fate",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Enchantment Creature — Human Druid",
+      "oracleText": "Constellation — Whenever Calix or another enchantment you control enters, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe9d717f-242f-4e70-9f6d-8885eac13cf4.jpg?1783916467"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1500.14,
+    "end": 1530.14,
+    "cardId": "1c7fffe8-709c-4cb4-bbad-e4a0c35b616a",
+    "cardName": "Oblivion Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Oblivion Ring",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile another target nonland permanent.\nWhen this enchantment leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/1/c/1c7fffe8-709c-4cb4-bbad-e4a0c35b616a.jpg?1783942910"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1508.44,
+    "end": 1538.44,
+    "cardId": "1c7fffe8-709c-4cb4-bbad-e4a0c35b616a",
+    "cardName": "Oblivion Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Oblivion Ring",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile another target nonland permanent.\nWhen this enchantment leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/1/c/1c7fffe8-709c-4cb4-bbad-e4a0c35b616a.jpg?1783942910"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1513.88,
+    "end": 1543.88,
+    "cardId": "1c7fffe8-709c-4cb4-bbad-e4a0c35b616a",
+    "cardName": "Oblivion Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Oblivion Ring",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile another target nonland permanent.\nWhen this enchantment leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/1/c/1c7fffe8-709c-4cb4-bbad-e4a0c35b616a.jpg?1783942910"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1544.48,
+    "end": 1574.48,
+    "cardId": "1c7fffe8-709c-4cb4-bbad-e4a0c35b616a",
+    "cardName": "Oblivion Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Oblivion Ring",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile another target nonland permanent.\nWhen this enchantment leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/1/c/1c7fffe8-709c-4cb4-bbad-e4a0c35b616a.jpg?1783942910"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1556.54,
+    "end": 1586.54,
+    "cardId": "b5cbd10a-b9a6-4c00-8280-72bb4add4390",
+    "cardName": "Hall of Heliod's Generosity",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hall of Heliod's Generosity",
+      "manaCost": "",
+      "typeLine": "Legendary Land",
+      "oracleText": "{T}: Add {C}.\n{1}{W}, {T}: Put target enchantment card from your graveyard on top of your library.",
+      "image": "https://cards.scryfall.io/normal/front/b/5/b5cbd10a-b9a6-4c00-8280-72bb4add4390.jpg?1783933066"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1572.68,
+    "end": 1602.68,
+    "cardId": "1c7fffe8-709c-4cb4-bbad-e4a0c35b616a",
+    "cardName": "Oblivion Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Oblivion Ring",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile another target nonland permanent.\nWhen this enchantment leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/1/c/1c7fffe8-709c-4cb4-bbad-e4a0c35b616a.jpg?1783942910"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1577.48,
+    "end": 1607.48,
+    "cardId": "fe9d717f-242f-4e70-9f6d-8885eac13cf4",
+    "cardName": "Calix, Guided by Fate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Calix, Guided by Fate",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Enchantment Creature — Human Druid",
+      "oracleText": "Constellation — Whenever Calix or another enchantment you control enters, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe9d717f-242f-4e70-9f6d-8885eac13cf4.jpg?1783916467"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1583.96,
+    "end": 1613.96,
+    "cardId": "0b4598ec-cf36-4a51-9f67-b91c146c3c4f",
+    "cardName": "Bala Ged Thief",
+    "confidence": 0.861,
+    "needsReview": true,
+    "card": {
+      "name": "Bala Ged Thief",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Human Rogue Ally",
+      "oracleText": "Whenever this creature or another Ally you control enters, target player reveals a number of cards from their hand equal to the number of Allies you control. You choose one of them. That player discards that card.",
+      "image": "https://cards.scryfall.io/normal/front/0/b/0b4598ec-cf36-4a51-9f67-b91c146c3c4f.jpg?1783942157"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1615.74,
+    "end": 1645.74,
+    "cardId": "fe9d717f-242f-4e70-9f6d-8885eac13cf4",
+    "cardName": "Calix, Guided by Fate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Calix, Guided by Fate",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Enchantment Creature — Human Druid",
+      "oracleText": "Constellation — Whenever Calix or another enchantment you control enters, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe9d717f-242f-4e70-9f6d-8885eac13cf4.jpg?1783916467"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1738.82,
+    "end": 1768.82,
+    "cardId": "de0ba512-b6c3-4931-be05-cb6bd03a4b7c",
+    "cardName": "Keleth, Sunmane Familiar",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Keleth, Sunmane Familiar",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Horse",
+      "oracleText": "Whenever a commander you control attacks, put a +1/+1 counter on it.\nPartner (You can have two commanders if both have partner.)",
+      "image": "https://cards.scryfall.io/normal/front/d/e/de0ba512-b6c3-4931-be05-cb6bd03a4b7c.jpg?1783928881"
+    },
+    "cards": [
+      {
+        "cardId": "de0ba512-b6c3-4931-be05-cb6bd03a4b7c",
+        "cardName": "Keleth, Sunmane Familiar",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Keleth, Sunmane Familiar",
+          "manaCost": "{1}{W}",
+          "typeLine": "Legendary Creature — Horse",
+          "oracleText": "Whenever a commander you control attacks, put a +1/+1 counter on it.\nPartner (You can have two commanders if both have partner.)",
+          "image": "https://cards.scryfall.io/normal/front/d/e/de0ba512-b6c3-4931-be05-cb6bd03a4b7c.jpg?1783928881"
+        }
+      },
+      {
+        "cardId": "aa409269-3698-42a2-8c51-75557b27a6f6",
+        "cardName": "Yoshimaru, Ever Faithful",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Yoshimaru, Ever Faithful",
+          "manaCost": "{W}",
+          "typeLine": "Legendary Creature — Dog",
+          "oracleText": "Whenever another legendary permanent you control enters, put a +1/+1 counter on Yoshimaru.\nPartner (You can have two commanders if both have partner.)",
+          "image": "https://cards.scryfall.io/normal/front/a/a/aa409269-3698-42a2-8c51-75557b27a6f6.jpg?1783923987"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1792.4,
+    "end": 1822.4,
+    "cardId": "534f98ee-7bc2-44d6-b49f-f57c051807d5",
+    "cardName": "Jenova, Ancient Calamity",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jenova, Ancient Calamity",
+      "manaCost": "{2}{B}{G}",
+      "typeLine": "Legendary Creature — Alien",
+      "oracleText": "At the beginning of combat on your turn, put a number of +1/+1 counters equal to Jenova's power on up to one other target creature. That creature becomes a Mutant in addition to its other types.\nWhenever a Mutant you control dies during your turn, you draw cards equal to its power.",
+      "image": "https://cards.scryfall.io/normal/front/5/3/534f98ee-7bc2-44d6-b49f-f57c051807d5.jpg?1783906569"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1799.64,
+    "end": 1829.64,
+    "cardId": "534f98ee-7bc2-44d6-b49f-f57c051807d5",
+    "cardName": "Jenova, Ancient Calamity",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Jenova, Ancient Calamity",
+      "manaCost": "{2}{B}{G}",
+      "typeLine": "Legendary Creature — Alien",
+      "oracleText": "At the beginning of combat on your turn, put a number of +1/+1 counters equal to Jenova's power on up to one other target creature. That creature becomes a Mutant in addition to its other types.\nWhenever a Mutant you control dies during your turn, you draw cards equal to its power.",
+      "image": "https://cards.scryfall.io/normal/front/5/3/534f98ee-7bc2-44d6-b49f-f57c051807d5.jpg?1783906569"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1821.92,
+    "end": 1851.92,
+    "cardId": "96ff9de6-f9ae-4b1c-9fd1-4ba9663922af",
+    "cardName": "Edgar's Awakening",
+    "confidence": 0.824,
+    "needsReview": true,
+    "card": {
+      "name": "Edgar's Awakening",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return target creature card from your graveyard to the battlefield.\nWhen you discard this card, you may pay {B}. When you do, return target creature card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/9/6/96ff9de6-f9ae-4b1c-9fd1-4ba9663922af.jpg?1783924865"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1877.18,
+    "end": 1907.18,
+    "cardId": "ab866ec4-dcb4-47ef-8de1-a369986609c0",
+    "cardName": "Ixhel, Scion of Atraxa",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Ixhel, Scion of Atraxa",
+      "manaCost": "{1}{W}{B}{G}",
+      "typeLine": "Legendary Creature — Phyrexian Angel",
+      "oracleText": "Flying, vigilance, toxic 2\nCorrupted — At the beginning of your end step, each opponent who has three or more poison counters exiles the top card of their library face down. You may look at and play those cards for as long as they remain exiled, and you may spend mana as though it were mana of any color to cast those spells.",
+      "image": "https://cards.scryfall.io/normal/front/a/b/ab866ec4-dcb4-47ef-8de1-a369986609c0.jpg?1783918163"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1928.72,
+    "end": 1958.72,
+    "cardId": "c7e10ca7-1e5d-4224-82cf-798a4d436d72",
+    "cardName": "Eternal Witness",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Eternal Witness",
+      "manaCost": "{1}{G}{G}",
+      "typeLine": "Creature — Human Shaman",
+      "oracleText": "When this creature enters, you may return target card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/c/7/c7e10ca7-1e5d-4224-82cf-798a4d436d72.jpg?1783944390"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1934.46,
+    "end": 1964.46,
+    "cardId": "7fd2fe13-bbc0-42b7-bc42-3b51910ce118",
+    "cardName": "Replenish",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Replenish",
+      "manaCost": "{3}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)",
+      "image": "https://cards.scryfall.io/normal/front/7/f/7fd2fe13-bbc0-42b7-bc42-3b51910ce118.jpg?1783946084"
+    },
+    "cards": [
+      {
+        "cardId": "7fd2fe13-bbc0-42b7-bc42-3b51910ce118",
+        "cardName": "Replenish",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Replenish",
+          "manaCost": "{3}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)",
+          "image": "https://cards.scryfall.io/normal/front/7/f/7fd2fe13-bbc0-42b7-bc42-3b51910ce118.jpg?1783946084"
+        }
+      },
+      {
+        "cardId": "f22c07e2-91d2-4edb-bd2b-cca6d4cefcc9",
+        "cardName": "Timeless Witness",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Timeless Witness",
+          "manaCost": "{2}{G}{G}",
+          "typeLine": "Creature — Human Shaman",
+          "oracleText": "When this creature enters, return target card from your graveyard to your hand.\nEternalize {5}{G}{G} ({5}{G}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Shaman with no mana cost. Eternalize only as a sorcery.)",
+          "image": "https://cards.scryfall.io/normal/front/f/2/f22c07e2-91d2-4edb-bd2b-cca6d4cefcc9.jpg?1783926823"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1947.66,
+    "end": 1977.66,
+    "cardId": "c8318f40-ecd5-429e-8fe2-febf31f64841",
+    "cardName": "The Eldest Reborn",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Eldest Reborn",
+      "manaCost": "{4}{B}",
+      "typeLine": "Enchantment — Saga",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Each opponent sacrifices a creature or planeswalker of their choice.\nII — Each opponent discards a card.\nIII — Put target creature or planeswalker card from a graveyard onto the battlefield under your control.",
+      "image": "https://cards.scryfall.io/normal/front/c/8/c8318f40-ecd5-429e-8fe2-febf31f64841.jpg?1783935009"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1977.32,
+    "end": 2007.32,
+    "cardId": "c7e10ca7-1e5d-4224-82cf-798a4d436d72",
+    "cardName": "Eternal Witness",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Eternal Witness",
+      "manaCost": "{1}{G}{G}",
+      "typeLine": "Creature — Human Shaman",
+      "oracleText": "When this creature enters, you may return target card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/c/7/c7e10ca7-1e5d-4224-82cf-798a4d436d72.jpg?1783944390"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2088.34,
+    "end": 2118.34,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2138.4,
+    "end": 2168.4,
+    "cardId": "31e4b7a1-b377-49d2-a92e-4bcb0db35f16",
+    "cardName": "Bello, Bard of the Brambles",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Bello, Bard of the Brambles",
+      "manaCost": "{1}{R}{G}",
+      "typeLine": "Legendary Creature — Raccoon Bard",
+      "oracleText": "During your turn, each non-Equipment artifact and non-Aura enchantment you control with mana value 4 or greater is a 4/4 Elemental creature in addition to its other types and has indestructible, haste, and \"Whenever this creature deals combat damage to a player, draw a card.\"",
+      "image": "https://cards.scryfall.io/normal/front/3/1/31e4b7a1-b377-49d2-a92e-4bcb0db35f16.jpg?1783910738"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2152.94,
+    "end": 2182.94,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2163.44,
+    "end": 2193.44,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2222.7,
+    "end": 2252.7,
+    "cardId": "1fe95bfb-8ca7-434f-a2e7-a6b2e699584e",
+    "cardName": "Trapped in the Screen",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Trapped in the Screen",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Ward {2} (Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nWhen this enchantment enters, exile target artifact, creature, or enchantment an opponent controls until this enchantment leaves the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/1/f/1fe95bfb-8ca7-434f-a2e7-a6b2e699584e.jpg?1783909503"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2228.4,
+    "end": 2258.4,
+    "cardId": "fe9d717f-242f-4e70-9f6d-8885eac13cf4",
+    "cardName": "Calix, Guided by Fate",
+    "confidence": 0.86,
+    "needsReview": true,
+    "card": {
+      "name": "Calix, Guided by Fate",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Enchantment Creature — Human Druid",
+      "oracleText": "Constellation — Whenever Calix or another enchantment you control enters, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe9d717f-242f-4e70-9f6d-8885eac13cf4.jpg?1783916467"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2254.98,
+    "end": 2284.98,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2275.56,
+    "end": 2305.56,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2355.22,
+    "end": 2385.22,
+    "cardId": "77dc13fd-8e08-4846-87ef-0562bdd3ba93",
+    "cardName": "Teleportation Circle",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Teleportation Circle",
+      "manaCost": "{3}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your end step, exile up to one target artifact or creature you control, then return that card to the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/7/7/77dc13fd-8e08-4846-87ef-0562bdd3ba93.jpg?1783926394"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2360.14,
+    "end": 2390.14,
+    "cardId": "a16fabbe-4557-4067-b882-f2e5dbd8b458",
+    "cardName": "Sword of Hearth and Home",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Sword of Hearth and Home",
+      "manaCost": "{3}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature gets +2/+2 and has protection from green and from white.\nWhenever equipped creature deals combat damage to a player, exile up to one target creature you own, then search your library for a basic land card. Put both cards onto the battlefield under your control, then shuffle.\nEquip {2}",
+      "image": "https://cards.scryfall.io/normal/front/a/1/a16fabbe-4557-4067-b882-f2e5dbd8b458.jpg?1783926799"
+    },
+    "cards": [
+      {
+        "cardId": "a16fabbe-4557-4067-b882-f2e5dbd8b458",
+        "cardName": "Sword of Hearth and Home",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Sword of Hearth and Home",
+          "manaCost": "{3}",
+          "typeLine": "Artifact — Equipment",
+          "oracleText": "Equipped creature gets +2/+2 and has protection from green and from white.\nWhenever equipped creature deals combat damage to a player, exile up to one target creature you own, then search your library for a basic land card. Put both cards onto the battlefield under your control, then shuffle.\nEquip {2}",
+          "image": "https://cards.scryfall.io/normal/front/a/1/a16fabbe-4557-4067-b882-f2e5dbd8b458.jpg?1783926799"
+        }
+      },
+      {
+        "cardId": "27b52628-de05-4ec1-9978-e998cf17bb26",
+        "cardName": "Thassa, Deep-Dwelling",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Thassa, Deep-Dwelling",
+          "manaCost": "{3}{U}",
+          "typeLine": "Legendary Enchantment Creature — God",
+          "oracleText": "Indestructible\nAs long as your devotion to blue is less than five, Thassa isn't a creature.\nAt the beginning of your end step, exile up to one other target creature you control, then return that card to the battlefield under your control.\n{3}{U}: Tap another target creature.",
+          "image": "https://cards.scryfall.io/normal/front/2/7/27b52628-de05-4ec1-9978-e998cf17bb26.jpg?1783931504"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2366.92,
+    "end": 2396.92,
+    "cardId": "27b52628-de05-4ec1-9978-e998cf17bb26",
+    "cardName": "Thassa, Deep-Dwelling",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Thassa, Deep-Dwelling",
+      "manaCost": "{3}{U}",
+      "typeLine": "Legendary Enchantment Creature — God",
+      "oracleText": "Indestructible\nAs long as your devotion to blue is less than five, Thassa isn't a creature.\nAt the beginning of your end step, exile up to one other target creature you control, then return that card to the battlefield under your control.\n{3}{U}: Tap another target creature.",
+      "image": "https://cards.scryfall.io/normal/front/2/7/27b52628-de05-4ec1-9978-e998cf17bb26.jpg?1783931504"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2376.82,
+    "end": 2406.82,
+    "cardId": "a80511f8-7cb1-4974-afde-8a5cebe13ad7",
+    "cardName": "Summon: Shiva",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Summon: Shiva",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Enchantment Creature — Saga Elemental",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Heavenly Strike — Tap target creature an opponent controls. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nIII — Diamond Dust — Draw a card for each tapped creature your opponents control.",
+      "image": "https://cards.scryfall.io/normal/front/a/8/a80511f8-7cb1-4974-afde-8a5cebe13ad7.jpg?1783906628"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2429.32,
+    "end": 2459.32,
+    "cardId": "3ea2ebb2-1a88-4371-a948-512f8dc18d0d",
+    "cardName": "Writ of Return",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Writ of Return",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return target creature card from your graveyard to the battlefield tapped.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",
+      "image": "https://cards.scryfall.io/normal/front/3/e/3ea2ebb2-1a88-4371-a948-512f8dc18d0d.jpg?1783923317"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2435.32,
+    "end": 2465.32,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2441.84,
+    "end": 2471.84,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2447.92,
+    "end": 2477.92,
+    "cardId": "5b0d446b-75ac-49d8-911a-73d17419ff05",
+    "cardName": "Overlord of the Floodpits",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Overlord of the Floodpits",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Enchantment Creature — Avatar Horror",
+      "oracleText": "Impending 4—{1}{U}{U} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)\nFlying\nWhenever this permanent enters or attacks, draw two cards, then discard a card.",
+      "image": "https://cards.scryfall.io/normal/front/5/b/5b0d446b-75ac-49d8-911a-73d17419ff05.jpg?1783909393"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2455.44,
+    "end": 2485.44,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2461.32,
+    "end": 2491.32,
+    "cardId": "acb35dcb-0bee-4deb-88bf-ffa1f110c67b",
+    "cardName": "Summon: Ixion",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Summon: Ixion",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment Creature — Saga Unicorn",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Aerospark — Exile target creature an opponent controls until this Saga leaves the battlefield.\nII, III — Put a +1/+1 counter on each of up to two target creatures you control. You gain 2 life.\nFirst strike",
+      "image": "https://cards.scryfall.io/normal/front/a/c/acb35dcb-0bee-4deb-88bf-ffa1f110c67b.jpg?1783906365"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2468.08,
+    "end": 2498.08,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 0.83,
+    "needsReview": true,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2476.72,
+    "end": 2506.72,
+    "cardId": "3ea2ebb2-1a88-4371-a948-512f8dc18d0d",
+    "cardName": "Writ of Return",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Writ of Return",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return target creature card from your graveyard to the battlefield tapped.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",
+      "image": "https://cards.scryfall.io/normal/front/3/e/3ea2ebb2-1a88-4371-a948-512f8dc18d0d.jpg?1783923317"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2500.32,
+    "end": 2530.32,
+    "cardId": "aa4f6703-21f8-4c29-ad5a-5afb54188ade",
+    "cardName": "Summon: Anima",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Summon: Anima",
+      "manaCost": "{4}{B}{B}",
+      "typeLine": "Enchantment Creature — Saga Horror",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI, II, III — Pain — You draw a card and you lose 1 life.\nIV — Oblivion — Each opponent sacrifices a creature of their choice and loses 3 life.\nMenace",
+      "image": "https://cards.scryfall.io/normal/front/a/a/aa4f6703-21f8-4c29-ad5a-5afb54188ade.jpg?1783906610"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2504.24,
+    "end": 2534.24,
+    "cardId": "3545341b-dacc-4ac8-976e-39754a62bbc3",
+    "cardName": "The Master of Keys",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Master of Keys",
+      "manaCost": "{X}{W}{U}{B}",
+      "typeLine": "Legendary Enchantment Creature — Horror",
+      "oracleText": "Flying\nWhen The Master of Keys enters, put X +1/+1 counters on it and mill twice X cards.\nEach enchantment card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)",
+      "image": "https://cards.scryfall.io/normal/front/3/5/3545341b-dacc-4ac8-976e-39754a62bbc3.jpg?1783909663"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2521.4,
+    "end": 2551.4,
+    "cardId": "77dc13fd-8e08-4846-87ef-0562bdd3ba93",
+    "cardName": "Teleportation Circle",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Teleportation Circle",
+      "manaCost": "{3}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your end step, exile up to one target artifact or creature you control, then return that card to the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/7/7/77dc13fd-8e08-4846-87ef-0562bdd3ba93.jpg?1783926394"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2526.1,
+    "end": 2556.1,
+    "cardId": "71991921-a860-44fe-9005-bf604c723167",
+    "cardName": "Ondu Spiritdancer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Ondu Spiritdancer",
+      "manaCost": "{4}{W}",
+      "typeLine": "Creature — Kor Cleric",
+      "oracleText": "Whenever an enchantment you control enters, you may create a token that's a copy of it. Do this only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/7/1/71991921-a860-44fe-9005-bf604c723167.jpg?1783915484"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2534.1,
+    "end": 2564.1,
+    "cardId": "e0474d99-48e5-4e60-8cd6-537a10bcfea5",
+    "cardName": "Summon: Valefor",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Summon: Valefor",
+      "manaCost": "{4}{U}",
+      "typeLine": "Enchantment Creature — Saga Drake",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI — Sonic Wings — Each opponent chooses a creature with the greatest mana value among creatures they control. Return those creatures to their owners' hands.\nII, III, IV — Tap up to one target creature and put a stun counter on it.\nFlying",
+      "image": "https://cards.scryfall.io/normal/front/e/0/e0474d99-48e5-4e60-8cd6-537a10bcfea5.jpg?1783906359"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2547.66,
+    "end": 2577.66,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2552.92,
+    "end": 2582.92,
+    "cardId": "48237c98-5067-47a8-af74-7b9bce57c6a4",
+    "cardName": "Funeral Room // Awakening Hall",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Funeral Room // Awakening Hall",
+      "manaCost": "{2}{B} // {6}{B}{B}",
+      "typeLine": "Enchantment — Room // Enchantment — Room",
+      "image": "https://cards.scryfall.io/normal/front/4/8/48237c98-5067-47a8-af74-7b9bce57c6a4.jpg?1783909480",
+      "faces": [
+        {
+          "name": "Funeral Room",
+          "manaCost": "{2}{B}",
+          "typeLine": "Enchantment — Room",
+          "oracleText": "Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.\n(You may cast either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it.)"
+        },
+        {
+          "name": "Awakening Hall",
+          "manaCost": "{6}{B}{B}",
+          "typeLine": "Enchantment — Room",
+          "oracleText": "When you unlock this door, return all creature cards from your graveyard to the battlefield.\n(You may cast either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it.)"
+        }
+      ]
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2572.84,
+    "end": 2602.84,
+    "cardId": "aa409269-3698-42a2-8c51-75557b27a6f6",
+    "cardName": "Yoshimaru, Ever Faithful",
+    "confidence": 0.86,
+    "needsReview": true,
+    "card": {
+      "name": "Yoshimaru, Ever Faithful",
+      "manaCost": "{W}",
+      "typeLine": "Legendary Creature — Dog",
+      "oracleText": "Whenever another legendary permanent you control enters, put a +1/+1 counter on Yoshimaru.\nPartner (You can have two commanders if both have partner.)",
+      "image": "https://cards.scryfall.io/normal/front/a/a/aa409269-3698-42a2-8c51-75557b27a6f6.jpg?1783923987"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2582.48,
+    "end": 2612.48,
+    "cardId": "e0474d99-48e5-4e60-8cd6-537a10bcfea5",
+    "cardName": "Summon: Valefor",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Summon: Valefor",
+      "manaCost": "{4}{U}",
+      "typeLine": "Enchantment Creature — Saga Drake",
+      "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI — Sonic Wings — Each opponent chooses a creature with the greatest mana value among creatures they control. Return those creatures to their owners' hands.\nII, III, IV — Tap up to one target creature and put a stun counter on it.\nFlying",
+      "image": "https://cards.scryfall.io/normal/front/e/0/e0474d99-48e5-4e60-8cd6-537a10bcfea5.jpg?1783906359"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2608.36,
+    "end": 2638.36,
+    "cardId": "48237c98-5067-47a8-af74-7b9bce57c6a4",
+    "cardName": "Funeral Room // Awakening Hall",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Funeral Room // Awakening Hall",
+      "manaCost": "{2}{B} // {6}{B}{B}",
+      "typeLine": "Enchantment — Room // Enchantment — Room",
+      "image": "https://cards.scryfall.io/normal/front/4/8/48237c98-5067-47a8-af74-7b9bce57c6a4.jpg?1783909480",
+      "faces": [
+        {
+          "name": "Funeral Room",
+          "manaCost": "{2}{B}",
+          "typeLine": "Enchantment — Room",
+          "oracleText": "Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.\n(You may cast either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it.)"
+        },
+        {
+          "name": "Awakening Hall",
+          "manaCost": "{6}{B}{B}",
+          "typeLine": "Enchantment — Room",
+          "oracleText": "When you unlock this door, return all creature cards from your graveyard to the battlefield.\n(You may cast either half. That door unlocks on the battlefield. As a sorcery, you may pay the mana cost of a locked door to unlock it.)"
+        }
+      ]
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2618.4,
+    "end": 2648.4,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2666.58,
+    "end": 2696.58,
+    "cardId": "396f9198-67b6-45d8-91b4-dc853bff9623",
+    "cardName": "Abdel Adrian, Gorion's Ward",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Abdel Adrian, Gorion's Ward",
+      "manaCost": "{4}{W}",
+      "typeLine": "Legendary Creature — Human Warrior",
+      "oracleText": "When Abdel Adrian enters, exile any number of other nonland permanents you control until Abdel Adrian leaves the battlefield. Create a 1/1 white Soldier creature token for each permanent exiled this way.\nChoose a Background (You can have a Background as a second commander.)",
+      "image": "https://cards.scryfall.io/normal/front/3/9/396f9198-67b6-45d8-91b4-dc853bff9623.jpg?1783922823"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2702.92,
+    "end": 2732.92,
+    "cardId": "e9ded49d-2679-4d4a-b151-4aa693ffed5f",
+    "cardName": "Kasla, the Broken Halo",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kasla, the Broken Halo",
+      "manaCost": "{3}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Angel Ally",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying, vigilance, haste\nWhenever you cast another spell that has convoke, scry 2, then draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e9ded49d-2679-4d4a-b151-4aa693ffed5f.jpg?1783917216"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2713.3,
+    "end": 2743.3,
+    "cardId": "5a42fc7d-52ac-4e95-9e04-8f8fa7f687c8",
+    "cardName": "Shiko and Narset, Unified",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Shiko and Narset, Unified",
+      "manaCost": "{1}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Human Spirit Dragon",
+      "oracleText": "Flying, vigilance\nFlurry — Whenever you cast your second spell each turn, copy that spell if it targets a permanent or player, and you may choose new targets for the copy. If you don't copy a spell this way, draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/5/a/5a42fc7d-52ac-4e95-9e04-8f8fa7f687c8.jpg?1783907190"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2722.38,
+    "end": 2752.38,
+    "cardId": "e9ded49d-2679-4d4a-b151-4aa693ffed5f",
+    "cardName": "Kasla, the Broken Halo",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kasla, the Broken Halo",
+      "manaCost": "{3}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Angel Ally",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying, vigilance, haste\nWhenever you cast another spell that has convoke, scry 2, then draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e9ded49d-2679-4d4a-b151-4aa693ffed5f.jpg?1783917216"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2733.26,
+    "end": 2763.26,
+    "cardId": "e3868c3d-4fcd-444b-866f-0f8e50ce7b67",
+    "cardName": "Preordain",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Preordain",
+      "manaCost": "{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+      "image": "https://cards.scryfall.io/normal/front/e/3/e3868c3d-4fcd-444b-866f-0f8e50ce7b67.jpg?1783941822"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2736.56,
+    "end": 2766.56,
+    "cardId": "e3868c3d-4fcd-444b-866f-0f8e50ce7b67",
+    "cardName": "Preordain",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Preordain",
+      "manaCost": "{U}",
+      "typeLine": "Sorcery",
+      "oracleText": "Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+      "image": "https://cards.scryfall.io/normal/front/e/3/e3868c3d-4fcd-444b-866f-0f8e50ce7b67.jpg?1783941822"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2859.3,
+    "end": 2889.3,
+    "cardId": "f3537373-ef54-4578-9d05-6216420ee349",
+    "cardName": "Esper Sentinel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Esper Sentinel",
+      "manaCost": "{W}",
+      "typeLine": "Artifact Creature — Human Soldier",
+      "oracleText": "Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.",
+      "image": "https://cards.scryfall.io/normal/front/f/3/f3537373-ef54-4578-9d05-6216420ee349.jpg?1783926893"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2863.94,
+    "end": 2893.94,
+    "cardId": "76c3cad2-1e25-4abe-878d-9194de6fcc27",
+    "cardName": "Guide of Souls",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guide of Souls",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "Whenever another creature you control enters, you gain 1 life and get {E} (an energy counter).\nWhenever you attack, you may pay {E}{E}{E}. When you do, put two +1/+1 counters and a flying counter on target attacking creature. It becomes an Angel in addition to its other types.",
+      "image": "https://cards.scryfall.io/normal/front/7/6/76c3cad2-1e25-4abe-878d-9194de6fcc27.jpg?1790212061"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2874.7,
+    "end": 2904.7,
+    "cardId": "3938ec1f-979c-48e5-bb13-bebace006a8f",
+    "cardName": "Giant Koi",
+    "confidence": 0.911,
+    "needsReview": true,
+    "card": {
+      "name": "Giant Koi",
+      "manaCost": "{4}{U}{U}",
+      "typeLine": "Creature — Fish",
+      "oracleText": "Waterbend {3}: This creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nIslandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",
+      "image": "https://cards.scryfall.io/normal/front/3/9/3938ec1f-979c-48e5-bb13-bebace006a8f.jpg?1783904988"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2880.58,
+    "end": 2910.58,
+    "cardId": "0b1a46ab-95cb-4c24-924f-fc2afd4fcac7",
+    "cardName": "Mother of Runes",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mother of Runes",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "{T}: Target creature you control gains protection from the color of your choice until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/0/b/0b1a46ab-95cb-4c24-924f-fc2afd4fcac7.jpg?1783946251"
+    },
+    "cards": [
+      {
+        "cardId": "0b1a46ab-95cb-4c24-924f-fc2afd4fcac7",
+        "cardName": "Mother of Runes",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Mother of Runes",
+          "manaCost": "{W}",
+          "typeLine": "Creature — Human Cleric",
+          "oracleText": "{T}: Target creature you control gains protection from the color of your choice until end of turn.",
+          "image": "https://cards.scryfall.io/normal/front/0/b/0b1a46ab-95cb-4c24-924f-fc2afd4fcac7.jpg?1783946251"
+        }
+      },
+      {
+        "cardId": "6911759c-7177-402c-a95a-f9f46efaf521",
+        "cardName": "Selfless Savior",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Selfless Savior",
+          "manaCost": "{W}",
+          "typeLine": "Creature — Dog",
+          "oracleText": "Sacrifice this creature: Another target creature you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+          "image": "https://cards.scryfall.io/normal/front/6/9/6911759c-7177-402c-a95a-f9f46efaf521.jpg?1783930734"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2886.66,
+    "end": 2916.66,
+    "cardId": "f99f3a14-3a7c-4c1c-b747-c6b1144ef1f1",
+    "cardName": "Zack Fair",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zack Fair",
+      "manaCost": "{W}",
+      "typeLine": "Legendary Creature — Human Soldier",
+      "oracleText": "Zack Fair enters with a +1/+1 counter on it.\n{1}, Sacrifice Zack Fair: Target creature you control gains indestructible until end of turn. Put Zack Fair's counters on that creature and attach an Equipment that was attached to Zack Fair to that creature.",
+      "image": "https://cards.scryfall.io/normal/front/f/9/f99f3a14-3a7c-4c1c-b747-c6b1144ef1f1.jpg?1783906487"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2909.04,
+    "end": 2939.04,
+    "cardId": "56cd89f1-f9f4-4cb5-a573-79809d0b6dfd",
+    "cardName": "Tocasia's Welcome",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tocasia's Welcome",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/5/6/56cd89f1-f9f4-4cb5-a573-79809d0b6dfd.jpg?1783920123"
+    },
+    "cards": [
+      {
+        "cardId": "56cd89f1-f9f4-4cb5-a573-79809d0b6dfd",
+        "cardName": "Tocasia's Welcome",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Tocasia's Welcome",
+          "manaCost": "{2}{W}",
+          "typeLine": "Enchantment",
+          "oracleText": "Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn.",
+          "image": "https://cards.scryfall.io/normal/front/5/6/56cd89f1-f9f4-4cb5-a573-79809d0b6dfd.jpg?1783920123"
+        }
+      },
+      {
+        "cardId": "fd60ee8d-fb50-41df-89a8-aed5a53d755f",
+        "cardName": "Welcoming Vampire",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Welcoming Vampire",
+          "manaCost": "{2}{W}",
+          "typeLine": "Creature — Vampire",
+          "oracleText": "Flying\nWhenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.",
+          "image": "https://cards.scryfall.io/normal/front/f/d/fd60ee8d-fb50-41df-89a8-aed5a53d755f.jpg?1783924768"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2922.76,
+    "end": 2952.76,
+    "cardId": "56cd89f1-f9f4-4cb5-a573-79809d0b6dfd",
+    "cardName": "Tocasia's Welcome",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Tocasia's Welcome",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/5/6/56cd89f1-f9f4-4cb5-a573-79809d0b6dfd.jpg?1783920123"
+    },
+    "cards": [
+      {
+        "cardId": "56cd89f1-f9f4-4cb5-a573-79809d0b6dfd",
+        "cardName": "Tocasia's Welcome",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Tocasia's Welcome",
+          "manaCost": "{2}{W}",
+          "typeLine": "Enchantment",
+          "oracleText": "Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn.",
+          "image": "https://cards.scryfall.io/normal/front/5/6/56cd89f1-f9f4-4cb5-a573-79809d0b6dfd.jpg?1783920123"
+        }
+      },
+      {
+        "cardId": "fd60ee8d-fb50-41df-89a8-aed5a53d755f",
+        "cardName": "Welcoming Vampire",
+        "confidence": 0.96,
+        "needsReview": false,
+        "card": {
+          "name": "Welcoming Vampire",
+          "manaCost": "{2}{W}",
+          "typeLine": "Creature — Vampire",
+          "oracleText": "Flying\nWhenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.",
+          "image": "https://cards.scryfall.io/normal/front/f/d/fd60ee8d-fb50-41df-89a8-aed5a53d755f.jpg?1783924768"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2944.4,
+    "end": 2974.4,
+    "cardId": "8ee73fe8-d52b-43bb-ab91-5545192be676",
+    "cardName": "Austere Command",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Austere Command",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose two —\n• Destroy all artifacts.\n• Destroy all enchantments.\n• Destroy all creatures with mana value 3 or less.\n• Destroy all creatures with mana value 4 or greater.",
+      "image": "https://cards.scryfall.io/normal/front/8/e/8ee73fe8-d52b-43bb-ab91-5545192be676.jpg?1783942918"
+    },
+    "cards": [
+      {
+        "cardId": "8ee73fe8-d52b-43bb-ab91-5545192be676",
+        "cardName": "Austere Command",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Austere Command",
+          "manaCost": "{4}{W}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Choose two —\n• Destroy all artifacts.\n• Destroy all enchantments.\n• Destroy all creatures with mana value 3 or less.\n• Destroy all creatures with mana value 4 or greater.",
+          "image": "https://cards.scryfall.io/normal/front/8/e/8ee73fe8-d52b-43bb-ab91-5545192be676.jpg?1783942918"
+        }
+      },
+      {
+        "cardId": "937dbc51-b589-4237-9fce-ea5c757f7c48",
+        "cardName": "Dusk // Dawn",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Dusk // Dawn",
+          "manaCost": "{2}{W}{W} // {3}{W}{W}",
+          "typeLine": "Sorcery // Sorcery",
+          "image": "https://cards.scryfall.io/normal/front/9/3/937dbc51-b589-4237-9fce-ea5c757f7c48.jpg?1783936459",
+          "faces": [
+            {
+              "name": "Dusk",
+              "manaCost": "{2}{W}{W}",
+              "typeLine": "Sorcery",
+              "oracleText": "Destroy all creatures with power 3 or greater."
+            },
+            {
+              "name": "Dawn",
+              "manaCost": "{3}{W}{W}",
+              "typeLine": "Sorcery",
+              "oracleText": "Aftermath (Cast this spell only from your graveyard. Then exile it.)\nReturn all creature cards with power 2 or less from your graveyard to your hand."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2960.64,
+    "end": 2990.64,
+    "cardId": "dd64fe7f-2c06-42f8-96ac-47e4c38dc149",
+    "cardName": "Localized Destruction",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Localized Destruction",
+      "manaCost": "{3}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "You get {E} (an energy counter), then you may pay one or more {E}. If you do, each creature you control with power equal to the amount of {E} paid this way gains indestructible until end of turn.\nDestroy all creatures.",
+      "image": "https://cards.scryfall.io/normal/front/d/d/dd64fe7f-2c06-42f8-96ac-47e4c38dc149.jpg?1783911427"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2980.14,
+    "end": 3010.14,
+    "cardId": "3938ec1f-979c-48e5-bb13-bebace006a8f",
+    "cardName": "Giant Koi",
+    "confidence": 0.911,
+    "needsReview": true,
+    "card": {
+      "name": "Giant Koi",
+      "manaCost": "{4}{U}{U}",
+      "typeLine": "Creature — Fish",
+      "oracleText": "Waterbend {3}: This creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nIslandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",
+      "image": "https://cards.scryfall.io/normal/front/3/9/3938ec1f-979c-48e5-bb13-bebace006a8f.jpg?1783904988"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2984.18,
+    "end": 3014.18,
+    "cardId": "f99f3a14-3a7c-4c1c-b747-c6b1144ef1f1",
+    "cardName": "Zack Fair",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Zack Fair",
+      "manaCost": "{W}",
+      "typeLine": "Legendary Creature — Human Soldier",
+      "oracleText": "Zack Fair enters with a +1/+1 counter on it.\n{1}, Sacrifice Zack Fair: Target creature you control gains indestructible until end of turn. Put Zack Fair's counters on that creature and attach an Equipment that was attached to Zack Fair to that creature.",
+      "image": "https://cards.scryfall.io/normal/front/f/9/f99f3a14-3a7c-4c1c-b747-c6b1144ef1f1.jpg?1783906487"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2985.52,
+    "end": 3015.52,
+    "cardId": "72f7375c-2d9b-4738-b539-00e1949980e7",
+    "cardName": "Siren Stormtamer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Siren Stormtamer",
+      "manaCost": "{U}",
+      "typeLine": "Creature — Siren Pirate Wizard",
+      "oracleText": "Flying\n{U}, Sacrifice this creature: Counter target spell or ability that targets you or a creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/7/2/72f7375c-2d9b-4738-b539-00e1949980e7.jpg?1783935772"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2987.44,
+    "end": 3017.44,
+    "cardId": "44e4f5e6-935e-429f-89b4-4571376f442e",
+    "cardName": "Kami of False Hope",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kami of False Hope",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Spirit",
+      "oracleText": "Sacrifice this creature: Prevent all combat damage that would be dealt this turn.",
+      "image": "https://cards.scryfall.io/normal/front/4/4/44e4f5e6-935e-429f-89b4-4571376f442e.jpg?1783944214"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3018.36,
+    "end": 3048.36,
+    "cardId": "ac318a61-40c5-4772-b8a6-6843dfb62ef4",
+    "cardName": "Mr. House, President and CEO",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mr. House, President and CEO",
+      "manaCost": "{R}{W}{B}",
+      "typeLine": "Legendary Artifact Creature — Human",
+      "oracleText": "Whenever you roll a 4 or higher, create a 3/3 colorless Robot artifact creature token. If you rolled 6 or higher, instead create that token and a Treasure token.\n{4}, {T}: Roll a six-sided die plus an additional six-sided die for each mana from Treasures spent to activate this ability.",
+      "image": "https://cards.scryfall.io/normal/front/a/c/ac318a61-40c5-4772-b8a6-6843dfb62ef4.jpg?1783912274"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3065.28,
+    "end": 3095.28,
+    "cardId": "04f3db71-802f-488c-b40d-ac90df2d660a",
+    "cardName": "Rakdos, Lord of Riots",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Rakdos, Lord of Riots",
+      "manaCost": "{B}{B}{R}{R}",
+      "typeLine": "Legendary Creature — Demon",
+      "oracleText": "You can't cast Rakdos unless an opponent lost life this turn.\nFlying, trample\nCreature spells you cast cost {1} less to cast for each 1 life your opponents have lost this turn.",
+      "image": "https://cards.scryfall.io/normal/front/0/4/04f3db71-802f-488c-b40d-ac90df2d660a.jpg?1783940334"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3068.98,
+    "end": 3098.98,
+    "cardId": "04f3db71-802f-488c-b40d-ac90df2d660a",
+    "cardName": "Rakdos, Lord of Riots",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Rakdos, Lord of Riots",
+      "manaCost": "{B}{B}{R}{R}",
+      "typeLine": "Legendary Creature — Demon",
+      "oracleText": "You can't cast Rakdos unless an opponent lost life this turn.\nFlying, trample\nCreature spells you cast cost {1} less to cast for each 1 life your opponents have lost this turn.",
+      "image": "https://cards.scryfall.io/normal/front/0/4/04f3db71-802f-488c-b40d-ac90df2d660a.jpg?1783940334"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3073.66,
+    "end": 3103.66,
+    "cardId": "04f3db71-802f-488c-b40d-ac90df2d660a",
+    "cardName": "Rakdos, Lord of Riots",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Rakdos, Lord of Riots",
+      "manaCost": "{B}{B}{R}{R}",
+      "typeLine": "Legendary Creature — Demon",
+      "oracleText": "You can't cast Rakdos unless an opponent lost life this turn.\nFlying, trample\nCreature spells you cast cost {1} less to cast for each 1 life your opponents have lost this turn.",
+      "image": "https://cards.scryfall.io/normal/front/0/4/04f3db71-802f-488c-b40d-ac90df2d660a.jpg?1783940334"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3088.06,
+    "end": 3118.06,
+    "cardId": "0b1a46ab-95cb-4c24-924f-fc2afd4fcac7",
+    "cardName": "Mother of Runes",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mother of Runes",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "{T}: Target creature you control gains protection from the color of your choice until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/0/b/0b1a46ab-95cb-4c24-924f-fc2afd4fcac7.jpg?1783946251"
+    },
+    "cards": [
+      {
+        "cardId": "0b1a46ab-95cb-4c24-924f-fc2afd4fcac7",
+        "cardName": "Mother of Runes",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Mother of Runes",
+          "manaCost": "{W}",
+          "typeLine": "Creature — Human Cleric",
+          "oracleText": "{T}: Target creature you control gains protection from the color of your choice until end of turn.",
+          "image": "https://cards.scryfall.io/normal/front/0/b/0b1a46ab-95cb-4c24-924f-fc2afd4fcac7.jpg?1783946251"
+        }
+      },
+      {
+        "cardId": "6911759c-7177-402c-a95a-f9f46efaf521",
+        "cardName": "Selfless Savior",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Selfless Savior",
+          "manaCost": "{W}",
+          "typeLine": "Creature — Dog",
+          "oracleText": "Sacrifice this creature: Another target creature you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+          "image": "https://cards.scryfall.io/normal/front/6/9/6911759c-7177-402c-a95a-f9f46efaf521.jpg?1783930734"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3099.54,
+    "end": 3129.54,
+    "cardId": "e9ded49d-2679-4d4a-b151-4aa693ffed5f",
+    "cardName": "Kasla, the Broken Halo",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kasla, the Broken Halo",
+      "manaCost": "{3}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Angel Ally",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying, vigilance, haste\nWhenever you cast another spell that has convoke, scry 2, then draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e9ded49d-2679-4d4a-b151-4aa693ffed5f.jpg?1783917216"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3114.38,
+    "end": 3144.38,
+    "cardId": "666aefc2-44e0-4c27-88d5-7906f245a71f",
+    "cardName": "Dewdrop Cure",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dewdrop Cure",
+      "manaCost": "{2}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nReturn up to two target creature cards each with mana value 2 or less from your graveyard to the battlefield. If the gift was promised, instead return up to three target creature cards each with mana value 2 or less from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/6/6/666aefc2-44e0-4c27-88d5-7906f245a71f.jpg?1783910862"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3126.94,
+    "end": 3156.94,
+    "cardId": "666aefc2-44e0-4c27-88d5-7906f245a71f",
+    "cardName": "Dewdrop Cure",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dewdrop Cure",
+      "manaCost": "{2}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nReturn up to two target creature cards each with mana value 2 or less from your graveyard to the battlefield. If the gift was promised, instead return up to three target creature cards each with mana value 2 or less from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/6/6/666aefc2-44e0-4c27-88d5-7906f245a71f.jpg?1783910862"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3147.9,
+    "end": 3177.9,
+    "cardId": "44e4f5e6-935e-429f-89b4-4571376f442e",
+    "cardName": "Kami of False Hope",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kami of False Hope",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Spirit",
+      "oracleText": "Sacrifice this creature: Prevent all combat damage that would be dealt this turn.",
+      "image": "https://cards.scryfall.io/normal/front/4/4/44e4f5e6-935e-429f-89b4-4571376f442e.jpg?1783944214"
+    },
+    "cards": [
+      {
+        "cardId": "44e4f5e6-935e-429f-89b4-4571376f442e",
+        "cardName": "Kami of False Hope",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Kami of False Hope",
+          "manaCost": "{W}",
+          "typeLine": "Creature — Spirit",
+          "oracleText": "Sacrifice this creature: Prevent all combat damage that would be dealt this turn.",
+          "image": "https://cards.scryfall.io/normal/front/4/4/44e4f5e6-935e-429f-89b4-4571376f442e.jpg?1783944214"
+        }
+      },
+      {
+        "cardId": "6911759c-7177-402c-a95a-f9f46efaf521",
+        "cardName": "Selfless Savior",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Selfless Savior",
+          "manaCost": "{W}",
+          "typeLine": "Creature — Dog",
+          "oracleText": "Sacrifice this creature: Another target creature you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+          "image": "https://cards.scryfall.io/normal/front/6/9/6911759c-7177-402c-a95a-f9f46efaf521.jpg?1783930734"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3154.22,
+    "end": 3184.22,
+    "cardId": "42465c20-16f8-46a2-96fe-b52a9eac3df9",
+    "cardName": "Harmonized Crescendo",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Harmonized Crescendo",
+      "manaCost": "{4}{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nChoose a creature type. Draw a card for each permanent you control of that type.",
+      "image": "https://cards.scryfall.io/normal/front/4/2/42465c20-16f8-46a2-96fe-b52a9eac3df9.jpg?1783904364"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3160.58,
+    "end": 3190.58,
+    "cardId": "e9ded49d-2679-4d4a-b151-4aa693ffed5f",
+    "cardName": "Kasla, the Broken Halo",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kasla, the Broken Halo",
+      "manaCost": "{3}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Angel Ally",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying, vigilance, haste\nWhenever you cast another spell that has convoke, scry 2, then draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e9ded49d-2679-4d4a-b151-4aa693ffed5f.jpg?1783917216"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3164.86,
+    "end": 3194.86,
+    "cardId": "666aefc2-44e0-4c27-88d5-7906f245a71f",
+    "cardName": "Dewdrop Cure",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dewdrop Cure",
+      "manaCost": "{2}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nReturn up to two target creature cards each with mana value 2 or less from your graveyard to the battlefield. If the gift was promised, instead return up to three target creature cards each with mana value 2 or less from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/6/6/666aefc2-44e0-4c27-88d5-7906f245a71f.jpg?1783910862"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3177.14,
+    "end": 3207.14,
+    "cardId": "db113c47-c403-4c7f-9fa9-212c977df8d1",
+    "cardName": "Abiding Grace",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Abiding Grace",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your end step, choose one —\n• You gain 1 life.\n• Return target creature card with mana value 1 from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/d/b/db113c47-c403-4c7f-9fa9-212c977df8d1.jpg?1783926898"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3198.26,
+    "end": 3228.26,
+    "cardId": "44e4f5e6-935e-429f-89b4-4571376f442e",
+    "cardName": "Kami of False Hope",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kami of False Hope",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Spirit",
+      "oracleText": "Sacrifice this creature: Prevent all combat damage that would be dealt this turn.",
+      "image": "https://cards.scryfall.io/normal/front/4/4/44e4f5e6-935e-429f-89b4-4571376f442e.jpg?1783944214"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3202.52,
+    "end": 3232.52,
+    "cardId": "db113c47-c403-4c7f-9fa9-212c977df8d1",
+    "cardName": "Abiding Grace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Abiding Grace",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your end step, choose one —\n• You gain 1 life.\n• Return target creature card with mana value 1 from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/d/b/db113c47-c403-4c7f-9fa9-212c977df8d1.jpg?1783926898"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3223.84,
+    "end": 3253.84,
+    "cardId": "08e3dda1-a1d3-48c9-8c81-da7eae20ac8a",
+    "cardName": "Guardian of Faith",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guardian of Faith",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Spirit Knight",
+      "oracleText": "Flash\nVigilance\nWhen this creature enters, any number of other target creatures you control phase out. (Treat them and anything attached to them as though they don't exist until their controller's next turn.)",
+      "image": "https://cards.scryfall.io/normal/front/0/8/08e3dda1-a1d3-48c9-8c81-da7eae20ac8a.jpg?1783926532"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3229.24,
+    "end": 3259.24,
+    "cardId": "37b41b59-0296-443b-8a62-8d5c4641ef66",
+    "cardName": "Flare of Fortitude",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Flare of Fortitude",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.jpg?1783911302"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3230.32,
+    "end": 3260.32,
+    "cardId": "fb2f33e3-8055-4fd1-a060-c0cacc091641",
+    "cardName": "Clever Concealment",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Clever Concealment",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAny number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)",
+      "image": "https://cards.scryfall.io/normal/front/f/b/fb2f33e3-8055-4fd1-a060-c0cacc091641.jpg?1783918145"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3264.38,
+    "end": 3294.38,
+    "cardId": "6b26c05b-f166-40ab-9693-2129b4bf75e9",
+    "cardName": "Ascend from Avernus",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Ascend from Avernus",
+      "manaCost": "{X}{W}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return all creature and planeswalker cards with mana value X or less from your graveyard to the battlefield. Exile Ascend from Avernus.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6b26c05b-f166-40ab-9693-2129b4bf75e9.jpg?1783922821"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3291.52,
+    "end": 3321.52,
+    "cardId": "666aefc2-44e0-4c27-88d5-7906f245a71f",
+    "cardName": "Dewdrop Cure",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dewdrop Cure",
+      "manaCost": "{2}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nReturn up to two target creature cards each with mana value 2 or less from your graveyard to the battlefield. If the gift was promised, instead return up to three target creature cards each with mana value 2 or less from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/6/6/666aefc2-44e0-4c27-88d5-7906f245a71f.jpg?1783910862"
+    },
+    "cards": [
+      {
+        "cardId": "666aefc2-44e0-4c27-88d5-7906f245a71f",
+        "cardName": "Dewdrop Cure",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Dewdrop Cure",
+          "manaCost": "{2}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nReturn up to two target creature cards each with mana value 2 or less from your graveyard to the battlefield. If the gift was promised, instead return up to three target creature cards each with mana value 2 or less from your graveyard to the battlefield.",
+          "image": "https://cards.scryfall.io/normal/front/6/6/666aefc2-44e0-4c27-88d5-7906f245a71f.jpg?1783910862"
+        }
+      },
+      {
+        "cardId": "2ce30c92-c5f2-45d2-819e-177390bc26f5",
+        "cardName": "Patch Up",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Patch Up",
+          "manaCost": "{2}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield.",
+          "image": "https://cards.scryfall.io/normal/front/2/c/2ce30c92-c5f2-45d2-819e-177390bc26f5.jpg?1783923158"
+        }
+      },
+      {
+        "cardId": "ebf3a6dd-a447-46f9-8b10-091ac8cbaa18",
+        "cardName": "Scout for Survivors",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Scout for Survivors",
+          "manaCost": "{2}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield. Put a +1/+1 counter on each of them.",
+          "image": "https://cards.scryfall.io/normal/front/e/b/ebf3a6dd-a447-46f9-8b10-091ac8cbaa18.jpg?1783905990"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3305.72,
+    "end": 3335.72,
+    "cardId": "67e35a40-37dd-436c-b4ac-b17b04508c1f",
+    "cardName": "Grand Abolisher",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grand Abolisher",
+      "manaCost": "{W}{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",
+      "image": "https://cards.scryfall.io/normal/front/6/7/67e35a40-37dd-436c-b4ac-b17b04508c1f.jpg?1783941102"
+    },
+    "cards": [
+      {
+        "cardId": "67e35a40-37dd-436c-b4ac-b17b04508c1f",
+        "cardName": "Grand Abolisher",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Grand Abolisher",
+          "manaCost": "{W}{W}",
+          "typeLine": "Creature — Human Cleric",
+          "oracleText": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",
+          "image": "https://cards.scryfall.io/normal/front/6/7/67e35a40-37dd-436c-b4ac-b17b04508c1f.jpg?1783941102"
+        }
+      },
+      {
+        "cardId": "1a84bada-ed6a-4e97-8a0c-05b7cb32d66f",
+        "cardName": "Spellskite",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Spellskite",
+          "manaCost": "{2}",
+          "typeLine": "Artifact Creature — Phyrexian Horror",
+          "oracleText": "{U/P}: Change a target of target spell or ability to this creature. ({U/P} can be paid with either {U} or 2 life.)",
+          "image": "https://cards.scryfall.io/normal/front/1/a/1a84bada-ed6a-4e97-8a0c-05b7cb32d66f.jpg?1783941290"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3315.66,
+    "end": 3345.66,
+    "cardId": "1a84bada-ed6a-4e97-8a0c-05b7cb32d66f",
+    "cardName": "Spellskite",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spellskite",
+      "manaCost": "{2}",
+      "typeLine": "Artifact Creature — Phyrexian Horror",
+      "oracleText": "{U/P}: Change a target of target spell or ability to this creature. ({U/P} can be paid with either {U} or 2 life.)",
+      "image": "https://cards.scryfall.io/normal/front/1/a/1a84bada-ed6a-4e97-8a0c-05b7cb32d66f.jpg?1783941290"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3319.5,
+    "end": 3349.5,
+    "cardId": "1a84bada-ed6a-4e97-8a0c-05b7cb32d66f",
+    "cardName": "Spellskite",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spellskite",
+      "manaCost": "{2}",
+      "typeLine": "Artifact Creature — Phyrexian Horror",
+      "oracleText": "{U/P}: Change a target of target spell or ability to this creature. ({U/P} can be paid with either {U} or 2 life.)",
+      "image": "https://cards.scryfall.io/normal/front/1/a/1a84bada-ed6a-4e97-8a0c-05b7cb32d66f.jpg?1783941290"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3325.68,
+    "end": 3355.68,
+    "cardId": "a747e6cf-c687-4c4f-8e07-d51165d6cb62",
+    "cardName": "Lizard Blades",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lizard Blades",
+      "manaCost": "{1}{R}",
+      "typeLine": "Artifact Creature — Equipment Lizard",
+      "oracleText": "Double strike\nEquipped creature has double strike.\nReconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",
+      "image": "https://cards.scryfall.io/normal/front/a/7/a747e6cf-c687-4c4f-8e07-d51165d6cb62.jpg?1783923864"
+    },
+    "cards": [
+      {
+        "cardId": "a747e6cf-c687-4c4f-8e07-d51165d6cb62",
+        "cardName": "Lizard Blades",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Lizard Blades",
+          "manaCost": "{1}{R}",
+          "typeLine": "Artifact Creature — Equipment Lizard",
+          "oracleText": "Double strike\nEquipped creature has double strike.\nReconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",
+          "image": "https://cards.scryfall.io/normal/front/a/7/a747e6cf-c687-4c4f-8e07-d51165d6cb62.jpg?1783923864"
+        }
+      },
+      {
+        "cardId": "16298ca0-80d4-4299-a550-500b7ef6ac67",
+        "cardName": "Silverblade Paladin",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Silverblade Paladin",
+          "manaCost": "{1}{W}{W}",
+          "typeLine": "Creature — Human Knight",
+          "oracleText": "Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)\nAs long as this creature is paired with another creature, both creatures have double strike.",
+          "image": "https://cards.scryfall.io/normal/front/1/6/16298ca0-80d4-4299-a550-500b7ef6ac67.jpg?1783940729"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3353.46,
+    "end": 3383.46,
+    "cardId": "666aefc2-44e0-4c27-88d5-7906f245a71f",
+    "cardName": "Dewdrop Cure",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dewdrop Cure",
+      "manaCost": "{2}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nReturn up to two target creature cards each with mana value 2 or less from your graveyard to the battlefield. If the gift was promised, instead return up to three target creature cards each with mana value 2 or less from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/6/6/666aefc2-44e0-4c27-88d5-7906f245a71f.jpg?1783910862"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3480.66,
+    "end": 3510.66,
+    "cardId": "666aefc2-44e0-4c27-88d5-7906f245a71f",
+    "cardName": "Dewdrop Cure",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dewdrop Cure",
+      "manaCost": "{2}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nReturn up to two target creature cards each with mana value 2 or less from your graveyard to the battlefield. If the gift was promised, instead return up to three target creature cards each with mana value 2 or less from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/6/6/666aefc2-44e0-4c27-88d5-7906f245a71f.jpg?1783910862"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3547.76,
+    "end": 3577.76,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3581.7,
+    "end": 3611.7,
+    "cardId": "983f4711-20a8-4023-8201-9a74deab10be",
+    "cardName": "Generous Gift",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Generous Gift",
+      "manaCost": "{2}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target permanent. Its controller creates a 3/3 green Elephant creature token.",
+      "image": "https://cards.scryfall.io/normal/front/9/8/983f4711-20a8-4023-8201-9a74deab10be.jpg?1783933163"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3608.78,
+    "end": 3638.78,
+    "cardId": "e9ded49d-2679-4d4a-b151-4aa693ffed5f",
+    "cardName": "Kasla, the Broken Halo",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kasla, the Broken Halo",
+      "manaCost": "{3}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Angel Ally",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying, vigilance, haste\nWhenever you cast another spell that has convoke, scry 2, then draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e9ded49d-2679-4d4a-b151-4aa693ffed5f.jpg?1783917216"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3626.02,
+    "end": 3656.02,
+    "cardId": "fe964e7e-e2c5-4263-889d-0a531eb51442",
+    "cardName": "Luminarch Aspirant",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Luminarch Aspirant",
+      "manaCost": "{1}{W}",
+      "typeLine": "Creature — Human Cleric",
+      "oracleText": "At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe964e7e-e2c5-4263-889d-0a531eb51442.jpg?1783929413"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3627.64,
+    "end": 3657.64,
+    "cardId": "de0ba512-b6c3-4931-be05-cb6bd03a4b7c",
+    "cardName": "Keleth, Sunmane Familiar",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Keleth, Sunmane Familiar",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Horse",
+      "oracleText": "Whenever a commander you control attacks, put a +1/+1 counter on it.\nPartner (You can have two commanders if both have partner.)",
+      "image": "https://cards.scryfall.io/normal/front/d/e/de0ba512-b6c3-4931-be05-cb6bd03a4b7c.jpg?1783928881"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3631.8,
+    "end": 3661.8,
+    "cardId": "1ec084cc-997d-4079-b445-8f701ec3c277",
+    "cardName": "Collective Inferno",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Collective Inferno",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAs this enchantment enters, choose a creature type.\nDouble all damage that sources you control of the chosen type would deal.",
+      "image": "https://cards.scryfall.io/normal/front/1/e/1ec084cc-997d-4079-b445-8f701ec3c277.jpg?1783904449"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3634.7,
+    "end": 3664.7,
+    "cardId": "1ec084cc-997d-4079-b445-8f701ec3c277",
+    "cardName": "Collective Inferno",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Collective Inferno",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nAs this enchantment enters, choose a creature type.\nDouble all damage that sources you control of the chosen type would deal.",
+      "image": "https://cards.scryfall.io/normal/front/1/e/1ec084cc-997d-4079-b445-8f701ec3c277.jpg?1783904449"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3657.4,
+    "end": 3687.4,
+    "cardId": "ebf3a6dd-a447-46f9-8b10-091ac8cbaa18",
+    "cardName": "Scout for Survivors",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Scout for Survivors",
+      "manaCost": "{2}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield. Put a +1/+1 counter on each of them.",
+      "image": "https://cards.scryfall.io/normal/front/e/b/ebf3a6dd-a447-46f9-8b10-091ac8cbaa18.jpg?1783905990"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3670.4,
+    "end": 3700.4,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3675.78,
+    "end": 3705.78,
+    "cardId": "fe9d717f-242f-4e70-9f6d-8885eac13cf4",
+    "cardName": "Calix, Guided by Fate",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Calix, Guided by Fate",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Enchantment Creature — Human Druid",
+      "oracleText": "Constellation — Whenever Calix or another enchantment you control enters, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe9d717f-242f-4e70-9f6d-8885eac13cf4.jpg?1783916467"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3694.28,
+    "end": 3724.28,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 0.89,
+    "needsReview": true,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3703.76,
+    "end": 3733.76,
+    "cardId": "b06078ce-f534-4e16-9a70-d51620a33eb2",
+    "cardName": "Gray Merchant of Asphodel",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gray Merchant of Asphodel",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Creature — Zombie",
+      "oracleText": "When this creature enters, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b06078ce-f534-4e16-9a70-d51620a33eb2.jpg?1783939779"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3713.16,
+    "end": 3743.16,
+    "cardId": "5925c559-3e3c-481b-ba95-20a405cbffce",
+    "cardName": "Vandalblast",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Vandalblast",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+      "image": "https://cards.scryfall.io/normal/front/5/9/5925c559-3e3c-481b-ba95-20a405cbffce.jpg?1783940352"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3721.24,
+    "end": 3751.24,
+    "cardId": "03436927-eedc-48cf-820d-54cef4360f13",
+    "cardName": "Scrap Mastery",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Scrap Mastery",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player exiles all artifact cards from their graveyard, then sacrifices all artifacts they control, then puts all cards they exiled this way onto the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/0/3/03436927-eedc-48cf-820d-54cef4360f13.jpg?1783938867"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3731.9,
+    "end": 3761.9,
+    "cardId": "5925c559-3e3c-481b-ba95-20a405cbffce",
+    "cardName": "Vandalblast",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Vandalblast",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+      "image": "https://cards.scryfall.io/normal/front/5/9/5925c559-3e3c-481b-ba95-20a405cbffce.jpg?1783940352"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3741.92,
+    "end": 3771.92,
+    "cardId": "5925c559-3e3c-481b-ba95-20a405cbffce",
+    "cardName": "Vandalblast",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Vandalblast",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+      "image": "https://cards.scryfall.io/normal/front/5/9/5925c559-3e3c-481b-ba95-20a405cbffce.jpg?1783940352"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3766,
+    "end": 3796,
+    "cardId": "e9ded49d-2679-4d4a-b151-4aa693ffed5f",
+    "cardName": "Kasla, the Broken Halo",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kasla, the Broken Halo",
+      "manaCost": "{3}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Angel Ally",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying, vigilance, haste\nWhenever you cast another spell that has convoke, scry 2, then draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e9ded49d-2679-4d4a-b151-4aa693ffed5f.jpg?1783917216"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3783.38,
+    "end": 3813.38,
+    "cardId": "e9ded49d-2679-4d4a-b151-4aa693ffed5f",
+    "cardName": "Kasla, the Broken Halo",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kasla, the Broken Halo",
+      "manaCost": "{3}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Angel Ally",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying, vigilance, haste\nWhenever you cast another spell that has convoke, scry 2, then draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e9ded49d-2679-4d4a-b151-4aa693ffed5f.jpg?1783917216"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3806.16,
+    "end": 3836.16,
+    "cardId": "ddb3321c-6b3f-4e7e-8557-b90855ff48cd",
+    "cardName": "Faerie Mastermind",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Faerie Mastermind",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Faerie Rogue",
+      "oracleText": "Flash\nFlying\nWhenever an opponent draws their second card each turn, you draw a card.\n{3}{U}: Each player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/d/d/ddb3321c-6b3f-4e7e-8557-b90855ff48cd.jpg?1783916893"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3824.12,
+    "end": 3854.12,
+    "cardId": "bc6146bf-f0c6-4557-af6a-74c643d5fc01",
+    "cardName": "Fire Lord Azula",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Fire Lord Azula",
+      "manaCost": "{1}{U}{B}{R}",
+      "typeLine": "Legendary Creature — Human Noble",
+      "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
+      "image": "https://cards.scryfall.io/normal/front/b/c/bc6146bf-f0c6-4557-af6a-74c643d5fc01.jpg?1783904927"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3840.04,
+    "end": 3870.04,
+    "cardId": "bc6146bf-f0c6-4557-af6a-74c643d5fc01",
+    "cardName": "Fire Lord Azula",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Fire Lord Azula",
+      "manaCost": "{1}{U}{B}{R}",
+      "typeLine": "Legendary Creature — Human Noble",
+      "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
+      "image": "https://cards.scryfall.io/normal/front/b/c/bc6146bf-f0c6-4557-af6a-74c643d5fc01.jpg?1783904927"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3955.62,
+    "end": 3985.62,
+    "cardId": "d7dbb092-3bb0-445e-ab26-d939cac92a73",
+    "cardName": "Leyline of Anticipation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Leyline of Anticipation",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "If this card is in your opening hand, you may begin the game with it on the battlefield.\nYou may cast spells as though they had flash.",
+      "image": "https://cards.scryfall.io/normal/front/d/7/d7dbb092-3bb0-445e-ab26-d939cac92a73.jpg?1783941824"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3992.3,
+    "end": 4022.3,
+    "cardId": "998bad32-1927-4e12-9527-efa55b86cae0",
+    "cardName": "Insurrection",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Insurrection",
+      "manaCost": "{5}{R}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/9/9/998bad32-1927-4e12-9527-efa55b86cae0.jpg?1783945053"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4001.98,
+    "end": 4031.98,
+    "cardId": "bc6146bf-f0c6-4557-af6a-74c643d5fc01",
+    "cardName": "Fire Lord Azula",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Fire Lord Azula",
+      "manaCost": "{1}{U}{B}{R}",
+      "typeLine": "Legendary Creature — Human Noble",
+      "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
+      "image": "https://cards.scryfall.io/normal/front/b/c/bc6146bf-f0c6-4557-af6a-74c643d5fc01.jpg?1783904927"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4053.3,
+    "end": 4083.3,
+    "cardId": "d172475f-7063-44fe-ad11-56852d2e86da",
+    "cardName": "Sword Coast Sailor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sword Coast Sailor",
+      "manaCost": "{1}{U}",
+      "typeLine": "Legendary Enchantment — Background",
+      "oracleText": "Commander creatures you own have \"Whenever this creature attacks a player, if no opponent has more life than that player, this creature can't be blocked this turn.\"",
+      "image": "https://cards.scryfall.io/normal/front/d/1/d172475f-7063-44fe-ad11-56852d2e86da.jpg?1783922599"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4058.3,
+    "end": 4088.3,
+    "cardId": "bc6146bf-f0c6-4557-af6a-74c643d5fc01",
+    "cardName": "Fire Lord Azula",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Fire Lord Azula",
+      "manaCost": "{1}{U}{B}{R}",
+      "typeLine": "Legendary Creature — Human Noble",
+      "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
+      "image": "https://cards.scryfall.io/normal/front/b/c/bc6146bf-f0c6-4557-af6a-74c643d5fc01.jpg?1783904927"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4075.18,
+    "end": 4105.18,
+    "cardId": "ba104245-0483-407f-971b-ad6d8efd9733",
+    "cardName": "Aqueous Form",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Aqueous Form",
+      "manaCost": "{U}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nEnchanted creature can't be blocked.\nWhenever enchanted creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+      "image": "https://cards.scryfall.io/normal/front/b/a/ba104245-0483-407f-971b-ad6d8efd9733.jpg?1783939802"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4130.08,
+    "end": 4160.08,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4142.3,
+    "end": 4172.3,
+    "cardId": "4d987435-2403-4e0f-b19d-693da923ba50",
+    "cardName": "Zur, Eternal Schemer",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Zur, Eternal Schemer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Flying\nEnchantment creatures you control have deathtouch, lifelink, and hexproof.\n{1}{W}: Target non-Aura enchantment you control becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.",
+      "image": "https://cards.scryfall.io/normal/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4167.14,
+    "end": 4197.14,
+    "cardId": "b883df14-8d7b-4f6a-9a6a-2f71f5b6ddda",
+    "cardName": "Garnet, Princess of Alexandria",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Garnet, Princess of Alexandria",
+      "manaCost": "{G}{W}",
+      "typeLine": "Legendary Creature — Human Noble Cleric",
+      "oracleText": "Lifelink\nWhenever Garnet attacks, you may remove a lore counter from each of any number of Sagas you control. Put a +1/+1 counter on Garnet for each lore counter removed this way.",
+      "image": "https://cards.scryfall.io/normal/front/b/8/b883df14-8d7b-4f6a-9a6a-2f71f5b6ddda.jpg?1783906571"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4213.18,
+    "end": 4243.18,
+    "cardId": "994ca692-7138-4dcb-bf46-5da530f86036",
+    "cardName": "Dyadrine, Synthesis Amalgam",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Dyadrine, Synthesis Amalgam",
+      "manaCost": "{X}{G}{W}",
+      "typeLine": "Legendary Artifact Creature — Construct",
+      "oracleText": "Trample\nDyadrine enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.\nWhenever you attack, you may remove a +1/+1 counter from each of two creatures you control. If you do, draw a card and create a 2/2 colorless Robot artifact creature token.",
+      "image": "https://cards.scryfall.io/normal/front/9/9/994ca692-7138-4dcb-bf46-5da530f86036.jpg?1783905927"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4217.5,
+    "end": 4247.5,
+    "cardId": "d9808e72-4143-421f-a498-dbebbd598544",
+    "cardName": "Rocco, Street Chef",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rocco, Street Chef",
+      "manaCost": "{R}{G}{W}",
+      "typeLine": "Legendary Creature — Elf Druid",
+      "oracleText": "At the beginning of your end step, each player exiles the top card of their library. Until your next end step, each player may play the card they exiled this way.\nWhenever a player plays a land from exile or casts a spell from exile, you put a +1/+1 counter on target creature and create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+      "image": "https://cards.scryfall.io/normal/front/d/9/d9808e72-4143-421f-a498-dbebbd598544.jpg?1783916456"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4284.2,
+    "end": 4314.2,
+    "cardId": "e9ded49d-2679-4d4a-b151-4aa693ffed5f",
+    "cardName": "Kasla, the Broken Halo",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Kasla, the Broken Halo",
+      "manaCost": "{3}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Angel Ally",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying, vigilance, haste\nWhenever you cast another spell that has convoke, scry 2, then draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e9ded49d-2679-4d4a-b151-4aa693ffed5f.jpg?1783917216"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4294.76,
+    "end": 4324.76,
+    "cardId": "fd60ee8d-fb50-41df-89a8-aed5a53d755f",
+    "cardName": "Welcoming Vampire",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Welcoming Vampire",
+      "manaCost": "{2}{W}",
+      "typeLine": "Creature — Vampire",
+      "oracleText": "Flying\nWhenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/f/d/fd60ee8d-fb50-41df-89a8-aed5a53d755f.jpg?1783924768"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4307.62,
+    "end": 4337.62,
+    "cardId": "6911759c-7177-402c-a95a-f9f46efaf521",
+    "cardName": "Selfless Savior",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Selfless Savior",
+      "manaCost": "{W}",
+      "typeLine": "Creature — Dog",
+      "oracleText": "Sacrifice this creature: Another target creature you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+      "image": "https://cards.scryfall.io/normal/front/6/9/6911759c-7177-402c-a95a-f9f46efaf521.jpg?1783930734"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4309.94,
+    "end": 4339.94,
+    "cardId": "e9ded49d-2679-4d4a-b151-4aa693ffed5f",
+    "cardName": "Kasla, the Broken Halo",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Kasla, the Broken Halo",
+      "manaCost": "{3}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Angel Ally",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying, vigilance, haste\nWhenever you cast another spell that has convoke, scry 2, then draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e9ded49d-2679-4d4a-b151-4aa693ffed5f.jpg?1783917216"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4314.28,
+    "end": 4344.28,
+    "cardId": "db113c47-c403-4c7f-9fa9-212c977df8d1",
+    "cardName": "Abiding Grace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Abiding Grace",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your end step, choose one —\n• You gain 1 life.\n• Return target creature card with mana value 1 from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/d/b/db113c47-c403-4c7f-9fa9-212c977df8d1.jpg?1783926898"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4318.06,
+    "end": 4348.06,
+    "cardId": "fd60ee8d-fb50-41df-89a8-aed5a53d755f",
+    "cardName": "Welcoming Vampire",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Welcoming Vampire",
+      "manaCost": "{2}{W}",
+      "typeLine": "Creature — Vampire",
+      "oracleText": "Flying\nWhenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/f/d/fd60ee8d-fb50-41df-89a8-aed5a53d755f.jpg?1783924768"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4331.94,
+    "end": 4361.94,
+    "cardId": "1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019",
+    "cardName": "Elas il-Kor, Sadistic Pilgrim",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Elas il-Kor, Sadistic Pilgrim",
+      "manaCost": "{W}{B}",
+      "typeLine": "Legendary Creature — Phyrexian Kor Cleric",
+      "oracleText": "Deathtouch\nWhenever another creature you control enters, you gain 1 life.\nWhenever another creature you control dies, each opponent loses 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/1/c/1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019.jpg?1783921287"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4342.02,
+    "end": 4372.02,
+    "cardId": "940536be-fce1-4a90-9126-195815a43e0f",
+    "cardName": "Grave Pact",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grave Pact",
+      "manaCost": "{1}{B}{B}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a creature you control dies, each other player sacrifices a creature of their choice.",
+      "image": "https://cards.scryfall.io/normal/front/9/4/940536be-fce1-4a90-9126-195815a43e0f.jpg?1783946563"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4385.26,
+    "end": 4415.26,
+    "cardId": "73c6d1be-55ad-4ee4-b044-88438e9b78cc",
+    "cardName": "Archaeomancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archaeomancer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/7/3/73c6d1be-55ad-4ee4-b044-88438e9b78cc.jpg?1783940513"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4409.34,
+    "end": 4439.34,
+    "cardId": "73c6d1be-55ad-4ee4-b044-88438e9b78cc",
+    "cardName": "Archaeomancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archaeomancer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/7/3/73c6d1be-55ad-4ee4-b044-88438e9b78cc.jpg?1783940513"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4415.42,
+    "end": 4445.42,
+    "cardId": "73c6d1be-55ad-4ee4-b044-88438e9b78cc",
+    "cardName": "Archaeomancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archaeomancer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/7/3/73c6d1be-55ad-4ee4-b044-88438e9b78cc.jpg?1783940513"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4430.56,
+    "end": 4460.56,
+    "cardId": "63e806ee-3c32-48bf-97a1-160a74765e76",
+    "cardName": "Pol Jamaar, Illusionist",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Pol Jamaar, Illusionist",
+      "manaCost": "{4}{U}{U}",
+      "typeLine": "Legendary Creature — Human Illusion Wizard",
+      "oracleText": "Flying\nWhen Pol Jamaar enters, choose a creature type. Draw a card for each creature you control of that type.",
+      "image": "https://cards.scryfall.io/normal/front/6/3/63e806ee-3c32-48bf-97a1-160a74765e76.jpg?1783908859"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4437.82,
+    "end": 4467.82,
+    "cardId": "3a55f484-5734-469c-8d41-95ce44473ec1",
+    "cardName": "Salvager of Secrets",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Salvager of Secrets",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a55f484-5734-469c-8d41-95ce44473ec1.jpg?1783934583"
+    },
+    "cards": [
+      {
+        "cardId": "3a55f484-5734-469c-8d41-95ce44473ec1",
+        "cardName": "Salvager of Secrets",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Salvager of Secrets",
+          "manaCost": "{3}{U}{U}",
+          "typeLine": "Creature — Merfolk Wizard",
+          "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+          "image": "https://cards.scryfall.io/normal/front/3/a/3a55f484-5734-469c-8d41-95ce44473ec1.jpg?1783934583"
+        }
+      },
+      {
+        "cardId": "59d38ef7-5017-4ea3-b97f-a8fe12d03e98",
+        "cardName": "Shipwreck Dowser",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Shipwreck Dowser",
+          "manaCost": "{3}{U}{U}",
+          "typeLine": "Creature — Merfolk Wizard",
+          "oracleText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+          "image": "https://cards.scryfall.io/normal/front/5/9/59d38ef7-5017-4ea3-b97f-a8fe12d03e98.jpg?1783930719"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 4439.94,
+    "end": 4469.94,
+    "cardId": "73c6d1be-55ad-4ee4-b044-88438e9b78cc",
+    "cardName": "Archaeomancer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Archaeomancer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/7/3/73c6d1be-55ad-4ee4-b044-88438e9b78cc.jpg?1783940513"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4449.18,
+    "end": 4479.18,
+    "cardId": "8ab850c5-6f5e-41b7-ab52-094579caca12",
+    "cardName": "Displace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Displace",
+      "manaCost": "{2}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Exile up to two target creatures you control, then return those cards to the battlefield under their owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/8/a/8ab850c5-6f5e-41b7-ab52-094579caca12.jpg?1783937502"
+    },
+    "cards": [
+      {
+        "cardId": "8ab850c5-6f5e-41b7-ab52-094579caca12",
+        "cardName": "Displace",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Displace",
+          "manaCost": "{2}{U}",
+          "typeLine": "Instant",
+          "oracleText": "Exile up to two target creatures you control, then return those cards to the battlefield under their owner's control.",
+          "image": "https://cards.scryfall.io/normal/front/8/a/8ab850c5-6f5e-41b7-ab52-094579caca12.jpg?1783937502"
+        }
+      },
+      {
+        "cardId": "f0a44373-0c50-4e14-a7c6-0de66796b81e",
+        "cardName": "Ghostly Flicker",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Ghostly Flicker",
+          "manaCost": "{2}{U}",
+          "typeLine": "Instant",
+          "oracleText": "Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control.",
+          "image": "https://cards.scryfall.io/normal/front/f/0/f0a44373-0c50-4e14-a7c6-0de66796b81e.jpg?1783940717"
+        }
+      },
+      {
+        "cardId": "a7eede83-6f1b-4054-b01c-0da17b197bad",
+        "cardName": "Illusionist's Stratagem",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Illusionist's Stratagem",
+          "manaCost": "{3}{U}",
+          "typeLine": "Instant",
+          "oracleText": "Exile up to two target creatures you control, then return those cards to the battlefield under their owner's control.\nDraw a card.",
+          "image": "https://cards.scryfall.io/normal/front/a/7/a7eede83-6f1b-4054-b01c-0da17b197bad.jpg?1783936772"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 4457.6,
+    "end": 4487.6,
+    "cardId": "63e806ee-3c32-48bf-97a1-160a74765e76",
+    "cardName": "Pol Jamaar, Illusionist",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Pol Jamaar, Illusionist",
+      "manaCost": "{4}{U}{U}",
+      "typeLine": "Legendary Creature — Human Illusion Wizard",
+      "oracleText": "Flying\nWhen Pol Jamaar enters, choose a creature type. Draw a card for each creature you control of that type.",
+      "image": "https://cards.scryfall.io/normal/front/6/3/63e806ee-3c32-48bf-97a1-160a74765e76.jpg?1783908859"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4468.52,
+    "end": 4498.52,
+    "cardId": "f58592f7-1df5-428d-9dde-e6acd9a5d1d5",
+    "cardName": "Ardent Elementalist",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ardent Elementalist",
+      "manaCost": "{3}{R}",
+      "typeLine": "Creature — Human Shaman",
+      "oracleText": "When this creature enters, return target instant or sorcery card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/f/5/f58592f7-1df5-428d-9dde-e6acd9a5d1d5.jpg?1783925607"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4482.66,
+    "end": 4512.66,
+    "cardId": "ee99acde-796c-423b-81ed-13d33e210925",
+    "cardName": "Breach the Multiverse",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Breach the Multiverse",
+      "manaCost": "{5}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.",
+      "image": "https://cards.scryfall.io/normal/front/e/e/ee99acde-796c-423b-81ed-13d33e210925.jpg?1783916892"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4498.72,
+    "end": 4528.72,
+    "cardId": "cf3e09ff-c917-4c0c-8ddb-e152b4b0b82c",
+    "cardName": "Skyshroud Claim",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Skyshroud Claim",
+      "manaCost": "{3}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for up to two Forest cards, put them onto the battlefield, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/c/f/cf3e09ff-c917-4c0c-8ddb-e152b4b0b82c.jpg?1783945812"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4530.24,
+    "end": 4560.24,
+    "cardId": "b26ff2fa-82de-4831-9341-a446abf9ed03",
+    "cardName": "Pinnacle of Rage",
+    "confidence": 0.879,
+    "needsReview": true,
+    "card": {
+      "name": "Pinnacle of Rage",
+      "manaCost": "{4}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Pinnacle of Rage deals 3 damage to each of two targets.",
+      "image": "https://cards.scryfall.io/normal/front/b/2/b26ff2fa-82de-4831-9341-a446abf9ed03.jpg?1783939543"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4539.58,
+    "end": 4569.58,
+    "cardId": "e9ded49d-2679-4d4a-b151-4aa693ffed5f",
+    "cardName": "Kasla, the Broken Halo",
+    "confidence": 0.9,
+    "needsReview": true,
+    "card": {
+      "name": "Kasla, the Broken Halo",
+      "manaCost": "{3}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Angel Ally",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying, vigilance, haste\nWhenever you cast another spell that has convoke, scry 2, then draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e9ded49d-2679-4d4a-b151-4aa693ffed5f.jpg?1783917216"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4565.16,
+    "end": 4595.16,
+    "cardId": "7d4c90de-49aa-43ed-a18a-f7f96268e5eb",
+    "cardName": "Chandra's Ignition",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Chandra's Ignition",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Target creature you control deals damage equal to its power to each other creature and each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/7/d/7d4c90de-49aa-43ed-a18a-f7f96268e5eb.jpg?1783938332"
+    },
+    "cards": [
+      {
+        "cardId": "7d4c90de-49aa-43ed-a18a-f7f96268e5eb",
+        "cardName": "Chandra's Ignition",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Chandra's Ignition",
+          "manaCost": "{3}{R}{R}",
+          "typeLine": "Sorcery",
+          "oracleText": "Target creature you control deals damage equal to its power to each other creature and each opponent.",
+          "image": "https://cards.scryfall.io/normal/front/7/d/7d4c90de-49aa-43ed-a18a-f7f96268e5eb.jpg?1783938332"
+        }
+      },
+      {
+        "cardId": "234b70df-8c34-4da7-946e-b8b55a8df390",
+        "cardName": "Soul Immolation",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Soul Immolation",
+          "manaCost": "{3}{R}{R}",
+          "typeLine": "Sorcery",
+          "oracleText": "As an additional cost to cast this spell, blight X. X can't be greater than the greatest toughness among creatures you control. (Put X -1/-1 counters on a creature you control.)\nSoul Immolation deals X damage to each opponent and each creature they control.",
+          "image": "https://cards.scryfall.io/normal/front/2/3/234b70df-8c34-4da7-946e-b8b55a8df390.jpg?1783904438"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 4586.38,
+    "end": 4616.38,
+    "cardId": "37c2b1d1-faa0-40fd-82f4-216604ce7635",
+    "cardName": "Rest in Peace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1783940374"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4611.16,
+    "end": 4641.16,
+    "cardId": "aa1b6503-e3a2-42df-830b-b96f5121d532",
+    "cardName": "Release to Memory",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Release to Memory",
+      "manaCost": "{3}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target opponent's graveyard. For each creature card exiled this way, create a 1/1 colorless Spirit creature token.",
+      "image": "https://cards.scryfall.io/normal/front/a/a/aa1b6503-e3a2-42df-830b-b96f5121d532.jpg?1783923982"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4650.62,
+    "end": 4680.62,
+    "cardId": "3926f037-aaec-416e-a486-b59aae6faf44",
+    "cardName": "Sygg, River Cutthroat",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Sygg, River Cutthroat",
+      "manaCost": "{U/B}{U/B}",
+      "typeLine": "Legendary Creature — Merfolk Rogue",
+      "oracleText": "At the beginning of each end step, if an opponent lost 3 or more life this turn, you may draw a card. (Damage causes loss of life.)",
+      "image": "https://cards.scryfall.io/normal/front/3/9/3926f037-aaec-416e-a486-b59aae6faf44.jpg?1783942728"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4659.74,
+    "end": 4689.74,
+    "cardId": "3926f037-aaec-416e-a486-b59aae6faf44",
+    "cardName": "Sygg, River Cutthroat",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sygg, River Cutthroat",
+      "manaCost": "{U/B}{U/B}",
+      "typeLine": "Legendary Creature — Merfolk Rogue",
+      "oracleText": "At the beginning of each end step, if an opponent lost 3 or more life this turn, you may draw a card. (Damage causes loss of life.)",
+      "image": "https://cards.scryfall.io/normal/front/3/9/3926f037-aaec-416e-a486-b59aae6faf44.jpg?1783942728"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4673.7,
+    "end": 4703.7,
+    "cardId": "95df49ae-e75f-4d97-8323-ebb62ff1df33",
+    "cardName": "Plague Drone",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Plague Drone",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Demon",
+      "oracleText": "Flying\nRot Fly — If an opponent would gain life, that player loses that much life instead.",
+      "image": "https://cards.scryfall.io/normal/front/9/5/95df49ae-e75f-4d97-8323-ebb62ff1df33.jpg?1783920915"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4681.42,
+    "end": 4711.42,
+    "cardId": "3926f037-aaec-416e-a486-b59aae6faf44",
+    "cardName": "Sygg, River Cutthroat",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sygg, River Cutthroat",
+      "manaCost": "{U/B}{U/B}",
+      "typeLine": "Legendary Creature — Merfolk Rogue",
+      "oracleText": "At the beginning of each end step, if an opponent lost 3 or more life this turn, you may draw a card. (Damage causes loss of life.)",
+      "image": "https://cards.scryfall.io/normal/front/3/9/3926f037-aaec-416e-a486-b59aae6faf44.jpg?1783942728"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4703.24,
+    "end": 4733.24,
+    "cardId": "25ab9a2b-e248-4ae2-aac3-b49fdb3e260a",
+    "cardName": "Flying Men",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Flying Men",
+      "manaCost": "{U}",
+      "typeLine": "Creature — Human",
+      "oracleText": "Flying",
+      "image": "https://cards.scryfall.io/normal/front/2/5/25ab9a2b-e248-4ae2-aac3-b49fdb3e260a.jpg?1783948392"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4708.98,
+    "end": 4738.98,
+    "cardId": "60fc9e0e-7ba5-4c27-b051-c314858cab5d",
+    "cardName": "Edric, Spymaster of Trest",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Edric, Spymaster of Trest",
+      "manaCost": "{1}{G}{U}",
+      "typeLine": "Legendary Creature — Elf Rogue",
+      "oracleText": "Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/6/0/60fc9e0e-7ba5-4c27-b051-c314858cab5d.jpg?1783941180"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4720.62,
+    "end": 4750.62,
+    "cardId": "1df4c09f-0140-4b7c-85f8-c3d9e5b91638",
+    "cardName": "From the Catacombs",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "From the Catacombs",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Put target creature card from a graveyard onto the battlefield under your control with a corpse counter on it. You take the initiative. If that creature would leave the battlefield, exile it instead of putting it anywhere else.\nEscape—{3}{B}{B}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",
+      "image": "https://cards.scryfall.io/normal/front/1/d/1df4c09f-0140-4b7c-85f8-c3d9e5b91638.jpg?1783922534"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4736.38,
+    "end": 4766.38,
+    "cardId": "9e5ec47c-47a2-4eda-b81a-4a07f04e5989",
+    "cardName": "Whip of Erebos",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Whip of Erebos",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Legendary Enchantment Artifact",
+      "oracleText": "Creatures you control have lifelink.\n{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e5ec47c-47a2-4eda-b81a-4a07f04e5989.jpg?1783939768"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4757.16,
+    "end": 4787.16,
+    "cardId": "9e5ec47c-47a2-4eda-b81a-4a07f04e5989",
+    "cardName": "Whip of Erebos",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Whip of Erebos",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Legendary Enchantment Artifact",
+      "oracleText": "Creatures you control have lifelink.\n{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e5ec47c-47a2-4eda-b81a-4a07f04e5989.jpg?1783939768"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4784.98,
+    "end": 4814.98,
+    "cardId": "7d54f0dd-5d27-483b-8af9-92a1c5a785f2",
+    "cardName": "Dauthi Voidwalker",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dauthi Voidwalker",
+      "manaCost": "{B}{B}",
+      "typeLine": "Creature — Dauthi Rogue",
+      "oracleText": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nIf a card would be put into an opponent's graveyard from anywhere, instead exile it with a void counter on it.\n{T}, Sacrifice this creature: Choose an exiled card an opponent owns with a void counter on it. You may play it this turn without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/7/d/7d54f0dd-5d27-483b-8af9-92a1c5a785f2.jpg?1783926735"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4794.7,
+    "end": 4824.7,
+    "cardId": "bd6c6906-7328-4b03-b8d3-11b80d3291ae",
+    "cardName": "Grave Venerations",
+    "confidence": 0.92,
+    "needsReview": true,
+    "card": {
+      "name": "Grave Venerations",
+      "manaCost": "{3}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, you become the monarch.\nAt the beginning of your end step, if you're the monarch, return up to one target creature card from your graveyard to your hand.\nWhenever a creature you control dies, each opponent loses 1 life and you gain 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/b/d/bd6c6906-7328-4b03-b8d3-11b80d3291ae.jpg?1783904596"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4812.86,
+    "end": 4842.86,
+    "cardId": "25ab9a2b-e248-4ae2-aac3-b49fdb3e260a",
+    "cardName": "Flying Men",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Flying Men",
+      "manaCost": "{U}",
+      "typeLine": "Creature — Human",
+      "oracleText": "Flying",
+      "image": "https://cards.scryfall.io/normal/front/2/5/25ab9a2b-e248-4ae2-aac3-b49fdb3e260a.jpg?1783948392"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4819.56,
+    "end": 4849.56,
+    "cardId": "fb87dbd3-1b80-4c91-b4f7-b13bdd885c3c",
+    "cardName": "Gix, Yawgmoth Praetor",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Gix, Yawgmoth Praetor",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Whenever a creature deals combat damage to one of your opponents, its controller may pay 1 life. If they do, they draw a card.\n{4}{B}{B}{B}, Discard X cards: Exile the top X cards of target opponent's library. You may play lands and cast spells from among cards exiled this way without paying their mana costs.",
+      "image": "https://cards.scryfall.io/normal/front/f/b/fb87dbd3-1b80-4c91-b4f7-b13bdd885c3c.jpg?1783919981"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4823.8,
+    "end": 4853.8,
+    "cardId": "03a7e79f-625a-49ac-9cb1-e1fe5f51f5a0",
+    "cardName": "Gonti, Canny Acquisitor",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Gonti, Canny Acquisitor",
+      "manaCost": "{2}{B}{G}{U}",
+      "typeLine": "Legendary Creature — Aetherborn Rogue",
+      "oracleText": "Spells you cast but don't own cost {1} less to cast.\nWhenever one or more creatures you control deal combat damage to a player, look at the top card of that player's library, then exile it face down. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.",
+      "image": "https://cards.scryfall.io/normal/front/0/3/03a7e79f-625a-49ac-9cb1-e1fe5f51f5a0.jpg?1783911972"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4837.64,
+    "end": 4867.64,
+    "cardId": "96ff9de6-f9ae-4b1c-9fd1-4ba9663922af",
+    "cardName": "Edgar's Awakening",
+    "confidence": 0.824,
+    "needsReview": true,
+    "card": {
+      "name": "Edgar's Awakening",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Return target creature card from your graveyard to the battlefield.\nWhen you discard this card, you may pay {B}. When you do, return target creature card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/9/6/96ff9de6-f9ae-4b1c-9fd1-4ba9663922af.jpg?1783924865"
+    },
+    "cards": [
+      {
+        "cardId": "96ff9de6-f9ae-4b1c-9fd1-4ba9663922af",
+        "cardName": "Edgar's Awakening",
+        "confidence": 0.824,
+        "needsReview": true,
+        "card": {
+          "name": "Edgar's Awakening",
+          "manaCost": "{3}{B}{B}",
+          "typeLine": "Sorcery",
+          "oracleText": "Return target creature card from your graveyard to the battlefield.\nWhen you discard this card, you may pay {B}. When you do, return target creature card from your graveyard to your hand.",
+          "image": "https://cards.scryfall.io/normal/front/9/6/96ff9de6-f9ae-4b1c-9fd1-4ba9663922af.jpg?1783924865"
+        }
+      },
+      {
+        "cardId": "393a864c-caa0-4030-b8bd-be0bb967eb72",
+        "cardName": "Back in Town",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Back in Town",
+          "manaCost": "{X}{2}{B}",
+          "typeLine": "Sorcery",
+          "oracleText": "Return X target outlaw creature cards from your graveyard to the battlefield. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)",
+          "image": "https://cards.scryfall.io/normal/front/3/9/393a864c-caa0-4030-b8bd-be0bb967eb72.jpg?1783911966"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 4844.18,
+    "end": 4874.18,
+    "cardId": "9e5ec47c-47a2-4eda-b81a-4a07f04e5989",
+    "cardName": "Whip of Erebos",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Whip of Erebos",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Legendary Enchantment Artifact",
+      "oracleText": "Creatures you control have lifelink.\n{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e5ec47c-47a2-4eda-b81a-4a07f04e5989.jpg?1783939768"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4851.6,
+    "end": 4881.6,
+    "cardId": "6a72b49e-be14-485b-a467-31cbac9aa1c5",
+    "cardName": "Orzhov Enforcer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Orzhov Enforcer",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Human Rogue",
+      "oracleText": "Deathtouch\nAfterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)",
+      "image": "https://cards.scryfall.io/normal/front/6/a/6a72b49e-be14-485b-a467-31cbac9aa1c5.jpg?1783933692"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4854.06,
+    "end": 4884.06,
+    "cardId": "d7efb10f-c760-431c-8ac6-904965d850dc",
+    "cardName": "Guildsworn Prowler",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Guildsworn Prowler",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Tiefling Rogue Assassin",
+      "oracleText": "Deathtouch\nWhen this creature dies, if it wasn't blocking, draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/d/7/d7efb10f-c760-431c-8ac6-904965d850dc.jpg?1783922760"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4855.86,
+    "end": 4885.86,
+    "cardId": "abceb4fd-e3c5-400d-af7a-6dd17108a4b4",
+    "cardName": "Gifted Aetherborn",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gifted Aetherborn",
+      "manaCost": "{B}{B}",
+      "typeLine": "Creature — Aetherborn Vampire",
+      "oracleText": "Deathtouch, lifelink",
+      "image": "https://cards.scryfall.io/normal/front/a/b/abceb4fd-e3c5-400d-af7a-6dd17108a4b4.jpg?1783936763"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4912.72,
+    "end": 4942.72,
+    "cardId": "9e5ec47c-47a2-4eda-b81a-4a07f04e5989",
+    "cardName": "Whip of Erebos",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Whip of Erebos",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Legendary Enchantment Artifact",
+      "oracleText": "Creatures you control have lifelink.\n{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e5ec47c-47a2-4eda-b81a-4a07f04e5989.jpg?1783939768"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4929.94,
+    "end": 4959.94,
+    "cardId": "e9ded49d-2679-4d4a-b151-4aa693ffed5f",
+    "cardName": "Kasla, the Broken Halo",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kasla, the Broken Halo",
+      "manaCost": "{3}{U}{R}{W}",
+      "typeLine": "Legendary Creature — Angel Ally",
+      "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying, vigilance, haste\nWhenever you cast another spell that has convoke, scry 2, then draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e9ded49d-2679-4d4a-b151-4aa693ffed5f.jpg?1783917216"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4956.88,
+    "end": 4986.88,
+    "cardId": "c7e10ca7-1e5d-4224-82cf-798a4d436d72",
+    "cardName": "Eternal Witness",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Eternal Witness",
+      "manaCost": "{1}{G}{G}",
+      "typeLine": "Creature — Human Shaman",
+      "oracleText": "When this creature enters, you may return target card from your graveyard to your hand.",
+      "image": "https://cards.scryfall.io/normal/front/c/7/c7e10ca7-1e5d-4224-82cf-798a4d436d72.jpg?1783944390"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 5104.28,
+    "end": 5134.28,
+    "cardId": "c7eb0144-34f8-43e1-95fe-f2ca62d88e5d",
+    "cardName": "Karador, Ghost Chieftain",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Karador, Ghost Chieftain",
+      "manaCost": "{5}{W}{B}{G}",
+      "typeLine": "Legendary Creature — Centaur Spirit",
+      "oracleText": "This spell costs {1} less to cast for each creature card in your graveyard.\nOnce during each of your turns, you may cast a creature spell from your graveyard.",
+      "image": "https://cards.scryfall.io/normal/front/c/7/c7eb0144-34f8-43e1-95fe-f2ca62d88e5d.jpg?1783941175"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 5113,
+    "end": 5143,
+    "cardId": "2336faaa-fc6d-4fbb-bdd4-969eae565c72",
+    "cardName": "Gift of Immortality",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gift of Immortality",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under its owner's control. Return this card to the battlefield attached to that creature at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/2/3/2336faaa-fc6d-4fbb-bdd4-969eae565c72.jpg?1783939816"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 5116.14,
+    "end": 5146.14,
+    "cardId": "2336faaa-fc6d-4fbb-bdd4-969eae565c72",
+    "cardName": "Gift of Immortality",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Gift of Immortality",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under its owner's control. Return this card to the battlefield attached to that creature at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/2/3/2336faaa-fc6d-4fbb-bdd4-969eae565c72.jpg?1783939816"
+    },
+    "cards": [
+      {
+        "cardId": "2336faaa-fc6d-4fbb-bdd4-969eae565c72",
+        "cardName": "Gift of Immortality",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Gift of Immortality",
+          "manaCost": "{2}{W}",
+          "typeLine": "Enchantment — Aura",
+          "oracleText": "Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under its owner's control. Return this card to the battlefield attached to that creature at the beginning of the next end step.",
+          "image": "https://cards.scryfall.io/normal/front/2/3/2336faaa-fc6d-4fbb-bdd4-969eae565c72.jpg?1783939816"
+        }
+      },
+      {
+        "cardId": "91c7707a-bae0-4196-bf26-d276f57b7369",
+        "cardName": "Sakura-Tribe Elder",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Sakura-Tribe Elder",
+          "manaCost": "{1}{G}",
+          "typeLine": "Creature — Snake Shaman",
+          "oracleText": "Sacrifice this creature: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+          "image": "https://cards.scryfall.io/normal/front/9/1/91c7707a-bae0-4196-bf26-d276f57b7369.jpg?1783944282"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 5118.8,
+    "end": 5148.8,
+    "cardId": "91c7707a-bae0-4196-bf26-d276f57b7369",
+    "cardName": "Sakura-Tribe Elder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sakura-Tribe Elder",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Snake Shaman",
+      "oracleText": "Sacrifice this creature: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/9/1/91c7707a-bae0-4196-bf26-d276f57b7369.jpg?1783944282"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 5128.32,
+    "end": 5158.32,
+    "cardId": "940536be-fce1-4a90-9126-195815a43e0f",
+    "cardName": "Grave Pact",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Grave Pact",
+      "manaCost": "{1}{B}{B}{B}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a creature you control dies, each other player sacrifices a creature of their choice.",
+      "image": "https://cards.scryfall.io/normal/front/9/4/940536be-fce1-4a90-9126-195815a43e0f.jpg?1783946563"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 5140.9,
+    "end": 5170.9,
+    "cardId": "56cd89f1-f9f4-4cb5-a573-79809d0b6dfd",
+    "cardName": "Tocasia's Welcome",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Tocasia's Welcome",
+      "manaCost": "{2}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn.",
+      "image": "https://cards.scryfall.io/normal/front/5/6/56cd89f1-f9f4-4cb5-a573-79809d0b6dfd.jpg?1783920123"
+    }
+  }
+]

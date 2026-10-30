@@ -1,0 +1,2440 @@
+{
+  "model": "gpt-6-astra",
+  "title": "One Foot in the Grave | Graveyard Series",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Thassa's Oracle",
+      "spokenText": "thaw those",
+      "role": "incidental",
+      "startSeconds": 258.04,
+      "evidence": "empty my library um so i can thaw those out",
+      "confidence": 0.73,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mizzix's Mastery",
+      "spokenText": "mizzix's mastery",
+      "role": "incidental",
+      "startSeconds": 322.38,
+      "evidence": "spell slinger type style of deck is mizzix's mastery",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bojuka Bog",
+      "spokenText": "the Juke of Bog",
+      "role": "incidental",
+      "startSeconds": 533.14,
+      "evidence": "they'll run like the Juke of Bog",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scavenger Grounds",
+      "spokenText": "Scavenging Grounds",
+      "role": "incidental",
+      "startSeconds": 535.38,
+      "evidence": "add Scavenging Grounds to their list",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bojuka Bog",
+      "spokenText": "bajuca bog",
+      "role": "incidental",
+      "startSeconds": 549.64,
+      "evidence": "bajuca bog's always available",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Meren of Clan Nel Toth",
+      "spokenText": "Mirren",
+      "role": "incidental",
+      "startSeconds": 565.54,
+      "evidence": "back in the day, Mirren, right?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Meren of Clan Nel Toth",
+      "spokenText": "Mirren",
+      "role": "incidental",
+      "startSeconds": 568.9,
+      "evidence": "Mirren was huge",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Codex Shredder",
+      "spokenText": "codex shredder",
+      "role": "incidental",
+      "startSeconds": 738.92,
+      "evidence": "games turn around for a red player on a on a codex shredder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bojuka Bog",
+      "spokenText": "bajuka bog",
+      "role": "incidental",
+      "startSeconds": 783.14,
+      "evidence": "you're really only running bajuka bog",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kastral, the Windcrested",
+      "spokenText": "castrel the wind crested",
+      "role": "incidental",
+      "startSeconds": 902.44,
+      "evidence": "zach was playing castrel the wind crested",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kastral, the Windcrested",
+      "spokenText": "castrel the wind crested",
+      "role": "incidental",
+      "startSeconds": 907.7,
+      "evidence": "yeah yeah so castrel the wind crested",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grazilaxx, Illithid Scholar",
+      "spokenText": "grazilax",
+      "role": "incidental",
+      "startSeconds": 920.98,
+      "evidence": "kind of like um grazilax",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Massacre Girl",
+      "spokenText": "massacre girl",
+      "role": "incidental",
+      "startSeconds": 986.22,
+      "evidence": "massacre girl in my hand",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 1032.38,
+      "evidence": "the negate and its cousins",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ishai, Ojutai Dragonspeaker",
+      "spokenText": "ishi",
+      "role": "incidental",
+      "startSeconds": 1077.44,
+      "evidence": "an ishi that was like really stacked up",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Massacre Girl",
+      "spokenText": "massacre girl",
+      "role": "incidental",
+      "startSeconds": 1082.34,
+      "evidence": "like massacre girl made",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ascend from Avernus",
+      "spokenText": "Ascend from Avernus",
+      "role": "incidental",
+      "startSeconds": 1106.48,
+      "evidence": "there is an Ascend from Avernus in this deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Massacre Girl",
+      "spokenText": "Masker Girl",
+      "role": "incidental",
+      "startSeconds": 1123,
+      "evidence": "clear my board of like Masker Girl",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ascend from Avernus",
+      "spokenText": "ascend from avernus",
+      "role": "incidental",
+      "startSeconds": 1139.62,
+      "evidence": "exile ascend from avernus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kastral, the Windcrested",
+      "spokenText": "castrel",
+      "role": "incidental",
+      "startSeconds": 1145.92,
+      "evidence": "the castrel can slowly do it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ascend from Avernus",
+      "spokenText": "ascend from avernus",
+      "role": "incidental",
+      "startSeconds": 1159.08,
+      "evidence": "i forced to ascend from avernus turn out of todd",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Battlefield Raptor",
+      "spokenText": "battle wrapped",
+      "role": "incidental",
+      "startSeconds": 1189.86,
+      "evidence": "the battle wrapped",
+      "confidence": 0.94,
+      "modelName": "Battle Raptor",
+      "catalogueConfidence": 0.944
+    },
+    {
+      "canonicalName": "Senu, Keen-Eyed Protector",
+      "spokenText": "sinew",
+      "role": "incidental",
+      "startSeconds": 1189.86,
+      "evidence": "the battle wrapped at the sinew",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shrike Force",
+      "spokenText": "strike force",
+      "role": "incidental",
+      "startSeconds": 1189.86,
+      "evidence": "his many many little birds the strike force",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ledger Shredder",
+      "spokenText": "ledger shredder",
+      "role": "incidental",
+      "startSeconds": 1195.36,
+      "evidence": "the ledger shredder it all just kind of pulled pulled right back into play",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ishai, Ojutai Dragonspeaker",
+      "spokenText": "Ishai",
+      "role": "incidental",
+      "startSeconds": 1199.22,
+      "evidence": "Ishai was there too",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ishai, Ojutai Dragonspeaker",
+      "spokenText": "Ishai",
+      "role": "incidental",
+      "startSeconds": 1201.12,
+      "evidence": "Ishai, ouch, Ty",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ascend from Avernus",
+      "spokenText": "ascend from avernus",
+      "role": "incidental",
+      "startSeconds": 1254.04,
+      "evidence": "an ascend from avernus is probably just as good",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ascend from Avernus",
+      "spokenText": "does and from avernus",
+      "role": "incidental",
+      "startSeconds": 1268.56,
+      "evidence": "well yeah it does and from avernus is a great card",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Heroic Intervention",
+      "spokenText": "heroic intervention",
+      "role": "incidental",
+      "startSeconds": 1294.24,
+      "evidence": "like heroic intervention",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dawn's Truce",
+      "spokenText": "Dawn's Truce",
+      "role": "incidental",
+      "startSeconds": 1310.32,
+      "evidence": "Dawn's Truce or whatever wasn't going to",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Massacre Girl",
+      "spokenText": "Massacre's Girl",
+      "role": "incidental",
+      "startSeconds": 1312.34,
+      "evidence": "save him from Massacre's Girl",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ascend from Avernus",
+      "spokenText": "Ascend from Avernus",
+      "role": "incidental",
+      "startSeconds": 1324.96,
+      "evidence": "moves like Ascend from Avernus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ascend from Avernus",
+      "spokenText": "Ascend from Avernus",
+      "role": "incidental",
+      "startSeconds": 1351.18,
+      "evidence": "you know, Ascend from Avernus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kastral, the Windcrested",
+      "spokenText": "castro",
+      "role": "incidental",
+      "startSeconds": 1373.74,
+      "evidence": "he let castro go to the graveyard",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ascend from Avernus",
+      "spokenText": "ascend from Avernus",
+      "role": "incidental",
+      "startSeconds": 1412.24,
+      "evidence": "8 mana with this ascend from Avernus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kangee, Sky Warden",
+      "spokenText": "Kangi Skywarden",
+      "role": "incidental",
+      "startSeconds": 1424.16,
+      "evidence": "Kangi Skywarden actually was bricked",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kangee, Sky Warden",
+      "spokenText": "Kangi",
+      "role": "incidental",
+      "startSeconds": 1428.26,
+      "evidence": "starting with a Kangi on the next turn",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "Kallax Guided by Fate",
+      "role": "incidental",
+      "startSeconds": 1460.88,
+      "evidence": "my Kallax Guided by Fate deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "Kallax",
+      "role": "incidental",
+      "startSeconds": 1473.3,
+      "evidence": "Voltron with Kallax if I want to",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oblivion Ring",
+      "spokenText": "oblivion ring",
+      "role": "incidental",
+      "startSeconds": 1481.92,
+      "evidence": "for control i use things like uh oblivion ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "calyx",
+      "role": "incidental",
+      "startSeconds": 1492.68,
+      "evidence": "clone that with calyx's triggered ability",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oblivion Ring",
+      "spokenText": "oblivion ring",
+      "role": "incidental",
+      "startSeconds": 1500.14,
+      "evidence": "if they see an oblivion ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oblivion Ring",
+      "spokenText": "oblivion ring",
+      "role": "incidental",
+      "startSeconds": 1508.44,
+      "evidence": "there's going to be a copy of an oblivion ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oblivion Ring",
+      "spokenText": "oblivion ring",
+      "role": "incidental",
+      "startSeconds": 1513.88,
+      "evidence": "of oblivion ring so my playgroup's",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oblivion Ring",
+      "spokenText": "oblivion ring",
+      "role": "incidental",
+      "startSeconds": 1544.48,
+      "evidence": "we've dealt with the oblivion ring problem",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hall of Heliod's Generosity",
+      "spokenText": "hall of heliod's generosity",
+      "role": "incidental",
+      "startSeconds": 1556.54,
+      "evidence": "a hall of heliod's generosity",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oblivion Ring",
+      "spokenText": "oblivion ring",
+      "role": "incidental",
+      "startSeconds": 1572.68,
+      "evidence": "you dealt with the oblivion ring problem",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "calyx",
+      "role": "incidental",
+      "startSeconds": 1577.48,
+      "evidence": "clone it with calyx",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bala Ged Thief",
+      "spokenText": "balak ed recovery",
+      "role": "incidental",
+      "startSeconds": 1583.96,
+      "evidence": "a deck where i have balak ed recovery",
+      "confidence": 1,
+      "modelName": "Bala Ged Recovery",
+      "catalogueConfidence": 0.861
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "Calix",
+      "role": "incidental",
+      "startSeconds": 1615.74,
+      "evidence": "They don't want to see me clone with Calix",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Keleth, Sunmane Familiar",
+      "spokenText": "kelleth",
+      "role": "incidental",
+      "startSeconds": 1738.82,
+      "evidence": "tiff's yoshimaru and kelleth list",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yoshimaru, Ever Faithful",
+      "spokenText": "yoshimaru",
+      "role": "incidental",
+      "startSeconds": 1738.82,
+      "evidence": "tiff's yoshimaru and kelleth list",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jenova, Ancient Calamity",
+      "spokenText": "jenova",
+      "role": "incidental",
+      "startSeconds": 1792.4,
+      "evidence": "chris's list like jenova gets huge",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jenova, Ancient Calamity",
+      "spokenText": "jenova",
+      "role": "incidental",
+      "startSeconds": 1799.64,
+      "evidence": "jenova makes huge big bigs",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Edgar's Awakening",
+      "spokenText": "Agadim's awakening",
+      "role": "incidental",
+      "startSeconds": 1821.92,
+      "evidence": "Agadim's awakening",
+      "confidence": 1,
+      "modelName": "Agadeem's Awakening",
+      "catalogueConfidence": 0.824
+    },
+    {
+      "canonicalName": "Ixhel, Scion of Atraxa",
+      "spokenText": "excel sign of atraxa",
+      "role": "incidental",
+      "startSeconds": 1877.18,
+      "evidence": "excel sign of atraxa as the commander",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eternal Witness",
+      "spokenText": "eternal witness",
+      "role": "incidental",
+      "startSeconds": 1928.72,
+      "evidence": "I'm going to have eternal witness",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Replenish",
+      "spokenText": "replenish",
+      "role": "incidental",
+      "startSeconds": 1934.46,
+      "evidence": "put one of my copies of replenish in this deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Timeless Witness",
+      "spokenText": "timeless witness",
+      "role": "incidental",
+      "startSeconds": 1934.46,
+      "evidence": "I'm going to have a timeless witness",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Eldest Reborn",
+      "spokenText": "the eldest reborn",
+      "role": "incidental",
+      "startSeconds": 1947.66,
+      "evidence": "one of the cards I have in it is the eldest reborn",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eternal Witness",
+      "spokenText": "e-wit",
+      "role": "incidental",
+      "startSeconds": 1977.32,
+      "evidence": "the e-wit or one of those i used that to bring it back",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "zur the eternal schemer",
+      "role": "incidental",
+      "startSeconds": 2088.34,
+      "evidence": "which is the zur the eternal schemer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bello, Bard of the Brambles",
+      "spokenText": "bellow",
+      "role": "incidental",
+      "startSeconds": 2138.4,
+      "evidence": "working on bellow as a oh no as a commander",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "zur",
+      "role": "incidental",
+      "startSeconds": 2152.94,
+      "evidence": "it was it was zur right",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "zur",
+      "role": "incidental",
+      "startSeconds": 2163.44,
+      "evidence": "about zur is that he can wake up an enchantment",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Trapped in the Screen",
+      "spokenText": "trapped in the screen",
+      "role": "incidental",
+      "startSeconds": 2222.7,
+      "evidence": "I had trapped in the screen down",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "calyx",
+      "role": "incidental",
+      "startSeconds": 2228.4,
+      "evidence": "card that you that you use i think in calyx",
+      "confidence": 0.86,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "Xur",
+      "role": "incidental",
+      "startSeconds": 2254.98,
+      "evidence": "you could do with that Xur",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "Xur",
+      "role": "incidental",
+      "startSeconds": 2275.56,
+      "evidence": "when they're out and Xur is out at the same time",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teleportation Circle",
+      "spokenText": "teleportation circle",
+      "role": "incidental",
+      "startSeconds": 2355.22,
+      "evidence": "like teleportation circle",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sword of Hearth and Home",
+      "spokenText": "sort of hearth and home",
+      "role": "incidental",
+      "startSeconds": 2360.14,
+      "evidence": "that sort of hearth and home thasa",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thassa, Deep-Dwelling",
+      "spokenText": "thasa",
+      "role": "incidental",
+      "startSeconds": 2360.14,
+      "evidence": "sort of hearth and home thasa",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thassa, Deep-Dwelling",
+      "spokenText": "thasa",
+      "role": "incidental",
+      "startSeconds": 2366.92,
+      "evidence": "i can wake thasa up early",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Summon: Shiva",
+      "spokenText": "summon shiva",
+      "role": "incidental",
+      "startSeconds": 2376.82,
+      "evidence": "summon shiva back through at the end of the turn",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Writ of Return",
+      "spokenText": "writ of return",
+      "role": "incidental",
+      "startSeconds": 2429.32,
+      "evidence": "one of the ones that i really like in this deck is called writ of return",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "zur",
+      "role": "incidental",
+      "startSeconds": 2435.32,
+      "evidence": "i should say that zur has flying",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "zur",
+      "role": "incidental",
+      "startSeconds": 2441.84,
+      "evidence": "so if zur is already",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Overlord of the Floodpits",
+      "spokenText": "overlord of the flood pits",
+      "role": "incidental",
+      "startSeconds": 2447.92,
+      "evidence": "bring back i don't know uh overlord of the flood pits",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "zur",
+      "role": "incidental",
+      "startSeconds": 2455.44,
+      "evidence": "then swing with zur",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Summon: Ixion",
+      "spokenText": "summon ixion",
+      "role": "incidental",
+      "startSeconds": 2461.32,
+      "evidence": "summon ixion and and yeah and exile something",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "there",
+      "role": "incidental",
+      "startSeconds": 2468.08,
+      "evidence": "but if there is dead i can return him and encode it on him",
+      "confidence": 0.83,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Writ of Return",
+      "spokenText": "writ of return",
+      "role": "incidental",
+      "startSeconds": 2476.72,
+      "evidence": "teach him the writ of return",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Summon: Anima",
+      "spokenText": "summon the anima",
+      "role": "incidental",
+      "startSeconds": 2500.32,
+      "evidence": "bring that summon the anima and start drawing cards",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Master of Keys",
+      "spokenText": "master of keys",
+      "role": "incidental",
+      "startSeconds": 2504.24,
+      "evidence": "master of keys again and start maybe digging things out",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teleportation Circle",
+      "spokenText": "teleportation circle",
+      "role": "incidental",
+      "startSeconds": 2521.4,
+      "evidence": "i had a teleportation circle",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ondu Spiritdancer",
+      "spokenText": "undo spirit dancer",
+      "role": "incidental",
+      "startSeconds": 2526.1,
+      "evidence": "and an undo spirit dancer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Summon: Valefor",
+      "spokenText": "summon veil for",
+      "role": "incidental",
+      "startSeconds": 2534.1,
+      "evidence": "a summon veil for it etbs",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "xer",
+      "role": "incidental",
+      "startSeconds": 2547.66,
+      "evidence": "you got to get rid of uh xer first",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Funeral Room // Awakening Hall",
+      "spokenText": "awakening hall",
+      "role": "incidental",
+      "startSeconds": 2552.92,
+      "evidence": "i've got an awakening hall in my hand",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yoshimaru, Ever Faithful",
+      "spokenText": "yoshi",
+      "role": "incidental",
+      "startSeconds": 2572.84,
+      "evidence": "she was playing that yoshi deck",
+      "confidence": 0.86,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Summon: Valefor",
+      "spokenText": "summon veil for",
+      "role": "incidental",
+      "startSeconds": 2582.48,
+      "evidence": "stun lock her with this summon veil for",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Funeral Room // Awakening Hall",
+      "spokenText": "funeral room",
+      "role": "incidental",
+      "startSeconds": 2608.36,
+      "evidence": "effect on the other half the the funeral room",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "zur",
+      "role": "incidental",
+      "startSeconds": 2618.4,
+      "evidence": "zur it's it's a big it's a big life linking death touching creature",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Abdel Adrian, Gorion's Ward",
+      "spokenText": "abdel adrian",
+      "role": "incidental",
+      "startSeconds": 2666.58,
+      "evidence": "recently tinkering with uh abdel adrian",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "cost of the broken heat halo",
+      "role": "incidental",
+      "startSeconds": 2702.92,
+      "evidence": "i recently made a cost of the broken heat halo",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shiko and Narset, Unified",
+      "spokenText": "Chico and Narset",
+      "role": "incidental",
+      "startSeconds": 2713.3,
+      "evidence": "I'll use it to replace Chico and Narset",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "Kassla, the Broken Halo",
+      "role": "incidental",
+      "startSeconds": 2722.38,
+      "evidence": "Kassla, the Broken Halo, is six mana",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preordain",
+      "spokenText": "Preordain",
+      "role": "incidental",
+      "startSeconds": 2733.26,
+      "evidence": "So you do a, what is that? A Preordain?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preordain",
+      "spokenText": "preordaining",
+      "role": "incidental",
+      "startSeconds": 2736.56,
+      "evidence": "is that what preordaining",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Esper Sentinel",
+      "spokenText": "esper sentinel",
+      "role": "incidental",
+      "startSeconds": 2859.3,
+      "evidence": "be like esper sentinel",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Guide of Souls",
+      "spokenText": "guide of souls",
+      "role": "incidental",
+      "startSeconds": 2863.94,
+      "evidence": "it's stuff like that guide of souls",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Giant Koi",
+      "spokenText": "giant killer",
+      "role": "incidental",
+      "startSeconds": 2874.7,
+      "evidence": "a giant killer you know the little guy that can remove something",
+      "confidence": 1,
+      "modelName": "Giant Killer",
+      "catalogueConfidence": 0.911
+    },
+    {
+      "canonicalName": "Mother of Runes",
+      "spokenText": "mother of runes",
+      "role": "incidental",
+      "startSeconds": 2880.58,
+      "evidence": "selfless savior mother of runes like to keep",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Selfless Savior",
+      "spokenText": "selfless savior",
+      "role": "incidental",
+      "startSeconds": 2880.58,
+      "evidence": "selfless savior mother of runes",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zack Fair",
+      "spokenText": "zach fair",
+      "role": "incidental",
+      "startSeconds": 2886.66,
+      "evidence": "her in play zach fair even",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tocasia's Welcome",
+      "spokenText": "tukage's welcome",
+      "role": "incidental",
+      "startSeconds": 2909.04,
+      "evidence": "welcoming vampire and tukage's welcome",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Welcoming Vampire",
+      "spokenText": "welcoming vampire",
+      "role": "incidental",
+      "startSeconds": 2909.04,
+      "evidence": "welcoming vampire and tukage's welcome",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tocasia's Welcome",
+      "spokenText": "tukage's welcome",
+      "role": "incidental",
+      "startSeconds": 2922.76,
+      "evidence": "like tukage's welcome and welcoming",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Welcoming Vampire",
+      "spokenText": "welcoming higher",
+      "role": "incidental",
+      "startSeconds": 2922.76,
+      "evidence": "tukage's welcome and welcoming higher",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Austere Command",
+      "spokenText": "austere command",
+      "role": "incidental",
+      "startSeconds": 2944.4,
+      "evidence": "wipes like austere command",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dusk // Dawn",
+      "spokenText": "dusk",
+      "role": "incidental",
+      "startSeconds": 2944.4,
+      "evidence": "you can create asymmetry with yeah dusk",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Localized Destruction",
+      "spokenText": "Localized Destruction",
+      "role": "incidental",
+      "startSeconds": 2960.64,
+      "evidence": "It's called Localized Destruction",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Giant Koi",
+      "spokenText": "giant killer",
+      "role": "incidental",
+      "startSeconds": 2980.14,
+      "evidence": "if the whole deck is, okay, well, it's giant killer",
+      "confidence": 1,
+      "modelName": "Giant Killer",
+      "catalogueConfidence": 0.911
+    },
+    {
+      "canonicalName": "Zack Fair",
+      "spokenText": "Zach Fair",
+      "role": "incidental",
+      "startSeconds": 2984.18,
+      "evidence": "it's Zach Fair",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Siren Stormtamer",
+      "spokenText": "Siren Storm Tamer",
+      "role": "incidental",
+      "startSeconds": 2985.52,
+      "evidence": "Siren Storm Tamer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kami of False Hope",
+      "spokenText": "Kamiya the False Hope",
+      "role": "incidental",
+      "startSeconds": 2987.44,
+      "evidence": "it's all of Kamiya the False Hope",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mr. House, President and CEO",
+      "spokenText": "Mr. House",
+      "role": "incidental",
+      "startSeconds": 3018.36,
+      "evidence": "he's playing um Mr. House",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rakdos, Lord of Riots",
+      "spokenText": "Rakdos",
+      "role": "incidental",
+      "startSeconds": 3065.28,
+      "evidence": "it's a little bit of the Rakdos problem",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rakdos, Lord of Riots",
+      "spokenText": "Rakdos",
+      "role": "incidental",
+      "startSeconds": 3068.98,
+      "evidence": "Rakdos be worried about the damage",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rakdos, Lord of Riots",
+      "spokenText": "Rakdos 2.0",
+      "role": "incidental",
+      "startSeconds": 3073.66,
+      "evidence": "Rakdos 2.0. Perfect example",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mother of Runes",
+      "spokenText": "mother of runes",
+      "role": "incidental",
+      "startSeconds": 3088.06,
+      "evidence": "mother of runes that would do this",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Selfless Savior",
+      "spokenText": "self, a savior",
+      "role": "incidental",
+      "startSeconds": 3088.06,
+      "evidence": "one mana creatures in the deck, like self, a savior",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "kosla",
+      "role": "incidental",
+      "startSeconds": 3099.54,
+      "evidence": "it changes from get rid of kosla to clear andy's board",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dewdrop Cure",
+      "spokenText": "do drop cure",
+      "role": "incidental",
+      "startSeconds": 3114.38,
+      "evidence": "i'm holding on to do drop cure",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dewdrop Cure",
+      "spokenText": "dew drop dew drop cure",
+      "role": "incidental",
+      "startSeconds": 3126.94,
+      "evidence": "i'm gonna cast dew drop dew drop cure",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kami of False Hope",
+      "spokenText": "commies",
+      "role": "incidental",
+      "startSeconds": 3147.9,
+      "evidence": "the selfless savior's back the commies back",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Selfless Savior",
+      "spokenText": "selfless savior",
+      "role": "incidental",
+      "startSeconds": 3147.9,
+      "evidence": "the selfless savior's back",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Harmonized Crescendo",
+      "spokenText": "harmonized trio",
+      "role": "incidental",
+      "startSeconds": 3154.22,
+      "evidence": "harmonized trio or something",
+      "confidence": 0.65,
+      "modelName": "Harmonized Trio",
+      "catalogueConfidence": 0.903
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "costla",
+      "role": "incidental",
+      "startSeconds": 3160.58,
+      "evidence": "towards costla it's like i just made three land plays",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dewdrop Cure",
+      "spokenText": "dew drop",
+      "role": "incidental",
+      "startSeconds": 3164.86,
+      "evidence": "i spent three to do the dew drop",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Abiding Grace",
+      "spokenText": "abiding",
+      "role": "incidental",
+      "startSeconds": 3177.14,
+      "evidence": "later i introduced abiding",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kami of False Hope",
+      "spokenText": "kami of false hope",
+      "role": "incidental",
+      "startSeconds": 3198.26,
+      "evidence": "kami of false hope back into play",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Abiding Grace",
+      "spokenText": "abiding grace",
+      "role": "incidental",
+      "startSeconds": 3202.52,
+      "evidence": "that abiding grace and you're gonna unwind all my combats",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Guardian of Faith",
+      "spokenText": "guardian of faith",
+      "role": "incidental",
+      "startSeconds": 3223.84,
+      "evidence": "guardian of faith to try to step out from under a board wipe",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flare of Fortitude",
+      "spokenText": "flare a fortitude",
+      "role": "incidental",
+      "startSeconds": 3229.24,
+      "evidence": "and flare a fortitude",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Clever Concealment",
+      "spokenText": "clever concealment",
+      "role": "incidental",
+      "startSeconds": 3230.32,
+      "evidence": "clever concealment",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ascend from Avernus",
+      "spokenText": "a send from avernus",
+      "role": "incidental",
+      "startSeconds": 3264.38,
+      "evidence": "you have a send from avernus which is a really hot pick for this deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dewdrop Cure",
+      "spokenText": "Dew Drop Cure",
+      "role": "incidental",
+      "startSeconds": 3291.52,
+      "evidence": "Scout for Survivors, Patch Up, Dew Drop Cure",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Patch Up",
+      "spokenText": "Patch Up",
+      "role": "incidental",
+      "startSeconds": 3291.52,
+      "evidence": "Scout for Survivors, Patch Up, Dew Drop Cure",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scout for Survivors",
+      "spokenText": "Scout for Survivors",
+      "role": "incidental",
+      "startSeconds": 3291.52,
+      "evidence": "Scout for Survivors, Patch Up, Dew Drop Cure",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grand Abolisher",
+      "spokenText": "ground abolisher",
+      "role": "incidental",
+      "startSeconds": 3305.72,
+      "evidence": "people to remove ground abolisher in our meta",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Spellskite",
+      "spokenText": "spell sky",
+      "role": "incidental",
+      "startSeconds": 3305.72,
+      "evidence": "it's of high interest to remove spell sky",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Spellskite",
+      "spokenText": "spell sky",
+      "role": "incidental",
+      "startSeconds": 3315.66,
+      "evidence": "veer all the spells to the spell sky",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Spellskite",
+      "spokenText": "spell sky",
+      "role": "incidental",
+      "startSeconds": 3319.5,
+      "evidence": "i'll steal it with the spell sky",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lizard Blades",
+      "spokenText": "lizard blades",
+      "role": "incidental",
+      "startSeconds": 3325.68,
+      "evidence": "the lizard blades like people want these gone",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Silverblade Paladin",
+      "spokenText": "silver blade paladin",
+      "role": "incidental",
+      "startSeconds": 3325.68,
+      "evidence": "like silver blade paladin",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dewdrop Cure",
+      "spokenText": "do drop cure",
+      "role": "incidental",
+      "startSeconds": 3353.46,
+      "evidence": "do drop cure then things are going right",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dewdrop Cure",
+      "spokenText": "dew drop cure",
+      "role": "incidental",
+      "startSeconds": 3480.66,
+      "evidence": "you might draw your dew drop cure after you've been wiped",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 3547.76,
+      "evidence": "in a meta where farewell is not allowed",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Generous Gift",
+      "spokenText": "generous gifts",
+      "role": "incidental",
+      "startSeconds": 3581.7,
+      "evidence": "generous gifts and ways to remove things",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "Casla",
+      "role": "incidental",
+      "startSeconds": 3608.78,
+      "evidence": "I found that Casla",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Luminarch Aspirant",
+      "spokenText": "Luminarch, Aspirant",
+      "role": "incidental",
+      "startSeconds": 3626.02,
+      "evidence": "picking up a counter from like Luminarch, Aspirant",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Keleth, Sunmane Familiar",
+      "spokenText": "Kellith",
+      "role": "incidental",
+      "startSeconds": 3627.64,
+      "evidence": "Aspirant or Kellith, for example",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Collective Inferno",
+      "spokenText": "Collective Inferno",
+      "role": "incidental",
+      "startSeconds": 3631.8,
+      "evidence": "but like Collective Inferno is the big one",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Collective Inferno",
+      "spokenText": "Inferno",
+      "role": "incidental",
+      "startSeconds": 3634.7,
+      "evidence": "I convoke this Inferno down",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scout for Survivors",
+      "spokenText": "scout for survivors",
+      "role": "incidental",
+      "startSeconds": 3657.4,
+      "evidence": "i'll just do scout for survivors bring them back into play",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "Xur",
+      "role": "incidental",
+      "startSeconds": 3670.4,
+      "evidence": "the right path for her and Xur",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calix, Guided by Fate",
+      "spokenText": "Kallax",
+      "role": "incidental",
+      "startSeconds": 3675.78,
+      "evidence": "your Kallax deck",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "Xurlis",
+      "role": "incidental",
+      "startSeconds": 3694.28,
+      "evidence": "Maybe a little bit with the Xurlis",
+      "confidence": 0.89,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gray Merchant of Asphodel",
+      "spokenText": "gray merchant of asfadal",
+      "role": "incidental",
+      "startSeconds": 3703.76,
+      "evidence": "bouncing gray merchant of asfadal around",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vandalblast",
+      "spokenText": "vandal blast",
+      "role": "incidental",
+      "startSeconds": 3713.16,
+      "evidence": "vandal blast is a very popular card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scrap Mastery",
+      "spokenText": "scrap mastery",
+      "role": "incidental",
+      "startSeconds": 3721.24,
+      "evidence": "with scrap mastery can push all this stuff right back to play",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vandalblast",
+      "spokenText": "vandal blast",
+      "role": "incidental",
+      "startSeconds": 3731.9,
+      "evidence": "from the vandal blast event",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vandalblast",
+      "spokenText": "vandal blast",
+      "role": "incidental",
+      "startSeconds": 3741.92,
+      "evidence": "on the bad side of a vandal blast",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "kossala",
+      "role": "incidental",
+      "startSeconds": 3766,
+      "evidence": "as you were building kossala",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "kosla",
+      "role": "incidental",
+      "startSeconds": 3783.38,
+      "evidence": "doing a token list with kosla",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Faerie Mastermind",
+      "spokenText": "fairy mastermind",
+      "role": "incidental",
+      "startSeconds": 3806.16,
+      "evidence": "like the fairy mastermind",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fire Lord Azula",
+      "spokenText": "Azula",
+      "role": "incidental",
+      "startSeconds": 3824.12,
+      "evidence": "Zack's brother has is Azula",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fire Lord Azula",
+      "spokenText": "fire Lord Azula",
+      "role": "incidental",
+      "startSeconds": 3840.04,
+      "evidence": "And if you use fire Lord Azula",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Leyline of Anticipation",
+      "spokenText": "Leyline of Anticipation",
+      "role": "incidental",
+      "startSeconds": 3955.62,
+      "evidence": "was Leyline of Anticipation",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Insurrection",
+      "spokenText": "insurrection",
+      "role": "incidental",
+      "startSeconds": 3992.3,
+      "evidence": "if I saw insurrection in the 99 of that deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fire Lord Azula",
+      "spokenText": "Azula",
+      "role": "incidental",
+      "startSeconds": 4001.98,
+      "evidence": "another thing in the Azula list",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sword Coast Sailor",
+      "spokenText": "sword coast sailor",
+      "role": "incidental",
+      "startSeconds": 4053.3,
+      "evidence": "something like sword coast sailor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fire Lord Azula",
+      "spokenText": "azula",
+      "role": "incidental",
+      "startSeconds": 4058.3,
+      "evidence": "who i'm attacking with azula",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aqueous Form",
+      "spokenText": "aqueous form",
+      "role": "incidental",
+      "startSeconds": 4075.18,
+      "evidence": "Let's not have aqueous form on her",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "zur",
+      "role": "incidental",
+      "startSeconds": 4130.08,
+      "evidence": "like in the zur example",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur, Eternal Schemer",
+      "spokenText": "zyr",
+      "role": "incidental",
+      "startSeconds": 4142.3,
+      "evidence": "pull that zyr deck down to their level",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Garnet, Princess of Alexandria",
+      "spokenText": "garnet",
+      "role": "incidental",
+      "startSeconds": 4167.14,
+      "evidence": "because garnet has the same thing",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dyadrine, Synthesis Amalgam",
+      "spokenText": "diadrine",
+      "role": "incidental",
+      "startSeconds": 4213.18,
+      "evidence": "i've been playing with diadrine in the 99",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rocco, Street Chef",
+      "spokenText": "rocco street chef",
+      "role": "incidental",
+      "startSeconds": 4217.5,
+      "evidence": "i put together uh rocco street chef",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "costless",
+      "role": "incidental",
+      "startSeconds": 4284.2,
+      "evidence": "there's a version of this costless",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Welcoming Vampire",
+      "spokenText": "welcoming vampire",
+      "role": "incidental",
+      "startSeconds": 4294.76,
+      "evidence": "I've got the stupid welcoming vampire in the deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Selfless Savior",
+      "spokenText": "selfless savior",
+      "role": "incidental",
+      "startSeconds": 4307.62,
+      "evidence": "use the selfless savior, sacrifice it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "costless",
+      "role": "incidental",
+      "startSeconds": 4309.94,
+      "evidence": "make the, the costless indestructible",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Abiding Grace",
+      "spokenText": "Abiding Grace",
+      "role": "incidental",
+      "startSeconds": 4314.28,
+      "evidence": "Abiding Grace brings it back",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Welcoming Vampire",
+      "spokenText": "welcoming vampire",
+      "role": "incidental",
+      "startSeconds": 4318.06,
+      "evidence": "so welcoming vampire triggers, I draw a card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Elas il-Kor, Sadistic Pilgrim",
+      "spokenText": "illus ill core",
+      "role": "incidental",
+      "startSeconds": 4331.94,
+      "evidence": "an illus ill core or another style aristocrats deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Pact",
+      "spokenText": "grave pack",
+      "role": "incidental",
+      "startSeconds": 4342.02,
+      "evidence": "got grave pack too",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archaeomancer",
+      "spokenText": "archaeomancer",
+      "role": "incidental",
+      "startSeconds": 4385.26,
+      "evidence": "i'm a big fan of like archaeomancer and its cousins",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archaeomancer",
+      "spokenText": "archaeomancer",
+      "role": "incidental",
+      "startSeconds": 4409.34,
+      "evidence": "i will throw an archaeomancer around",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archaeomancer",
+      "spokenText": "archaeomancer",
+      "role": "incidental",
+      "startSeconds": 4415.42,
+      "evidence": "an archaeomancer body pillow",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pol Jamaar, Illusionist",
+      "spokenText": "Poljamar",
+      "role": "incidental",
+      "startSeconds": 4430.56,
+      "evidence": "with the Poljamar",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Salvager of Secrets",
+      "spokenText": "Salvager of Secrets",
+      "role": "incidental",
+      "startSeconds": 4437.82,
+      "evidence": "The Salvager of Secrets",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shipwreck Dowser",
+      "spokenText": "Shipwrecked Dowser",
+      "role": "incidental",
+      "startSeconds": 4437.82,
+      "evidence": "the Shipwrecked Dowser",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Archaeomancer",
+      "spokenText": "Archaomancer",
+      "role": "incidental",
+      "startSeconds": 4439.94,
+      "evidence": "and the Archaomancer in the list",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Displace",
+      "spokenText": "Displace",
+      "role": "incidental",
+      "startSeconds": 4449.18,
+      "evidence": "Ghostly Flicker, Displace",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ghostly Flicker",
+      "spokenText": "Ghostly Flicker",
+      "role": "incidental",
+      "startSeconds": 4449.18,
+      "evidence": "Ghostly Flicker, Displace",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Illusionist's Stratagem",
+      "spokenText": "Illusionist Stratagem",
+      "role": "incidental",
+      "startSeconds": 4449.18,
+      "evidence": "like Illusionist Stratagem",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pol Jamaar, Illusionist",
+      "spokenText": "pull jam pull jammer",
+      "role": "incidental",
+      "startSeconds": 4457.6,
+      "evidence": "pull jam pull jammer just lets me draw a bunch of cards",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ardent Elementalist",
+      "spokenText": "ardent elementalist",
+      "role": "incidental",
+      "startSeconds": 4468.52,
+      "evidence": "the ardent elementalist should just be in the red list",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Breach the Multiverse",
+      "spokenText": "breach the multiverse",
+      "role": "incidental",
+      "startSeconds": 4482.66,
+      "evidence": "a casual breach the multiverse in your in your Rakdos list",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skyshroud Claim",
+      "spokenText": "skyshroud claim",
+      "role": "incidental",
+      "startSeconds": 4498.72,
+      "evidence": "something like a skyshroud claim getting to play that again",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pinnacle of Rage",
+      "spokenText": "pinnacle monk",
+      "role": "incidental",
+      "startSeconds": 4530.24,
+      "evidence": "the pinnacle monk",
+      "confidence": 1,
+      "modelName": "Pinnacle Monk",
+      "catalogueConfidence": 0.879
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "cost of",
+      "role": "incidental",
+      "startSeconds": 4539.58,
+      "evidence": "if you look at this cost of list",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Chandra's Ignition",
+      "spokenText": "chandra's ignition",
+      "role": "incidental",
+      "startSeconds": 4565.16,
+      "evidence": "or chandra's ignition",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul Immolation",
+      "spokenText": "soul immolation",
+      "role": "incidental",
+      "startSeconds": 4565.16,
+      "evidence": "crack at my soul immolation",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rest in Peace",
+      "spokenText": "rest in peace",
+      "role": "incidental",
+      "startSeconds": 4586.38,
+      "evidence": "I fucking love a rest in peace",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Release to Memory",
+      "spokenText": "release to memory",
+      "role": "incidental",
+      "startSeconds": 4611.16,
+      "evidence": "on things like release to memory",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sygg, River Cutthroat",
+      "spokenText": "Sig",
+      "role": "incidental",
+      "startSeconds": 4650.62,
+      "evidence": "so like lately like Sig",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sygg, River Cutthroat",
+      "spokenText": "Sig",
+      "role": "incidental",
+      "startSeconds": 4659.74,
+      "evidence": "end the turn and draw a card with Sig",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plague Drone",
+      "spokenText": "Plague Drone",
+      "role": "incidental",
+      "startSeconds": 4673.7,
+      "evidence": "I've got stuff like the Plague Drone in here",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sygg, River Cutthroat",
+      "spokenText": "sig",
+      "role": "incidental",
+      "startSeconds": 4681.42,
+      "evidence": "trigger the sig and get the draw",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flying Men",
+      "spokenText": "flying man",
+      "role": "incidental",
+      "startSeconds": 4703.24,
+      "evidence": "it's not a flying man deck",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Edric, Spymaster of Trest",
+      "spokenText": "Edric Spymaster of Trust",
+      "role": "incidental",
+      "startSeconds": 4708.98,
+      "evidence": "Edric Spymaster of Trust or whatever",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "From the Catacombs",
+      "spokenText": "from the catacombs",
+      "role": "incidental",
+      "startSeconds": 4720.62,
+      "evidence": "just from the catacombs to rubber band something",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Whip of Erebos",
+      "spokenText": "whip of Erebus",
+      "role": "incidental",
+      "startSeconds": 4736.38,
+      "evidence": "or whip of Erebus which is like it gives them a lifelink",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Whip of Erebos",
+      "spokenText": "whip",
+      "role": "incidental",
+      "startSeconds": 4757.16,
+      "evidence": "that whip was what did it",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dauthi Voidwalker",
+      "spokenText": "Douthy void Walker",
+      "role": "incidental",
+      "startSeconds": 4784.98,
+      "evidence": "it was actually my Douthy void Walker",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Venerations",
+      "spokenText": "grave venerations",
+      "role": "incidental",
+      "startSeconds": 4794.7,
+      "evidence": "can I get grave venerations",
+      "confidence": 0.92,
+      "modelName": "Grave Veneration",
+      "catalogueConfidence": 0.988
+    },
+    {
+      "canonicalName": "Flying Men",
+      "spokenText": "flying man",
+      "role": "incidental",
+      "startSeconds": 4812.86,
+      "evidence": "some kind of like flying man style list",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gix, Yawgmoth Praetor",
+      "spokenText": "gicks",
+      "role": "incidental",
+      "startSeconds": 4819.56,
+      "evidence": "gicks or whatever",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gonti, Canny Acquisitor",
+      "spokenText": "gaunti",
+      "role": "incidental",
+      "startSeconds": 4823.8,
+      "evidence": "i'm thinking like the gaunti list",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Edgar's Awakening",
+      "spokenText": "agadim's awakening",
+      "role": "incidental",
+      "startSeconds": 4837.64,
+      "evidence": "i've got agadim's awakening in this list",
+      "confidence": 1,
+      "modelName": "Agadeem's Awakening",
+      "catalogueConfidence": 0.824
+    },
+    {
+      "canonicalName": "Back in Town",
+      "spokenText": "back in town",
+      "role": "incidental",
+      "startSeconds": 4837.64,
+      "evidence": "the things i've got in that is like back in town",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Whip of Erebos",
+      "spokenText": "whip of Erebus",
+      "role": "incidental",
+      "startSeconds": 4844.18,
+      "evidence": "and whip of Erebus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Orzhov Enforcer",
+      "spokenText": "Orzhov Enforcer",
+      "role": "incidental",
+      "startSeconds": 4851.6,
+      "evidence": "like the Orzhov Enforcer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Guildsworn Prowler",
+      "spokenText": "Guildsworn Plowler",
+      "role": "incidental",
+      "startSeconds": 4854.06,
+      "evidence": "the Guildsworn Plowler",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gifted Aetherborn",
+      "spokenText": "Gifted Aetherborn",
+      "role": "incidental",
+      "startSeconds": 4855.86,
+      "evidence": "the Gifted Aetherborn",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Whip of Erebos",
+      "spokenText": "whip of arabos",
+      "role": "incidental",
+      "startSeconds": 4912.72,
+      "evidence": "whip of arabos play",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kasla, the Broken Halo",
+      "spokenText": "kosla",
+      "role": "incidental",
+      "startSeconds": 4929.94,
+      "evidence": "some of those ones you have in kosla",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eternal Witness",
+      "spokenText": "eternal witness",
+      "role": "incidental",
+      "startSeconds": 4956.88,
+      "evidence": "eternal witness and the weird snake and all my green decks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Karador, Ghost Chieftain",
+      "spokenText": "Caridor",
+      "role": "incidental",
+      "startSeconds": 5104.28,
+      "evidence": "one of her early stronger lists was Caridor",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gift of Immortality",
+      "spokenText": "gift of immortality",
+      "role": "incidental",
+      "startSeconds": 5113,
+      "evidence": "what is it, the gift of immortality",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gift of Immortality",
+      "spokenText": "gift of immortality",
+      "role": "incidental",
+      "startSeconds": 5116.14,
+      "evidence": "the gift of immortality on a Sakura Tribelder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sakura-Tribe Elder",
+      "spokenText": "Sakura Tribelder",
+      "role": "incidental",
+      "startSeconds": 5116.14,
+      "evidence": "on a Sakura Tribelder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sakura-Tribe Elder",
+      "spokenText": "Tribelder",
+      "role": "incidental",
+      "startSeconds": 5118.8,
+      "evidence": "On a Tribelder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Pact",
+      "spokenText": "grave packed",
+      "role": "incidental",
+      "startSeconds": 5128.32,
+      "evidence": "a grave packed style effect underneath it",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tocasia's Welcome",
+      "spokenText": "tachasia's welcome",
+      "role": "incidental",
+      "startSeconds": 5140.9,
+      "evidence": "that set up with a tachasia's welcome",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [],
+  "incidentalCards": [
+    "Abdel Adrian, Gorion's Ward",
+    "Abiding Grace",
+    "Aqueous Form",
+    "Archaeomancer",
+    "Ardent Elementalist",
+    "Ascend from Avernus",
+    "Austere Command",
+    "Back in Town",
+    "Bala Ged Thief",
+    "Battlefield Raptor",
+    "Bello, Bard of the Brambles",
+    "Bojuka Bog",
+    "Breach the Multiverse",
+    "Calix, Guided by Fate",
+    "Chandra's Ignition",
+    "Clever Concealment",
+    "Codex Shredder",
+    "Collective Inferno",
+    "Dauthi Voidwalker",
+    "Dawn's Truce",
+    "Dewdrop Cure",
+    "Displace",
+    "Dusk // Dawn",
+    "Dyadrine, Synthesis Amalgam",
+    "Edgar's Awakening",
+    "Edric, Spymaster of Trest",
+    "Elas il-Kor, Sadistic Pilgrim",
+    "Esper Sentinel",
+    "Eternal Witness",
+    "Faerie Mastermind",
+    "Farewell",
+    "Fire Lord Azula",
+    "Flare of Fortitude",
+    "Flying Men",
+    "From the Catacombs",
+    "Funeral Room // Awakening Hall",
+    "Garnet, Princess of Alexandria",
+    "Generous Gift",
+    "Ghostly Flicker",
+    "Giant Koi",
+    "Gift of Immortality",
+    "Gifted Aetherborn",
+    "Gix, Yawgmoth Praetor",
+    "Gonti, Canny Acquisitor",
+    "Grand Abolisher",
+    "Grave Pact",
+    "Grave Venerations",
+    "Gray Merchant of Asphodel",
+    "Grazilaxx, Illithid Scholar",
+    "Guardian of Faith",
+    "Guide of Souls",
+    "Guildsworn Prowler",
+    "Hall of Heliod's Generosity",
+    "Harmonized Crescendo",
+    "Heroic Intervention",
+    "Illusionist's Stratagem",
+    "Insurrection",
+    "Ishai, Ojutai Dragonspeaker",
+    "Ixhel, Scion of Atraxa",
+    "Jenova, Ancient Calamity",
+    "Kami of False Hope",
+    "Kangee, Sky Warden",
+    "Karador, Ghost Chieftain",
+    "Kasla, the Broken Halo",
+    "Kastral, the Windcrested",
+    "Keleth, Sunmane Familiar",
+    "Ledger Shredder",
+    "Leyline of Anticipation",
+    "Lizard Blades",
+    "Localized Destruction",
+    "Luminarch Aspirant",
+    "Massacre Girl",
+    "Meren of Clan Nel Toth",
+    "Mizzix's Mastery",
+    "Mother of Runes",
+    "Mr. House, President and CEO",
+    "Negate",
+    "Oblivion Ring",
+    "Ondu Spiritdancer",
+    "Orzhov Enforcer",
+    "Overlord of the Floodpits",
+    "Patch Up",
+    "Pinnacle of Rage",
+    "Plague Drone",
+    "Pol Jamaar, Illusionist",
+    "Preordain",
+    "Rakdos, Lord of Riots",
+    "Release to Memory",
+    "Replenish",
+    "Rest in Peace",
+    "Rocco, Street Chef",
+    "Sakura-Tribe Elder",
+    "Salvager of Secrets",
+    "Scavenger Grounds",
+    "Scout for Survivors",
+    "Scrap Mastery",
+    "Selfless Savior",
+    "Senu, Keen-Eyed Protector",
+    "Shiko and Narset, Unified",
+    "Shipwreck Dowser",
+    "Shrike Force",
+    "Silverblade Paladin",
+    "Siren Stormtamer",
+    "Skyshroud Claim",
+    "Soul Immolation",
+    "Spellskite",
+    "Summon: Anima",
+    "Summon: Ixion",
+    "Summon: Shiva",
+    "Summon: Valefor",
+    "Sword Coast Sailor",
+    "Sword of Hearth and Home",
+    "Sygg, River Cutthroat",
+    "Teleportation Circle",
+    "Thassa, Deep-Dwelling",
+    "Thassa's Oracle",
+    "The Eldest Reborn",
+    "The Master of Keys",
+    "Timeless Witness",
+    "Tocasia's Welcome",
+    "Trapped in the Screen",
+    "Vandalblast",
+    "Welcoming Vampire",
+    "Whip of Erebos",
+    "Writ of Return",
+    "Yoshimaru, Ever Faithful",
+    "Zack Fair",
+    "Zur, Eternal Schemer"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 9,
+    "unresolvedMentions": []
+  },
+  "validation": {
+    "matchedMainCards": [],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Abdel Adrian, Gorion's Ward",
+      "Abiding Grace",
+      "Aqueous Form",
+      "Archaeomancer",
+      "Ardent Elementalist",
+      "Ascend from Avernus",
+      "Austere Command",
+      "Back in Town",
+      "Bala Ged Thief",
+      "Battlefield Raptor",
+      "Bello, Bard of the Brambles",
+      "Bojuka Bog",
+      "Breach the Multiverse",
+      "Calix, Guided by Fate",
+      "Chandra's Ignition",
+      "Clever Concealment",
+      "Codex Shredder",
+      "Collective Inferno",
+      "Dauthi Voidwalker",
+      "Dawn's Truce",
+      "Dewdrop Cure",
+      "Displace",
+      "Dusk // Dawn",
+      "Dyadrine, Synthesis Amalgam",
+      "Edgar's Awakening",
+      "Edric, Spymaster of Trest",
+      "Elas il-Kor, Sadistic Pilgrim",
+      "Esper Sentinel",
+      "Eternal Witness",
+      "Faerie Mastermind",
+      "Farewell",
+      "Fire Lord Azula",
+      "Flare of Fortitude",
+      "Flying Men",
+      "From the Catacombs",
+      "Funeral Room // Awakening Hall",
+      "Garnet, Princess of Alexandria",
+      "Generous Gift",
+      "Ghostly Flicker",
+      "Giant Koi",
+      "Gift of Immortality",
+      "Gifted Aetherborn",
+      "Gix, Yawgmoth Praetor",
+      "Gonti, Canny Acquisitor",
+      "Grand Abolisher",
+      "Grave Pact",
+      "Grave Venerations",
+      "Gray Merchant of Asphodel",
+      "Grazilaxx, Illithid Scholar",
+      "Guardian of Faith",
+      "Guide of Souls",
+      "Guildsworn Prowler",
+      "Hall of Heliod's Generosity",
+      "Harmonized Crescendo",
+      "Heroic Intervention",
+      "Illusionist's Stratagem",
+      "Insurrection",
+      "Ishai, Ojutai Dragonspeaker",
+      "Ixhel, Scion of Atraxa",
+      "Jenova, Ancient Calamity",
+      "Kami of False Hope",
+      "Kangee, Sky Warden",
+      "Karador, Ghost Chieftain",
+      "Kasla, the Broken Halo",
+      "Kastral, the Windcrested",
+      "Keleth, Sunmane Familiar",
+      "Ledger Shredder",
+      "Leyline of Anticipation",
+      "Lizard Blades",
+      "Localized Destruction",
+      "Luminarch Aspirant",
+      "Massacre Girl",
+      "Meren of Clan Nel Toth",
+      "Mizzix's Mastery",
+      "Mother of Runes",
+      "Mr. House, President and CEO",
+      "Negate",
+      "Oblivion Ring",
+      "Ondu Spiritdancer",
+      "Orzhov Enforcer",
+      "Overlord of the Floodpits",
+      "Patch Up",
+      "Pinnacle of Rage",
+      "Plague Drone",
+      "Pol Jamaar, Illusionist",
+      "Preordain",
+      "Rakdos, Lord of Riots",
+      "Release to Memory",
+      "Replenish",
+      "Rest in Peace",
+      "Rocco, Street Chef",
+      "Sakura-Tribe Elder",
+      "Salvager of Secrets",
+      "Scavenger Grounds",
+      "Scout for Survivors",
+      "Scrap Mastery",
+      "Selfless Savior",
+      "Senu, Keen-Eyed Protector",
+      "Shiko and Narset, Unified",
+      "Shipwreck Dowser",
+      "Shrike Force",
+      "Silverblade Paladin",
+      "Siren Stormtamer",
+      "Skyshroud Claim",
+      "Soul Immolation",
+      "Spellskite",
+      "Summon: Anima",
+      "Summon: Ixion",
+      "Summon: Shiva",
+      "Summon: Valefor",
+      "Sword Coast Sailor",
+      "Sword of Hearth and Home",
+      "Sygg, River Cutthroat",
+      "Teleportation Circle",
+      "Thassa, Deep-Dwelling",
+      "Thassa's Oracle",
+      "The Eldest Reborn",
+      "The Master of Keys",
+      "Timeless Witness",
+      "Tocasia's Welcome",
+      "Trapped in the Screen",
+      "Vandalblast",
+      "Welcoming Vampire",
+      "Whip of Erebos",
+      "Writ of Return",
+      "Yoshimaru, Ever Faithful",
+      "Zack Fair",
+      "Zur, Eternal Schemer"
+    ],
+    "unmatchedIncidentalCards": []
+  }
+}
