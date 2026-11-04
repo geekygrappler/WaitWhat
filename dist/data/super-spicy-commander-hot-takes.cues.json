@@ -1,0 +1,2279 @@
+[
+  {
+    "track": "mentioned",
+    "start": 247,
+    "end": 277,
+    "cardId": "50dc7fc1-cb6a-4c68-b993-1a25cf16226e",
+    "cardName": "Shatter",
+    "confidence": 0.8,
+    "needsReview": true,
+    "card": {
+      "name": "Shatter",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target artifact.",
+      "image": "https://cards.scryfall.io/normal/front/5/0/50dc7fc1-cb6a-4c68-b993-1a25cf16226e.jpg?1783948682"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 252.68,
+    "end": 282.68,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 332.28,
+    "end": 362.28,
+    "cardId": "a9dd8043-4099-42bb-9d54-4efc8b38fe18",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9dd8043-4099-42bb-9d54-4efc8b38fe18.jpg?1783947062"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 432.12,
+    "end": 462.12,
+    "cardId": "feee9327-b937-46ba-a2aa-6c015ab6cdd5",
+    "cardName": "Primeval Titan",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Primeval Titan",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Trample\nWhenever this creature enters or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/feee9327-b937-46ba-a2aa-6c015ab6cdd5.jpg?1783941794"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 523.98,
+    "end": 553.98,
+    "cardId": "a9dd8043-4099-42bb-9d54-4efc8b38fe18",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9dd8043-4099-42bb-9d54-4efc8b38fe18.jpg?1783947062"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 528.16,
+    "end": 558.16,
+    "cardId": "a9dd8043-4099-42bb-9d54-4efc8b38fe18",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9dd8043-4099-42bb-9d54-4efc8b38fe18.jpg?1783947062"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 545.3,
+    "end": 575.3,
+    "cardId": "a9dd8043-4099-42bb-9d54-4efc8b38fe18",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9dd8043-4099-42bb-9d54-4efc8b38fe18.jpg?1783947062"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 558.16,
+    "end": 588.16,
+    "cardId": "feee9327-b937-46ba-a2aa-6c015ab6cdd5",
+    "cardName": "Primeval Titan",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Primeval Titan",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Trample\nWhenever this creature enters or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/f/e/feee9327-b937-46ba-a2aa-6c015ab6cdd5.jpg?1783941794"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 596.42,
+    "end": 626.42,
+    "cardId": "a9dd8043-4099-42bb-9d54-4efc8b38fe18",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9dd8043-4099-42bb-9d54-4efc8b38fe18.jpg?1783947062"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 601.46,
+    "end": 631.46,
+    "cardId": "da6efd31-ab5e-46ff-80d2-9382438e302c",
+    "cardName": "Explosive Vegetation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Explosive Vegetation",
+      "manaCost": "{3}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/d/a/da6efd31-ab5e-46ff-80d2-9382438e302c.jpg?1783945041"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 614.32,
+    "end": 644.32,
+    "cardId": "5cd723c8-4b3d-4fbb-a825-79934279382d",
+    "cardName": "Sea Gate Loremaster",
+    "confidence": 0.885,
+    "needsReview": true,
+    "card": {
+      "name": "Sea Gate Loremaster",
+      "manaCost": "{4}{U}",
+      "typeLine": "Creature — Merfolk Wizard Ally",
+      "oracleText": "{T}: Draw a card for each Ally you control.",
+      "image": "https://cards.scryfall.io/normal/front/5/c/5cd723c8-4b3d-4fbb-a825-79934279382d.jpg?1783942160"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 618.7,
+    "end": 648.7,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 685.18,
+    "end": 715.18,
+    "cardId": "0df55e3f-14de-46ef-b6b1-616618724d9e",
+    "cardName": "Counterspell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Counterspell",
+      "manaCost": "{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell.",
+      "image": "https://cards.scryfall.io/normal/front/0/d/0df55e3f-14de-46ef-b6b1-616618724d9e.jpg?1783948707"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 688.88,
+    "end": 718.88,
+    "cardId": "cb3d3901-e4a6-45ab-a7b5-c65d91e1875e",
+    "cardName": "Spell Pierce",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Spell Pierce",
+      "manaCost": "{U}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target noncreature spell unless its controller pays {2}.",
+      "image": "https://cards.scryfall.io/normal/front/c/b/cb3d3901-e4a6-45ab-a7b5-c65d91e1875e.jpg?1783942160"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 690.34,
+    "end": 720.34,
+    "cardId": "9a879b60-4381-447d-8a5a-8e0b6a1d49ca",
+    "cardName": "Force of Will",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Force of Will",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target spell.",
+      "image": "https://cards.scryfall.io/normal/front/9/a/9a879b60-4381-447d-8a5a-8e0b6a1d49ca.jpg?1783947196"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 710.2,
+    "end": 740.2,
+    "cardId": "13d7e352-4d01-4947-a76f-f8a01dd876cc",
+    "cardName": "Thassa's Oracle",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thassa's Oracle",
+      "manaCost": "{U}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13d7e352-4d01-4947-a76f-f8a01dd876cc.jpg?1783931482"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 711.46,
+    "end": 741.46,
+    "cardId": "13d7e352-4d01-4947-a76f-f8a01dd876cc",
+    "cardName": "Thassa's Oracle",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thassa's Oracle",
+      "manaCost": "{U}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13d7e352-4d01-4947-a76f-f8a01dd876cc.jpg?1783931482"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 712.8,
+    "end": 742.8,
+    "cardId": "13d7e352-4d01-4947-a76f-f8a01dd876cc",
+    "cardName": "Thassa's Oracle",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thassa's Oracle",
+      "manaCost": "{U}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13d7e352-4d01-4947-a76f-f8a01dd876cc.jpg?1783931482"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 747.3,
+    "end": 777.3,
+    "cardId": "13d7e352-4d01-4947-a76f-f8a01dd876cc",
+    "cardName": "Thassa's Oracle",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Thassa's Oracle",
+      "manaCost": "{U}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13d7e352-4d01-4947-a76f-f8a01dd876cc.jpg?1783931482"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 757.92,
+    "end": 787.92,
+    "cardId": "5cd723c8-4b3d-4fbb-a825-79934279382d",
+    "cardName": "Sea Gate Loremaster",
+    "confidence": 0.885,
+    "needsReview": true,
+    "card": {
+      "name": "Sea Gate Loremaster",
+      "manaCost": "{4}{U}",
+      "typeLine": "Creature — Merfolk Wizard Ally",
+      "oracleText": "{T}: Draw a card for each Ally you control.",
+      "image": "https://cards.scryfall.io/normal/front/5/c/5cd723c8-4b3d-4fbb-a825-79934279382d.jpg?1783942160"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 762.2,
+    "end": 792.2,
+    "cardId": "89a89652-95ef-45b4-80c3-02241483f3c0",
+    "cardName": "Hour of Revelation",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hour of Revelation",
+      "manaCost": "{3}{W}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "This spell costs {3} less to cast if there are ten or more nonland permanents on the battlefield.\nDestroy all nonland permanents.",
+      "image": "https://cards.scryfall.io/normal/front/8/9/89a89652-95ef-45b4-80c3-02241483f3c0.jpg?1783936060"
+    },
+    "cards": [
+      {
+        "cardId": "89a89652-95ef-45b4-80c3-02241483f3c0",
+        "cardName": "Hour of Revelation",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Hour of Revelation",
+          "manaCost": "{3}{W}{W}{W}",
+          "typeLine": "Sorcery",
+          "oracleText": "This spell costs {3} less to cast if there are ten or more nonland permanents on the battlefield.\nDestroy all nonland permanents.",
+          "image": "https://cards.scryfall.io/normal/front/8/9/89a89652-95ef-45b4-80c3-02241483f3c0.jpg?1783936060"
+        }
+      },
+      {
+        "cardId": "5cd723c8-4b3d-4fbb-a825-79934279382d",
+        "cardName": "Sea Gate Loremaster",
+        "confidence": 0.885,
+        "needsReview": true,
+        "card": {
+          "name": "Sea Gate Loremaster",
+          "manaCost": "{4}{U}",
+          "typeLine": "Creature — Merfolk Wizard Ally",
+          "oracleText": "{T}: Draw a card for each Ally you control.",
+          "image": "https://cards.scryfall.io/normal/front/5/c/5cd723c8-4b3d-4fbb-a825-79934279382d.jpg?1783942160"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 800.84,
+    "end": 830.84,
+    "cardId": "40463be5-89e2-410b-9a4b-770f70d14293",
+    "cardName": "Ashling, Flame Dancer",
+    "confidence": 0.86,
+    "needsReview": true,
+    "card": {
+      "name": "Ashling, Flame Dancer",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Legendary Creature — Elemental Shaman",
+      "oracleText": "You don't lose unspent red mana as steps and phases end.\nMagecraft — Whenever you cast or copy an instant or sorcery spell, discard a card, then draw a card. If this is the second time this ability has resolved this turn, Ashling deals 2 damage to each opponent and each creature they control. If it's the third time, add {R}{R}{R}{R}.",
+      "image": "https://cards.scryfall.io/normal/front/4/0/40463be5-89e2-410b-9a4b-770f70d14293.jpg?1783911273"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 809.18,
+    "end": 839.18,
+    "cardId": "40463be5-89e2-410b-9a4b-770f70d14293",
+    "cardName": "Ashling, Flame Dancer",
+    "confidence": 0.86,
+    "needsReview": true,
+    "card": {
+      "name": "Ashling, Flame Dancer",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Legendary Creature — Elemental Shaman",
+      "oracleText": "You don't lose unspent red mana as steps and phases end.\nMagecraft — Whenever you cast or copy an instant or sorcery spell, discard a card, then draw a card. If this is the second time this ability has resolved this turn, Ashling deals 2 damage to each opponent and each creature they control. If it's the third time, add {R}{R}{R}{R}.",
+      "image": "https://cards.scryfall.io/normal/front/4/0/40463be5-89e2-410b-9a4b-770f70d14293.jpg?1783911273"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 813.46,
+    "end": 843.46,
+    "cardId": "2519149c-f8a3-413f-b7b2-cd596970be4c",
+    "cardName": "Hedron Archive",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hedron Archive",
+      "manaCost": "{4}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.\n{2}, {T}, Sacrifice this artifact: Draw two cards.",
+      "image": "https://cards.scryfall.io/normal/front/2/5/2519149c-f8a3-413f-b7b2-cd596970be4c.jpg?1783938178"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 855.8,
+    "end": 885.8,
+    "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 863.08,
+    "end": 893.08,
+    "cardId": "716a44b4-f6b0-4f14-a270-6442aed3251f",
+    "cardName": "Raffine, Scheming Seer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Raffine, Scheming Seer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Sphinx Demon",
+      "oracleText": "Flying, ward {1}\nWhenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)",
+      "image": "https://cards.scryfall.io/normal/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1783923074"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 869.16,
+    "end": 899.16,
+    "cardId": "716a44b4-f6b0-4f14-a270-6442aed3251f",
+    "cardName": "Raffine, Scheming Seer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Raffine, Scheming Seer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Sphinx Demon",
+      "oracleText": "Flying, ward {1}\nWhenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)",
+      "image": "https://cards.scryfall.io/normal/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1783923074"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 890.62,
+    "end": 920.62,
+    "cardId": "ddb3321c-6b3f-4e7e-8557-b90855ff48cd",
+    "cardName": "Faerie Mastermind",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Faerie Mastermind",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Faerie Rogue",
+      "oracleText": "Flash\nFlying\nWhenever an opponent draws their second card each turn, you draw a card.\n{3}{U}: Each player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/d/d/ddb3321c-6b3f-4e7e-8557-b90855ff48cd.jpg?1783916893"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 892.9,
+    "end": 922.9,
+    "cardId": "716a44b4-f6b0-4f14-a270-6442aed3251f",
+    "cardName": "Raffine, Scheming Seer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Raffine, Scheming Seer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Sphinx Demon",
+      "oracleText": "Flying, ward {1}\nWhenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)",
+      "image": "https://cards.scryfall.io/normal/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1783923074"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 902.04,
+    "end": 932.04,
+    "cardId": "ae1ef31c-8ca5-444c-8f39-e1d1827318f5",
+    "cardName": "Reanimate",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Reanimate",
+      "manaCost": "{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value.",
+      "image": "https://cards.scryfall.io/normal/front/a/e/ae1ef31c-8ca5-444c-8f39-e1d1827318f5.jpg?1783946636"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 904.18,
+    "end": 934.18,
+    "cardId": "8fd7861d-925f-4b4c-a4ab-60be6f43d50b",
+    "cardName": "Animate Dead",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Animate Dead",
+      "manaCost": "{1}{B}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+      "image": "https://cards.scryfall.io/normal/front/8/f/8fd7861d-925f-4b4c-a4ab-60be6f43d50b.jpg?1783948699"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 906.8,
+    "end": 936.8,
+    "cardId": "716a44b4-f6b0-4f14-a270-6442aed3251f",
+    "cardName": "Raffine, Scheming Seer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Raffine, Scheming Seer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Sphinx Demon",
+      "oracleText": "Flying, ward {1}\nWhenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)",
+      "image": "https://cards.scryfall.io/normal/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1783923074"
+    },
+    "cards": [
+      {
+        "cardId": "716a44b4-f6b0-4f14-a270-6442aed3251f",
+        "cardName": "Raffine, Scheming Seer",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Raffine, Scheming Seer",
+          "manaCost": "{W}{U}{B}",
+          "typeLine": "Legendary Creature — Sphinx Demon",
+          "oracleText": "Flying, ward {1}\nWhenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)",
+          "image": "https://cards.scryfall.io/normal/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1783923074"
+        }
+      },
+      {
+        "cardId": "ae1ef31c-8ca5-444c-8f39-e1d1827318f5",
+        "cardName": "Reanimate",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Reanimate",
+          "manaCost": "{B}",
+          "typeLine": "Sorcery",
+          "oracleText": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value.",
+          "image": "https://cards.scryfall.io/normal/front/a/e/ae1ef31c-8ca5-444c-8f39-e1d1827318f5.jpg?1783946636"
+        }
+      },
+      {
+        "cardId": "7740ff55-67bb-409e-90f7-2c2c8b8c770a",
+        "cardName": "Valgavoth, Terror Eater",
+        "confidence": 0.95,
+        "needsReview": false,
+        "card": {
+          "name": "Valgavoth, Terror Eater",
+          "manaCost": "{6}{B}{B}{B}",
+          "typeLine": "Legendary Creature — Elder Demon",
+          "oracleText": "Flying, lifelink\nWard—Sacrifice three nonland permanents.\nIf a card you didn't control would be put into an opponent's graveyard from anywhere, exile it instead.\nDuring your turn, you may play cards exiled with Valgavoth. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.",
+          "image": "https://cards.scryfall.io/normal/front/7/7/7740ff55-67bb-409e-90f7-2c2c8b8c770a.jpg?1783909475"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 915.58,
+    "end": 945.58,
+    "cardId": "716a44b4-f6b0-4f14-a270-6442aed3251f",
+    "cardName": "Raffine, Scheming Seer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Raffine, Scheming Seer",
+      "manaCost": "{W}{U}{B}",
+      "typeLine": "Legendary Creature — Sphinx Demon",
+      "oracleText": "Flying, ward {1}\nWhenever you attack, target attacking creature connives X, where X is the number of attacking creatures. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)",
+      "image": "https://cards.scryfall.io/normal/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1783923074"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 940.36,
+    "end": 970.36,
+    "cardId": "8fd7861d-925f-4b4c-a4ab-60be6f43d50b",
+    "cardName": "Animate Dead",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Animate Dead",
+      "manaCost": "{1}{B}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+      "image": "https://cards.scryfall.io/normal/front/8/f/8fd7861d-925f-4b4c-a4ab-60be6f43d50b.jpg?1783948699"
+    },
+    "cards": [
+      {
+        "cardId": "8fd7861d-925f-4b4c-a4ab-60be6f43d50b",
+        "cardName": "Animate Dead",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Animate Dead",
+          "manaCost": "{1}{B}",
+          "typeLine": "Enchantment — Aura",
+          "oracleText": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+          "image": "https://cards.scryfall.io/normal/front/8/f/8fd7861d-925f-4b4c-a4ab-60be6f43d50b.jpg?1783948699"
+        }
+      },
+      {
+        "cardId": "ae1ef31c-8ca5-444c-8f39-e1d1827318f5",
+        "cardName": "Reanimate",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Reanimate",
+          "manaCost": "{B}",
+          "typeLine": "Sorcery",
+          "oracleText": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value.",
+          "image": "https://cards.scryfall.io/normal/front/a/e/ae1ef31c-8ca5-444c-8f39-e1d1827318f5.jpg?1783946636"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 963.32,
+    "end": 993.32,
+    "cardId": "a8e9f4d2-bba5-4061-8ae7-a68b912f2c11",
+    "cardName": "Aurelia, Exemplar of Justice",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Aurelia, Exemplar of Justice",
+      "manaCost": "{2}{R}{W}",
+      "typeLine": "Legendary Creature — Angel",
+      "oracleText": "Flying\nMentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)\nAt the beginning of combat on your turn, choose up to one target creature you control. Until end of turn, that creature gets +2/+0, gains trample if it's red, and gains vigilance if it's white.",
+      "image": "https://cards.scryfall.io/normal/front/a/8/a8e9f4d2-bba5-4061-8ae7-a68b912f2c11.jpg?1783934144"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1022.72,
+    "end": 1052.72,
+    "cardId": "40463be5-89e2-410b-9a4b-770f70d14293",
+    "cardName": "Ashling, Flame Dancer",
+    "confidence": 0.86,
+    "needsReview": true,
+    "card": {
+      "name": "Ashling, Flame Dancer",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Legendary Creature — Elemental Shaman",
+      "oracleText": "You don't lose unspent red mana as steps and phases end.\nMagecraft — Whenever you cast or copy an instant or sorcery spell, discard a card, then draw a card. If this is the second time this ability has resolved this turn, Ashling deals 2 damage to each opponent and each creature they control. If it's the third time, add {R}{R}{R}{R}.",
+      "image": "https://cards.scryfall.io/normal/front/4/0/40463be5-89e2-410b-9a4b-770f70d14293.jpg?1783911273"
+    },
+    "cards": [
+      {
+        "cardId": "40463be5-89e2-410b-9a4b-770f70d14293",
+        "cardName": "Ashling, Flame Dancer",
+        "confidence": 0.86,
+        "needsReview": true,
+        "card": {
+          "name": "Ashling, Flame Dancer",
+          "manaCost": "{2}{R}{R}",
+          "typeLine": "Legendary Creature — Elemental Shaman",
+          "oracleText": "You don't lose unspent red mana as steps and phases end.\nMagecraft — Whenever you cast or copy an instant or sorcery spell, discard a card, then draw a card. If this is the second time this ability has resolved this turn, Ashling deals 2 damage to each opponent and each creature they control. If it's the third time, add {R}{R}{R}{R}.",
+          "image": "https://cards.scryfall.io/normal/front/4/0/40463be5-89e2-410b-9a4b-770f70d14293.jpg?1783911273"
+        }
+      },
+      {
+        "cardId": "2519149c-f8a3-413f-b7b2-cd596970be4c",
+        "cardName": "Hedron Archive",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Hedron Archive",
+          "manaCost": "{4}",
+          "typeLine": "Artifact",
+          "oracleText": "{T}: Add {C}{C}.\n{2}, {T}, Sacrifice this artifact: Draw two cards.",
+          "image": "https://cards.scryfall.io/normal/front/2/5/2519149c-f8a3-413f-b7b2-cd596970be4c.jpg?1783938178"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1030.26,
+    "end": 1060.26,
+    "cardId": "2519149c-f8a3-413f-b7b2-cd596970be4c",
+    "cardName": "Hedron Archive",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hedron Archive",
+      "manaCost": "{4}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.\n{2}, {T}, Sacrifice this artifact: Draw two cards.",
+      "image": "https://cards.scryfall.io/normal/front/2/5/2519149c-f8a3-413f-b7b2-cd596970be4c.jpg?1783938178"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1040.8,
+    "end": 1070.8,
+    "cardId": "a9dd8043-4099-42bb-9d54-4efc8b38fe18",
+    "cardName": "Rampant Growth",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9dd8043-4099-42bb-9d54-4efc8b38fe18.jpg?1783947062"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1110.2,
+    "end": 1140.2,
+    "cardId": "57ff74cb-a2ed-4123-ac42-f72f9820049e",
+    "cardName": "Stone Rain",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Stone Rain",
+      "manaCost": "{2}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy target land.",
+      "image": "https://cards.scryfall.io/normal/front/5/7/57ff74cb-a2ed-4123-ac42-f72f9820049e.jpg?1783948681"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1124.62,
+    "end": 1154.62,
+    "cardId": "e054e77f-94b9-4c43-94a4-75a7a5d1bd30",
+    "cardName": "Wishing Well",
+    "confidence": 0.92,
+    "needsReview": true,
+    "card": {
+      "name": "Wishing Well",
+      "manaCost": "{3}{U}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Put a coin counter on this artifact. When you do, you may cast target instant or sorcery card with mana value equal to the number of coin counters on this artifact from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead. Activate only as a sorcery.",
+      "image": "https://cards.scryfall.io/normal/front/e/0/e054e77f-94b9-4c43-94a4-75a7a5d1bd30.jpg?1783910751"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1125.68,
+    "end": 1155.68,
+    "cardId": "a9dd8043-4099-42bb-9d54-4efc8b38fe18",
+    "cardName": "Rampant Growth",
+    "confidence": 0.93,
+    "needsReview": true,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9dd8043-4099-42bb-9d54-4efc8b38fe18.jpg?1783947062"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1137.24,
+    "end": 1167.24,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1142.54,
+    "end": 1172.54,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1144.42,
+    "end": 1174.42,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1165.48,
+    "end": 1195.48,
+    "cardId": "ebb6664d-23ca-456e-9916-afcd6f26aa7f",
+    "cardName": "Dark Ritual",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Dark Ritual",
+      "manaCost": "{B}",
+      "typeLine": "Instant",
+      "oracleText": "Add {B}{B}{B}.",
+      "image": "https://cards.scryfall.io/normal/front/e/b/ebb6664d-23ca-456e-9916-afcd6f26aa7f.jpg?1783948697"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1191.76,
+    "end": 1221.76,
+    "cardId": "b02b9634-77e9-48ae-a6bf-859598d12c52",
+    "cardName": "Darksteel Ingot",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Darksteel Ingot",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)\n{T}: Add one mana of any color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b02b9634-77e9-48ae-a6bf-859598d12c52.jpg?1783944426"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1198.2,
+    "end": 1228.2,
+    "cardId": "20259dff-4984-4d0b-aa49-34f3aaf31e3a",
+    "cardName": "Skyclave Relic",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Skyclave Relic",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "Kicker {3}\nIndestructible\nWhen this artifact enters, if it was kicked, create two tapped tokens that are copies of this artifact.\n{T}: Add one mana of any color.",
+      "image": "https://cards.scryfall.io/normal/front/2/0/20259dff-4984-4d0b-aa49-34f3aaf31e3a.jpg?1783929310"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1211.1,
+    "end": 1241.1,
+    "cardId": "3be74c99-e978-4ce8-86d4-b4b798f11f13",
+    "cardName": "Wave of Vitriol",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wave of Vitriol",
+      "manaCost": "{5}{G}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player sacrifices all artifacts, enchantments, and nonbasic lands they control. For each land sacrificed this way, its controller may search their library for a basic land card and put it onto the battlefield tapped. Then each player who searched their library this way shuffles.",
+      "image": "https://cards.scryfall.io/normal/front/3/b/3be74c99-e978-4ce8-86d4-b4b798f11f13.jpg?1783938863"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1217.22,
+    "end": 1247.22,
+    "cardId": "3be74c99-e978-4ce8-86d4-b4b798f11f13",
+    "cardName": "Wave of Vitriol",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Wave of Vitriol",
+      "manaCost": "{5}{G}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player sacrifices all artifacts, enchantments, and nonbasic lands they control. For each land sacrificed this way, its controller may search their library for a basic land card and put it onto the battlefield tapped. Then each player who searched their library this way shuffles.",
+      "image": "https://cards.scryfall.io/normal/front/3/b/3be74c99-e978-4ce8-86d4-b4b798f11f13.jpg?1783938863"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1224.18,
+    "end": 1254.18,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1245.2,
+    "end": 1275.2,
+    "cardId": "ce2d603a-3231-4a8c-bf39-1617586ea870",
+    "cardName": "Grizzly Bears",
+    "confidence": 0.9,
+    "needsReview": true,
+    "card": {
+      "name": "Grizzly Bears",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Bear",
+      "oracleText": "",
+      "image": "https://cards.scryfall.io/normal/front/c/e/ce2d603a-3231-4a8c-bf39-1617586ea870.jpg?1783948676"
+    },
+    "cards": [
+      {
+        "cardId": "ce2d603a-3231-4a8c-bf39-1617586ea870",
+        "cardName": "Grizzly Bears",
+        "confidence": 0.9,
+        "needsReview": true,
+        "card": {
+          "name": "Grizzly Bears",
+          "manaCost": "{1}{G}",
+          "typeLine": "Creature — Bear",
+          "oracleText": "",
+          "image": "https://cards.scryfall.io/normal/front/c/e/ce2d603a-3231-4a8c-bf39-1617586ea870.jpg?1783948676"
+        }
+      },
+      {
+        "cardId": "a9dd8043-4099-42bb-9d54-4efc8b38fe18",
+        "cardName": "Rampant Growth",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Rampant Growth",
+          "manaCost": "{1}{G}",
+          "typeLine": "Sorcery",
+          "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+          "image": "https://cards.scryfall.io/normal/front/a/9/a9dd8043-4099-42bb-9d54-4efc8b38fe18.jpg?1783947062"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 1276.44,
+    "end": 1306.44,
+    "cardId": "a9dd8043-4099-42bb-9d54-4efc8b38fe18",
+    "cardName": "Rampant Growth",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9dd8043-4099-42bb-9d54-4efc8b38fe18.jpg?1783947062"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1281.46,
+    "end": 1311.46,
+    "cardId": "a9dd8043-4099-42bb-9d54-4efc8b38fe18",
+    "cardName": "Rampant Growth",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Rampant Growth",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9dd8043-4099-42bb-9d54-4efc8b38fe18.jpg?1783947062"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1345.18,
+    "end": 1375.18,
+    "cardId": "bd46fc9f-5b92-44d7-8940-2f39b0962b8f",
+    "cardName": "Jin-Gitaxias, Core Augur",
+    "confidence": 0.82,
+    "needsReview": true,
+    "card": {
+      "name": "Jin-Gitaxias, Core Augur",
+      "manaCost": "{8}{U}{U}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Flash\nAt the beginning of your end step, draw seven cards.\nEach opponent's maximum hand size is reduced by seven.",
+      "image": "https://cards.scryfall.io/normal/front/b/d/bd46fc9f-5b92-44d7-8940-2f39b0962b8f.jpg?1783941319"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1387.46,
+    "end": 1417.46,
+    "cardId": "60fc9e0e-7ba5-4c27-b051-c314858cab5d",
+    "cardName": "Edric, Spymaster of Trest",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Edric, Spymaster of Trest",
+      "manaCost": "{1}{G}{U}",
+      "typeLine": "Legendary Creature — Elf Rogue",
+      "oracleText": "Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/6/0/60fc9e0e-7ba5-4c27-b051-c314858cab5d.jpg?1783941180"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1389.18,
+    "end": 1419.18,
+    "cardId": "3d61a4d4-f0d5-4bc4-8977-57bbb3d97776",
+    "cardName": "Derevi, Empyrial Tactician",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Derevi, Empyrial Tactician",
+      "manaCost": "{G}{W}{U}",
+      "typeLine": "Legendary Creature — Bird Wizard",
+      "oracleText": "Flying\nWhen Derevi enters and whenever a creature you control deals combat damage to a player, you may tap or untap target permanent.\n{1}{G}{W}{U}: Put Derevi onto the battlefield from the command zone.",
+      "image": "https://cards.scryfall.io/normal/front/3/d/3d61a4d4-f0d5-4bc4-8977-57bbb3d97776.jpg?1783939652"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1492.3,
+    "end": 1522.3,
+    "cardId": "ee99acde-796c-423b-81ed-13d33e210925",
+    "cardName": "Breach the Multiverse",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Breach the Multiverse",
+      "manaCost": "{5}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.",
+      "image": "https://cards.scryfall.io/normal/front/e/e/ee99acde-796c-423b-81ed-13d33e210925.jpg?1783916892"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1494.22,
+    "end": 1524.22,
+    "cardId": "1d3d8bb4-0430-45bb-930d-5d6db6521945",
+    "cardName": "Etali, Primal Storm",
+    "confidence": 0.903,
+    "needsReview": true,
+    "card": {
+      "name": "Etali, Primal Storm",
+      "manaCost": "{4}{R}{R}",
+      "typeLine": "Legendary Creature — Elder Dinosaur",
+      "oracleText": "Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",
+      "image": "https://cards.scryfall.io/normal/front/1/d/1d3d8bb4-0430-45bb-930d-5d6db6521945.jpg?1783935299"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1498.08,
+    "end": 1528.08,
+    "cardId": "a4ebc0e7-02d7-4d38-9376-a39963e6d3fa",
+    "cardName": "Dream Harvest",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Dream Harvest",
+      "manaCost": "{5}{U/B}{U/B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each opponent exiles cards from the top of their library until they have exiled cards with total mana value 5 or greater this way. Until end of turn, you may cast cards exiled this way without paying their mana costs.",
+      "image": "https://cards.scryfall.io/normal/front/a/4/a4ebc0e7-02d7-4d38-9376-a39963e6d3fa.jpg?1783904413"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1539.98,
+    "end": 1569.98,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1575.54,
+    "end": 1605.54,
+    "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1829.14,
+    "end": 1859.14,
+    "cardId": "e4b1aa1e-b4e3-4346-8937-76b312501c70",
+    "cardName": "Jodah, the Unifier",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Jodah, the Unifier",
+      "manaCost": "{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Legendary creatures you control get +X/+X, where X is the number of legendary creatures you control.\nWhenever you cast a legendary spell from your hand, exile cards from the top of your library until you exile a legendary nonland card with lesser mana value. You may cast that card without paying its mana cost. Put the rest on the bottom of your library in a random order.",
+      "image": "https://cards.scryfall.io/normal/front/e/4/e4b1aa1e-b4e3-4346-8937-76b312501c70.jpg?1783921283"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1830.76,
+    "end": 1860.76,
+    "cardId": "e4b1aa1e-b4e3-4346-8937-76b312501c70",
+    "cardName": "Jodah, the Unifier",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Jodah, the Unifier",
+      "manaCost": "{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Human Wizard",
+      "oracleText": "Legendary creatures you control get +X/+X, where X is the number of legendary creatures you control.\nWhenever you cast a legendary spell from your hand, exile cards from the top of your library until you exile a legendary nonland card with lesser mana value. You may cast that card without paying its mana cost. Put the rest on the bottom of your library in a random order.",
+      "image": "https://cards.scryfall.io/normal/front/e/4/e4b1aa1e-b4e3-4346-8937-76b312501c70.jpg?1783921283"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2061.78,
+    "end": 2091.78,
+    "cardId": "3df8c148-e87d-4043-9d8b-ec72bf8b6d5d",
+    "cardName": "Thoughtseize",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Thoughtseize",
+      "manaCost": "{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.",
+      "image": "https://cards.scryfall.io/normal/front/3/d/3df8c148-e87d-4043-9d8b-ec72bf8b6d5d.jpg?1783942883"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2155.44,
+    "end": 2185.44,
+    "cardId": "386ea9eb-abc1-4862-aa2d-8fb808d79490",
+    "cardName": "Swords to Plowshares",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swords to Plowshares",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+      "image": "https://cards.scryfall.io/normal/front/3/8/386ea9eb-abc1-4862-aa2d-8fb808d79490.jpg?1783948709"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2195.42,
+    "end": 2225.42,
+    "cardId": "9d700064-1fda-4de0-9576-17a3faa5f04c",
+    "cardName": "Orvar, the All-Form",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Orvar, the All-Form",
+      "manaCost": "{3}{U}",
+      "typeLine": "Legendary Creature — Shapeshifter",
+      "oracleText": "Changeling\nWhenever you cast an instant or sorcery spell, if it targets one or more other permanents you control, create a token that's a copy of one of those permanents.\nWhen a spell or ability an opponent controls causes you to discard this card, create a token that's a copy of target permanent.",
+      "image": "https://cards.scryfall.io/normal/front/9/d/9d700064-1fda-4de0-9576-17a3faa5f04c.jpg?1783928151"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2216.94,
+    "end": 2246.94,
+    "cardId": "c34ae834-775e-447a-a330-0270c227c667",
+    "cardName": "Atraxa, Praetors' Voice",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Atraxa, Praetors' Voice",
+      "manaCost": "{G}{W}{U}{B}",
+      "typeLine": "Legendary Creature — Phyrexian Angel Horror",
+      "oracleText": "Flying, vigilance, deathtouch, lifelink\nAt the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+      "image": "https://cards.scryfall.io/normal/front/c/3/c34ae834-775e-447a-a330-0270c227c667.jpg?1783937085"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2270.9,
+    "end": 2300.9,
+    "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+    "cardName": "Birds of Paradise",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Birds of Paradise",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Bird",
+      "oracleText": "Flying\n{T}: Add one mana of any color.",
+      "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+    },
+    "cards": [
+      {
+        "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+        "cardName": "Birds of Paradise",
+        "confidence": 0.94,
+        "needsReview": false,
+        "card": {
+          "name": "Birds of Paradise",
+          "manaCost": "{G}",
+          "typeLine": "Creature — Bird",
+          "oracleText": "Flying\n{T}: Add one mana of any color.",
+          "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+        }
+      },
+      {
+        "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+        "cardName": "Lightning Bolt",
+        "confidence": 0.96,
+        "needsReview": false,
+        "card": {
+          "name": "Lightning Bolt",
+          "manaCost": "{R}",
+          "typeLine": "Instant",
+          "oracleText": "Lightning Bolt deals 3 damage to any target.",
+          "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2272.06,
+    "end": 2302.06,
+    "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+    "cardName": "Birds of Paradise",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Birds of Paradise",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Bird",
+      "oracleText": "Flying\n{T}: Add one mana of any color.",
+      "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+    },
+    "cards": [
+      {
+        "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+        "cardName": "Birds of Paradise",
+        "confidence": 0.94,
+        "needsReview": false,
+        "card": {
+          "name": "Birds of Paradise",
+          "manaCost": "{G}",
+          "typeLine": "Creature — Bird",
+          "oracleText": "Flying\n{T}: Add one mana of any color.",
+          "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+        }
+      },
+      {
+        "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+        "cardName": "Lightning Bolt",
+        "confidence": 0.96,
+        "needsReview": false,
+        "card": {
+          "name": "Lightning Bolt",
+          "manaCost": "{R}",
+          "typeLine": "Instant",
+          "oracleText": "Lightning Bolt deals 3 damage to any target.",
+          "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2283.64,
+    "end": 2313.64,
+    "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+    "cardName": "Birds of Paradise",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Birds of Paradise",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Bird",
+      "oracleText": "Flying\n{T}: Add one mana of any color.",
+      "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+    },
+    "cards": [
+      {
+        "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+        "cardName": "Birds of Paradise",
+        "confidence": 0.94,
+        "needsReview": false,
+        "card": {
+          "name": "Birds of Paradise",
+          "manaCost": "{G}",
+          "typeLine": "Creature — Bird",
+          "oracleText": "Flying\n{T}: Add one mana of any color.",
+          "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+        }
+      },
+      {
+        "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+        "cardName": "Lightning Bolt",
+        "confidence": 0.96,
+        "needsReview": false,
+        "card": {
+          "name": "Lightning Bolt",
+          "manaCost": "{R}",
+          "typeLine": "Instant",
+          "oracleText": "Lightning Bolt deals 3 damage to any target.",
+          "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2292.92,
+    "end": 2322.92,
+    "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+    "cardName": "Birds of Paradise",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Birds of Paradise",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Bird",
+      "oracleText": "Flying\n{T}: Add one mana of any color.",
+      "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+    },
+    "cards": [
+      {
+        "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+        "cardName": "Birds of Paradise",
+        "confidence": 0.94,
+        "needsReview": false,
+        "card": {
+          "name": "Birds of Paradise",
+          "manaCost": "{G}",
+          "typeLine": "Creature — Bird",
+          "oracleText": "Flying\n{T}: Add one mana of any color.",
+          "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+        }
+      },
+      {
+        "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+        "cardName": "Lightning Bolt",
+        "confidence": 0.96,
+        "needsReview": false,
+        "card": {
+          "name": "Lightning Bolt",
+          "manaCost": "{R}",
+          "typeLine": "Instant",
+          "oracleText": "Lightning Bolt deals 3 damage to any target.",
+          "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2294.88,
+    "end": 2324.88,
+    "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+    "cardName": "Birds of Paradise",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Birds of Paradise",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Bird",
+      "oracleText": "Flying\n{T}: Add one mana of any color.",
+      "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+    },
+    "cards": [
+      {
+        "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+        "cardName": "Birds of Paradise",
+        "confidence": 0.94,
+        "needsReview": false,
+        "card": {
+          "name": "Birds of Paradise",
+          "manaCost": "{G}",
+          "typeLine": "Creature — Bird",
+          "oracleText": "Flying\n{T}: Add one mana of any color.",
+          "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+        }
+      },
+      {
+        "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+        "cardName": "Lightning Bolt",
+        "confidence": 0.96,
+        "needsReview": false,
+        "card": {
+          "name": "Lightning Bolt",
+          "manaCost": "{R}",
+          "typeLine": "Instant",
+          "oracleText": "Lightning Bolt deals 3 damage to any target.",
+          "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2298.02,
+    "end": 2328.02,
+    "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+    "cardName": "Birds of Paradise",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Birds of Paradise",
+      "manaCost": "{G}",
+      "typeLine": "Creature — Bird",
+      "oracleText": "Flying\n{T}: Add one mana of any color.",
+      "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+    },
+    "cards": [
+      {
+        "cardId": "55fe6449-1f23-43dc-adee-d144cd505b5c",
+        "cardName": "Birds of Paradise",
+        "confidence": 0.94,
+        "needsReview": false,
+        "card": {
+          "name": "Birds of Paradise",
+          "manaCost": "{G}",
+          "typeLine": "Creature — Bird",
+          "oracleText": "Flying\n{T}: Add one mana of any color.",
+          "image": "https://cards.scryfall.io/normal/front/5/5/55fe6449-1f23-43dc-adee-d144cd505b5c.jpg?1783948679"
+        }
+      },
+      {
+        "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+        "cardName": "Lightning Bolt",
+        "confidence": 0.96,
+        "needsReview": false,
+        "card": {
+          "name": "Lightning Bolt",
+          "manaCost": "{R}",
+          "typeLine": "Instant",
+          "oracleText": "Lightning Bolt deals 3 damage to any target.",
+          "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2304.82,
+    "end": 2334.82,
+    "cardId": "386ea9eb-abc1-4862-aa2d-8fb808d79490",
+    "cardName": "Swords to Plowshares",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Swords to Plowshares",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+      "image": "https://cards.scryfall.io/normal/front/3/8/386ea9eb-abc1-4862-aa2d-8fb808d79490.jpg?1783948709"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2313.64,
+    "end": 2343.64,
+    "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2319.74,
+    "end": 2349.74,
+    "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+    },
+    "cards": [
+      {
+        "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+        "cardName": "Sol Ring",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Sol Ring",
+          "manaCost": "{1}",
+          "typeLine": "Artifact",
+          "oracleText": "{T}: Add {C}{C}.",
+          "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+        }
+      },
+      {
+        "cardId": "5925c559-3e3c-481b-ba95-20a405cbffce",
+        "cardName": "Vandalblast",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Vandalblast",
+          "manaCost": "{R}",
+          "typeLine": "Sorcery",
+          "oracleText": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+          "image": "https://cards.scryfall.io/normal/front/5/9/5925c559-3e3c-481b-ba95-20a405cbffce.jpg?1783940352"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2324.6,
+    "end": 2354.6,
+    "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2330.98,
+    "end": 2360.98,
+    "cardId": "5925c559-3e3c-481b-ba95-20a405cbffce",
+    "cardName": "Vandalblast",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Vandalblast",
+      "manaCost": "{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+      "image": "https://cards.scryfall.io/normal/front/5/9/5925c559-3e3c-481b-ba95-20a405cbffce.jpg?1783940352"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2365.74,
+    "end": 2395.74,
+    "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2748.48,
+    "end": 2778.48,
+    "cardId": "386ea9eb-abc1-4862-aa2d-8fb808d79490",
+    "cardName": "Swords to Plowshares",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Swords to Plowshares",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+      "image": "https://cards.scryfall.io/normal/front/3/8/386ea9eb-abc1-4862-aa2d-8fb808d79490.jpg?1783948709"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2843.38,
+    "end": 2873.38,
+    "cardId": "c60174d6-1f9d-4870-b3db-34d6fcb3f6ab",
+    "cardName": "Krark-Clan Ironworks",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Krark-Clan Ironworks",
+      "manaCost": "{4}",
+      "typeLine": "Artifact",
+      "oracleText": "Sacrifice an artifact: Add {C}{C}.",
+      "image": "https://cards.scryfall.io/normal/front/c/6/c60174d6-1f9d-4870-b3db-34d6fcb3f6ab.jpg?1783944378"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2951.52,
+    "end": 2981.52,
+    "cardId": "424af0d0-398c-4d78-9ad5-2171bf1bcbd1",
+    "cardName": "Nova Hellkite",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Nova Hellkite",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Creature — Dragon",
+      "oracleText": "Flying, haste\nWhen this creature enters, it deals 1 damage to target creature an opponent controls.\nWarp {2}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+      "image": "https://cards.scryfall.io/normal/front/4/2/424af0d0-398c-4d78-9ad5-2171bf1bcbd1.jpg?1783905950"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3042.3,
+    "end": 3072.3,
+    "cardId": "13d7e352-4d01-4947-a76f-f8a01dd876cc",
+    "cardName": "Thassa's Oracle",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Thassa's Oracle",
+      "manaCost": "{U}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13d7e352-4d01-4947-a76f-f8a01dd876cc.jpg?1783931482"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3069.1,
+    "end": 3099.1,
+    "cardId": "d8db2b8e-dce9-49b7-833f-381ee55288cb",
+    "cardName": "Sun Titan",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sun Titan",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Creature — Giant",
+      "oracleText": "Vigilance\nWhenever this creature enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/d/8/d8db2b8e-dce9-49b7-833f-381ee55288cb.jpg?1783941831"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3076.22,
+    "end": 3106.22,
+    "cardId": "13d7e352-4d01-4947-a76f-f8a01dd876cc",
+    "cardName": "Thassa's Oracle",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Thassa's Oracle",
+      "manaCost": "{U}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13d7e352-4d01-4947-a76f-f8a01dd876cc.jpg?1783931482"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3134.64,
+    "end": 3164.64,
+    "cardId": "d607b003-6b48-429c-a7fd-45b8dd1bb4f9",
+    "cardName": "Aesi, Tyrant of Gyre Strait",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Aesi, Tyrant of Gyre Strait",
+      "manaCost": "{4}{G}{U}",
+      "typeLine": "Legendary Creature — Serpent",
+      "oracleText": "You may play an additional land on each of your turns.\nLandfall — Whenever a land you control enters, you may draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/d/6/d607b003-6b48-429c-a7fd-45b8dd1bb4f9.jpg?1783928734"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3148.62,
+    "end": 3178.62,
+    "cardId": "d607b003-6b48-429c-a7fd-45b8dd1bb4f9",
+    "cardName": "Aesi, Tyrant of Gyre Strait",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Aesi, Tyrant of Gyre Strait",
+      "manaCost": "{4}{G}{U}",
+      "typeLine": "Legendary Creature — Serpent",
+      "oracleText": "You may play an additional land on each of your turns.\nLandfall — Whenever a land you control enters, you may draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/d/6/d607b003-6b48-429c-a7fd-45b8dd1bb4f9.jpg?1783928734"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3157.02,
+    "end": 3187.02,
+    "cardId": "bfa1bd2f-25bd-4fbd-877b-cef00ab7f92f",
+    "cardName": "Voja, Jaws of the Conclave",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Voja, Jaws of the Conclave",
+      "manaCost": "{2}{R}{G}{W}",
+      "typeLine": "Legendary Creature — Wolf",
+      "oracleText": "Vigilance, trample, ward {3}\nWhenever Voja attacks, put X +1/+1 counters on each creature you control, where X is the number of Elves you control. Draw a card for each Wolf you control.",
+      "image": "https://cards.scryfall.io/normal/front/b/f/bfa1bd2f-25bd-4fbd-877b-cef00ab7f92f.jpg?1783912763"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3193.86,
+    "end": 3223.86,
+    "cardId": "8d94b8ec-ecda-43c8-a60e-1ba33e6a54a4",
+    "cardName": "Edgar Markov",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Edgar Markov",
+      "manaCost": "{3}{R}{W}{B}",
+      "typeLine": "Legendary Creature — Vampire Knight",
+      "oracleText": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d94b8ec-ecda-43c8-a60e-1ba33e6a54a4.jpg?1783935938"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3215.8,
+    "end": 3245.8,
+    "cardId": "13d7e352-4d01-4947-a76f-f8a01dd876cc",
+    "cardName": "Thassa's Oracle",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Thassa's Oracle",
+      "manaCost": "{U}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13d7e352-4d01-4947-a76f-f8a01dd876cc.jpg?1783931482"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3225.28,
+    "end": 3255.28,
+    "cardId": "386ea9eb-abc1-4862-aa2d-8fb808d79490",
+    "cardName": "Swords to Plowshares",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Swords to Plowshares",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+      "image": "https://cards.scryfall.io/normal/front/3/8/386ea9eb-abc1-4862-aa2d-8fb808d79490.jpg?1783948709"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3235.26,
+    "end": 3265.26,
+    "cardId": "bfa1bd2f-25bd-4fbd-877b-cef00ab7f92f",
+    "cardName": "Voja, Jaws of the Conclave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Voja, Jaws of the Conclave",
+      "manaCost": "{2}{R}{G}{W}",
+      "typeLine": "Legendary Creature — Wolf",
+      "oracleText": "Vigilance, trample, ward {3}\nWhenever Voja attacks, put X +1/+1 counters on each creature you control, where X is the number of Elves you control. Draw a card for each Wolf you control.",
+      "image": "https://cards.scryfall.io/normal/front/b/f/bfa1bd2f-25bd-4fbd-877b-cef00ab7f92f.jpg?1783912763"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3239.22,
+    "end": 3269.22,
+    "cardId": "bcecf9ba-36da-490a-9460-99ff87d99fbd",
+    "cardName": "Sarulf, Realm Eater",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Sarulf, Realm Eater",
+      "manaCost": "{1}{B}{G}",
+      "typeLine": "Legendary Creature — Wolf",
+      "oracleText": "Whenever a permanent an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on Sarulf.\nAt the beginning of your upkeep, if Sarulf has one or more +1/+1 counters on it, you may remove all of them. If you do, exile each other nonland permanent with mana value less than or equal to the number of counters removed this way.",
+      "image": "https://cards.scryfall.io/normal/front/b/c/bcecf9ba-36da-490a-9460-99ff87d99fbd.jpg?1783928191"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3253.42,
+    "end": 3283.42,
+    "cardId": "7e78b70b-0c67-4f14-8ad7-c9f8e3f59743",
+    "cardName": "The Ur-Dragon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Ur-Dragon",
+      "manaCost": "{4}{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Dragon Avatar",
+      "oracleText": "Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast.\nFlying\nWhenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/7/e/7e78b70b-0c67-4f14-8ad7-c9f8e3f59743.jpg?1783935933"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3263.98,
+    "end": 3293.98,
+    "cardId": "7e78b70b-0c67-4f14-8ad7-c9f8e3f59743",
+    "cardName": "The Ur-Dragon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "The Ur-Dragon",
+      "manaCost": "{4}{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Dragon Avatar",
+      "oracleText": "Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast.\nFlying\nWhenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/7/e/7e78b70b-0c67-4f14-8ad7-c9f8e3f59743.jpg?1783935933"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3358.66,
+    "end": 3388.66,
+    "cardId": "9a879b60-4381-447d-8a5a-8e0b6a1d49ca",
+    "cardName": "Force of Will",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Force of Will",
+      "manaCost": "{3}{U}{U}",
+      "typeLine": "Instant",
+      "oracleText": "You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target spell.",
+      "image": "https://cards.scryfall.io/normal/front/9/a/9a879b60-4381-447d-8a5a-8e0b6a1d49ca.jpg?1783947196"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3429.14,
+    "end": 3459.14,
+    "cardId": "6f3d2dc5-7b9d-4af6-9f3b-4de90fbf63c9",
+    "cardName": "Niv-Mizzet, Parun",
+    "confidence": 0.78,
+    "needsReview": true,
+    "card": {
+      "name": "Niv-Mizzet, Parun",
+      "manaCost": "{U}{U}{U}{R}{R}{R}",
+      "typeLine": "Legendary Creature — Dragon Wizard",
+      "oracleText": "This spell can't be countered.\nFlying\nWhenever you draw a card, Niv-Mizzet deals 1 damage to any target.\nWhenever a player casts an instant or sorcery spell, you draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/6/f/6f3d2dc5-7b9d-4af6-9f3b-4de90fbf63c9.jpg?1783934125"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3499.76,
+    "end": 3529.76,
+    "cardId": "6f3d2dc5-7b9d-4af6-9f3b-4de90fbf63c9",
+    "cardName": "Niv-Mizzet, Parun",
+    "confidence": 0.78,
+    "needsReview": true,
+    "card": {
+      "name": "Niv-Mizzet, Parun",
+      "manaCost": "{U}{U}{U}{R}{R}{R}",
+      "typeLine": "Legendary Creature — Dragon Wizard",
+      "oracleText": "This spell can't be countered.\nFlying\nWhenever you draw a card, Niv-Mizzet deals 1 damage to any target.\nWhenever a player casts an instant or sorcery spell, you draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/6/f/6f3d2dc5-7b9d-4af6-9f3b-4de90fbf63c9.jpg?1783934125"
+    },
+    "cards": [
+      {
+        "cardId": "6f3d2dc5-7b9d-4af6-9f3b-4de90fbf63c9",
+        "cardName": "Niv-Mizzet, Parun",
+        "confidence": 0.78,
+        "needsReview": true,
+        "card": {
+          "name": "Niv-Mizzet, Parun",
+          "manaCost": "{U}{U}{U}{R}{R}{R}",
+          "typeLine": "Legendary Creature — Dragon Wizard",
+          "oracleText": "This spell can't be countered.\nFlying\nWhenever you draw a card, Niv-Mizzet deals 1 damage to any target.\nWhenever a player casts an instant or sorcery spell, you draw a card.",
+          "image": "https://cards.scryfall.io/normal/front/6/f/6f3d2dc5-7b9d-4af6-9f3b-4de90fbf63c9.jpg?1783934125"
+        }
+      },
+      {
+        "cardId": "7e78b70b-0c67-4f14-8ad7-c9f8e3f59743",
+        "cardName": "The Ur-Dragon",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "The Ur-Dragon",
+          "manaCost": "{4}{W}{U}{B}{R}{G}",
+          "typeLine": "Legendary Creature — Dragon Avatar",
+          "oracleText": "Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast.\nFlying\nWhenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield.",
+          "image": "https://cards.scryfall.io/normal/front/7/e/7e78b70b-0c67-4f14-8ad7-c9f8e3f59743.jpg?1783935933"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3661.46,
+    "end": 3691.46,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3710.36,
+    "end": 3740.36,
+    "cardId": "bae077bd-fc8d-44d7-8c75-8dc8699c168e",
+    "cardName": "Giada, Font of Hope",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Giada, Font of Hope",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Angel",
+      "oracleText": "Flying, vigilance\nEach other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.\n{T}: Add {W}. Spend this mana only to cast an Angel spell.",
+      "image": "https://cards.scryfall.io/normal/front/b/a/bae077bd-fc8d-44d7-8c75-8dc8699c168e.jpg?1783923158"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3729.34,
+    "end": 3759.34,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3737.62,
+    "end": 3767.62,
+    "cardId": "bae077bd-fc8d-44d7-8c75-8dc8699c168e",
+    "cardName": "Giada, Font of Hope",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Giada, Font of Hope",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Angel",
+      "oracleText": "Flying, vigilance\nEach other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.\n{T}: Add {W}. Spend this mana only to cast an Angel spell.",
+      "image": "https://cards.scryfall.io/normal/front/b/a/bae077bd-fc8d-44d7-8c75-8dc8699c168e.jpg?1783923158"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3968.34,
+    "end": 3998.34,
+    "cardId": "139b90cd-8272-457a-be32-1298145345be",
+    "cardName": "Watery Grave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Watery Grave",
+      "manaCost": "",
+      "typeLine": "Land — Island Swamp",
+      "oracleText": "({T}: Add {U} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+      "image": "https://cards.scryfall.io/normal/front/1/3/139b90cd-8272-457a-be32-1298145345be.jpg?1783943589"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3972.16,
+    "end": 4002.16,
+    "cardId": "139b90cd-8272-457a-be32-1298145345be",
+    "cardName": "Watery Grave",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Watery Grave",
+      "manaCost": "",
+      "typeLine": "Land — Island Swamp",
+      "oracleText": "({T}: Add {U} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+      "image": "https://cards.scryfall.io/normal/front/1/3/139b90cd-8272-457a-be32-1298145345be.jpg?1783943589"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4087.02,
+    "end": 4117.02,
+    "cardId": "3394cefd-a3c6-4917-8f46-234e441ecfb6",
+    "cardName": "Rhystic Study",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rhystic Study",
+      "manaCost": "{2}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+      "image": "https://cards.scryfall.io/normal/front/3/3/3394cefd-a3c6-4917-8f46-234e441ecfb6.jpg?1783945789"
+    },
+    "cards": [
+      {
+        "cardId": "3394cefd-a3c6-4917-8f46-234e441ecfb6",
+        "cardName": "Rhystic Study",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Rhystic Study",
+          "manaCost": "{2}{U}",
+          "typeLine": "Enchantment",
+          "oracleText": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+          "image": "https://cards.scryfall.io/normal/front/3/3/3394cefd-a3c6-4917-8f46-234e441ecfb6.jpg?1783945789"
+        }
+      },
+      {
+        "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+        "cardName": "Sol Ring",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Sol Ring",
+          "manaCost": "{1}",
+          "typeLine": "Artifact",
+          "oracleText": "{T}: Add {C}{C}.",
+          "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 4098.62,
+    "end": 4128.62,
+    "cardId": "3394cefd-a3c6-4917-8f46-234e441ecfb6",
+    "cardName": "Rhystic Study",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rhystic Study",
+      "manaCost": "{2}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+      "image": "https://cards.scryfall.io/normal/front/3/3/3394cefd-a3c6-4917-8f46-234e441ecfb6.jpg?1783945789"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4321.54,
+    "end": 4351.54,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4329.14,
+    "end": 4359.14,
+    "cardId": "eda1fe2f-8a95-4690-ade7-13a5b7f58233",
+    "cardName": "Marneus Calgar",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Marneus Calgar",
+      "manaCost": "{2}{W}{U}{B}",
+      "typeLine": "Legendary Creature — Astartes Warrior",
+      "oracleText": "Double strike\nMaster Tactician — Whenever one or more tokens you control enter, draw a card.\nChapter Master — {6}: Create two 2/2 white Astartes Warrior creature tokens with vigilance.",
+      "image": "https://cards.scryfall.io/normal/front/e/d/eda1fe2f-8a95-4690-ade7-13a5b7f58233.jpg?1783920808"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4341.68,
+    "end": 4371.68,
+    "cardId": "bae077bd-fc8d-44d7-8c75-8dc8699c168e",
+    "cardName": "Giada, Font of Hope",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Giada, Font of Hope",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Angel",
+      "oracleText": "Flying, vigilance\nEach other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.\n{T}: Add {W}. Spend this mana only to cast an Angel spell.",
+      "image": "https://cards.scryfall.io/normal/front/b/a/bae077bd-fc8d-44d7-8c75-8dc8699c168e.jpg?1783923158"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4343.48,
+    "end": 4373.48,
+    "cardId": "bae077bd-fc8d-44d7-8c75-8dc8699c168e",
+    "cardName": "Giada, Font of Hope",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Giada, Font of Hope",
+      "manaCost": "{1}{W}",
+      "typeLine": "Legendary Creature — Angel",
+      "oracleText": "Flying, vigilance\nEach other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.\n{T}: Add {W}. Spend this mana only to cast an Angel spell.",
+      "image": "https://cards.scryfall.io/normal/front/b/a/bae077bd-fc8d-44d7-8c75-8dc8699c168e.jpg?1783923158"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4537.72,
+    "end": 4567.72,
+    "cardId": "3e4bd552-e629-41a4-868f-d656187317b7",
+    "cardName": "Sundering Titan",
+    "confidence": 0.918,
+    "needsReview": true,
+    "card": {
+      "name": "Sundering Titan",
+      "manaCost": "{8}",
+      "typeLine": "Artifact Creature — Golem",
+      "oracleText": "When this creature enters or leaves the battlefield, choose a land of each basic land type, then destroy those lands.",
+      "image": "https://cards.scryfall.io/normal/front/3/e/3e4bd552-e629-41a4-868f-d656187317b7.jpg?1783944418"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4543.42,
+    "end": 4573.42,
+    "cardId": "8e5283db-3e22-4862-9d95-56d03d09c2ae",
+    "cardName": "Price of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Price of Progress",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.",
+      "image": "https://cards.scryfall.io/normal/front/8/e/8e5283db-3e22-4862-9d95-56d03d09c2ae.jpg?1783946510"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4546.02,
+    "end": 4576.02,
+    "cardId": "5e43c36f-b8a2-4b2b-b2ea-57e6fa97521c",
+    "cardName": "Clive's Hideaway",
+    "confidence": 0.75,
+    "needsReview": true,
+    "card": {
+      "name": "Clive's Hideaway",
+      "manaCost": "",
+      "typeLine": "Land — Town",
+      "oracleText": "Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)\n{T}: Add {C}.\n{2}, {T}: You may play the exiled card without paying its mana cost if you control four or more legendary creatures.",
+      "image": "https://cards.scryfall.io/normal/front/5/e/5e43c36f-b8a2-4b2b-b2ea-57e6fa97521c.jpg?1783906550"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4548.84,
+    "end": 4578.84,
+    "cardId": "3e4bd552-e629-41a4-868f-d656187317b7",
+    "cardName": "Sundering Titan",
+    "confidence": 0.918,
+    "needsReview": true,
+    "card": {
+      "name": "Sundering Titan",
+      "manaCost": "{8}",
+      "typeLine": "Artifact Creature — Golem",
+      "oracleText": "When this creature enters or leaves the battlefield, choose a land of each basic land type, then destroy those lands.",
+      "image": "https://cards.scryfall.io/normal/front/3/e/3e4bd552-e629-41a4-868f-d656187317b7.jpg?1783944418"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4554.16,
+    "end": 4584.16,
+    "cardId": "8e5283db-3e22-4862-9d95-56d03d09c2ae",
+    "cardName": "Price of Progress",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Price of Progress",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.",
+      "image": "https://cards.scryfall.io/normal/front/8/e/8e5283db-3e22-4862-9d95-56d03d09c2ae.jpg?1783946510"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4708.44,
+    "end": 4738.44,
+    "cardId": "3394cefd-a3c6-4917-8f46-234e441ecfb6",
+    "cardName": "Rhystic Study",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rhystic Study",
+      "manaCost": "{2}{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+      "image": "https://cards.scryfall.io/normal/front/3/3/3394cefd-a3c6-4917-8f46-234e441ecfb6.jpg?1783945789"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 4714.5,
+    "end": 4744.5,
+    "cardId": "58e93dff-b774-4765-b7bd-d3957e42ff4a",
+    "cardName": "Mystic Remora",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mystic Remora",
+      "manaCost": "{U}",
+      "typeLine": "Enchantment",
+      "oracleText": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever an opponent casts a noncreature spell, you may draw a card unless that player pays {4}.",
+      "image": "https://cards.scryfall.io/normal/front/5/8/58e93dff-b774-4765-b7bd-d3957e42ff4a.jpg?1783947511"
+    }
+  }
+]

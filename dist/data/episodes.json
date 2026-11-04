@@ -7,9 +7,9 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/359-One_Foot_in_the_Grave_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/one-foot-in-the-grave-graveyard-series",
     "artwork": "https://static.libsyn.com/p/assets/e/c/a/2/eca2d36ef6b8f0aea04421dee9605cbd/359_Thumbnail_2000x2000.png",
+    "cueSheet": "./data/one-foot-in-the-grave-graveyard-series.cues.json",
     "processed": true,
-    "source": "Legendary Creature Podcast RSS",
-    "cueSheet": "./data/one-foot-in-the-grave-graveyard-series.cues.json"
+    "source": "Legendary Creature Podcast RSS"
   },
   {
     "id": "reality-fracture-cards-for-your-99",

@@ -1,5 +1,17 @@
 [
   {
+    "id": "super-spicy-commander-hot-takes",
+    "title": "Super Spicy Commander Hot Takes",
+    "published": "2026-11-03T16:00:22.000Z",
+    "duration": 4904,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/833321c9-d2a9-4b70-aa1b-de295522bd07/Commander_Clash_Podcast_276_Hot_Takes.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "processed": true,
+    "source": "MTGGoldfish Commander Clash Podcast RSS",
+    "cueSheet": "./data/super-spicy-commander-hot-takes.cues.json"
+  },
+  {
     "id": "the-best-card-of-every-color-combination",
     "title": "The Best Card of Every Color Combination",
     "published": "2026-10-27T15:00:14.000Z",
@@ -213,17 +225,6 @@
     "published": "2026-06-23T15:00:10.000Z",
     "duration": 4045,
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/ac737756-add1-42f7-a0b9-2b56f8f4e5d6/commander_clash_podcast_257_underplayed_cards.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
-    "source": "MTGGoldfish Commander Clash Podcast RSS"
-  },
-  {
-    "id": "marvel-super-heroes-top-commander-cards",
-    "title": "Marvel Super Heroes: Top Commander Cards",
-    "published": "2026-06-16T15:00:10.000Z",
-    "duration": 4477,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/01b95b30-79ab-47b8-931b-3f5654e33706/commander_clash_podcast_256_marvel_super_heroes.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
     "processed": false,

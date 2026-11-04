@@ -1,0 +1,3119 @@
+{
+  "model": "gpt-6-astra",
+  "title": "The Star Trek Cards that Actually Matter",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "Superior Spider-Man",
+      "role": "incidental",
+      "startSeconds": 299.36,
+      "evidence": "Superior Spider-Man really good",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thor, God of Thunder",
+      "spokenText": "Thor",
+      "role": "incidental",
+      "startSeconds": 301.88,
+      "evidence": "Thor really good",
+      "confidence": 0.7,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "Superior Spider-Man",
+      "role": "incidental",
+      "startSeconds": 303.9,
+      "evidence": "Superior Spider-Man is the archetype",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Coalition Relic",
+      "spokenText": "collation trimatrix",
+      "role": "incidental",
+      "startSeconds": 348.28,
+      "evidence": "i mean collation trimatrix",
+      "confidence": 0.65,
+      "modelName": "Coalition Trimatrix",
+      "catalogueConfidence": 0.886
+    },
+    {
+      "canonicalName": "Cryptbreaker",
+      "spokenText": "Crypt Breaker",
+      "role": "incidental",
+      "startSeconds": 353.56,
+      "evidence": "that one drop that's a Crypt Breaker",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stock Up",
+      "spokenText": "stock up",
+      "role": "incidental",
+      "startSeconds": 405.62,
+      "evidence": "Isn't that stock up though?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dream Beavers",
+      "spokenText": "Dream Beavers",
+      "role": "incidental",
+      "startSeconds": 413.56,
+      "evidence": "But Dream Beavers, Crim",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dream Beavers",
+      "spokenText": "Dream Beavers",
+      "role": "incidental",
+      "startSeconds": 414.98,
+      "evidence": "Dream Beavers",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dream Beavers",
+      "spokenText": "Dream Beavers",
+      "role": "incidental",
+      "startSeconds": 417.16,
+      "evidence": "Dream Beavers is good",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cool but Rude",
+      "spokenText": "Cool but Rude",
+      "role": "incidental",
+      "startSeconds": 420.02,
+      "evidence": "Cool but Rude",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cool but Rude",
+      "spokenText": "Cool but Rude",
+      "role": "incidental",
+      "startSeconds": 421.12,
+      "evidence": "Cool but Rude",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Krang, Master Mind",
+      "spokenText": "Krang",
+      "role": "incidental",
+      "startSeconds": 423.66,
+      "evidence": "I've seen Krang, like the Infinity of Artifacts Krang",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "Lightning Bolt",
+      "role": "incidental",
+      "startSeconds": 533.6,
+      "evidence": "if you hit a Shock or a Lightning Bolt",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shock",
+      "spokenText": "Shock",
+      "role": "incidental",
+      "startSeconds": 533.6,
+      "evidence": "if you hit a Shock or a Lightning Bolt",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountain",
+      "role": "incidental",
+      "startSeconds": 602.7,
+      "evidence": "any dirtily card is better than another mountain",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boltwave",
+      "spokenText": "bolt wave",
+      "role": "incidental",
+      "startSeconds": 617.7,
+      "evidence": "burn spells into here so bolt wave",
+      "confidence": 1,
+      "modelName": "Bolt Wave",
+      "catalogueConfidence": 0.978
+    },
+    {
+      "canonicalName": "Burst Lightning",
+      "spokenText": "burst lightning",
+      "role": "incidental",
+      "startSeconds": 617.7,
+      "evidence": "bolt wave burst lightning lightning strike",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Strike",
+      "spokenText": "lightning strike",
+      "role": "incidental",
+      "startSeconds": 623.94,
+      "evidence": "lightning strike just load up on burn spells",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bloodbraid Elf",
+      "spokenText": "bloodbraid elf",
+      "role": "incidental",
+      "startSeconds": 641.6,
+      "evidence": "playing bloodbraid elf and having counter spell",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Counterspell",
+      "spokenText": "counter spell",
+      "role": "incidental",
+      "startSeconds": 641.6,
+      "evidence": "playing bloodbraid elf and having counter spell",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boltwave",
+      "spokenText": "Bolt Wave",
+      "role": "incidental",
+      "startSeconds": 652.14,
+      "evidence": "your exile card is Bolt Wave",
+      "confidence": 1,
+      "modelName": "Bolt Wave",
+      "catalogueConfidence": 0.978
+    },
+    {
+      "canonicalName": "Burst Lightning",
+      "spokenText": "Burst Lightning",
+      "role": "incidental",
+      "startSeconds": 654.62,
+      "evidence": "or Burst Lightning",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Boltwave",
+      "spokenText": "Bolt Wave",
+      "role": "incidental",
+      "startSeconds": 656.26,
+      "evidence": "if you get a Bolt Wave",
+      "confidence": 1,
+      "modelName": "Bolt Wave",
+      "catalogueConfidence": 0.978
+    },
+    {
+      "canonicalName": "Improvisation Capstone",
+      "spokenText": "improv capstone",
+      "role": "incidental",
+      "startSeconds": 722.56,
+      "evidence": "improv capstone do you",
+      "confidence": 0.5,
+      "modelName": "Improv Capstone",
+      "catalogueConfidence": 0.883
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarbogoyf",
+      "role": "incidental",
+      "startSeconds": 737.64,
+      "evidence": "Does it fix Tarbogoyf",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarbogoyf",
+      "role": "incidental",
+      "startSeconds": 741.68,
+      "evidence": "decks into a Tarbogoyf",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thoughtseize",
+      "spokenText": "Thoughtseize",
+      "role": "incidental",
+      "startSeconds": 746.82,
+      "evidence": "Thoughtseize gets",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "superior spider-man",
+      "role": "incidental",
+      "startSeconds": 769.86,
+      "evidence": "kind of like superior spider-man",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shock",
+      "spokenText": "shock",
+      "role": "incidental",
+      "startSeconds": 807.84,
+      "evidence": "Even if it's a shock",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul Warden",
+      "spokenText": "soul warning",
+      "role": "incidental",
+      "startSeconds": 849.86,
+      "evidence": "We soul warning every turn",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aven Interrupter",
+      "spokenText": "interrupter",
+      "role": "incidental",
+      "startSeconds": 860.42,
+      "evidence": "if they interrupt you or interrupter you",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aven Interrupter",
+      "spokenText": "interrupter",
+      "role": "incidental",
+      "startSeconds": 871.96,
+      "evidence": "You just got to kill the interrupter",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pull from Eternity",
+      "spokenText": "Pulled from Eternity",
+      "role": "incidental",
+      "startSeconds": 881.02,
+      "evidence": "Pulled from Eternity?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Engineered Explosives",
+      "spokenText": "engineered explosives",
+      "role": "main",
+      "startSeconds": 900.3,
+      "evidence": "I think that's going to be engineered explosives",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Engineered Explosives",
+      "spokenText": "EE",
+      "role": "main",
+      "startSeconds": 906.02,
+      "evidence": "I think EE does a lot of work this format",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Weapons Manufacturing",
+      "spokenText": "weapons manufacturing",
+      "role": "incidental",
+      "startSeconds": 915.92,
+      "evidence": "play it with, like, you know, weapons manufacturing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Weapons Manufacturing",
+      "spokenText": "weapons manufacturing",
+      "role": "incidental",
+      "startSeconds": 955.36,
+      "evidence": "crim mentioned weapons manufacturing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Engineered Explosives",
+      "spokenText": "engineered explosives",
+      "role": "main",
+      "startSeconds": 962.94,
+      "evidence": "weapons manufacturing, engineered explosives is literally, like, top tier",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pinnacle Emissary",
+      "spokenText": "Pinnacle Emissary",
+      "role": "incidental",
+      "startSeconds": 962.94,
+      "evidence": "Pinnacle Emissary, also in Standard",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Weapons Manufacturing",
+      "spokenText": "weapons manufacturing",
+      "role": "incidental",
+      "startSeconds": 962.94,
+      "evidence": "weapons manufacturing, engineered explosives",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Engineered Explosives",
+      "spokenText": "E",
+      "role": "main",
+      "startSeconds": 997.4,
+      "evidence": "You've had to play a lot of E in your day",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Engineered Explosives",
+      "spokenText": "E.E.",
+      "role": "main",
+      "startSeconds": 1013.36,
+      "evidence": "you play Lingering Souls, I play E.E.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lingering Souls",
+      "spokenText": "Lingering Souls",
+      "role": "incidental",
+      "startSeconds": 1013.36,
+      "evidence": "you play Lingering Souls, I play E.E.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Coalition Relic",
+      "spokenText": "Coalation Tri-Matrix",
+      "role": "main",
+      "startSeconds": 1044.74,
+      "evidence": "And it's Coalation Tri-Matrix",
+      "confidence": 0.65,
+      "modelName": "Coalition Trimatrix",
+      "catalogueConfidence": 0.886
+    },
+    {
+      "canonicalName": "Cryptbreaker",
+      "spokenText": "Cryptbreaker",
+      "role": "incidental",
+      "startSeconds": 1071.68,
+      "evidence": "it's essentially artifact Cryptbreaker",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cryptbreaker",
+      "spokenText": "Cryptbreaker",
+      "role": "incidental",
+      "startSeconds": 1078.32,
+      "evidence": "better than being a Cryptbreaker for zombies",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pinnacle Emissary",
+      "spokenText": "Pinnacle Emissary",
+      "role": "incidental",
+      "startSeconds": 1082.52,
+      "evidence": "we have Pinnacle Emissary, we have Ravenous Robots",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ravenous Robots",
+      "spokenText": "Ravenous Robots",
+      "role": "incidental",
+      "startSeconds": 1082.52,
+      "evidence": "we have Pinnacle Emissary, we have Ravenous Robots",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cryptbreaker",
+      "spokenText": "Cryptbreaker",
+      "role": "incidental",
+      "startSeconds": 1097.34,
+      "evidence": "it looks close to Cryptbreaker",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cryptbreaker",
+      "spokenText": "breaker",
+      "role": "incidental",
+      "startSeconds": 1108.32,
+      "evidence": "breaker was so strong because it spawned that 2-2 zombie",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fire Magic",
+      "spokenText": "fire magic",
+      "role": "incidental",
+      "startSeconds": 1138.98,
+      "evidence": "fire magic gonna",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ornithopter",
+      "spokenText": "Ornithopter",
+      "role": "incidental",
+      "startSeconds": 1143.66,
+      "evidence": "Ornithopter's not",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arcbound Ravager",
+      "spokenText": "Ravager",
+      "role": "incidental",
+      "startSeconds": 1155.28,
+      "evidence": "Do we have a Ravager?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cranial Plating",
+      "spokenText": "Cranial Plating",
+      "role": "incidental",
+      "startSeconds": 1156.68,
+      "evidence": "Or do we have a Cranial Plating?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cranial Plating",
+      "spokenText": "Cranial Plating",
+      "role": "incidental",
+      "startSeconds": 1158.68,
+      "evidence": "We do have a Cranial Plating",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cranial Plating",
+      "spokenText": "Cranial Plating",
+      "role": "incidental",
+      "startSeconds": 1159.82,
+      "evidence": "We literally have Cranial Plating, but it's a red card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cranial Plating",
+      "spokenText": "Cranial Plating",
+      "role": "incidental",
+      "startSeconds": 1162.34,
+      "evidence": "So we do have Cranial Plating",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ravenous Robots",
+      "spokenText": "Ravenous robots",
+      "role": "incidental",
+      "startSeconds": 1193.54,
+      "evidence": "Ravenous robots?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ravenous Robots",
+      "spokenText": "Robots",
+      "role": "incidental",
+      "startSeconds": 1194.56,
+      "evidence": "Robots, yeah",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fire Magic",
+      "spokenText": "fire magic",
+      "role": "incidental",
+      "startSeconds": 1204.44,
+      "evidence": "still get fire magic ones",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Coalition Relic",
+      "spokenText": "Coalition Trimatrix",
+      "role": "main",
+      "startSeconds": 1243.32,
+      "evidence": "four copies of Coalition Trimatrix in that deck",
+      "confidence": 0.7,
+      "modelName": "Coalition Trimatrix",
+      "catalogueConfidence": 0.886
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "force of wheels",
+      "role": "incidental",
+      "startSeconds": 1269.82,
+      "evidence": "four force of wheels in there",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Genesis Wave",
+      "spokenText": "Genesis device",
+      "role": "main",
+      "startSeconds": 1282.94,
+      "evidence": "All right, Genesis device",
+      "confidence": 0.99,
+      "modelName": "Genesis Device",
+      "catalogueConfidence": 0.89
+    },
+    {
+      "canonicalName": "Genesis Wave",
+      "spokenText": "genesis device",
+      "role": "main",
+      "startSeconds": 1291.28,
+      "evidence": "five mana tap sacrifice genesis device",
+      "confidence": 0.99,
+      "modelName": "Genesis Device",
+      "catalogueConfidence": 0.89
+    },
+    {
+      "canonicalName": "Valakut, the Molten Pinnacle",
+      "spokenText": "valakit",
+      "role": "incidental",
+      "startSeconds": 1299.82,
+      "evidence": "valakit your face",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thespian's Stage",
+      "spokenText": "thespian stage",
+      "role": "incidental",
+      "startSeconds": 1318,
+      "evidence": "you can assemble uh thespian stage",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Depths",
+      "spokenText": "dark depths",
+      "role": "incidental",
+      "startSeconds": 1325.42,
+      "evidence": "dark depths or whatever",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Inkmoth Nexus",
+      "spokenText": "ink moth",
+      "role": "incidental",
+      "startSeconds": 1325.42,
+      "evidence": "ink moth wolf run",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kessig Wolf Run",
+      "spokenText": "wolf run",
+      "role": "incidental",
+      "startSeconds": 1325.42,
+      "evidence": "ink moth wolf run if you like it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Valakut, the Molten Pinnacle",
+      "spokenText": "valakit",
+      "role": "incidental",
+      "startSeconds": 1325.42,
+      "evidence": "you can assemble valakit",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Roiling Canopy",
+      "spokenText": "roiling canopy",
+      "role": "incidental",
+      "startSeconds": 1343.06,
+      "evidence": "all you got is roiling canopy",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Giant Growth",
+      "spokenText": "giant growth",
+      "role": "incidental",
+      "startSeconds": 1350.88,
+      "evidence": "not rampant growth giant growth instead",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "rampant growth",
+      "role": "incidental",
+      "startSeconds": 1350.88,
+      "evidence": "rampant growth yeah",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Valakut, the Molten Pinnacle",
+      "spokenText": "valica",
+      "role": "incidental",
+      "startSeconds": 1350.88,
+      "evidence": "it's forest valica",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "lightning bowl",
+      "role": "incidental",
+      "startSeconds": 1356.3,
+      "evidence": "of lightning bowl so you pull a creature plus three plus three",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "Scape Shift",
+      "role": "incidental",
+      "startSeconds": 1395.88,
+      "evidence": "how do you compare this to Scape Shift",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "Scape Shift",
+      "role": "incidental",
+      "startSeconds": 1409.18,
+      "evidence": "it's two cards in Scape Shift that they would want to play",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "Scape Shift",
+      "role": "incidental",
+      "startSeconds": 1413.62,
+      "evidence": "what does Scape Shift look like in 2026",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "escape shift",
+      "role": "incidental",
+      "startSeconds": 1425.8,
+      "evidence": "the escape shift is better when you're top decking it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Valakut, the Molten Pinnacle",
+      "spokenText": "Velika",
+      "role": "incidental",
+      "startSeconds": 1428.38,
+      "evidence": "if you're going to win with Velika",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lumra, Bellow of the Woods",
+      "spokenText": "Lumra",
+      "role": "incidental",
+      "startSeconds": 1451.42,
+      "evidence": "the loopy Lumra stuff from the graveyard",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "Scape Shift",
+      "role": "incidental",
+      "startSeconds": 1451.42,
+      "evidence": "we do have the Scape Shift deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "Scape Shift",
+      "role": "incidental",
+      "startSeconds": 1456.9,
+      "evidence": "additional copies of Scape Shift",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Field of the Dead",
+      "spokenText": "Field of the Dead",
+      "role": "incidental",
+      "startSeconds": 1460.74,
+      "evidence": "What if you just Field of the Dead?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "Scape Shift",
+      "role": "incidental",
+      "startSeconds": 1462.9,
+      "evidence": "What if you don't Scape Shift people?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Field of the Dead",
+      "spokenText": "Field of the Dead",
+      "role": "incidental",
+      "startSeconds": 1464.82,
+      "evidence": "Field of the Dead is illegal in Pioneer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Field of the Dead",
+      "spokenText": "Field of the Dead",
+      "role": "incidental",
+      "startSeconds": 1467.24,
+      "evidence": "Field of the Dead, blah, here's some zombies",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "Scape Shift",
+      "role": "incidental",
+      "startSeconds": 1477.18,
+      "evidence": "we just don't have another Scape Shift",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Commander Liara Portyr",
+      "spokenText": "Commander T-T-T-Pol",
+      "role": "main",
+      "startSeconds": 1492.88,
+      "evidence": "it's Commander T-T-T-Pol",
+      "confidence": 0.98,
+      "modelName": "Commander T'Pol",
+      "catalogueConfidence": 0.923
+    },
+    {
+      "canonicalName": "Commander Liara Portyr",
+      "spokenText": "T-Pol",
+      "role": "main",
+      "startSeconds": 1496.54,
+      "evidence": "T-Pol?",
+      "confidence": 0.99,
+      "modelName": "Commander T'Pol",
+      "catalogueConfidence": 0.923
+    },
+    {
+      "canonicalName": "Commander Liara Portyr",
+      "spokenText": "T-Pol",
+      "role": "main",
+      "startSeconds": 1498.08,
+      "evidence": "T-Pol",
+      "confidence": 0.99,
+      "modelName": "Commander T'Pol",
+      "catalogueConfidence": 0.923
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Tishana's",
+      "role": "incidental",
+      "startSeconds": 1547.62,
+      "evidence": "we have to imagine that Tishana's, like",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hushbringer",
+      "spokenText": "Hushbringer",
+      "role": "incidental",
+      "startSeconds": 1551.64,
+      "evidence": "Hushbringer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Shana's Tidebinder",
+      "role": "incidental",
+      "startSeconds": 1553.42,
+      "evidence": "Shana's Tidebinder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Floodpits Drowner",
+      "spokenText": "Floodpits Rounder",
+      "role": "incidental",
+      "startSeconds": 1558.94,
+      "evidence": "Tidebinder mixed with Floodpits Rounder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Tidebinder",
+      "role": "incidental",
+      "startSeconds": 1558.94,
+      "evidence": "it's Tidebinder mixed with Floodpits Rounder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Floodpits Drowner",
+      "spokenText": "Floodpits Rounder",
+      "role": "incidental",
+      "startSeconds": 1562.62,
+      "evidence": "Tidebinder plus Floodpits Rounder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Tidebinder",
+      "role": "incidental",
+      "startSeconds": 1562.62,
+      "evidence": "it's Tidebinder plus Floodpits Rounder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Floodpits Drowner",
+      "spokenText": "Flood Pits Drowner",
+      "role": "incidental",
+      "startSeconds": 1571.26,
+      "evidence": "if you add the Flood Pits Drowner",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Tidebinder",
+      "role": "incidental",
+      "startSeconds": 1571.26,
+      "evidence": "the problem with Tidebinder is it's really good when it's good",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Floodpits Drowner",
+      "spokenText": "Flood Pits Drowner",
+      "role": "incidental",
+      "startSeconds": 1580.42,
+      "evidence": "adding a Flood Pits Drowner to it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Floodpits Drowner",
+      "spokenText": "Flood Pits Drowner",
+      "role": "incidental",
+      "startSeconds": 1585.66,
+      "evidence": "against creature decks, getting the Flood Pits Drowner",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stifle",
+      "spokenText": "Stifle",
+      "role": "incidental",
+      "startSeconds": 1589.22,
+      "evidence": "getting the Stifle mode",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Floodpits Drowner",
+      "spokenText": "Drowner",
+      "role": "incidental",
+      "startSeconds": 1594.36,
+      "evidence": "we still have Drowner and Shown the Sidebinder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Shown the Sidebinder",
+      "role": "incidental",
+      "startSeconds": 1594.36,
+      "evidence": "Drowner and Shown the Sidebinder",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Tidebinder",
+      "role": "incidental",
+      "startSeconds": 1621.26,
+      "evidence": "not as strong as Tidebinder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Tidebinder",
+      "role": "incidental",
+      "startSeconds": 1623.84,
+      "evidence": "because Tidebinder permanently shuts the thing down",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Tidebinder",
+      "role": "incidental",
+      "startSeconds": 1626.06,
+      "evidence": "anything less than Tidebinder is still pretty good",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Tide",
+      "role": "incidental",
+      "startSeconds": 1640.3,
+      "evidence": "This is not a Tide",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Tide Finder",
+      "role": "incidental",
+      "startSeconds": 1642.28,
+      "evidence": "Tide Finder, when it counters an ability, turns off that permanent",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Floodpits Drowner",
+      "spokenText": "flood pits Droughter",
+      "role": "incidental",
+      "startSeconds": 1652.98,
+      "evidence": "the flood pits Droughter is a two drop",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Tidebinder",
+      "role": "incidental",
+      "startSeconds": 1673.32,
+      "evidence": "a Tidebinder, right?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Slickshot Show-Off",
+      "spokenText": "Slickshot",
+      "role": "incidental",
+      "startSeconds": 1687.5,
+      "evidence": "Slickshot, right? Or whatever",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Floodpits Drowner",
+      "spokenText": "Floodpist Drowner",
+      "role": "incidental",
+      "startSeconds": 1713.9,
+      "evidence": "as a Floodpist Drowner",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Floodpits Drowner",
+      "spokenText": "Floodpist Drowner",
+      "role": "incidental",
+      "startSeconds": 1715.82,
+      "evidence": "it's worse than Floodpist Drowner",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tishana's Tidebinder",
+      "spokenText": "Tidebinder",
+      "role": "incidental",
+      "startSeconds": 1716.82,
+      "evidence": "as a Tidebinder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nogi, Draco-Zealot",
+      "spokenText": "Nog Ambitious Cadet",
+      "role": "main",
+      "startSeconds": 1781.26,
+      "evidence": "Nog Ambitious Cadet",
+      "confidence": 0.99,
+      "modelName": "Nog, Ambitious Cadet",
+      "catalogueConfidence": 0.787
+    },
+    {
+      "canonicalName": "Icetill Explorer",
+      "spokenText": "ice till explorer",
+      "role": "incidental",
+      "startSeconds": 1824.14,
+      "evidence": "turns into ice till explorer essentially",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Icetill Explorer",
+      "spokenText": "ice till",
+      "role": "incidental",
+      "startSeconds": 1828.32,
+      "evidence": "landfall mill trigger which is nice on ice till",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Icetill Explorer",
+      "spokenText": "i still explore",
+      "role": "incidental",
+      "startSeconds": 1833.72,
+      "evidence": "it's a backup i still explore potentially",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mosswort Bridge",
+      "spokenText": "mosswood dreadknight",
+      "role": "incidental",
+      "startSeconds": 1842.58,
+      "evidence": "mosswood dreadknight or something",
+      "confidence": 1,
+      "modelName": "Mosswood Dreadknight",
+      "catalogueConfidence": 0.838
+    },
+    {
+      "canonicalName": "Jeweled Bird",
+      "spokenText": "jeweled warg",
+      "role": "incidental",
+      "startSeconds": 1870.04,
+      "evidence": "you already have the jeweled warg",
+      "confidence": 0.85,
+      "modelName": "Jeweled Warg",
+      "catalogueConfidence": 0.9
+    },
+    {
+      "canonicalName": "Rhox War Monk",
+      "spokenText": "Rock's War Montero",
+      "role": "incidental",
+      "startSeconds": 1897.22,
+      "evidence": "We're not in the Rock's War Montero anymore",
+      "confidence": 0.91,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "incidental",
+      "startSeconds": 1902.56,
+      "evidence": "No cap, Tarmogoyf better",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "incidental",
+      "startSeconds": 1908.22,
+      "evidence": "Tarmogoyf naturally grows to a 4-5",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarmogoyf",
+      "spokenText": "Tarmogoyf",
+      "role": "incidental",
+      "startSeconds": 1912.48,
+      "evidence": "Did you say that Tarmogoyf was better",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Requiting Hex",
+      "spokenText": "Hex",
+      "role": "incidental",
+      "startSeconds": 1940.76,
+      "evidence": "gets picked off by Hex",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Icetill Explorer",
+      "spokenText": "ice till",
+      "role": "incidental",
+      "startSeconds": 1948.08,
+      "evidence": "strengths of something like an ice till",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Requiting Hex",
+      "spokenText": "hexed",
+      "role": "incidental",
+      "startSeconds": 1951.2,
+      "evidence": "can't get hexed, which is a very popular removal spell",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preacher of the Schism",
+      "spokenText": "Preacher the Schism",
+      "role": "incidental",
+      "startSeconds": 1986.94,
+      "evidence": "Isn't that Preacher the Schism?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preacher of the Schism",
+      "spokenText": "Preacher",
+      "role": "incidental",
+      "startSeconds": 1991.86,
+      "evidence": "Preacher also has Death Touch",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preacher of the Schism",
+      "spokenText": "Preacher",
+      "role": "incidental",
+      "startSeconds": 2003.14,
+      "evidence": "Preacher is also a",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preacher of the Schism",
+      "spokenText": "Preacher",
+      "role": "incidental",
+      "startSeconds": 2014.86,
+      "evidence": "Preacher can play the defensive game",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preacher of the Schism",
+      "spokenText": "Preacher",
+      "role": "incidental",
+      "startSeconds": 2024.1,
+      "evidence": "Preacher is a much better card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preacher of the Schism",
+      "spokenText": "Preacher",
+      "role": "incidental",
+      "startSeconds": 2026.74,
+      "evidence": "Is Preacher rotating?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Preacher of the Schism",
+      "spokenText": "Preacher",
+      "role": "incidental",
+      "startSeconds": 2029.06,
+      "evidence": "Preacher is slasher",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Unstoppable Slasher",
+      "spokenText": "slasher",
+      "role": "incidental",
+      "startSeconds": 2029.06,
+      "evidence": "Preacher is slasher. Like, take the three mana slot",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Requiting Hex",
+      "spokenText": "direct winning Hex",
+      "role": "incidental",
+      "startSeconds": 2040.12,
+      "evidence": "dying direct winning Hex could be an issue",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Pact",
+      "spokenText": "Demonic Pact",
+      "role": "incidental",
+      "startSeconds": 2113.86,
+      "evidence": "giving it to my opponent like Demonic Pact",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Pact",
+      "spokenText": "demonic packs",
+      "role": "incidental",
+      "startSeconds": 2132.86,
+      "evidence": "died to too many of my own demonic packs",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Harmless Offering",
+      "spokenText": "Harmless Offering",
+      "role": "incidental",
+      "startSeconds": 2155.88,
+      "evidence": "You're going to Harmless Offering it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Harmless Offering",
+      "spokenText": "Harmless Offering",
+      "role": "incidental",
+      "startSeconds": 2160.38,
+      "evidence": "So there's Harmless Offering",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Iroh, Tea Master",
+      "spokenText": "Uncle Iroh",
+      "role": "incidental",
+      "startSeconds": 2161.88,
+      "evidence": "Jeskai Aggro with like this Uncle Iroh",
+      "confidence": 0.84,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Iroh, Tea Master",
+      "spokenText": "Iroh",
+      "role": "incidental",
+      "startSeconds": 2174.04,
+      "evidence": "Iroh can then go and pump some stuff",
+      "confidence": 0.84,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Pact",
+      "spokenText": "Mardu Pact",
+      "role": "incidental",
+      "startSeconds": 2181.96,
+      "evidence": "I run into Mardu Pact",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Pact",
+      "spokenText": "Mardu Pact",
+      "role": "incidental",
+      "startSeconds": 2192.76,
+      "evidence": "that Mardu Pact is sweet",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Pact",
+      "spokenText": "Grixis Pact",
+      "role": "incidental",
+      "startSeconds": 2196.52,
+      "evidence": "what if we went like Grixis Pact",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Get Lost",
+      "spokenText": "get lost",
+      "role": "incidental",
+      "startSeconds": 2204.04,
+      "evidence": "access to white because then I can get lost it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Greed's Gambit",
+      "spokenText": "Greed's Gambit",
+      "role": "incidental",
+      "startSeconds": 2213.9,
+      "evidence": "a lot you could do with this and Greed's Gambit",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Pact",
+      "spokenText": "Demonic Pact",
+      "role": "incidental",
+      "startSeconds": 2222.64,
+      "evidence": "A deck with this and Demonic Pact and Greed's Gambit",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Greed's Gambit",
+      "spokenText": "Greed's Gambit",
+      "role": "incidental",
+      "startSeconds": 2222.64,
+      "evidence": "Demonic Pact and Greed's Gambit",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Innkeeper's Talent",
+      "spokenText": "Innkeeper's Talent",
+      "role": "incidental",
+      "startSeconds": 2301.58,
+      "evidence": "if I'm playing Innkeeper's Talent",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mutant Town",
+      "spokenText": "Mutagen man",
+      "role": "incidental",
+      "startSeconds": 2303.5,
+      "evidence": "that Mutagen man, the ooze",
+      "confidence": 0.89,
+      "modelName": "Mutagen Man",
+      "catalogueConfidence": 0.855
+    },
+    {
+      "canonicalName": "Burst Lightning",
+      "spokenText": "Burst Lightning",
+      "role": "incidental",
+      "startSeconds": 2315.56,
+      "evidence": "especially when you play it Burst, Lightning",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Requiting Hex",
+      "spokenText": "Rockwitting, Hex",
+      "role": "incidental",
+      "startSeconds": 2317.58,
+      "evidence": "Lightning, Rockwitting, Hex",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jackal, Genius Geneticist",
+      "spokenText": "jackal",
+      "role": "incidental",
+      "startSeconds": 2321.6,
+      "evidence": "a spider-man card it's a simic two drop jackal",
+      "confidence": 0.87,
+      "modelName": "The Jackal, Genius Geneticist",
+      "catalogueConfidence": 0.857
+    },
+    {
+      "canonicalName": "Jackal, Genius Geneticist",
+      "spokenText": "jackal",
+      "role": "incidental",
+      "startSeconds": 2327.22,
+      "evidence": "it was called jackal",
+      "confidence": 0.87,
+      "modelName": "The Jackal, Genius Geneticist",
+      "catalogueConfidence": 0.857
+    },
+    {
+      "canonicalName": "Goldvein Hydra",
+      "spokenText": "gold vein turtle",
+      "role": "incidental",
+      "startSeconds": 2377.82,
+      "evidence": "sink that into the gold vein turtle ... a green and X",
+      "confidence": 0.92,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Obsessive Pursuit",
+      "spokenText": "obsessive pursuit",
+      "role": "incidental",
+      "startSeconds": 2399.2,
+      "evidence": "an obsessive pursuit to grow it",
+      "confidence": 0.87,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Llanowar Elves",
+      "spokenText": "a lot of our elf",
+      "role": "incidental",
+      "startSeconds": 2452.38,
+      "evidence": "this is like a lot of our elf",
+      "confidence": 0.93,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Llanowar Elves",
+      "spokenText": "where we're all",
+      "role": "incidental",
+      "startSeconds": 2455.68,
+      "evidence": "It's a beefed up where we're all",
+      "confidence": 0.8,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "badger them all",
+      "role": "incidental",
+      "startSeconds": 2457.2,
+      "evidence": "We play badger them all",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Icetill Explorer",
+      "spokenText": "Ice Tills",
+      "role": "incidental",
+      "startSeconds": 2469.9,
+      "evidence": "play ... your Ice Tills or your Uroboroids",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ouroboroid",
+      "spokenText": "Uroboroids",
+      "role": "incidental",
+      "startSeconds": 2469.9,
+      "evidence": "your Ice Tills or your Uroboroids",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ouroboroid",
+      "spokenText": "Oboroid",
+      "role": "incidental",
+      "startSeconds": 2478.92,
+      "evidence": "the Oboroid grows it",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ouroboroid",
+      "spokenText": "Oboroid",
+      "role": "incidental",
+      "startSeconds": 2482.36,
+      "evidence": "when the Oboroid comes down",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Salt Vampire",
+      "spokenText": "Salt Vampire",
+      "role": "main",
+      "startSeconds": 2498.42,
+      "evidence": "Let's go with Salt Vampire",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Salt Vampire",
+      "spokenText": "Salt Vampire",
+      "role": "main",
+      "startSeconds": 2499.88,
+      "evidence": "Salt Vampire, this card got spoiled super early",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vendilion Clique",
+      "spokenText": "Vendillion click",
+      "role": "incidental",
+      "startSeconds": 2516.92,
+      "evidence": "you essentially Vendillion click your opponent",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "Deep Cavern Bat",
+      "role": "incidental",
+      "startSeconds": 2524.92,
+      "evidence": "this reminds me of Deep Cavern Bat",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vendilion Clique",
+      "spokenText": "Vendillion Click",
+      "role": "incidental",
+      "startSeconds": 2527.46,
+      "evidence": "It reminds me of Vendillion Click",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thought-Knot Seer",
+      "spokenText": "Thaun Hossier",
+      "role": "incidental",
+      "startSeconds": 2531.96,
+      "evidence": "Thaun Hossier may be another comparison",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Icetill Explorer",
+      "spokenText": "Ice-Till Explorer",
+      "role": "incidental",
+      "startSeconds": 2540.06,
+      "evidence": "or the Ice-Till Explorer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeskai Revelation",
+      "spokenText": "Jeskai Revelations",
+      "role": "incidental",
+      "startSeconds": 2540.06,
+      "evidence": "the Jeskai Revelations or the Ice-Till Explorer",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sunderflock",
+      "spokenText": "Sunderflox",
+      "role": "incidental",
+      "startSeconds": 2540.06,
+      "evidence": "The Sunderflox or the Jeskai Revelations",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mightform Harmonizer",
+      "spokenText": "Mightform Harmonizer",
+      "role": "incidental",
+      "startSeconds": 2545.02,
+      "evidence": "Mightform Harmonizer, the Superior Spider-Man",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "Superior Spider-Man",
+      "role": "incidental",
+      "startSeconds": 2545.02,
+      "evidence": "Mightform Harmonizer, the Superior Spider-Man",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "superior Spider-Man",
+      "role": "incidental",
+      "startSeconds": 2554.52,
+      "evidence": "taking your superior Spider-Man",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "Kevin Bat",
+      "role": "incidental",
+      "startSeconds": 2565.4,
+      "evidence": "Kevin Bat, what's his rotating?",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "deep cavern bat",
+      "role": "incidental",
+      "startSeconds": 2583.32,
+      "evidence": "before you had deep cavern bat",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "that bat",
+      "role": "incidental",
+      "startSeconds": 2586,
+      "evidence": "variants that were running that bat",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "that bat",
+      "role": "incidental",
+      "startSeconds": 2589.12,
+      "evidence": "if you lost that bat",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thoughtseize",
+      "spokenText": "Thotsies",
+      "role": "incidental",
+      "startSeconds": 2618.78,
+      "evidence": "You know I hate Thotsies",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "Deep Cavern Bats",
+      "role": "incidental",
+      "startSeconds": 2632.54,
+      "evidence": "I never liked Deep Cavern Bats",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tidehollow Sculler",
+      "spokenText": "Tide Hollow Sculler",
+      "role": "incidental",
+      "startSeconds": 2634.88,
+      "evidence": "I never liked Tide Hollow Sculler",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "a bat",
+      "role": "incidental",
+      "startSeconds": 2651.02,
+      "evidence": "with a bat, you need to waste mana to reclaim that card",
+      "confidence": 0.93,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "superior Spider-Man",
+      "role": "incidental",
+      "startSeconds": 2695.54,
+      "evidence": "What if you exile superior Spider-Man?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "superior Spider-Man",
+      "role": "incidental",
+      "startSeconds": 2704.18,
+      "evidence": "outgrind the superior Spider-Man deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thoughtseize",
+      "spokenText": "Thoughtseize",
+      "role": "incidental",
+      "startSeconds": 2714.24,
+      "evidence": "a Thoughtseize hater",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thoughtseize",
+      "spokenText": "Thoughtseize",
+      "role": "incidental",
+      "startSeconds": 2718.72,
+      "evidence": "It can't be as bad as Thoughtseize",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "Spider-Man",
+      "role": "incidental",
+      "startSeconds": 2742.9,
+      "evidence": "Is that not Spider-Man?",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Rani",
+      "spokenText": "Aldeross, Aldrichs, Therix",
+      "role": "incidental",
+      "startSeconds": 2747.08,
+      "evidence": "less the Aldeross, Aldrichs, Therix, or whatever",
+      "confidence": 0.45,
+      "modelName": "Therix",
+      "catalogueConfidence": 0.874
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "superior Spider-Man",
+      "role": "incidental",
+      "startSeconds": 2754.72,
+      "evidence": "your one superior Spider-Man",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sunderflock",
+      "spokenText": "Sundarflock",
+      "role": "incidental",
+      "startSeconds": 2791.16,
+      "evidence": "delete your Sundarflock",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Simulacrum Synthesizer",
+      "spokenText": "Simulacrum Synthesizer",
+      "role": "incidental",
+      "startSeconds": 2795.02,
+      "evidence": "with Simulacrum Synthesizer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Simulacrum Synthesizer",
+      "spokenText": "Synthesizer",
+      "role": "incidental",
+      "startSeconds": 2798.4,
+      "evidence": "if you don't have Synthesizer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doomsday Excruciator",
+      "spokenText": "Extrusioner",
+      "role": "incidental",
+      "startSeconds": 2807.76,
+      "evidence": "Against Extrusioner, you can force them to draw cards",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Salt Vampire",
+      "spokenText": "Salt Vampire",
+      "role": "main",
+      "startSeconds": 2816.06,
+      "evidence": "Golgari Midrange or something, Salt Vampire is coming in",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "Deep Cavern Bat",
+      "role": "incidental",
+      "startSeconds": 2820.02,
+      "evidence": "it replaces Deep Cavern Bat",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "Deep Cavern Bat",
+      "role": "incidental",
+      "startSeconds": 2822.1,
+      "evidence": "it's a better Deep Cavern Bat",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "Bat",
+      "role": "incidental",
+      "startSeconds": 2824.22,
+      "evidence": "Where Bat can go, this goes there",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "Deep Cavern Bat",
+      "role": "incidental",
+      "startSeconds": 2826.14,
+      "evidence": "If you play Deep Cavern Bat",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deep-Cavern Bat",
+      "spokenText": "Bat",
+      "role": "incidental",
+      "startSeconds": 2829.14,
+      "evidence": "after rotation when Bat's gone",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wrath of Oko",
+      "spokenText": "Wrath of Khan",
+      "role": "main",
+      "startSeconds": 2846.7,
+      "evidence": "Wrath of Khan, guys",
+      "confidence": 1,
+      "modelName": "Wrath of Khan",
+      "catalogueConfidence": 0.921
+    },
+    {
+      "canonicalName": "Slickshot Show-Off",
+      "spokenText": "real shot show off",
+      "role": "incidental",
+      "startSeconds": 2945.22,
+      "evidence": "real shot show off is maybe the best example",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fin Fang Foom",
+      "spokenText": "fin fang boom",
+      "role": "incidental",
+      "startSeconds": 2967.52,
+      "evidence": "mono red, big red, fin fang boom",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fabled Path of Searo Point",
+      "spokenText": "Fable of the Mirror Breaker",
+      "role": "incidental",
+      "startSeconds": 2987.56,
+      "evidence": "We wrote off Fable of the Mirror Breaker",
+      "confidence": 1,
+      "modelName": "Fable of the Mirror-Breaker",
+      "catalogueConfidence": 0.827
+    },
+    {
+      "canonicalName": "Binding the Old Gods",
+      "spokenText": "Binding of the Old Gods",
+      "role": "incidental",
+      "startSeconds": 3013.06,
+      "evidence": "Binding of the Old Gods, which is way worse",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Binding the Old Gods",
+      "spokenText": "Binding of the Old Gods",
+      "role": "incidental",
+      "startSeconds": 3015.76,
+      "evidence": "I think Binding of the Old Gods",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Binding the Old Gods",
+      "spokenText": "Binding of the Gold God's",
+      "role": "incidental",
+      "startSeconds": 3046.24,
+      "evidence": "The Binding of the Gold God's deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wrath of Oko",
+      "spokenText": "Wrath of Khan",
+      "role": "main",
+      "startSeconds": 3077.38,
+      "evidence": "better threatened cards to be playing than this Wrath of Khan",
+      "confidence": 1,
+      "modelName": "Wrath of Khan",
+      "catalogueConfidence": 0.921
+    },
+    {
+      "canonicalName": "Wrath of Oko",
+      "spokenText": "Wrath of Khan",
+      "role": "main",
+      "startSeconds": 3085.6,
+      "evidence": "If you get Wrath of Khan off of Q",
+      "confidence": 1,
+      "modelName": "Wrath of Khan",
+      "catalogueConfidence": 0.921
+    },
+    {
+      "canonicalName": "Katara",
+      "spokenText": "Khan with a million A's",
+      "role": "incidental",
+      "startSeconds": 3092.44,
+      "evidence": "the card that's just Khan with a million A's",
+      "confidence": 0.52,
+      "modelName": "Khaaan!",
+      "catalogueConfidence": 0.8
+    },
+    {
+      "canonicalName": "Katara",
+      "spokenText": "Khan!",
+      "role": "incidental",
+      "startSeconds": 3109.26,
+      "evidence": "Khan!",
+      "confidence": 0.52,
+      "modelName": "Khaaan!",
+      "catalogueConfidence": 0.8
+    },
+    {
+      "canonicalName": "Katara",
+      "spokenText": "Khan!",
+      "role": "incidental",
+      "startSeconds": 3110.56,
+      "evidence": "Khan!",
+      "confidence": 0.52,
+      "modelName": "Khaaan!",
+      "catalogueConfidence": 0.8
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "spider man",
+      "role": "incidental",
+      "startSeconds": 3148.96,
+      "evidence": "play this in blue black spider man",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "Spider-Man",
+      "role": "incidental",
+      "startSeconds": 3171.7,
+      "evidence": "a synergy piece with Spider-Man",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "Spider-Man",
+      "role": "incidental",
+      "startSeconds": 3182,
+      "evidence": "a one-off in the Spider-Man deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grasp of Darkness",
+      "spokenText": "grasp of darkness",
+      "role": "incidental",
+      "startSeconds": 3186.18,
+      "evidence": "a slightly expensive grasp of darkness",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Rani",
+      "spokenText": "Thurix",
+      "role": "incidental",
+      "startSeconds": 3191.4,
+      "evidence": "at seven mana, you can't Thurix it",
+      "confidence": 0.55,
+      "modelName": "Therix",
+      "catalogueConfidence": 0.874
+    },
+    {
+      "canonicalName": "The Rani",
+      "spokenText": "Thurix",
+      "role": "incidental",
+      "startSeconds": 3194.56,
+      "evidence": "reanimate it with Thurix",
+      "confidence": 0.55,
+      "modelName": "Therix",
+      "catalogueConfidence": 0.874
+    },
+    {
+      "canonicalName": "Bringer of the Last Gift",
+      "spokenText": "bringer",
+      "role": "incidental",
+      "startSeconds": 3197.2,
+      "evidence": "is this going to replace bringer",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "spider-man",
+      "role": "incidental",
+      "startSeconds": 3197.2,
+      "evidence": "your main spider-man target",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bringer of the Last Gift",
+      "spokenText": "bringer",
+      "role": "incidental",
+      "startSeconds": 3202.42,
+      "evidence": "win you the game like a bringer does",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Rani",
+      "spokenText": "therix",
+      "role": "incidental",
+      "startSeconds": 3216.26,
+      "evidence": "therix deck it is often grinding you out",
+      "confidence": 0.55,
+      "modelName": "Therix",
+      "catalogueConfidence": 0.874
+    },
+    {
+      "canonicalName": "Harvester of Misery",
+      "spokenText": "Harvester of Misery",
+      "role": "incidental",
+      "startSeconds": 3235.38,
+      "evidence": "if they play Harvester of Misery",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Harvester of Misery",
+      "spokenText": "Harvester of Misery",
+      "role": "incidental",
+      "startSeconds": 3241.34,
+      "evidence": "Harvester of Misery is a sweeper",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "lightning bolts",
+      "role": "incidental",
+      "startSeconds": 3269.64,
+      "evidence": "rob them of the two lightning bolts in their hand",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hero's Downfall",
+      "spokenText": "heroes downfall",
+      "role": "incidental",
+      "startSeconds": 3283.26,
+      "evidence": "you are playing heroes downfall essentially",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Formidable Speaker",
+      "spokenText": "formidable speaker",
+      "role": "incidental",
+      "startSeconds": 3321.34,
+      "evidence": "your formidable speaker depending on your version",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Overlord of the Balemurk",
+      "spokenText": "overlord of the bail merc",
+      "role": "incidental",
+      "startSeconds": 3321.34,
+      "evidence": "an overlord of the bail merc",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "spider-man",
+      "role": "incidental",
+      "startSeconds": 3330.7,
+      "evidence": "if you have the spider-man",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Superior Spider-Man",
+      "spokenText": "Spider-Man",
+      "role": "incidental",
+      "startSeconds": 3340.76,
+      "evidence": "some number being played with Spider-Man",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hit it",
+      "role": "incidental",
+      "startSeconds": 3351.26,
+      "evidence": "I was going to go with hit it",
+      "confidence": 0.94,
+      "modelName": "Hit It!",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Khârn the Betrayer",
+      "spokenText": "con vengeful heart",
+      "role": "main",
+      "startSeconds": 3362.26,
+      "evidence": "shout out a legacy card, a vintage card, maybe con vengeful heart",
+      "confidence": 0.99,
+      "modelName": "Khan, Vengeful Heart",
+      "catalogueConfidence": 0.808
+    },
+    {
+      "canonicalName": "Khârn the Betrayer",
+      "spokenText": "Con Vengeful Heart",
+      "role": "main",
+      "startSeconds": 3370.76,
+      "evidence": "Con Vengeful Heart, a four-mana black, five-three",
+      "confidence": 0.99,
+      "modelName": "Khan, Vengeful Heart",
+      "catalogueConfidence": 0.808
+    },
+    {
+      "canonicalName": "Food Chain",
+      "spokenText": "Food Chain",
+      "role": "incidental",
+      "startSeconds": 3387.06,
+      "evidence": "busted things with Food Chain",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Food Chain",
+      "spokenText": "Food Chain",
+      "role": "incidental",
+      "startSeconds": 3392.18,
+      "evidence": "another Food Chain-style combo piece",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Misthollow Griffin",
+      "spokenText": "Miss Hollow",
+      "role": "incidental",
+      "startSeconds": 3412.5,
+      "evidence": "Was it like Miss Hollow?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Misthollow Griffin",
+      "spokenText": "Miss Hollow",
+      "role": "incidental",
+      "startSeconds": 3414.84,
+      "evidence": "Miss Hollow was for four mana",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Food Chain",
+      "spokenText": "food chain",
+      "role": "incidental",
+      "startSeconds": 3416.56,
+      "evidence": "four mana, blue food chain",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eternal Scourge",
+      "spokenText": "Eternal Skirt",
+      "role": "incidental",
+      "startSeconds": 3418.6,
+      "evidence": "That's blue. Eternal Skirt.",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "force of will",
+      "role": "incidental",
+      "startSeconds": 3424.36,
+      "evidence": "it pitches the force of will",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "force",
+      "role": "incidental",
+      "startSeconds": 3428.94,
+      "evidence": "Pitching to force is nice",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Contagion",
+      "spokenText": "Contagion",
+      "role": "incidental",
+      "startSeconds": 3430.78,
+      "evidence": "pitches to Contagion",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Food Chain",
+      "spokenText": "food chain",
+      "role": "incidental",
+      "startSeconds": 3463.96,
+      "evidence": "What do food chain decks look like today?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Food Chain",
+      "spokenText": "food chain",
+      "role": "incidental",
+      "startSeconds": 3475.58,
+      "evidence": "is food chain a real deck in 2026?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "force of will",
+      "role": "incidental",
+      "startSeconds": 3487.78,
+      "evidence": "this doesn't pitch to force of will",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Khârn the Betrayer",
+      "spokenText": "con",
+      "role": "main",
+      "startSeconds": 3499.1,
+      "evidence": "are you gonna be playing con",
+      "confidence": 0.99,
+      "modelName": "Khan, Vengeful Heart",
+      "catalogueConfidence": 0.808
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "brazen bluff",
+      "role": "main",
+      "startSeconds": 3511.7,
+      "evidence": "is it a playable card brazen bluff",
+      "confidence": 1,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 3539.66,
+      "evidence": "it's the red negate",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "Brazen Bluff",
+      "role": "main",
+      "startSeconds": 3565.14,
+      "evidence": "do they have Brazen Bluff?",
+      "confidence": 1,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "Brazen Bluff",
+      "role": "main",
+      "startSeconds": 3567.14,
+      "evidence": "Do I need to play around a Brazen Bluff?",
+      "confidence": 1,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "the gate",
+      "role": "incidental",
+      "startSeconds": 3579.1,
+      "evidence": "this is not top decking the gate",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "brazen bluff",
+      "role": "main",
+      "startSeconds": 3590.94,
+      "evidence": "you have brazen bluff",
+      "confidence": 0.99,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Spider-Man Noir",
+      "spokenText": "spider-man",
+      "role": "incidental",
+      "startSeconds": 3596.62,
+      "evidence": "if i am playing spider-man and i'm going to win the game",
+      "confidence": 0.6,
+      "modelName": "Spider-Man",
+      "catalogueConfidence": 0.933
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 3602.2,
+      "evidence": "someone was like oh it's like negate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeskai Revelation",
+      "spokenText": "jess guy revelation",
+      "role": "incidental",
+      "startSeconds": 3607.3,
+      "evidence": "when you're dying to jess guy revelation",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "Brazen Bluff",
+      "role": "main",
+      "startSeconds": 3654.68,
+      "evidence": "just to get you with a Brazen Bluff",
+      "confidence": 0.99,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 3664.48,
+      "evidence": "let you use it as a negate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 3666.74,
+      "evidence": "red, red negate is not good",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 3674.64,
+      "evidence": "red, red negate? It's bad",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "in the gate",
+      "role": "incidental",
+      "startSeconds": 3676.78,
+      "evidence": "you actually needed to be in the gate",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "brazen bluff",
+      "role": "main",
+      "startSeconds": 3691.18,
+      "evidence": "why would you do the brazen bluff",
+      "confidence": 0.99,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "brazen bluff",
+      "role": "main",
+      "startSeconds": 3695.44,
+      "evidence": "basically has brazen bluff",
+      "confidence": 0.99,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 3706.84,
+      "evidence": "just red red negate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 3712.54,
+      "evidence": "i'm excited for red red negate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 3721.16,
+      "evidence": "think it's a negate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ajani, Outland Chaperone",
+      "spokenText": "johnny",
+      "role": "incidental",
+      "startSeconds": 3726,
+      "evidence": "the planeswalker decks or whatever the johnny",
+      "confidence": 0.58,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ajani, Outland Chaperone",
+      "spokenText": "johnny",
+      "role": "incidental",
+      "startSeconds": 3731.06,
+      "evidence": "johnny like niatooks",
+      "confidence": 0.58,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 3745.64,
+      "evidence": "the answer is no because it's a negate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Spider-Man Noir",
+      "spokenText": "spider-man",
+      "role": "incidental",
+      "startSeconds": 3745.64,
+      "evidence": "can you even counter spider-man",
+      "confidence": 0.6,
+      "modelName": "Spider-Man",
+      "catalogueConfidence": 0.933
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "the gate",
+      "role": "incidental",
+      "startSeconds": 3761.06,
+      "evidence": "either this is two men in the gate",
+      "confidence": 0.92,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sublime Epiphany",
+      "spokenText": "sublime epiphany",
+      "role": "incidental",
+      "startSeconds": 3761.06,
+      "evidence": "if you have like sublime epiphany or something in your deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "the gate",
+      "role": "incidental",
+      "startSeconds": 3783.92,
+      "evidence": "i think the gate's just not an exciting card",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erode",
+      "spokenText": "roads",
+      "role": "incidental",
+      "startSeconds": 3796.42,
+      "evidence": "what do you have two roads in your deck",
+      "confidence": 0.92,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "Brazen Bluff",
+      "role": "main",
+      "startSeconds": 3817.92,
+      "evidence": "Your opponent casts Brazen Bluff",
+      "confidence": 0.99,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Jeskai Revelation",
+      "spokenText": "Jeskai Revelation",
+      "role": "incidental",
+      "startSeconds": 3822.74,
+      "evidence": "I don't think you have Jeskai Revelation in hand",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "Praised bluff",
+      "role": "main",
+      "startSeconds": 3862.34,
+      "evidence": "Praised bluff",
+      "confidence": 0.96,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Jeskai Revelation",
+      "spokenText": "Jeskai Revelation",
+      "role": "incidental",
+      "startSeconds": 3866.38,
+      "evidence": "hand? Sure. Jeskai Revelation",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 3874.24,
+      "evidence": "let it go through as a negate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Negate",
+      "spokenText": "negate",
+      "role": "incidental",
+      "startSeconds": 3882.34,
+      "evidence": "play this instead of an actual negate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jeskai Revelation",
+      "spokenText": "Jeskai Revelations",
+      "role": "incidental",
+      "startSeconds": 3887.92,
+      "evidence": "cast their Jeskai Revelations for free",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "Brazen Bluff",
+      "role": "main",
+      "startSeconds": 3901.5,
+      "evidence": "let us know what you think about Brazen Bluff",
+      "confidence": 0.99,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountains",
+      "role": "incidental",
+      "startSeconds": 3947.22,
+      "evidence": "mono-red is playing, like, 18 mountains",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swamp",
+      "spokenText": "swamps",
+      "role": "incidental",
+      "startSeconds": 3949.56,
+      "evidence": "mono-black deck is playing, like, 19 swamps",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erode",
+      "spokenText": "erode",
+      "role": "incidental",
+      "startSeconds": 3963.1,
+      "evidence": "if you erode me, I guess you got me",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ba Sing Se",
+      "spokenText": "Ba Sing Se",
+      "role": "incidental",
+      "startSeconds": 4025.36,
+      "evidence": "if you're playing Ba Sing Se or something",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cori Mountain Monastery",
+      "spokenText": "Quarry Mountain Monasteries",
+      "role": "incidental",
+      "startSeconds": 4057.04,
+      "evidence": "the Quarry Mountain Monasteries that check for land types",
+      "confidence": 0.8,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demolition Field",
+      "spokenText": "demo field",
+      "role": "incidental",
+      "startSeconds": 4071.68,
+      "evidence": "just feel like demo field",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demolition Field",
+      "spokenText": "demo fields",
+      "role": "incidental",
+      "startSeconds": 4098.32,
+      "evidence": "There's too many demo fields or roads",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erode",
+      "spokenText": "roads",
+      "role": "incidental",
+      "startSeconds": 4098.32,
+      "evidence": "There's too many demo fields or roads",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avengers Disassembled",
+      "spokenText": "Avengers Disassemble",
+      "role": "incidental",
+      "startSeconds": 4105.66,
+      "evidence": "get hit by an Avengers Disassemble a couple times",
+      "confidence": 0.77,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "Cumberbatch Shieldred",
+      "role": "incidental",
+      "startSeconds": 4155.92,
+      "evidence": "Cumberbatch Shieldred is the most plain card from Star Trek",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Forest",
+      "spokenText": "basic forest",
+      "role": "incidental",
+      "startSeconds": 4160.66,
+      "evidence": "Technically, it's basic forest, guys",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [
+    "Brazen Dwarf",
+    "Coalition Relic",
+    "Commander Liara Portyr",
+    "Engineered Explosives",
+    "Genesis Wave",
+    "Khârn the Betrayer",
+    "Nogi, Draco-Zealot",
+    "Salt Vampire",
+    "Wrath of Oko"
+  ],
+  "incidentalCards": [
+    "Ajani, Outland Chaperone",
+    "Arcbound Ravager",
+    "Aven Interrupter",
+    "Avengers Disassembled",
+    "Ba Sing Se",
+    "Badgermole Cub",
+    "Binding the Old Gods",
+    "Bloodbraid Elf",
+    "Boltwave",
+    "Bringer of the Last Gift",
+    "Burst Lightning",
+    "Contagion",
+    "Cool but Rude",
+    "Cori Mountain Monastery",
+    "Counterspell",
+    "Cranial Plating",
+    "Cryptbreaker",
+    "Dark Depths",
+    "Deep-Cavern Bat",
+    "Demolition Field",
+    "Demonic Pact",
+    "Doomsday Excruciator",
+    "Dream Beavers",
+    "Erode",
+    "Eternal Scourge",
+    "Fabled Path of Searo Point",
+    "Field of the Dead",
+    "Fin Fang Foom",
+    "Fire Magic",
+    "Floodpits Drowner",
+    "Food Chain",
+    "Force of Will",
+    "Forest",
+    "Formidable Speaker",
+    "Get Lost",
+    "Giant Growth",
+    "Goldvein Hydra",
+    "Grasp of Darkness",
+    "Greed's Gambit",
+    "Harmless Offering",
+    "Harvester of Misery",
+    "Hero's Downfall",
+    "Hit // Run",
+    "Hushbringer",
+    "Icetill Explorer",
+    "Improvisation Capstone",
+    "Inkmoth Nexus",
+    "Innkeeper's Talent",
+    "Iroh, Tea Master",
+    "Jackal, Genius Geneticist",
+    "Jeskai Revelation",
+    "Jeweled Bird",
+    "Katara",
+    "Kessig Wolf Run",
+    "Krang, Master Mind",
+    "Lightning Bolt",
+    "Lightning Strike",
+    "Lingering Souls",
+    "Llanowar Elves",
+    "Lumra, Bellow of the Woods",
+    "Mightform Harmonizer",
+    "Misthollow Griffin",
+    "Mosswort Bridge",
+    "Mountain",
+    "Mutant Town",
+    "Negate",
+    "Obsessive Pursuit",
+    "Ornithopter",
+    "Ouroboroid",
+    "Overlord of the Balemurk",
+    "Pinnacle Emissary",
+    "Preacher of the Schism",
+    "Pull from Eternity",
+    "Rampant Growth",
+    "Ravenous Robots",
+    "Requiting Hex",
+    "Rhox War Monk",
+    "Roiling Canopy",
+    "Scapeshift",
+    "Sheoldred, the Apocalypse",
+    "Shock",
+    "Simulacrum Synthesizer",
+    "Slickshot Show-Off",
+    "Soul Warden",
+    "Spider-Man Noir",
+    "Stifle",
+    "Stock Up",
+    "Sublime Epiphany",
+    "Sunderflock",
+    "Superior Spider-Man",
+    "Swamp",
+    "Tarmogoyf",
+    "The Rani",
+    "Thespian's Stage",
+    "Thor, God of Thunder",
+    "Thought-Knot Seer",
+    "Thoughtseize",
+    "Tidehollow Sculler",
+    "Tishana's Tidebinder",
+    "Unstoppable Slasher",
+    "Valakut, the Molten Pinnacle",
+    "Vendilion Clique",
+    "Weapons Manufacturing"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 45,
+    "unresolvedMentions": [
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "cue stacking the deck",
+        "role": "main",
+        "startSeconds": 488.38,
+        "evidence": "if there's a red deck, cue stacking the deck",
+        "confidence": 0.98
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 557.44,
+        "evidence": "If you exile a Q with the Q",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "cubes",
+        "role": "main",
+        "startSeconds": 589.4,
+        "evidence": "you are winning with cubes",
+        "confidence": 0.82
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 703.78,
+        "evidence": "And I'm hoping Q",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "queue",
+        "role": "main",
+        "startSeconds": 862.88,
+        "evidence": "everything from the queue is just like one million mana more",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q stack in the deck",
+        "role": "incidental",
+        "startSeconds": 1259.28,
+        "evidence": "We're pitching Q stack in the deck",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "incidental",
+        "startSeconds": 1265.64,
+        "evidence": "I untap with my Q",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "incidental",
+        "startSeconds": 1763.72,
+        "evidence": "It literally counters Q",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Kobayashi Maru Scenario",
+        "spokenText": "Kobayashi Maru scenario",
+        "role": "main",
+        "startSeconds": 2049.8,
+        "evidence": "Kobayashi Maru scenario. One blue blue. Enchantment.",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q",
+        "spokenText": "cue",
+        "role": "incidental",
+        "startSeconds": 2148.04,
+        "evidence": "What if you hit it off cue, Richard?",
+        "confidence": 0.8
+      },
+      {
+        "canonicalName": "Jadzia Dax, Living Legacy",
+        "spokenText": "Jadzia Dax, Living Legacy",
+        "role": "main",
+        "startSeconds": 2245.44,
+        "evidence": "Jadzia Dax, Living Legacy",
+        "confidence": 1
+      },
+      {
+        "canonicalName": "Jadzia Dax, Living Legacy",
+        "spokenText": "Jadzia Dax",
+        "role": "main",
+        "startSeconds": 2252.2,
+        "evidence": "put a 1-1 counter on Jadzia Dax",
+        "confidence": 1
+      },
+      {
+        "canonicalName": "Q",
+        "spokenText": "Q",
+        "role": "incidental",
+        "startSeconds": 3081,
+        "evidence": "The second chapter digs for your Q",
+        "confidence": 0.8
+      },
+      {
+        "canonicalName": "Q",
+        "spokenText": "Q",
+        "role": "incidental",
+        "startSeconds": 3085.6,
+        "evidence": "Wrath of Khan off of Q",
+        "confidence": 0.8
+      },
+      {
+        "canonicalName": "Armus, Skin of Evil",
+        "spokenText": "Armus Skin of Evil",
+        "role": "main",
+        "startSeconds": 3123.96,
+        "evidence": "want to talk about Armus Skin of Evil",
+        "confidence": 1
+      },
+      {
+        "canonicalName": "Armus, Skin of Evil",
+        "spokenText": "Armus Skin of Evil",
+        "role": "main",
+        "startSeconds": 3130.66,
+        "evidence": "Armus Skin of Evil is a five black black legendary ooze horror",
+        "confidence": 1
+      },
+      {
+        "canonicalName": "Q",
+        "spokenText": "Q",
+        "role": "incidental",
+        "startSeconds": 3259.76,
+        "evidence": "in the world of the Q meta",
+        "confidence": 0.8
+      },
+      {
+        "canonicalName": "Armus, Skin of Evil",
+        "spokenText": "Arvis",
+        "role": "main",
+        "startSeconds": 3267.7,
+        "evidence": "so we must Arvis to rob them",
+        "confidence": 0.97
+      },
+      {
+        "canonicalName": "Q",
+        "spokenText": "Q",
+        "role": "incidental",
+        "startSeconds": 3277.44,
+        "evidence": "It's an anti-Q tech",
+        "confidence": 0.8
+      },
+      {
+        "canonicalName": "Q",
+        "spokenText": "Q",
+        "role": "incidental",
+        "startSeconds": 4136.42,
+        "evidence": "Even over Q?",
+        "confidence": 0.78
+      },
+      {
+        "canonicalName": "Q",
+        "spokenText": "Q",
+        "role": "incidental",
+        "startSeconds": 4144.82,
+        "evidence": "So yes, over Q",
+        "confidence": 0.78
+      }
+    ]
+  },
+  "validation": {
+    "matchedMainCards": [
+      "Brazen Dwarf",
+      "Coalition Relic",
+      "Commander Liara Portyr",
+      "Engineered Explosives",
+      "Genesis Wave",
+      "Khârn the Betrayer",
+      "Nogi, Draco-Zealot",
+      "Salt Vampire",
+      "Wrath of Oko"
+    ],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Ajani, Outland Chaperone",
+      "Arcbound Ravager",
+      "Aven Interrupter",
+      "Avengers Disassembled",
+      "Ba Sing Se",
+      "Badgermole Cub",
+      "Binding the Old Gods",
+      "Bloodbraid Elf",
+      "Boltwave",
+      "Bringer of the Last Gift",
+      "Burst Lightning",
+      "Contagion",
+      "Cool but Rude",
+      "Cori Mountain Monastery",
+      "Counterspell",
+      "Cranial Plating",
+      "Cryptbreaker",
+      "Dark Depths",
+      "Deep-Cavern Bat",
+      "Demolition Field",
+      "Demonic Pact",
+      "Doomsday Excruciator",
+      "Dream Beavers",
+      "Erode",
+      "Eternal Scourge",
+      "Fabled Path of Searo Point",
+      "Field of the Dead",
+      "Fin Fang Foom",
+      "Fire Magic",
+      "Floodpits Drowner",
+      "Food Chain",
+      "Force of Will",
+      "Forest",
+      "Formidable Speaker",
+      "Get Lost",
+      "Giant Growth",
+      "Goldvein Hydra",
+      "Grasp of Darkness",
+      "Greed's Gambit",
+      "Harmless Offering",
+      "Harvester of Misery",
+      "Hero's Downfall",
+      "Hit // Run",
+      "Hushbringer",
+      "Icetill Explorer",
+      "Improvisation Capstone",
+      "Inkmoth Nexus",
+      "Innkeeper's Talent",
+      "Iroh, Tea Master",
+      "Jackal, Genius Geneticist",
+      "Jeskai Revelation",
+      "Jeweled Bird",
+      "Katara",
+      "Kessig Wolf Run",
+      "Krang, Master Mind",
+      "Lightning Bolt",
+      "Lightning Strike",
+      "Lingering Souls",
+      "Llanowar Elves",
+      "Lumra, Bellow of the Woods",
+      "Mightform Harmonizer",
+      "Misthollow Griffin",
+      "Mosswort Bridge",
+      "Mountain",
+      "Mutant Town",
+      "Negate",
+      "Obsessive Pursuit",
+      "Ornithopter",
+      "Ouroboroid",
+      "Overlord of the Balemurk",
+      "Pinnacle Emissary",
+      "Preacher of the Schism",
+      "Pull from Eternity",
+      "Rampant Growth",
+      "Ravenous Robots",
+      "Requiting Hex",
+      "Rhox War Monk",
+      "Roiling Canopy",
+      "Scapeshift",
+      "Sheoldred, the Apocalypse",
+      "Shock",
+      "Simulacrum Synthesizer",
+      "Slickshot Show-Off",
+      "Soul Warden",
+      "Spider-Man Noir",
+      "Stifle",
+      "Stock Up",
+      "Sublime Epiphany",
+      "Sunderflock",
+      "Superior Spider-Man",
+      "Swamp",
+      "Tarmogoyf",
+      "The Rani",
+      "Thespian's Stage",
+      "Thor, God of Thunder",
+      "Thought-Knot Seer",
+      "Thoughtseize",
+      "Tidehollow Sculler",
+      "Tishana's Tidebinder",
+      "Unstoppable Slasher",
+      "Valakut, the Molten Pinnacle",
+      "Vendilion Clique",
+      "Weapons Manufacturing"
+    ],
+    "unmatchedIncidentalCards": []
+  }
+}

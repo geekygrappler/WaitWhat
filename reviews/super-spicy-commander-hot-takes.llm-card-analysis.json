@@ -1,0 +1,1347 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Super Spicy Commander Hot Takes",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Shatter",
+      "spokenText": "shatters",
+      "role": "incidental",
+      "startSeconds": 247,
+      "evidence": "Prepared for the shatters",
+      "confidence": 0.8,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 252.68,
+      "evidence": "just farewell me one time",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "rampant growth",
+      "role": "incidental",
+      "startSeconds": 332.28,
+      "evidence": "Don't play rampant growth",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Primeval Titan",
+      "spokenText": "prime time",
+      "role": "incidental",
+      "startSeconds": 432.12,
+      "evidence": "plopped a random prime time down on turn two",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "Rampant Growth",
+      "role": "incidental",
+      "startSeconds": 523.98,
+      "evidence": "Rampant Growth. That will be the green chart",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "rampant growth",
+      "role": "incidental",
+      "startSeconds": 528.16,
+      "evidence": "spend mana to rampant growth",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "rampant growth",
+      "role": "incidental",
+      "startSeconds": 545.3,
+      "evidence": "minus two for your rampant growth",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Primeval Titan",
+      "spokenText": "prime time",
+      "role": "incidental",
+      "startSeconds": 558.16,
+      "evidence": "free prime time",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "Rampant Growth",
+      "role": "incidental",
+      "startSeconds": 596.42,
+      "evidence": "turn two Rampant Growth",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Explosive Vegetation",
+      "spokenText": "Explosive Vegetation",
+      "role": "incidental",
+      "startSeconds": 601.46,
+      "evidence": "Explosive Vegetation, like any of those, get two lands",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sea Gate Loremaster",
+      "spokenText": "Seagate Restoration",
+      "role": "incidental",
+      "startSeconds": 614.32,
+      "evidence": "that's like a Seagate Restoration plus something",
+      "confidence": 1,
+      "modelName": "Sea Gate Restoration",
+      "catalogueConfidence": 0.885
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "Farewell",
+      "role": "incidental",
+      "startSeconds": 618.7,
+      "evidence": "a double Farewell for free",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Counterspell",
+      "spokenText": "Counterspell",
+      "role": "incidental",
+      "startSeconds": 685.18,
+      "evidence": "Counterspell minus one mana",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Spell Pierce",
+      "spokenText": "Spell Pierce",
+      "role": "incidental",
+      "startSeconds": 688.88,
+      "evidence": "Spell Pierce or something",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "Force of Will",
+      "role": "incidental",
+      "startSeconds": 690.34,
+      "evidence": "minus one more mana becomes Force of Will",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thassa's Oracle",
+      "spokenText": "Thoracle",
+      "role": "incidental",
+      "startSeconds": 710.2,
+      "evidence": "Thoracle?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thassa's Oracle",
+      "spokenText": "Thoracle",
+      "role": "incidental",
+      "startSeconds": 711.46,
+      "evidence": "Thoracle, right?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thassa's Oracle",
+      "spokenText": "Thoracle",
+      "role": "incidental",
+      "startSeconds": 712.8,
+      "evidence": "Why is Thoracle so good",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thassa's Oracle",
+      "spokenText": "Thorical",
+      "role": "incidental",
+      "startSeconds": 747.3,
+      "evidence": "effectively make them like Thorical",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sea Gate Loremaster",
+      "spokenText": "Seagate Restoration",
+      "role": "incidental",
+      "startSeconds": 757.92,
+      "evidence": "someone double spells like Seagate Restoration",
+      "confidence": 1,
+      "modelName": "Sea Gate Restoration",
+      "catalogueConfidence": 0.885
+    },
+    {
+      "canonicalName": "Hour of Revelation",
+      "spokenText": "Hour of Revelation",
+      "role": "incidental",
+      "startSeconds": 762.2,
+      "evidence": "Seagate Restoration into an Hour of Revelation",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sea Gate Loremaster",
+      "spokenText": "Seagate Restoration",
+      "role": "incidental",
+      "startSeconds": 762.2,
+      "evidence": "you Seagate Restoration into an Hour of Revelation",
+      "confidence": 1,
+      "modelName": "Sea Gate Restoration",
+      "catalogueConfidence": 0.885
+    },
+    {
+      "canonicalName": "Ashling, Flame Dancer",
+      "spokenText": "Aisling",
+      "role": "incidental",
+      "startSeconds": 800.84,
+      "evidence": "my Aisling Aisling deck",
+      "confidence": 0.88,
+      "modelName": "Ashling, Rekindled",
+      "catalogueConfidence": 0.86
+    },
+    {
+      "canonicalName": "Ashling, Flame Dancer",
+      "spokenText": "Aisling",
+      "role": "incidental",
+      "startSeconds": 809.18,
+      "evidence": "turn two to Aisling turn three flip over",
+      "confidence": 0.9,
+      "modelName": "Ashling, Rekindled",
+      "catalogueConfidence": 0.86
+    },
+    {
+      "canonicalName": "Hedron Archive",
+      "spokenText": "hedron archive",
+      "role": "incidental",
+      "startSeconds": 813.46,
+      "evidence": "four drop mana rock like a hedron archive",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 855.8,
+      "evidence": "mana positive ramp, like soul ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Raffine, Scheming Seer",
+      "spokenText": "Raphine",
+      "role": "incidental",
+      "startSeconds": 863.08,
+      "evidence": "Sam was playing a Raphine deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Raffine, Scheming Seer",
+      "spokenText": "Raphine",
+      "role": "incidental",
+      "startSeconds": 869.16,
+      "evidence": "Raphine is like an Esper three drop",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Faerie Mastermind",
+      "spokenText": "fairy mastermind",
+      "role": "incidental",
+      "startSeconds": 890.62,
+      "evidence": "you go like, I don't know, a fairy mastermind",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Raffine, Scheming Seer",
+      "spokenText": "Raphine",
+      "role": "incidental",
+      "startSeconds": 892.9,
+      "evidence": "Then you play Raphine, you attack",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "incidental",
+      "startSeconds": 902.04,
+      "evidence": "casting like a reanimate",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Animate Dead",
+      "spokenText": "animate dead",
+      "role": "incidental",
+      "startSeconds": 904.18,
+      "evidence": "an animate dead and stuff",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Raffine, Scheming Seer",
+      "spokenText": "Raphine",
+      "role": "incidental",
+      "startSeconds": 906.8,
+      "evidence": "Raphine is your commander",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "reanimate",
+      "role": "incidental",
+      "startSeconds": 906.8,
+      "evidence": "ramping it out through a reanimate",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Valgavoth, Terror Eater",
+      "spokenText": "Valgavoth",
+      "role": "incidental",
+      "startSeconds": 906.8,
+      "evidence": "ramping out an eight mana Valgavoth",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Raffine, Scheming Seer",
+      "spokenText": "Raphine",
+      "role": "incidental",
+      "startSeconds": 915.58,
+      "evidence": "three drop Raphine",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Animate Dead",
+      "spokenText": "animate that",
+      "role": "incidental",
+      "startSeconds": 940.36,
+      "evidence": "we animate and animate that the two very efficient reanimation spells",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reanimate",
+      "spokenText": "we animate",
+      "role": "incidental",
+      "startSeconds": 940.36,
+      "evidence": "we animate and animate that the two very efficient reanimation spells",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aurelia, Exemplar of Justice",
+      "spokenText": "Aurelia",
+      "role": "incidental",
+      "startSeconds": 963.32,
+      "evidence": "Here's a four-drop Aurelia",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashling, Flame Dancer",
+      "spokenText": "Ashrink",
+      "role": "incidental",
+      "startSeconds": 1022.72,
+      "evidence": "my Ashrink deck literally runs Hedron Archive",
+      "confidence": 0.88,
+      "modelName": "Ashling, Rekindled",
+      "catalogueConfidence": 0.86
+    },
+    {
+      "canonicalName": "Hedron Archive",
+      "spokenText": "Hedron Archive",
+      "role": "incidental",
+      "startSeconds": 1022.72,
+      "evidence": "my Ashrink deck literally runs Hedron Archive",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hedron Archive",
+      "spokenText": "Hedron Archive",
+      "role": "incidental",
+      "startSeconds": 1030.26,
+      "evidence": "I'm a Hedron Archive believer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "rampant growth",
+      "role": "incidental",
+      "startSeconds": 1040.8,
+      "evidence": "I can't just rampant growth",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stone Rain",
+      "spokenText": "stone rained",
+      "role": "incidental",
+      "startSeconds": 1110.2,
+      "evidence": "you're getting triple stone rained",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wishing Well",
+      "spokenText": "Wishing Well",
+      "role": "incidental",
+      "startSeconds": 1124.62,
+      "evidence": "Wishing Well, whatever",
+      "confidence": 0.92,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "rampagross",
+      "role": "incidental",
+      "startSeconds": 1125.68,
+      "evidence": "all the copium rampagross that the other colors have",
+      "confidence": 0.93,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 1137.24,
+      "evidence": "after the farewell meta",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 1142.54,
+      "evidence": "did we ban farewell?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 1144.42,
+      "evidence": "why did the farewell meta disappear?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Ritual",
+      "spokenText": "dark ritual",
+      "role": "incidental",
+      "startSeconds": 1165.48,
+      "evidence": "i look at it as a like a dark ritual",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darksteel Ingot",
+      "spokenText": "dark steel ingot",
+      "role": "incidental",
+      "startSeconds": 1191.76,
+      "evidence": "dark steel ingot baby that thing is back",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skyclave Relic",
+      "spokenText": "skyclave relic",
+      "role": "incidental",
+      "startSeconds": 1198.2,
+      "evidence": "three mana indestructible skyclave relic",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wave of Vitriol",
+      "spokenText": "wave of vitriol",
+      "role": "incidental",
+      "startSeconds": 1211.1,
+      "evidence": "seth played like wave of vitriol",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wave of Vitriol",
+      "spokenText": "waves of vitriol",
+      "role": "incidental",
+      "startSeconds": 1217.22,
+      "evidence": "the world has gone back to a waves of vitriol thing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 1224.18,
+      "evidence": "it's that and like farewell",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grizzly Bears",
+      "spokenText": "grizzly bear",
+      "role": "incidental",
+      "startSeconds": 1245.2,
+      "evidence": "i'll just play like a grizzly bear or something",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "rampant growth",
+      "role": "incidental",
+      "startSeconds": 1245.2,
+      "evidence": "rampant growth so i'll just play like a grizzly bear",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "ramp the growth",
+      "role": "incidental",
+      "startSeconds": 1276.44,
+      "evidence": "when you ramp the growth on two you don't die",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampant Growth",
+      "spokenText": "ramp the growth",
+      "role": "incidental",
+      "startSeconds": 1281.46,
+      "evidence": "in standard if you ramp the growth on two",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jin-Gitaxias, Core Augur",
+      "spokenText": "Jyn Gitaxias",
+      "role": "incidental",
+      "startSeconds": 1345.18,
+      "evidence": "reanimating Jyn Gitaxias or something",
+      "confidence": 0.82,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Edric, Spymaster of Trest",
+      "spokenText": "Edric",
+      "role": "incidental",
+      "startSeconds": 1387.46,
+      "evidence": "Like, say Edric",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Derevi, Empyrial Tactician",
+      "spokenText": "Derevi",
+      "role": "incidental",
+      "startSeconds": 1389.18,
+      "evidence": "my Derevi Birds",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Breach the Multiverse",
+      "spokenText": "Breach the Multiverse",
+      "role": "incidental",
+      "startSeconds": 1492.3,
+      "evidence": "That's when you get to Breach the Multiverse",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Etali, Primal Storm",
+      "spokenText": "Atalis",
+      "role": "incidental",
+      "startSeconds": 1494.22,
+      "evidence": "That's when you get to Atalis",
+      "confidence": 0.97,
+      "modelName": "Etali, Primal Conqueror",
+      "catalogueConfidence": 0.903
+    },
+    {
+      "canonicalName": "Dream Harvest",
+      "spokenText": "Dream Harvest",
+      "role": "incidental",
+      "startSeconds": 1498.08,
+      "evidence": "Dream Harvest for the mirror lovers out there",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 1539.98,
+      "evidence": "they go 1, 2, 3, 2, farewell",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 1575.54,
+      "evidence": "then you want the soul ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jodah, the Unifier",
+      "spokenText": "Joda the Unifier",
+      "role": "incidental",
+      "startSeconds": 1829.14,
+      "evidence": "Joda the Unifier.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jodah, the Unifier",
+      "spokenText": "Joda",
+      "role": "incidental",
+      "startSeconds": 1830.76,
+      "evidence": "Yes, I brought Joda.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thoughtseize",
+      "spokenText": "thought sees",
+      "role": "incidental",
+      "startSeconds": 2061.78,
+      "evidence": "the classic rule of the thought sees",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords to plowshares",
+      "role": "incidental",
+      "startSeconds": 2155.44,
+      "evidence": "Things like tempo, things like swords to plowshares",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Orvar, the All-Form",
+      "spokenText": "Orovar",
+      "role": "incidental",
+      "startSeconds": 2195.42,
+      "evidence": "Orovar or something because I thought it was a cute",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Atraxa, Praetors' Voice",
+      "spokenText": "Atraxa",
+      "role": "incidental",
+      "startSeconds": 2216.94,
+      "evidence": "when I put down Atraxa people",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Birds of Paradise",
+      "spokenText": "bird",
+      "role": "incidental",
+      "startSeconds": 2270.9,
+      "evidence": "Like, bolt the bird.",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "bolt",
+      "role": "incidental",
+      "startSeconds": 2270.9,
+      "evidence": "Like, bolt the bird.",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Birds of Paradise",
+      "spokenText": "bird",
+      "role": "incidental",
+      "startSeconds": 2272.06,
+      "evidence": "There's a reason you bolt the bird in 1v1",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "bolt",
+      "role": "incidental",
+      "startSeconds": 2272.06,
+      "evidence": "There's a reason you bolt the bird in 1v1",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Birds of Paradise",
+      "spokenText": "bird",
+      "role": "incidental",
+      "startSeconds": 2283.64,
+      "evidence": "why you have to bolt the bird",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "bolt",
+      "role": "incidental",
+      "startSeconds": 2283.64,
+      "evidence": "why you have to bolt the bird",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Birds of Paradise",
+      "spokenText": "bird",
+      "role": "incidental",
+      "startSeconds": 2292.92,
+      "evidence": "Okay, bolt the bird, obviously",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "bolt",
+      "role": "incidental",
+      "startSeconds": 2292.92,
+      "evidence": "Okay, bolt the bird, obviously",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Birds of Paradise",
+      "spokenText": "bird",
+      "role": "incidental",
+      "startSeconds": 2294.88,
+      "evidence": "we're not going to bolt the bird",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "bolt",
+      "role": "incidental",
+      "startSeconds": 2294.88,
+      "evidence": "we're not going to bolt the bird",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Birds of Paradise",
+      "spokenText": "bird",
+      "role": "incidental",
+      "startSeconds": 2298.02,
+      "evidence": "Why would you bolt the bird?",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "bolt",
+      "role": "incidental",
+      "startSeconds": 2298.02,
+      "evidence": "Why would you bolt the bird?",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "Swords to plowshares",
+      "role": "incidental",
+      "startSeconds": 2304.82,
+      "evidence": "Swords to plowshares, this, like, irrelevant creature",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 2313.64,
+      "evidence": "yeah soul ring gets",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 2319.74,
+      "evidence": "you soul ring started last",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vandalblast",
+      "spokenText": "vandal blasted",
+      "role": "incidental",
+      "startSeconds": 2319.74,
+      "evidence": "vandal blasted but not overloaded",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 2324.6,
+      "evidence": "if i see soul ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vandalblast",
+      "spokenText": "vandal blast",
+      "role": "incidental",
+      "startSeconds": 2330.98,
+      "evidence": "vandal blast it right out the gates",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 2365.74,
+      "evidence": "I'm going to blow up your soul ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords",
+      "role": "incidental",
+      "startSeconds": 2748.48,
+      "evidence": "when you like swords their commander",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Krark-Clan Ironworks",
+      "spokenText": "Kark clan Ironworks",
+      "role": "incidental",
+      "startSeconds": 2843.38,
+      "evidence": "I set up this Kark clan Ironworks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nova Hellkite",
+      "spokenText": "Nova Alcate",
+      "role": "incidental",
+      "startSeconds": 2951.52,
+      "evidence": "not hit me with your Nova Alcate?",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thassa's Oracle",
+      "spokenText": "thoracal",
+      "role": "incidental",
+      "startSeconds": 3042.3,
+      "evidence": "Can you handle a thoracal combo?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sun Titan",
+      "spokenText": "Sun Titan",
+      "role": "incidental",
+      "startSeconds": 3069.1,
+      "evidence": "I could play Sun Titan instead",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thassa's Oracle",
+      "spokenText": "Thoracle",
+      "role": "incidental",
+      "startSeconds": 3076.22,
+      "evidence": "your whole group is playing Thoracle",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aesi, Tyrant of Gyre Strait",
+      "spokenText": "AEC",
+      "role": "incidental",
+      "startSeconds": 3134.64,
+      "evidence": "You can play AEC and draw cards and make land drops.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Aesi, Tyrant of Gyre Strait",
+      "spokenText": "AEC",
+      "role": "incidental",
+      "startSeconds": 3148.62,
+      "evidence": "You built AEC",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Voja, Jaws of the Conclave",
+      "spokenText": "Vorgia",
+      "role": "incidental",
+      "startSeconds": 3157.02,
+      "evidence": "If you build a wolf deck, it's fine to build Vorgia.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Edgar Markov",
+      "spokenText": "Edgar",
+      "role": "incidental",
+      "startSeconds": 3193.86,
+      "evidence": "play the boring Edgar deck",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thassa's Oracle",
+      "spokenText": "Thորacal",
+      "role": "incidental",
+      "startSeconds": 3215.8,
+      "evidence": "You play Thoracal combo for all I care.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords",
+      "role": "incidental",
+      "startSeconds": 3225.28,
+      "evidence": "It's eating his swords.",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Voja, Jaws of the Conclave",
+      "spokenText": "Voja",
+      "role": "incidental",
+      "startSeconds": 3235.26,
+      "evidence": "you play Voja, we have to kill you",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sarulf, Realm Eater",
+      "spokenText": "Sir Rulf",
+      "role": "incidental",
+      "startSeconds": 3239.22,
+      "evidence": "you should play Sir Rulf or something",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "Urd Dragon",
+      "role": "incidental",
+      "startSeconds": 3253.42,
+      "evidence": "I mean, I play Urd Dragon",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "Urd Dragon",
+      "role": "incidental",
+      "startSeconds": 3263.98,
+      "evidence": "popular ways of building Urd Dragon now",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Force of Will",
+      "spokenText": "force of wills",
+      "role": "incidental",
+      "startSeconds": 3358.66,
+      "evidence": "i have no force of wills",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Niv-Mizzet, Parun",
+      "spokenText": "Niv-Mizzet",
+      "role": "incidental",
+      "startSeconds": 3429.14,
+      "evidence": "you're not allowed to play Niv-Mizzet",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Niv-Mizzet, Parun",
+      "spokenText": "Nymph Missed",
+      "role": "incidental",
+      "startSeconds": 3499.76,
+      "evidence": "players who play Nymph Missed and Ur-Dragons",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Ur-Dragon",
+      "spokenText": "Ur-Dragons",
+      "role": "incidental",
+      "startSeconds": 3499.76,
+      "evidence": "players who play Nymph Missed and Ur-Dragons",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewells",
+      "role": "incidental",
+      "startSeconds": 3661.46,
+      "evidence": "continually snap off farewells",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Giada, Font of Hope",
+      "spokenText": "Giada",
+      "role": "incidental",
+      "startSeconds": 3710.36,
+      "evidence": "your Giada Angel deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 3729.34,
+      "evidence": "just like farewell loops",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Giada, Font of Hope",
+      "spokenText": "Giada",
+      "role": "incidental",
+      "startSeconds": 3737.62,
+      "evidence": "bring out the Giada deck again",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Watery Grave",
+      "spokenText": "Watery Grave",
+      "role": "incidental",
+      "startSeconds": 3968.34,
+      "evidence": "I showed you Watery Grave",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Watery Grave",
+      "spokenText": "Watery Grave",
+      "role": "incidental",
+      "startSeconds": 3972.16,
+      "evidence": "But I showed you Watery Grave",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic Study",
+      "role": "incidental",
+      "startSeconds": 4087.02,
+      "evidence": "into some mana rocks into a Rhystic Study",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Sol Ring",
+      "role": "incidental",
+      "startSeconds": 4087.02,
+      "evidence": "turn one Sol Ring into some mana rocks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic study",
+      "role": "incidental",
+      "startSeconds": 4098.62,
+      "evidence": "a Rhystic study and it gets countered",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 4321.54,
+      "evidence": "getting swept up in farewell count",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Marneus Calgar",
+      "spokenText": "Marnie's Cowguard",
+      "role": "incidental",
+      "startSeconds": 4329.14,
+      "evidence": "Marnie's Cowguard just making a token and drawing a card",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Giada, Font of Hope",
+      "spokenText": "Giada",
+      "role": "incidental",
+      "startSeconds": 4341.68,
+      "evidence": "the same thing with that Giada deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Giada, Font of Hope",
+      "spokenText": "Giada",
+      "role": "incidental",
+      "startSeconds": 4343.48,
+      "evidence": "If the Giada deck managed to go",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sundering Titan",
+      "spokenText": "sundering eruption",
+      "role": "incidental",
+      "startSeconds": 4537.72,
+      "evidence": "sundering eruption the mdfc that removes all blockers and blows up the land",
+      "confidence": 1,
+      "modelName": "Sundering Eruption",
+      "catalogueConfidence": 0.918
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "price of progress",
+      "role": "incidental",
+      "startSeconds": 4543.42,
+      "evidence": "I had price of progress in my hand",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Clive's Hideaway",
+      "spokenText": "Clyde",
+      "role": "incidental",
+      "startSeconds": 4546.02,
+      "evidence": "I was playing Clyde",
+      "confidence": 0.75,
+      "modelName": "Clive, Ifrit's Dominant",
+      "catalogueConfidence": 0.819
+    },
+    {
+      "canonicalName": "Sundering Titan",
+      "spokenText": "Sundered Eruption",
+      "role": "incidental",
+      "startSeconds": 4548.84,
+      "evidence": "I would just Sundered Eruption",
+      "confidence": 1,
+      "modelName": "Sundering Eruption",
+      "catalogueConfidence": 0.918
+    },
+    {
+      "canonicalName": "Price of Progress",
+      "spokenText": "price of progress",
+      "role": "incidental",
+      "startSeconds": 4554.16,
+      "evidence": "price of progress would kill them",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "ristic study",
+      "role": "incidental",
+      "startSeconds": 4708.44,
+      "evidence": "its best strengths are like ristic study",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mystic Remora",
+      "spokenText": "Mystic Remora",
+      "role": "incidental",
+      "startSeconds": 4714.5,
+      "evidence": "Mystic Remora, the counter spells and stuff like that",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [],
+  "incidentalCards": [
+    "Aesi, Tyrant of Gyre Strait",
+    "Animate Dead",
+    "Ashling, Flame Dancer",
+    "Atraxa, Praetors' Voice",
+    "Aurelia, Exemplar of Justice",
+    "Birds of Paradise",
+    "Breach the Multiverse",
+    "Clive's Hideaway",
+    "Counterspell",
+    "Dark Ritual",
+    "Darksteel Ingot",
+    "Derevi, Empyrial Tactician",
+    "Dream Harvest",
+    "Edgar Markov",
+    "Edric, Spymaster of Trest",
+    "Etali, Primal Storm",
+    "Explosive Vegetation",
+    "Faerie Mastermind",
+    "Farewell",
+    "Force of Will",
+    "Giada, Font of Hope",
+    "Grizzly Bears",
+    "Hedron Archive",
+    "Hour of Revelation",
+    "Jin-Gitaxias, Core Augur",
+    "Jodah, the Unifier",
+    "Krark-Clan Ironworks",
+    "Lightning Bolt",
+    "Marneus Calgar",
+    "Mystic Remora",
+    "Niv-Mizzet, Parun",
+    "Nova Hellkite",
+    "Orvar, the All-Form",
+    "Price of Progress",
+    "Primeval Titan",
+    "Raffine, Scheming Seer",
+    "Rampant Growth",
+    "Reanimate",
+    "Rhystic Study",
+    "Sarulf, Realm Eater",
+    "Sea Gate Loremaster",
+    "Shatter",
+    "Skyclave Relic",
+    "Sol Ring",
+    "Spell Pierce",
+    "Stone Rain",
+    "Sun Titan",
+    "Sundering Titan",
+    "Swords to Plowshares",
+    "Thassa's Oracle",
+    "The Ur-Dragon",
+    "Thoughtseize",
+    "Valgavoth, Terror Eater",
+    "Vandalblast",
+    "Voja, Jaws of the Conclave",
+    "Watery Grave",
+    "Wave of Vitriol",
+    "Wishing Well"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 10,
+    "unresolvedMentions": [
+      {
+        "canonicalName": "Ojer Axonil, Deepest Might",
+        "spokenText": "O'Hare Axinals",
+        "role": "incidental",
+        "startSeconds": 1121.36,
+        "evidence": "play your O'Hare Axinals",
+        "confidence": 0.64
+      }
+    ]
+  },
+  "validation": {
+    "matchedMainCards": [],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Aesi, Tyrant of Gyre Strait",
+      "Animate Dead",
+      "Ashling, Flame Dancer",
+      "Atraxa, Praetors' Voice",
+      "Aurelia, Exemplar of Justice",
+      "Birds of Paradise",
+      "Breach the Multiverse",
+      "Clive's Hideaway",
+      "Counterspell",
+      "Dark Ritual",
+      "Darksteel Ingot",
+      "Derevi, Empyrial Tactician",
+      "Dream Harvest",
+      "Edgar Markov",
+      "Edric, Spymaster of Trest",
+      "Etali, Primal Storm",
+      "Explosive Vegetation",
+      "Faerie Mastermind",
+      "Farewell",
+      "Force of Will",
+      "Giada, Font of Hope",
+      "Grizzly Bears",
+      "Hedron Archive",
+      "Hour of Revelation",
+      "Jin-Gitaxias, Core Augur",
+      "Jodah, the Unifier",
+      "Krark-Clan Ironworks",
+      "Lightning Bolt",
+      "Marneus Calgar",
+      "Mystic Remora",
+      "Niv-Mizzet, Parun",
+      "Nova Hellkite",
+      "Orvar, the All-Form",
+      "Price of Progress",
+      "Primeval Titan",
+      "Raffine, Scheming Seer",
+      "Rampant Growth",
+      "Reanimate",
+      "Rhystic Study",
+      "Sarulf, Realm Eater",
+      "Sea Gate Loremaster",
+      "Shatter",
+      "Skyclave Relic",
+      "Sol Ring",
+      "Spell Pierce",
+      "Stone Rain",
+      "Sun Titan",
+      "Sundering Titan",
+      "Swords to Plowshares",
+      "Thassa's Oracle",
+      "The Ur-Dragon",
+      "Thoughtseize",
+      "Valgavoth, Terror Eater",
+      "Vandalblast",
+      "Voja, Jaws of the Conclave",
+      "Watery Grave",
+      "Wave of Vitriol",
+      "Wishing Well"
+    ],
+    "unmatchedIncidentalCards": []
+  }
+}
