@@ -7,9 +7,9 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/833321c9-d2a9-4b70-aa1b-de295522bd07/Commander_Clash_Podcast_276_Hot_Takes.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "cueSheet": "./data/super-spicy-commander-hot-takes.cues.json",
     "processed": true,
-    "source": "MTGGoldfish Commander Clash Podcast RSS",
-    "cueSheet": "./data/super-spicy-commander-hot-takes.cues.json"
+    "source": "MTGGoldfish Commander Clash Podcast RSS"
   },
   {
     "id": "the-best-card-of-every-color-combination",

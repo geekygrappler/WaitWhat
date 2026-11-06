@@ -7,9 +7,9 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/9ede91d5-bf94-46d3-9757-bbd86db71b23/mtggoldfish_podcast_612_TheStarTrekCardsThatActuallyMatter.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
+    "cueSheet": "./data/the-star-trek-cards-that-actually-matter.cues.json",
     "processed": true,
-    "source": "MTGGoldfish Podcast RSS",
-    "cueSheet": "./data/the-star-trek-cards-that-actually-matter.cues.json"
+    "source": "MTGGoldfish Podcast RSS"
   },
   {
     "id": "star-trek-spoilers",

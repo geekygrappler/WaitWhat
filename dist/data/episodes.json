@@ -1,5 +1,17 @@
 [
   {
+    "id": "digging-your-own-grave-self-mill-graveyard-series",
+    "title": "Digging Your Own Grave | Self-Mill | Graveyard Series",
+    "published": "2026-11-06T07:44:00.000Z",
+    "duration": 6331,
+    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/360-Digging_Your_Own_Grave_mixdown.mp3?dest-id=534396",
+    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/digging-your-own-grave-self-mill-graveyard-series",
+    "artwork": "https://static.libsyn.com/p/assets/a/6/9/a/a69adf85110df21fa04421dee9605cbd/360-Thumbnail_2000x2000.png",
+    "processed": true,
+    "source": "Legendary Creature Podcast RSS",
+    "cueSheet": "./data/digging-your-own-grave-self-mill-graveyard-series.cues.json"
+  },
+  {
     "id": "one-foot-in-the-grave-graveyard-series",
     "title": "One Foot in the Grave | Graveyard Series",
     "published": "2026-10-30T04:51:00.000Z",
@@ -214,17 +226,6 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/341_Spellslinger_Lists_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/spellslinger-decks-by-listeners",
     "artwork": "https://static.libsyn.com/p/assets/b/b/a/b/bbabdba2ac19f66c16c3140a3186d450/341_Thumbnail_2000x2000.png",
-    "processed": false,
-    "source": "Legendary Creature Podcast RSS"
-  },
-  {
-    "id": "spellslinger-draw-go",
-    "title": "Spellslinger | Draw, Go!",
-    "published": "2026-04-09T05:03:00.000Z",
-    "duration": 7876,
-    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/340-Back_Foot_Spell_Slinger_mixdown.mp3?dest-id=534396",
-    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/spellslinger-draw-go",
-    "artwork": "https://static.libsyn.com/p/assets/1/7/7/f/177f6e34d5af2940d959afa2a1bf1c87/Thumbnail_2000x2000-20260409-vg3pyidt9m.png",
     "processed": false,
     "source": "Legendary Creature Podcast RSS"
   }
