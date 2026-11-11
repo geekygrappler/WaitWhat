@@ -1,5 +1,17 @@
 [
   {
+    "id": "most-relevant-star-trek-cards-for-commander",
+    "title": "Most Relevant Star Trek Cards for Commander",
+    "published": "2026-11-10T16:00:11.000Z",
+    "duration": 5280,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/d07c1017-87c7-4a75-9a56-995f9a552045/Commander_Clash_Podcast_277_Star_Trek.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "processed": true,
+    "source": "MTGGoldfish Commander Clash Podcast RSS",
+    "cueSheet": "./data/most-relevant-star-trek-cards-for-commander.cues.json"
+  },
+  {
     "id": "super-spicy-commander-hot-takes",
     "title": "Super Spicy Commander Hot Takes",
     "published": "2026-11-03T16:00:22.000Z",
@@ -214,17 +226,6 @@
     "published": "2026-06-30T15:00:19.000Z",
     "duration": 4086,
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/5496fa5b-fa18-42bb-aab4-048278a26115/commander_clash_podcast_258_utility_land_tier_list.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
-    "source": "MTGGoldfish Commander Clash Podcast RSS"
-  },
-  {
-    "id": "underplayed-cards",
-    "title": "Underplayed Cards",
-    "published": "2026-06-23T15:00:10.000Z",
-    "duration": 4045,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/ac737756-add1-42f7-a0b9-2b56f8f4e5d6/commander_clash_podcast_257_underplayed_cards.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
     "processed": false,

@@ -1,0 +1,334 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Was Star Trek Prerelease the Worst Ever?",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Explore",
+      "spokenText": "Explorers",
+      "role": "incidental",
+      "startSeconds": 573.94,
+      "evidence": "Two Explorers.",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Helix",
+      "spokenText": "Lightning Geolix",
+      "role": "incidental",
+      "startSeconds": 577.78,
+      "evidence": "Lightning Geolix off the top.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scorch Spitter",
+      "spokenText": "Scotty miracle card",
+      "role": "incidental",
+      "startSeconds": 1138.44,
+      "evidence": "played the Scotty miracle card",
+      "confidence": 0.75,
+      "modelName": "Scotty, Miracle Worker",
+      "catalogueConfidence": 0.796
+    },
+    {
+      "canonicalName": "Plains",
+      "spokenText": "planes",
+      "role": "incidental",
+      "startSeconds": 2220.44,
+      "evidence": "Ending up with the mouth full of planes.",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plains",
+      "spokenText": "Planes",
+      "role": "incidental",
+      "startSeconds": 2233.94,
+      "evidence": "Planes is original.",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plains",
+      "spokenText": "Planes",
+      "role": "incidental",
+      "startSeconds": 2243.46,
+      "evidence": "Planes.",
+      "confidence": 0.93,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Werewolf Pack Leader",
+      "spokenText": "werewolf pack leader",
+      "role": "incidental",
+      "startSeconds": 2507.78,
+      "evidence": "one big change this time to the card werewolf pack leader",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Werewolf Pack Leader",
+      "spokenText": "werewolf pack leader",
+      "role": "incidental",
+      "startSeconds": 2551.64,
+      "evidence": "if you have werewolf pack leader",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Amoeboid Changeling",
+      "spokenText": "amiibo changeling",
+      "role": "incidental",
+      "startSeconds": 2556.46,
+      "evidence": "creature types like amiibo changeling",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Artificial Evolution",
+      "spokenText": "artificial evolution",
+      "role": "incidental",
+      "startSeconds": 2556.46,
+      "evidence": "artificial evolution this old janky card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Werewolf Pack Leader",
+      "spokenText": "Werewolf Pack Leader",
+      "role": "incidental",
+      "startSeconds": 2564.16,
+      "evidence": "make Werewolf Pack Leader every creature type except for Borg",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scour",
+      "spokenText": "Scotty",
+      "role": "incidental",
+      "startSeconds": 2788.04,
+      "evidence": "showcase Scotty",
+      "confidence": 0.65,
+      "modelName": "Scotty",
+      "catalogueConfidence": 0.79
+    },
+    {
+      "canonicalName": "Scour",
+      "spokenText": "Scotty",
+      "role": "incidental",
+      "startSeconds": 2818.16,
+      "evidence": "You can flip to Scotty, read the Oracle",
+      "confidence": 0.65,
+      "modelName": "Scotty",
+      "catalogueConfidence": 0.79
+    },
+    {
+      "canonicalName": "Urza, Academy Headmaster",
+      "spokenText": "the Urza card",
+      "role": "incidental",
+      "startSeconds": 2845.08,
+      "evidence": "it reminds me of the Urza card",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Urza, Academy Headmaster",
+      "spokenText": "Urza's head",
+      "role": "incidental",
+      "startSeconds": 2850.56,
+      "evidence": "the Urza's head or whatever",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hostage Taker",
+      "spokenText": "hostage taker",
+      "role": "incidental",
+      "startSeconds": 3001.2,
+      "evidence": "You got a rata hostage taker or whatever",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Werewolf Pack Leader",
+      "spokenText": "Werewolf Pack Leader",
+      "role": "incidental",
+      "startSeconds": 3014.06,
+      "evidence": "If you use Werewolf Pack Leader the normal way",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Werewolf Pack Leader",
+      "spokenText": "werewolf pack leaders",
+      "role": "incidental",
+      "startSeconds": 3088.56,
+      "evidence": "where your werewolf pack leaders are",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Werewolf Pack Leader",
+      "spokenText": "werewolf pack leader",
+      "role": "incidental",
+      "startSeconds": 3102.58,
+      "evidence": "i've been a day one werewolf pack leader fan",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cruel Tutor",
+      "spokenText": "Cruel Turtle",
+      "role": "incidental",
+      "startSeconds": 3182.24,
+      "evidence": "the Cruel Turtle with Ozai",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "Cumberbatch Shieldred",
+      "role": "incidental",
+      "startSeconds": 3182.24,
+      "evidence": "we just got Cumberbatch Shieldred",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Umezawa's Jitte",
+      "spokenText": "Umazawa Jitte",
+      "role": "incidental",
+      "startSeconds": 3182.24,
+      "evidence": "Umazawa Jitte and Turtles",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "Cumberbatch Shieldred",
+      "role": "incidental",
+      "startSeconds": 3202,
+      "evidence": "Cumberbatch Shieldred is like half price",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "Shieldred",
+      "role": "incidental",
+      "startSeconds": 3206.18,
+      "evidence": "Normal Shieldred is like $100.",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Umezawa's Jitte",
+      "spokenText": "Umazawa Jitte",
+      "role": "incidental",
+      "startSeconds": 3208.92,
+      "evidence": "The Umazawa Jitte in-universe is like $20.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cruel Tutor",
+      "spokenText": "Cruel Tutor",
+      "role": "incidental",
+      "startSeconds": 3214.28,
+      "evidence": "Cruel Tutor is also like way cheaper.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "shield red",
+      "role": "incidental",
+      "startSeconds": 3272.26,
+      "evidence": "another shield red to come after this one",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "Show Jed",
+      "role": "incidental",
+      "startSeconds": 3336.54,
+      "evidence": "Show Jed is eight leg spider person",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "Cumberbatch Shieldred",
+      "role": "incidental",
+      "startSeconds": 3357.1,
+      "evidence": "the Cumberbatch Shieldred might actually be the ... chase version",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Umezawa's Jitte",
+      "spokenText": "Yuma Zao Jitte",
+      "role": "incidental",
+      "startSeconds": 3357.1,
+      "evidence": "the Turtles Yuma Zao Jitte",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Roaming Throne",
+      "spokenText": "Roaming Throne",
+      "role": "incidental",
+      "startSeconds": 3366,
+      "evidence": "The Doom variant, a.k.a. Roaming Throne",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [],
+  "incidentalCards": [
+    "Amoeboid Changeling",
+    "Artificial Evolution",
+    "Cruel Tutor",
+    "Explore",
+    "Hostage Taker",
+    "Lightning Helix",
+    "Plains",
+    "Roaming Throne",
+    "Scorch Spitter",
+    "Scour",
+    "Sheoldred, the Apocalypse",
+    "Umezawa's Jitte",
+    "Urza, Academy Headmaster",
+    "Werewolf Pack Leader"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 3,
+    "unresolvedMentions": []
+  },
+  "validation": {
+    "matchedMainCards": [],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Amoeboid Changeling",
+      "Artificial Evolution",
+      "Cruel Tutor",
+      "Explore",
+      "Hostage Taker",
+      "Lightning Helix",
+      "Plains",
+      "Roaming Throne",
+      "Scorch Spitter",
+      "Scour",
+      "Sheoldred, the Apocalypse",
+      "Umezawa's Jitte",
+      "Urza, Academy Headmaster",
+      "Werewolf Pack Leader"
+    ],
+    "unmatchedIncidentalCards": []
+  }
+}

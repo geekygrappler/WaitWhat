@@ -1,0 +1,2191 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Most Relevant Star Trek Cards for Commander",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Salt Vampire",
+      "spokenText": "salt vampire",
+      "role": "incidental",
+      "startSeconds": 50.5,
+      "evidence": "i can do the salt vampire",
+      "confidence": 0.75,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Salt Vampire",
+      "spokenText": "salt fan",
+      "role": "incidental",
+      "startSeconds": 55.46,
+      "evidence": "That's the salt fan card.",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Will Kenrith Emblem",
+      "spokenText": "Will Riker",
+      "role": "main",
+      "startSeconds": 307.8,
+      "evidence": "Will Riker, this card is a monster",
+      "confidence": 0.99,
+      "modelName": "Will Riker, First in the Field",
+      "catalogueConfidence": 0.823
+    },
+    {
+      "canonicalName": "Will Kenrith Emblem",
+      "spokenText": "Will Riker, first in the field",
+      "role": "main",
+      "startSeconds": 320.42,
+      "evidence": "Will Riker, first in the field, three in a red",
+      "confidence": 0.99,
+      "modelName": "Will Riker, First in the Field",
+      "catalogueConfidence": 0.823
+    },
+    {
+      "canonicalName": "Will Kenrith Emblem",
+      "spokenText": "Will Riker",
+      "role": "main",
+      "startSeconds": 359.04,
+      "evidence": "The gimmick with Will Riker",
+      "confidence": 0.99,
+      "modelName": "Will Riker, First in the Field",
+      "catalogueConfidence": 0.823
+    },
+    {
+      "canonicalName": "Terramorphic Expanse",
+      "spokenText": "Terramorphic Expanse",
+      "role": "incidental",
+      "startSeconds": 373.24,
+      "evidence": "Terramorphic Expanse if you get it in",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Will Kenrith Emblem",
+      "spokenText": "Will Riker",
+      "role": "main",
+      "startSeconds": 375.24,
+      "evidence": "Will Riker you sacrifice it",
+      "confidence": 0.99,
+      "modelName": "Will Riker, First in the Field",
+      "catalogueConfidence": 0.823
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountain",
+      "role": "incidental",
+      "startSeconds": 378.02,
+      "evidence": "to get a mountain",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Will Kenrith Emblem",
+      "spokenText": "Will Riker",
+      "role": "main",
+      "startSeconds": 381.34,
+      "evidence": "again at insta with Will Riker",
+      "confidence": 0.99,
+      "modelName": "Will Riker, First in the Field",
+      "catalogueConfidence": 0.823
+    },
+    {
+      "canonicalName": "Will Kenrith Emblem",
+      "spokenText": "Will Riker",
+      "role": "main",
+      "startSeconds": 391.1,
+      "evidence": "then Will Riker just says",
+      "confidence": 0.99,
+      "modelName": "Will Riker, First in the Field",
+      "catalogueConfidence": 0.823
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountains",
+      "role": "incidental",
+      "startSeconds": 399.12,
+      "evidence": "mountains in the deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountain",
+      "role": "incidental",
+      "startSeconds": 405.44,
+      "evidence": "mountain, it's not great",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Omnath, Locus of Creation",
+      "spokenText": "Omnath",
+      "role": "incidental",
+      "startSeconds": 455,
+      "evidence": "Omnath adds mana as well",
+      "confidence": 0.6,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Will Kenrith Emblem",
+      "spokenText": "Will Riker",
+      "role": "main",
+      "startSeconds": 474.16,
+      "evidence": "traumatized by Will Riker a little bit",
+      "confidence": 0.99,
+      "modelName": "Will Riker, First in the Field",
+      "catalogueConfidence": 0.823
+    },
+    {
+      "canonicalName": "Commander's Plate",
+      "spokenText": "commander spock",
+      "role": "main",
+      "startSeconds": 512.28,
+      "evidence": "commander spock leads it",
+      "confidence": 0.99,
+      "modelName": "Commander Spock",
+      "catalogueConfidence": 0.901
+    },
+    {
+      "canonicalName": "Commander's Plate",
+      "spokenText": "commander spock",
+      "role": "main",
+      "startSeconds": 519.94,
+      "evidence": "whenever commander spock enters or attacks",
+      "confidence": 0.99,
+      "modelName": "Commander Spock",
+      "catalogueConfidence": 0.901
+    },
+    {
+      "canonicalName": "Commander's Plate",
+      "spokenText": "Commander Spock",
+      "role": "main",
+      "startSeconds": 544.86,
+      "evidence": "Commander Spock, you run all the ways to blink him",
+      "confidence": 0.99,
+      "modelName": "Commander Spock",
+      "catalogueConfidence": 0.901
+    },
+    {
+      "canonicalName": "Commander's Plate",
+      "spokenText": "Commander Spock",
+      "role": "main",
+      "startSeconds": 567.92,
+      "evidence": "which with Commander Spock",
+      "confidence": 0.99,
+      "modelName": "Commander Spock",
+      "catalogueConfidence": 0.901
+    },
+    {
+      "canonicalName": "Commander's Plate",
+      "spokenText": "Commander Spork",
+      "role": "incidental",
+      "startSeconds": 610.12,
+      "evidence": "considering that there were cards like Commander Spork",
+      "confidence": 0.99,
+      "modelName": "Commander Spock",
+      "catalogueConfidence": 0.901
+    },
+    {
+      "canonicalName": "Jurin, Leading the Charge",
+      "spokenText": "Eurati Cordial Queen",
+      "role": "main",
+      "startSeconds": 615,
+      "evidence": "It is Eurati Cordial Queen",
+      "confidence": 0.97,
+      "modelName": "Jurati, Cordial Queen",
+      "catalogueConfidence": 0.803
+    },
+    {
+      "canonicalName": "Faerie Artisans",
+      "spokenText": "fairy artisan",
+      "role": "incidental",
+      "startSeconds": 656.1,
+      "evidence": "did you know that fairy artisan tokens are artifacts",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Caretaker's Talent",
+      "spokenText": "caretaker's talent",
+      "role": "incidental",
+      "startSeconds": 693.56,
+      "evidence": "will there be a caretaker's talent in the deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Seven of Nine",
+      "spokenText": "7 of 9",
+      "role": "incidental",
+      "startSeconds": 715.48,
+      "evidence": "I want to shout out 7 of 9",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountains",
+      "role": "incidental",
+      "startSeconds": 783.86,
+      "evidence": "most of your deck's going to be mountains",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashling the Pilgrim",
+      "spokenText": "Ashling",
+      "role": "incidental",
+      "startSeconds": 805.16,
+      "evidence": "It's going to be the new Ashling deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashling the Pilgrim",
+      "spokenText": "Ashling",
+      "role": "incidental",
+      "startSeconds": 809,
+      "evidence": "Ashling 99 mountains",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountains",
+      "role": "incidental",
+      "startSeconds": 809,
+      "evidence": "Ashling 99 mountains",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountains",
+      "role": "incidental",
+      "startSeconds": 849.8,
+      "evidence": "mountains",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountains",
+      "role": "incidental",
+      "startSeconds": 854.08,
+      "evidence": "99 mountains is hard to find",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tablet of Discovery",
+      "spokenText": "Tablet of Discovery",
+      "role": "incidental",
+      "startSeconds": 910.28,
+      "evidence": "hit like Tablet of Discovery",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Manamorphose",
+      "spokenText": "Man of Morphors",
+      "role": "incidental",
+      "startSeconds": 930.04,
+      "evidence": "cards like Man of Morphors",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dragon's Approach",
+      "spokenText": "Dragon's approach",
+      "role": "incidental",
+      "startSeconds": 961.14,
+      "evidence": "Dragon's approach",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jurin, Leading the Charge",
+      "spokenText": "Jurati",
+      "role": "incidental",
+      "startSeconds": 965.92,
+      "evidence": "Also, I had one complaint about Jurati",
+      "confidence": 0.98,
+      "modelName": "Jurati, Cordial Queen",
+      "catalogueConfidence": 0.803
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hit it",
+      "role": "main",
+      "startSeconds": 1032.14,
+      "evidence": "all going with hit it",
+      "confidence": 0.98,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "brazen bluff",
+      "role": "main",
+      "startSeconds": 1048.7,
+      "evidence": "pick for best new staple ... brazen bluff is absurd",
+      "confidence": 0.99,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "brazen bluff",
+      "role": "main",
+      "startSeconds": 1137.24,
+      "evidence": "what are you doing with your brazen bluff",
+      "confidence": 0.99,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Mnemonic Betrayal",
+      "spokenText": "Mnemonic Betrayal",
+      "role": "incidental",
+      "startSeconds": 1262.74,
+      "evidence": "some big Mnemonic Betrayal",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mnemonic Deluge",
+      "spokenText": "Mnemonic Deluge",
+      "role": "incidental",
+      "startSeconds": 1272.42,
+      "evidence": "Oh, you mean Mnemonic Deluge?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mnemonic Deluge",
+      "spokenText": "Deluge",
+      "role": "incidental",
+      "startSeconds": 1274.2,
+      "evidence": "Yeah, Deluge, sorry",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "Hit It",
+      "role": "incidental",
+      "startSeconds": 1350.7,
+      "evidence": "Hit It is probably more of a staple",
+      "confidence": 0.98,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hit it",
+      "role": "main",
+      "startSeconds": 1384.9,
+      "evidence": "Still hit it",
+      "confidence": 0.98,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hit it",
+      "role": "main",
+      "startSeconds": 1398.94,
+      "evidence": "I think we didn't read hit it",
+      "confidence": 0.98,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hit it",
+      "role": "main",
+      "startSeconds": 1400.64,
+      "evidence": "Oh, hit it, did we?",
+      "confidence": 0.98,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Omnath, Locus of Creation",
+      "spokenText": "Omnath",
+      "role": "incidental",
+      "startSeconds": 1443.08,
+      "evidence": "in Omnath I do have some recursion",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eternal Witness",
+      "spokenText": "Eternal Witness",
+      "role": "incidental",
+      "startSeconds": 1449.28,
+      "evidence": "Do you play Eternal Witness only?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Seasons Past",
+      "spokenText": "Seasons Past",
+      "role": "incidental",
+      "startSeconds": 1452.68,
+      "evidence": "Seasons Past and stuff",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Goro-Goro and Satoru",
+      "spokenText": "Goro Goro and whatever Toshiro",
+      "role": "incidental",
+      "startSeconds": 1511.04,
+      "evidence": "I played the Goro Goro and whatever Toshiro deck",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fervor",
+      "spokenText": "fervor",
+      "role": "incidental",
+      "startSeconds": 1516.08,
+      "evidence": "when i play just a simple fervor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fervor",
+      "spokenText": "fervor",
+      "role": "incidental",
+      "startSeconds": 1522.94,
+      "evidence": "i just play fervor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fervor",
+      "spokenText": "fervor",
+      "role": "incidental",
+      "startSeconds": 1534.2,
+      "evidence": "concerned if i just play fervor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fervor",
+      "spokenText": "fervor",
+      "role": "incidental",
+      "startSeconds": 1556.9,
+      "evidence": "would fervor scare you",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "Hit it",
+      "role": "main",
+      "startSeconds": 1569.98,
+      "evidence": "Hit it has to be the exact",
+      "confidence": 0.98,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Fervor",
+      "spokenText": "Fervor",
+      "role": "incidental",
+      "startSeconds": 1571.58,
+      "evidence": "same amount of scariness as Fervor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fervor",
+      "spokenText": "Fervor",
+      "role": "incidental",
+      "startSeconds": 1579.36,
+      "evidence": "exactly the same amount of scary as Fervor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fervor",
+      "spokenText": "Fervor",
+      "role": "incidental",
+      "startSeconds": 1600.7,
+      "evidence": "Fervor doesn't even ramp me",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fervor",
+      "spokenText": "Fervor",
+      "role": "incidental",
+      "startSeconds": 1602.84,
+      "evidence": "I just play Fervor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fervor",
+      "spokenText": "Fervor",
+      "role": "incidental",
+      "startSeconds": 1622.82,
+      "evidence": "I'm worried about any Fervor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "Rhystic Study",
+      "role": "incidental",
+      "startSeconds": 1625.3,
+      "evidence": "you played Rhystic Study or something",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Maelstrom Wanderer",
+      "spokenText": "Maestrom Wanderer",
+      "role": "incidental",
+      "startSeconds": 1632.78,
+      "evidence": "I put the Maestrom Wanderer into my Omnath deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Omnath, Locus of Creation",
+      "spokenText": "Omnath",
+      "role": "incidental",
+      "startSeconds": 1632.78,
+      "evidence": "into my Omnath deck",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Overlord of the Hauntwoods",
+      "spokenText": "Overlord of the Houndfoots",
+      "role": "incidental",
+      "startSeconds": 1648.58,
+      "evidence": "unless it's an Overlord of the Houndfoots",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Omnath, Locus of Creation",
+      "spokenText": "on that",
+      "role": "incidental",
+      "startSeconds": 1673.9,
+      "evidence": "If your commander is on that or something",
+      "confidence": 0.55,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hit hit",
+      "role": "main",
+      "startSeconds": 1676.86,
+      "evidence": "I don't think the hit hit is going to increase",
+      "confidence": 0.97,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Howling Mine",
+      "spokenText": "hollowing mind",
+      "role": "incidental",
+      "startSeconds": 1768.92,
+      "evidence": "hollowing mind and then any additional cards",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hit it",
+      "role": "incidental",
+      "startSeconds": 1785.02,
+      "evidence": "I feel like hit it",
+      "confidence": 0.98,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Deep Spawn",
+      "spokenText": "deep space nine",
+      "role": "main",
+      "startSeconds": 1847.7,
+      "evidence": "It's deep space nine",
+      "confidence": 0.99,
+      "modelName": "Deep Space Nine",
+      "catalogueConfidence": 0.9
+    },
+    {
+      "canonicalName": "Goblin Welder",
+      "spokenText": "Goblin Welder",
+      "role": "incidental",
+      "startSeconds": 1894.6,
+      "evidence": "you can like Goblin Welder it in",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Genesis Ultimatum",
+      "spokenText": "Genesis ultimatum",
+      "role": "incidental",
+      "startSeconds": 1902.68,
+      "evidence": "a Genesis ultimatum every turn almost",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avenger of Zendikar",
+      "spokenText": "Avengers Antica",
+      "role": "incidental",
+      "startSeconds": 1920.64,
+      "evidence": "I still think Avengers Antica is pretty crazy",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Excava, the Risen Past",
+      "spokenText": "Kelvian Game Master",
+      "role": "main",
+      "startSeconds": 1929.76,
+      "evidence": "it's Kelvian Game Master",
+      "confidence": 0.93,
+      "modelName": "Excalbian Game Master",
+      "catalogueConfidence": 0.819
+    },
+    {
+      "canonicalName": "Avenger of Zendikar",
+      "spokenText": "Avenger of Zeneca",
+      "role": "incidental",
+      "startSeconds": 1952.14,
+      "evidence": "it is the Avenger of Zeneca thing",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Basking Broodscale",
+      "spokenText": "brute scale",
+      "role": "incidental",
+      "startSeconds": 1968.04,
+      "evidence": "you can brute scale combo with this",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mystic Reflection",
+      "spokenText": "mystic reflection",
+      "role": "incidental",
+      "startSeconds": 1993.96,
+      "evidence": "Oh, one mystic reflection, right?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Esix, Fractal Bloom",
+      "spokenText": "E6",
+      "role": "incidental",
+      "startSeconds": 1998.04,
+      "evidence": "Moonlit Meditation and E6",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Moonlit Meditation",
+      "spokenText": "Moonlit Meditation",
+      "role": "incidental",
+      "startSeconds": 1998.04,
+      "evidence": "Moonlit Meditation and E6",
+      "confidence": 0.86,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avenger of Zendikar",
+      "spokenText": "Avenger Zendikar",
+      "role": "incidental",
+      "startSeconds": 2021.48,
+      "evidence": "Might Avenger Zendikar",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avenger of Zendikar",
+      "spokenText": "Avenger",
+      "role": "incidental",
+      "startSeconds": 2022.92,
+      "evidence": "Might Avenger",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Field of the Dead",
+      "spokenText": "Field of the Dead",
+      "role": "incidental",
+      "startSeconds": 2031.54,
+      "evidence": "the Field of the Dead mechanic",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swamp",
+      "spokenText": "swamp",
+      "role": "incidental",
+      "startSeconds": 2078.24,
+      "evidence": "We can't even hit a single swamp",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Genesis Wave",
+      "spokenText": "Genesis Devocci",
+      "role": "main",
+      "startSeconds": 2140.72,
+      "evidence": "which makes it Genesis Devocci",
+      "confidence": 0.99,
+      "modelName": "Genesis Device",
+      "catalogueConfidence": 0.89
+    },
+    {
+      "canonicalName": "Genesis Wave",
+      "spokenText": "Genesis Device",
+      "role": "main",
+      "startSeconds": 2142.52,
+      "evidence": "but it is Genesis Device",
+      "confidence": 1,
+      "modelName": "Genesis Device",
+      "catalogueConfidence": 0.89
+    },
+    {
+      "canonicalName": "Gaea's Cradle",
+      "spokenText": "Gaia's Cradle",
+      "role": "incidental",
+      "startSeconds": 2158.42,
+      "evidence": "which is a Gaia's Cradle",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Genesis Wave",
+      "spokenText": "Genesis",
+      "role": "main",
+      "startSeconds": 2167.66,
+      "evidence": "Wait, what, Genesis?",
+      "confidence": 0.98,
+      "modelName": "Genesis Device",
+      "catalogueConfidence": 0.89
+    },
+    {
+      "canonicalName": "Cultivate",
+      "spokenText": "Cultivate",
+      "role": "incidental",
+      "startSeconds": 2173.78,
+      "evidence": "at you would like at a Cultivate",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gaea's Cradle",
+      "spokenText": "Gaia's Cradle",
+      "role": "incidental",
+      "startSeconds": 2177.72,
+      "evidence": "that, like, Gaia's Cradle planet",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lumra, Bellow of the Woods",
+      "spokenText": "Lumra",
+      "role": "incidental",
+      "startSeconds": 2196.76,
+      "evidence": "if you are a Lumra, a scapeshifter of some sort",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "scapeshifter",
+      "role": "incidental",
+      "startSeconds": 2196.76,
+      "evidence": "a Lumra, a scapeshifter of some sort",
+      "confidence": 0.91,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "scapeshift",
+      "role": "incidental",
+      "startSeconds": 2202.62,
+      "evidence": "if you play scapeshift or not",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Necrobloom",
+      "spokenText": "Necrobloom",
+      "role": "incidental",
+      "startSeconds": 2207.96,
+      "evidence": "I should put this in Necrobloom",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Necrobloom",
+      "spokenText": "Necrobloom",
+      "role": "incidental",
+      "startSeconds": 2212.98,
+      "evidence": "Oh, my God, yes, in Necrobloom",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "Badger Maw",
+      "role": "incidental",
+      "startSeconds": 2285.16,
+      "evidence": "They banned poor Badger Maw",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Tourist Laser",
+      "spokenText": "den no denna diana troy mystic council",
+      "role": "main",
+      "startSeconds": 2304.46,
+      "evidence": "it's den no denna diana troy mystic council",
+      "confidence": 0.82,
+      "modelName": "Deanna Troi, Mystic Counselor",
+      "catalogueConfidence": 0.819
+    },
+    {
+      "canonicalName": "Excava, the Risen Past",
+      "spokenText": "Game Master",
+      "role": "incidental",
+      "startSeconds": 2390.38,
+      "evidence": "The Game Master can get a bunch of power",
+      "confidence": 0.96,
+      "modelName": "Excalbian Game Master",
+      "catalogueConfidence": 0.819
+    },
+    {
+      "canonicalName": "Doubling Season",
+      "spokenText": "doubling season",
+      "role": "incidental",
+      "startSeconds": 2396.48,
+      "evidence": "doubling season stuff",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blast Zone",
+      "spokenText": "Blasto Neuron",
+      "role": "main",
+      "startSeconds": 2406.98,
+      "evidence": "Blasto Neuron",
+      "confidence": 0.9,
+      "modelName": "Blastoneuron",
+      "catalogueConfidence": 0.893
+    },
+    {
+      "canonicalName": "Necropotence",
+      "spokenText": "necropotence",
+      "role": "incidental",
+      "startSeconds": 2432.3,
+      "evidence": "like necropotence for example",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Necropotence",
+      "spokenText": "necro",
+      "role": "incidental",
+      "startSeconds": 2435.72,
+      "evidence": "you discard all the cards to necro",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Gitrog Monster",
+      "spokenText": "gitrog",
+      "role": "incidental",
+      "startSeconds": 2439.6,
+      "evidence": "there's gitrog",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gravecrawler",
+      "spokenText": "Gravecrawler",
+      "role": "incidental",
+      "startSeconds": 2453.32,
+      "evidence": "Gravecrawler, yeah",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gravecrawler",
+      "spokenText": "Gravecrawler",
+      "role": "incidental",
+      "startSeconds": 2454.46,
+      "evidence": "Gravecrawler loops",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ark of Hunger",
+      "spokenText": "Arc of Hunger",
+      "role": "incidental",
+      "startSeconds": 2458.78,
+      "evidence": "We got Arc of Hunger",
+      "confidence": 0.76,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ark of Hunger",
+      "spokenText": "Arc of Hunger",
+      "role": "incidental",
+      "startSeconds": 2465.78,
+      "evidence": "Arc of Hunger was just weird color-wise",
+      "confidence": 0.76,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "U.S.Agent, John Walker",
+      "spokenText": "USS Voyager",
+      "role": "main",
+      "startSeconds": 2509.94,
+      "evidence": "So I have USS Voyager",
+      "confidence": 0.96,
+      "modelName": "U.S.S. Voyager, Lone Wanderer",
+      "catalogueConfidence": 0.811
+    },
+    {
+      "canonicalName": "U.S.Agent, John Walker",
+      "spokenText": "USS Voyager Lone Wanderer",
+      "role": "main",
+      "startSeconds": 2512.72,
+      "evidence": "we have USS Voyager Lone Wanderer",
+      "confidence": 0.97,
+      "modelName": "U.S.S. Voyager, Lone Wanderer",
+      "catalogueConfidence": 0.811
+    },
+    {
+      "canonicalName": "Explosive Vegetation",
+      "spokenText": "explosive vegetation",
+      "role": "incidental",
+      "startSeconds": 2517.52,
+      "evidence": "a souped-up explosive vegetation on a spacecraft",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Explosive Vegetation",
+      "spokenText": "explosive vegetation",
+      "role": "incidental",
+      "startSeconds": 2547.4,
+      "evidence": "it's a better explosive vegetation",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Open the Way",
+      "spokenText": "open the way",
+      "role": "incidental",
+      "startSeconds": 2599.4,
+      "evidence": "it's like open the way",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Explosive Vegetation",
+      "spokenText": "explosive vegetation",
+      "role": "incidental",
+      "startSeconds": 2614,
+      "evidence": "this just becomes, like, my explosive vegetation",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cabal Coffers",
+      "spokenText": "Cabal Coffers",
+      "role": "incidental",
+      "startSeconds": 2622.16,
+      "evidence": "your Gaia's Cradle or Cabal Coffers",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gaea's Cradle",
+      "spokenText": "Gaia's Cradle",
+      "role": "incidental",
+      "startSeconds": 2622.16,
+      "evidence": "your Gaia's Cradle or Cabal Coffers",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nykthos, Shrine to Nyx",
+      "spokenText": "Nykthos",
+      "role": "incidental",
+      "startSeconds": 2626.84,
+      "evidence": "Nykthos, whatever your craziest land",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skyshroud Claim",
+      "spokenText": "Skyshroud Claim",
+      "role": "incidental",
+      "startSeconds": 2636.66,
+      "evidence": "Do you play this over Skyshroud Claim?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skyshroud Claim",
+      "spokenText": "Sky's Crowd Claim",
+      "role": "incidental",
+      "startSeconds": 2642.86,
+      "evidence": "I like Sky's Crowd Claim",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skyshroud Claim",
+      "spokenText": "Sky's Crowd Claim",
+      "role": "incidental",
+      "startSeconds": 2651.76,
+      "evidence": "I would rank Sky's Crowd Claim",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ceta Sanctuary",
+      "spokenText": "Cetacean Ops",
+      "role": "main",
+      "startSeconds": 2693.74,
+      "evidence": "So I just went with Cetacean Ops",
+      "confidence": 0.98,
+      "modelName": "Cetacean Ops",
+      "catalogueConfidence": 0.823
+    },
+    {
+      "canonicalName": "Exploration Broodship",
+      "spokenText": "exploratory missions",
+      "role": "main",
+      "startSeconds": 2764.76,
+      "evidence": "exploratory missions four mana enchantment",
+      "confidence": 0.94,
+      "modelName": "Exploratory Mission",
+      "catalogueConfidence": 0.871
+    },
+    {
+      "canonicalName": "Lotus Cobra",
+      "spokenText": "lotus cobra",
+      "role": "incidental",
+      "startSeconds": 2812.92,
+      "evidence": "with every land like a lotus cobra",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Food Chain",
+      "spokenText": "food chains",
+      "role": "incidental",
+      "startSeconds": 2891.86,
+      "evidence": "i just play food chains",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Food Chain",
+      "spokenText": "food chain",
+      "role": "incidental",
+      "startSeconds": 2897.02,
+      "evidence": "they're gonna combo that with food chain",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cyan, Vengeful Samurai",
+      "spokenText": "con vengeful",
+      "role": "main",
+      "startSeconds": 2897.02,
+      "evidence": "con vengeful con vengeful art",
+      "confidence": 0.85,
+      "modelName": "Khan, Vengeful Augment",
+      "catalogueConfidence": 0.787
+    },
+    {
+      "canonicalName": "Cyan, Vengeful Samurai",
+      "spokenText": "con vengeful",
+      "role": "main",
+      "startSeconds": 2901.44,
+      "evidence": "con vengeful is two black black",
+      "confidence": 0.85,
+      "modelName": "Khan, Vengeful Augment",
+      "catalogueConfidence": 0.787
+    },
+    {
+      "canonicalName": "Smaug the Magnificent",
+      "spokenText": "gleaming splendor",
+      "role": "incidental",
+      "startSeconds": 2980.7,
+      "evidence": "I knew the gleaming splendor was overhyped",
+      "confidence": 0.88,
+      "modelName": "Smaug, Gleaming Splendor",
+      "catalogueConfidence": 0.833
+    },
+    {
+      "canonicalName": "Smothering Tithe",
+      "spokenText": "smothering tides",
+      "role": "incidental",
+      "startSeconds": 2996.66,
+      "evidence": "what's the new smothering tides?",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "Brazen Bluff",
+      "role": "main",
+      "startSeconds": 3002.2,
+      "evidence": "Brazen Bluff",
+      "confidence": 0.99,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "Brazen Bluff",
+      "role": "main",
+      "startSeconds": 3019.16,
+      "evidence": "so I went with Brazen Bluff",
+      "confidence": 0.99,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Death in Heaven",
+      "spokenText": "Death is irrelevant",
+      "role": "main",
+      "startSeconds": 3031.36,
+      "evidence": "Death is irrelevant",
+      "confidence": 0.99,
+      "modelName": "Death Is Irrelevant",
+      "catalogueConfidence": 0.895
+    },
+    {
+      "canonicalName": "Virtus the Veiled",
+      "spokenText": "Virtue of Persistence",
+      "role": "incidental",
+      "startSeconds": 3048.46,
+      "evidence": "I'd rather just play Virtue of Persistence",
+      "confidence": 1,
+      "modelName": "Virtue of Persistence",
+      "catalogueConfidence": 0.838
+    },
+    {
+      "canonicalName": "Commando Raid",
+      "spokenText": "command chair",
+      "role": "main",
+      "startSeconds": 3102.44,
+      "evidence": "10 bucks is a little much for command chair",
+      "confidence": 0.99,
+      "modelName": "Command Chair",
+      "catalogueConfidence": 0.911
+    },
+    {
+      "canonicalName": "Throne of Eldraine",
+      "spokenText": "Throne of Eldraine",
+      "role": "incidental",
+      "startSeconds": 3161.5,
+      "evidence": "Throne of Eldraine, which is also a chair",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Smothering Tithe",
+      "spokenText": "Smothering time",
+      "role": "incidental",
+      "startSeconds": 3229.46,
+      "evidence": "Smothering time?",
+      "confidence": 0.76,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Commando Raid",
+      "spokenText": "Come on, Chad",
+      "role": "main",
+      "startSeconds": 3231.16,
+      "evidence": "Come on, Chad",
+      "confidence": 0.58,
+      "modelName": "Command Chair",
+      "catalogueConfidence": 0.911
+    },
+    {
+      "canonicalName": "Ghalta, Primal Hunger",
+      "spokenText": "galta",
+      "role": "incidental",
+      "startSeconds": 3258.82,
+      "evidence": "i would put it in galta",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ghalta, Primal Hunger",
+      "spokenText": "galta",
+      "role": "incidental",
+      "startSeconds": 3265.74,
+      "evidence": "because galta is a i think 12 mana",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ghalta, Primal Hunger",
+      "spokenText": "elta",
+      "role": "incidental",
+      "startSeconds": 3277.1,
+      "evidence": "i don't think elta needs this though",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ghalta, Primal Hunger",
+      "spokenText": "Galta",
+      "role": "incidental",
+      "startSeconds": 3288.88,
+      "evidence": "a Dino Throne altar of this now for Galta",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ghalta, Primal Hunger",
+      "spokenText": "Galta's",
+      "role": "incidental",
+      "startSeconds": 3298.82,
+      "evidence": "There's a poor Photoshop of Galta's",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Excava, the Risen Past",
+      "spokenText": "Excalbian, I don't know his name, like Game Master",
+      "role": "main",
+      "startSeconds": 3326.2,
+      "evidence": "Excalbian, I don't know his name, like Game Master",
+      "confidence": 0.96,
+      "modelName": "Excalbian Game Master",
+      "catalogueConfidence": 0.819
+    },
+    {
+      "canonicalName": "Excava, the Risen Past",
+      "spokenText": "Excalbian gamer",
+      "role": "main",
+      "startSeconds": 3331.9,
+      "evidence": "Excalbian gamer",
+      "confidence": 0.96,
+      "modelName": "Excalbian Game Master",
+      "catalogueConfidence": 0.819
+    },
+    {
+      "canonicalName": "Avenger of Zendikar",
+      "spokenText": "Avenger of Zendikar",
+      "role": "incidental",
+      "startSeconds": 3346.16,
+      "evidence": "This is just another Avenger of Zendikar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Will Kenrith Emblem",
+      "spokenText": "Will Riker first in the field",
+      "role": "main",
+      "startSeconds": 3377.2,
+      "evidence": "It's Will Riker first in the field",
+      "confidence": 0.98,
+      "modelName": "Will Riker, First in the Field",
+      "catalogueConfidence": 0.823
+    },
+    {
+      "canonicalName": "Mountain",
+      "spokenText": "mountains",
+      "role": "incidental",
+      "startSeconds": 3394.94,
+      "evidence": "You just hit some mountains and you sacrifice them",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zell Dincht",
+      "spokenText": "zeldinked",
+      "role": "incidental",
+      "startSeconds": 3398.36,
+      "evidence": "if you have zeldinked",
+      "confidence": 0.91,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hearthhull, the Worldseed",
+      "spokenText": "Hertho",
+      "role": "incidental",
+      "startSeconds": 3425.32,
+      "evidence": "the Junduan Hertho",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Will Kenrith Emblem",
+      "spokenText": "Will Riker's",
+      "role": "main",
+      "startSeconds": 3431.1,
+      "evidence": "obviously, Will Riker's really good there",
+      "confidence": 0.98,
+      "modelName": "Will Riker, First in the Field",
+      "catalogueConfidence": 0.823
+    },
+    {
+      "canonicalName": "Lotus Cobra",
+      "spokenText": "lotus cobra",
+      "role": "incidental",
+      "startSeconds": 3488.08,
+      "evidence": "lotus cobra effect",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lotus Cobra",
+      "spokenText": "lotus cobra",
+      "role": "incidental",
+      "startSeconds": 3499.62,
+      "evidence": "if it's lotus cobra",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lotus Cobra",
+      "spokenText": "Lotus Cobra",
+      "role": "incidental",
+      "startSeconds": 3526.96,
+      "evidence": "It's kind of like a two-color Lotus Cobra",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lotus Cobra",
+      "spokenText": "Lotus Cobra",
+      "role": "incidental",
+      "startSeconds": 3532.6,
+      "evidence": "a Gruul Lotus Cobra that you can play as your commander",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Anthem of Champions",
+      "spokenText": "Anthropological Mission",
+      "role": "main",
+      "startSeconds": 3544.72,
+      "evidence": "Anthropological Mission",
+      "confidence": 0.99,
+      "modelName": "Anthropological Mission",
+      "catalogueConfidence": 0.798
+    },
+    {
+      "canonicalName": "Exploration Broodship",
+      "spokenText": "exploratory mission",
+      "role": "incidental",
+      "startSeconds": 3545.98,
+      "evidence": "we talked about the exploratory mission",
+      "confidence": 0.99,
+      "modelName": "Exploratory Mission",
+      "catalogueConfidence": 0.871
+    },
+    {
+      "canonicalName": "Whirlwind of Thought",
+      "spokenText": "thought",
+      "role": "incidental",
+      "startSeconds": 3562.6,
+      "evidence": "thought is four mana in three colors",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Anthem of Champions",
+      "spokenText": "anthropological mission",
+      "role": "main",
+      "startSeconds": 3574.08,
+      "evidence": "anthropological mission it's essentially the same thing",
+      "confidence": 0.99,
+      "modelName": "Anthropological Mission",
+      "catalogueConfidence": 0.798
+    },
+    {
+      "canonicalName": "Whirlwind of Thought",
+      "spokenText": "whirlwind of thought",
+      "role": "incidental",
+      "startSeconds": 3587.28,
+      "evidence": "a monocolor three mana whirlwind of thought",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Whirlwind of Thought",
+      "spokenText": "whirlwind of thought",
+      "role": "incidental",
+      "startSeconds": 3592.86,
+      "evidence": "if you're a whirlwind of thought believer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blood Artist",
+      "spokenText": "Blood Art-y",
+      "role": "incidental",
+      "startSeconds": 3614,
+      "evidence": "That's a, like, Blood Art-y Steve one?",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blood Artist",
+      "spokenText": "Blood Artist",
+      "role": "incidental",
+      "startSeconds": 3616.46,
+      "evidence": "it's, like, the Blood Artist",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blood Artist",
+      "spokenText": "Blood Artists",
+      "role": "incidental",
+      "startSeconds": 3622.18,
+      "evidence": "I feel like Blood Artists are so good these days",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Geometer's Arthropod",
+      "spokenText": "Georgiou? Terran Emperor?",
+      "role": "main",
+      "startSeconds": 3666.86,
+      "evidence": "is it Georgiou? Terran Emperor?",
+      "confidence": 0.96,
+      "modelName": "Georgiou, Terran Emperor",
+      "catalogueConfidence": 0.783
+    },
+    {
+      "canonicalName": "Peace of Mind",
+      "spokenText": "peace in our time",
+      "role": "main",
+      "startSeconds": 3696.88,
+      "evidence": "the other card i also love is peace in our time",
+      "confidence": 1,
+      "modelName": "Peace in Our Time",
+      "catalogueConfidence": 0.853
+    },
+    {
+      "canonicalName": "Peace of Mind",
+      "spokenText": "piece of nerd ties",
+      "role": "main",
+      "startSeconds": 3827.8,
+      "evidence": "then a piece of nerd ties out like 10",
+      "confidence": 0.78,
+      "modelName": "Peace in Our Time",
+      "catalogueConfidence": 0.853
+    },
+    {
+      "canonicalName": "Kolodin, Triumph Caster",
+      "spokenText": "call off triple hunter",
+      "role": "main",
+      "startSeconds": 3853.84,
+      "evidence": "i picked call off triple hunter",
+      "confidence": 0.96,
+      "modelName": "Koloth, Tribble Hunter",
+      "catalogueConfidence": 0.811
+    },
+    {
+      "canonicalName": "Kolodin, Triumph Caster",
+      "spokenText": "koloff",
+      "role": "main",
+      "startSeconds": 3913.48,
+      "evidence": "there's a little weirdness you could do with koloff",
+      "confidence": 0.98,
+      "modelName": "Koloth, Tribble Hunter",
+      "catalogueConfidence": 0.811
+    },
+    {
+      "canonicalName": "Captain Lannery Storm",
+      "spokenText": "Captain Jonathan Archer",
+      "role": "main",
+      "startSeconds": 3947.16,
+      "evidence": "pet card because Captain Jonathan Archer literally makes a Beagle",
+      "confidence": 0.99,
+      "modelName": "Captain Jonathan Archer",
+      "catalogueConfidence": 0.874
+    },
+    {
+      "canonicalName": "Collective Drone",
+      "spokenText": "collective override",
+      "role": "main",
+      "startSeconds": 3969.12,
+      "evidence": "it is collective override it is four mana",
+      "confidence": 1,
+      "modelName": "Collective Override",
+      "catalogueConfidence": 0.919
+    },
+    {
+      "canonicalName": "Inkshield",
+      "spokenText": "Ink Shield",
+      "role": "incidental",
+      "startSeconds": 4000.86,
+      "evidence": "this one's like Ink Shield, but good",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arachnogenesis",
+      "spokenText": "Spiderfog",
+      "role": "incidental",
+      "startSeconds": 4017.86,
+      "evidence": "So I do like Spiderfog",
+      "confidence": 0.8,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Peace of Mind",
+      "spokenText": "peace in our time",
+      "role": "main",
+      "startSeconds": 4076.7,
+      "evidence": "for my pick i went with peace in our time",
+      "confidence": 1,
+      "modelName": "Peace in Our Time",
+      "catalogueConfidence": 0.853
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "brazen bluff",
+      "role": "main",
+      "startSeconds": 4081,
+      "evidence": "and also brazen bluff which we also already talked about",
+      "confidence": 1,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Peace of Mind",
+      "spokenText": "peace in time",
+      "role": "main",
+      "startSeconds": 4081,
+      "evidence": "but peace in time is the card i want to most build a deck around",
+      "confidence": 0.99,
+      "modelName": "Peace in Our Time",
+      "catalogueConfidence": 0.853
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "brazen bluff",
+      "role": "main",
+      "startSeconds": 4090.98,
+      "evidence": "brazen bluff is a card i'm just gonna jam",
+      "confidence": 1,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Brazen Dwarf",
+      "spokenText": "Brazen Bluff",
+      "role": "main",
+      "startSeconds": 4121.54,
+      "evidence": "Everyone else went with Brazen Bluff",
+      "confidence": 1,
+      "modelName": "Brazen Bluff",
+      "catalogueConfidence": 0.867
+    },
+    {
+      "canonicalName": "Unagi's Spray",
+      "spokenText": "unagi spray",
+      "role": "incidental",
+      "startSeconds": 4197.18,
+      "evidence": "single other card that cares about whales ... it's unagi spray",
+      "confidence": 0.88,
+      "modelName": "Unagi Spray",
+      "catalogueConfidence": 0.969
+    },
+    {
+      "canonicalName": "Miles Morales // Ultimate Spider-Man",
+      "spokenText": "Miles O'Brien, Transporter Ops",
+      "role": "main",
+      "startSeconds": 4423.76,
+      "evidence": "I'm just going to call out Miles O'Brien, Transporter Ops",
+      "confidence": 0.99,
+      "modelName": "Miles O'Brien, Transporter Ops",
+      "catalogueConfidence": 0.831
+    },
+    {
+      "canonicalName": "Those Who Serve",
+      "spokenText": "those old scientists",
+      "role": "main",
+      "startSeconds": 4543.34,
+      "evidence": "those old scientists it's crazy that this ... looks so bad",
+      "confidence": 0.98,
+      "modelName": "Those Old Scientists",
+      "catalogueConfidence": 0.833
+    },
+    {
+      "canonicalName": "The Destined",
+      "spokenText": "The naked time",
+      "role": "main",
+      "startSeconds": 4562.8,
+      "evidence": "The naked time, obvious one",
+      "confidence": 0.99,
+      "modelName": "The Naked Time",
+      "catalogueConfidence": 0.87
+    },
+    {
+      "canonicalName": "Coral Fighters",
+      "spokenText": "Erika Ortega's",
+      "role": "main",
+      "startSeconds": 4571.94,
+      "evidence": "Erika Ortega's, whatever, it has so many landsflares",
+      "confidence": 0.7,
+      "modelName": "Erica Ortegas",
+      "catalogueConfidence": 0.786
+    },
+    {
+      "canonicalName": "The Destined",
+      "spokenText": "Naked Time",
+      "role": "main",
+      "startSeconds": 4643.58,
+      "evidence": "I think the funniest is probably Naked Time",
+      "confidence": 0.99,
+      "modelName": "The Naked Time",
+      "catalogueConfidence": 0.87
+    },
+    {
+      "canonicalName": "Heroic Intervention",
+      "spokenText": "heroic intervention",
+      "role": "incidental",
+      "startSeconds": 4647.02,
+      "evidence": "they used the same art on heroic intervention",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Destined",
+      "spokenText": "Naked Time",
+      "role": "main",
+      "startSeconds": 4647.02,
+      "evidence": "Not even just Naked Time",
+      "confidence": 0.99,
+      "modelName": "The Naked Time",
+      "catalogueConfidence": 0.87
+    },
+    {
+      "canonicalName": "Khalni Garden",
+      "spokenText": "Khan, Engineered Evil",
+      "role": "main",
+      "startSeconds": 4741.32,
+      "evidence": "Khan, Engineered Evil",
+      "confidence": 0.99,
+      "modelName": "Khan, Engineered Evil",
+      "catalogueConfidence": 0.785
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "She Aldred",
+      "role": "main",
+      "startSeconds": 4742.62,
+      "evidence": "She Aldred. The Benedict Cumberbatch one",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Faithless Looting",
+      "spokenText": "that Faithless thing",
+      "role": "incidental",
+      "startSeconds": 4797.04,
+      "evidence": "Or like that Faithless thing",
+      "confidence": 0.77,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "Shedrit",
+      "role": "main",
+      "startSeconds": 4818.74,
+      "evidence": "Wait, Shedrit is?",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hive Mind Coprocessor",
+      "spokenText": "high mine co-processor",
+      "role": "main",
+      "startSeconds": 4894.4,
+      "evidence": "high mine co-processor is my favorite of the borg arts",
+      "confidence": 0.86,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Salt Vampire",
+      "spokenText": "salt vampire",
+      "role": "incidental",
+      "startSeconds": 4954.36,
+      "evidence": "way more of this just like salt vampire just some random aliens",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Value Knight",
+      "spokenText": "the inner light",
+      "role": "main",
+      "startSeconds": 5007.54,
+      "evidence": "it's the inner light and it's like Patrick Stewart hitting a space pipe",
+      "confidence": 0.99,
+      "modelName": "The Inner Light",
+      "catalogueConfidence": 0.893
+    },
+    {
+      "canonicalName": "Salt Vampire",
+      "spokenText": "Salt Vampire",
+      "role": "main",
+      "startSeconds": 5021.5,
+      "evidence": "the showcase version of Salt Vampire",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Peace of Mind",
+      "spokenText": "Peace in Our Time",
+      "role": "main",
+      "startSeconds": 5064.12,
+      "evidence": "either the Excalbian Gamer or Peace in Our Time",
+      "confidence": 1,
+      "modelName": "Peace in Our Time",
+      "catalogueConfidence": 0.853
+    },
+    {
+      "canonicalName": "The Vegetable Car",
+      "spokenText": "the Excalbian Gamer",
+      "role": "main",
+      "startSeconds": 5064.12,
+      "evidence": "still be playing either the Excalbian Gamer or Peace in Our Time",
+      "confidence": 0.8,
+      "modelName": "The Excalbian Game",
+      "catalogueConfidence": 0.851
+    },
+    {
+      "canonicalName": "Hit // Run",
+      "spokenText": "hit it",
+      "role": "main",
+      "startSeconds": 5111.32,
+      "evidence": "I want to go with hit it because I think that might be the actual answer",
+      "confidence": 0.96,
+      "modelName": "Hit It",
+      "catalogueConfidence": 0.848
+    },
+    {
+      "canonicalName": "Quandrix, the Proof",
+      "spokenText": "Quark humble proprietor",
+      "role": "main",
+      "startSeconds": 5115.44,
+      "evidence": "we haven't talked about Quark humble proprietor",
+      "confidence": 0.99,
+      "modelName": "Quark, Humble Proprietor",
+      "catalogueConfidence": 0.811
+    },
+    {
+      "canonicalName": "Quandrix, the Proof",
+      "spokenText": "Quark",
+      "role": "main",
+      "startSeconds": 5117.9,
+      "evidence": "I think Quark is actually kind of insane",
+      "confidence": 1,
+      "modelName": "Quark, Humble Proprietor",
+      "catalogueConfidence": 0.811
+    },
+    {
+      "canonicalName": "Quandrix, the Proof",
+      "spokenText": "Quark",
+      "role": "main",
+      "startSeconds": 5135.5,
+      "evidence": "You'll get rid of Quark or something",
+      "confidence": 1,
+      "modelName": "Quark, Humble Proprietor",
+      "catalogueConfidence": 0.811
+    }
+  ],
+  "mainCards": [
+    "Anthem of Champions",
+    "Blast Zone",
+    "Brazen Dwarf",
+    "Captain Lannery Storm",
+    "Ceta Sanctuary",
+    "Collective Drone",
+    "Commander's Plate",
+    "Commando Raid",
+    "Coral Fighters",
+    "Cyan, Vengeful Samurai",
+    "Death in Heaven",
+    "Deep Spawn",
+    "Demonic Tourist Laser",
+    "Excava, the Risen Past",
+    "Exploration Broodship",
+    "Genesis Wave",
+    "Geometer's Arthropod",
+    "Hit // Run",
+    "Hive Mind Coprocessor",
+    "Jurin, Leading the Charge",
+    "Khalni Garden",
+    "Kolodin, Triumph Caster",
+    "Miles Morales // Ultimate Spider-Man",
+    "Peace of Mind",
+    "Quandrix, the Proof",
+    "Salt Vampire",
+    "Sheoldred, the Apocalypse",
+    "The Destined",
+    "The Value Knight",
+    "The Vegetable Car",
+    "Those Who Serve",
+    "U.S.Agent, John Walker",
+    "Will Kenrith Emblem"
+  ],
+  "incidentalCards": [
+    "Arachnogenesis",
+    "Ark of Hunger",
+    "Ashling the Pilgrim",
+    "Avenger of Zendikar",
+    "Badgermole Cub",
+    "Basking Broodscale",
+    "Blood Artist",
+    "Cabal Coffers",
+    "Caretaker's Talent",
+    "Cultivate",
+    "Doubling Season",
+    "Dragon's Approach",
+    "Esix, Fractal Bloom",
+    "Eternal Witness",
+    "Explosive Vegetation",
+    "Faerie Artisans",
+    "Faithless Looting",
+    "Fervor",
+    "Field of the Dead",
+    "Food Chain",
+    "Gaea's Cradle",
+    "Genesis Ultimatum",
+    "Ghalta, Primal Hunger",
+    "Goblin Welder",
+    "Goro-Goro and Satoru",
+    "Gravecrawler",
+    "Hearthhull, the Worldseed",
+    "Heroic Intervention",
+    "Howling Mine",
+    "Inkshield",
+    "Lotus Cobra",
+    "Lumra, Bellow of the Woods",
+    "Maelstrom Wanderer",
+    "Manamorphose",
+    "Mnemonic Betrayal",
+    "Mnemonic Deluge",
+    "Moonlit Meditation",
+    "Mountain",
+    "Mystic Reflection",
+    "Necropotence",
+    "Nykthos, Shrine to Nyx",
+    "Omnath, Locus of Creation",
+    "Open the Way",
+    "Overlord of the Hauntwoods",
+    "Rhystic Study",
+    "Scapeshift",
+    "Seasons Past",
+    "Seven of Nine",
+    "Skyshroud Claim",
+    "Smaug the Magnificent",
+    "Smothering Tithe",
+    "Swamp",
+    "Tablet of Discovery",
+    "Terramorphic Expanse",
+    "The Gitrog Monster",
+    "The Necrobloom",
+    "Throne of Eldraine",
+    "Unagi's Spray",
+    "Virtus the Veiled",
+    "Whirlwind of Thought",
+    "Zell Dincht"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 79,
+    "unresolvedMentions": [
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q stacking the deck",
+        "role": "main",
+        "startSeconds": 725.84,
+        "evidence": "It's Q stacking the deck",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "q",
+        "role": "main",
+        "startSeconds": 758.74,
+        "evidence": "decks that are like q one non-land card",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 786.24,
+        "evidence": "all you really need is Q",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 792.78,
+        "evidence": "a lot of Q decks",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 800.78,
+        "evidence": "of Q? People are going to do that",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 810.76,
+        "evidence": "Q and like two",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 862.7,
+        "evidence": "non-cheesy Q",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 875.98,
+        "evidence": "doesn't depend on Q staying on the battlefield",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q",
+        "role": "main",
+        "startSeconds": 908.54,
+        "evidence": "the one thing about the Q deck",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Mr. Spock, Science Officer",
+        "spokenText": "Spock",
+        "role": "main",
+        "startSeconds": 1689.84,
+        "evidence": "I see you're going with a Spock",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Mr. Spock, Science Officer",
+        "spokenText": "Spock",
+        "role": "main",
+        "startSeconds": 1695.48,
+        "evidence": "Spock is just sitting there in the base art",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Mr. Spock, Science Officer",
+        "spokenText": "Mr. Spock, science officer",
+        "role": "main",
+        "startSeconds": 1701.64,
+        "evidence": "Mr. Spock, science officer, two blue blue",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Mr. Spock",
+        "spokenText": "Mr. Spock",
+        "role": "main",
+        "startSeconds": 1794.78,
+        "evidence": "drop down a Mr. Spock",
+        "confidence": 0.88
+      },
+      {
+        "canonicalName": "Mr. Spock, Science Officer",
+        "spokenText": "Mr. Spock",
+        "role": "main",
+        "startSeconds": 1794.78,
+        "evidence": "just drop down a Mr. Spock",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Mr. Spock",
+        "spokenText": "Mr. Spock",
+        "role": "main",
+        "startSeconds": 1822.5,
+        "evidence": "removal, it's going at Mr. Spock",
+        "confidence": 0.88
+      },
+      {
+        "canonicalName": "Dal R'El, Augment Orphan",
+        "spokenText": "del rey argument often uh augment",
+        "role": "main",
+        "startSeconds": 3449.5,
+        "evidence": "it's del rey argument often uh augment",
+        "confidence": 0.89
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q stacking the deck",
+        "role": "main",
+        "startSeconds": 4114.26,
+        "evidence": "Krim, Phil, and I all went with Q stacking the deck",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "Q, Stacking the Deck",
+        "spokenText": "Q stacking the deck",
+        "role": "main",
+        "startSeconds": 4119.46,
+        "evidence": "Krim went with Q stacking the deck",
+        "confidence": 0.99
+      },
+      {
+        "canonicalName": "HMS Bounty, Unlikely Timeship",
+        "spokenText": "hms bounty unlikely timeship",
+        "role": "main",
+        "startSeconds": 4135.04,
+        "evidence": "i went with hms bounty unlikely timeship",
+        "confidence": 0.95
+      },
+      {
+        "canonicalName": "Sam Kirk, Xenoanthropologist",
+        "spokenText": "Sam Kirk, Xenotherapologist",
+        "role": "main",
+        "startSeconds": 4665.18,
+        "evidence": "my actual least favorite ... Sam Kirk, Xenotherapologist",
+        "confidence": 0.94
+      }
+    ]
+  },
+  "validation": {
+    "matchedMainCards": [
+      "Anthem of Champions",
+      "Blast Zone",
+      "Brazen Dwarf",
+      "Captain Lannery Storm",
+      "Ceta Sanctuary",
+      "Collective Drone",
+      "Commander's Plate",
+      "Commando Raid",
+      "Coral Fighters",
+      "Cyan, Vengeful Samurai",
+      "Death in Heaven",
+      "Deep Spawn",
+      "Demonic Tourist Laser",
+      "Excava, the Risen Past",
+      "Exploration Broodship",
+      "Genesis Wave",
+      "Geometer's Arthropod",
+      "Hit // Run",
+      "Hive Mind Coprocessor",
+      "Jurin, Leading the Charge",
+      "Khalni Garden",
+      "Kolodin, Triumph Caster",
+      "Miles Morales // Ultimate Spider-Man",
+      "Peace of Mind",
+      "Quandrix, the Proof",
+      "Salt Vampire",
+      "Sheoldred, the Apocalypse",
+      "The Destined",
+      "The Value Knight",
+      "The Vegetable Car",
+      "Those Who Serve",
+      "U.S.Agent, John Walker",
+      "Will Kenrith Emblem"
+    ],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Arachnogenesis",
+      "Ark of Hunger",
+      "Ashling the Pilgrim",
+      "Avenger of Zendikar",
+      "Badgermole Cub",
+      "Basking Broodscale",
+      "Blood Artist",
+      "Cabal Coffers",
+      "Caretaker's Talent",
+      "Cultivate",
+      "Doubling Season",
+      "Dragon's Approach",
+      "Esix, Fractal Bloom",
+      "Eternal Witness",
+      "Explosive Vegetation",
+      "Faerie Artisans",
+      "Faithless Looting",
+      "Fervor",
+      "Field of the Dead",
+      "Food Chain",
+      "Gaea's Cradle",
+      "Genesis Ultimatum",
+      "Ghalta, Primal Hunger",
+      "Goblin Welder",
+      "Goro-Goro and Satoru",
+      "Gravecrawler",
+      "Hearthhull, the Worldseed",
+      "Heroic Intervention",
+      "Howling Mine",
+      "Inkshield",
+      "Lotus Cobra",
+      "Lumra, Bellow of the Woods",
+      "Maelstrom Wanderer",
+      "Manamorphose",
+      "Mnemonic Betrayal",
+      "Mnemonic Deluge",
+      "Moonlit Meditation",
+      "Mountain",
+      "Mystic Reflection",
+      "Necropotence",
+      "Nykthos, Shrine to Nyx",
+      "Omnath, Locus of Creation",
+      "Open the Way",
+      "Overlord of the Hauntwoods",
+      "Rhystic Study",
+      "Scapeshift",
+      "Seasons Past",
+      "Seven of Nine",
+      "Skyshroud Claim",
+      "Smaug the Magnificent",
+      "Smothering Tithe",
+      "Swamp",
+      "Tablet of Discovery",
+      "Terramorphic Expanse",
+      "The Gitrog Monster",
+      "The Necrobloom",
+      "Throne of Eldraine",
+      "Unagi's Spray",
+      "Virtus the Veiled",
+      "Whirlwind of Thought",
+      "Zell Dincht"
+    ],
+    "unmatchedIncidentalCards": []
+  }
+}

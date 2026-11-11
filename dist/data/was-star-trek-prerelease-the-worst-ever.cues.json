@@ -1,0 +1,531 @@
+[
+  {
+    "track": "mentioned",
+    "start": 573.94,
+    "end": 603.94,
+    "cardId": "d8f81e8a-e309-4bac-81de-326756cd8901",
+    "cardName": "Explore",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Explore",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "You may play an additional land this turn.\nDraw a card.",
+      "image": "https://cards.scryfall.io/normal/front/d/8/d8f81e8a-e309-4bac-81de-326756cd8901.jpg?1783942046"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 577.78,
+    "end": 607.78,
+    "cardId": "1b2ecf55-c1cc-4b28-b7ce-e1b25305155e",
+    "cardName": "Lightning Helix",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Helix",
+      "manaCost": "{R}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Helix deals 3 damage to any target and you gain 3 life.",
+      "image": "https://cards.scryfall.io/normal/front/1/b/1b2ecf55-c1cc-4b28-b7ce-e1b25305155e.jpg?1783943619"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1138.44,
+    "end": 1168.44,
+    "cardId": "bb701a84-24bd-41ed-9f06-25c8338902a5",
+    "cardName": "Scorch Spitter",
+    "confidence": 0.75,
+    "needsReview": true,
+    "card": {
+      "name": "Scorch Spitter",
+      "manaCost": "{R}",
+      "typeLine": "Creature — Elemental Lizard",
+      "oracleText": "Whenever this creature attacks, it deals 1 damage to the player or planeswalker it's attacking.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bb701a84-24bd-41ed-9f06-25c8338902a5.jpg?1783932970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2220.44,
+    "end": 2250.44,
+    "cardId": "b1623d57-4729-4796-b3f7-f1837a05c6ed",
+    "cardName": "Plains",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Plains",
+      "manaCost": "",
+      "typeLine": "Basic Land — Plains",
+      "oracleText": "({T}: Add {W}.)",
+      "image": "https://cards.scryfall.io/normal/front/b/1/b1623d57-4729-4796-b3f7-f1837a05c6ed.jpg?1783948658"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2233.94,
+    "end": 2263.94,
+    "cardId": "b1623d57-4729-4796-b3f7-f1837a05c6ed",
+    "cardName": "Plains",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Plains",
+      "manaCost": "",
+      "typeLine": "Basic Land — Plains",
+      "oracleText": "({T}: Add {W}.)",
+      "image": "https://cards.scryfall.io/normal/front/b/1/b1623d57-4729-4796-b3f7-f1837a05c6ed.jpg?1783948658"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2243.46,
+    "end": 2273.46,
+    "cardId": "b1623d57-4729-4796-b3f7-f1837a05c6ed",
+    "cardName": "Plains",
+    "confidence": 0.93,
+    "needsReview": true,
+    "card": {
+      "name": "Plains",
+      "manaCost": "",
+      "typeLine": "Basic Land — Plains",
+      "oracleText": "({T}: Add {W}.)",
+      "image": "https://cards.scryfall.io/normal/front/b/1/b1623d57-4729-4796-b3f7-f1837a05c6ed.jpg?1783948658"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2507.78,
+    "end": 2537.78,
+    "cardId": "e88e6b39-bb4d-4d69-8007-d42f31bcbc29",
+    "cardName": "Werewolf Pack Leader",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Werewolf Pack Leader",
+      "manaCost": "{G}{G}",
+      "typeLine": "Creature — Human Werewolf",
+      "oracleText": "Pack tactics — Whenever this creature attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card.\n{3}{G}: Until end of turn, this creature has base power and toughness 5/3, gains trample, and isn't a Human.",
+      "image": "https://cards.scryfall.io/normal/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.jpg?1783926452"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2551.64,
+    "end": 2581.64,
+    "cardId": "e88e6b39-bb4d-4d69-8007-d42f31bcbc29",
+    "cardName": "Werewolf Pack Leader",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Werewolf Pack Leader",
+      "manaCost": "{G}{G}",
+      "typeLine": "Creature — Human Werewolf",
+      "oracleText": "Pack tactics — Whenever this creature attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card.\n{3}{G}: Until end of turn, this creature has base power and toughness 5/3, gains trample, and isn't a Human.",
+      "image": "https://cards.scryfall.io/normal/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.jpg?1783926452"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2556.46,
+    "end": 2586.46,
+    "cardId": "068518d2-f061-4061-b208-158e991156b6",
+    "cardName": "Amoeboid Changeling",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Amoeboid Changeling",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Shapeshifter",
+      "oracleText": "Changeling (This card is every creature type.)\n{T}: Target creature gains all creature types until end of turn.\n{T}: Target creature loses all creature types until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/0/6/068518d2-f061-4061-b208-158e991156b6.jpg?1783942906"
+    },
+    "cards": [
+      {
+        "cardId": "068518d2-f061-4061-b208-158e991156b6",
+        "cardName": "Amoeboid Changeling",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Amoeboid Changeling",
+          "manaCost": "{1}{U}",
+          "typeLine": "Creature — Shapeshifter",
+          "oracleText": "Changeling (This card is every creature type.)\n{T}: Target creature gains all creature types until end of turn.\n{T}: Target creature loses all creature types until end of turn.",
+          "image": "https://cards.scryfall.io/normal/front/0/6/068518d2-f061-4061-b208-158e991156b6.jpg?1783942906"
+        }
+      },
+      {
+        "cardId": "f46894d1-2503-43fa-938e-7bbf19101d13",
+        "cardName": "Artificial Evolution",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Artificial Evolution",
+          "manaCost": "{U}",
+          "typeLine": "Instant",
+          "oracleText": "Change the text of target spell or permanent by replacing all instances of one creature type with another. The new creature type can't be Wall. (This effect lasts indefinitely.)",
+          "image": "https://cards.scryfall.io/normal/front/f/4/f46894d1-2503-43fa-938e-7bbf19101d13.jpg?1783945088"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2564.16,
+    "end": 2594.16,
+    "cardId": "e88e6b39-bb4d-4d69-8007-d42f31bcbc29",
+    "cardName": "Werewolf Pack Leader",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Werewolf Pack Leader",
+      "manaCost": "{G}{G}",
+      "typeLine": "Creature — Human Werewolf",
+      "oracleText": "Pack tactics — Whenever this creature attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card.\n{3}{G}: Until end of turn, this creature has base power and toughness 5/3, gains trample, and isn't a Human.",
+      "image": "https://cards.scryfall.io/normal/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.jpg?1783926452"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2788.04,
+    "end": 2818.04,
+    "cardId": "cac5162e-39ea-4f01-92eb-182fe23c1608",
+    "cardName": "Scour",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Scour",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles.",
+      "image": "https://cards.scryfall.io/normal/front/c/a/cac5162e-39ea-4f01-92eb-182fe23c1608.jpg?1783946084"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2818.16,
+    "end": 2848.16,
+    "cardId": "cac5162e-39ea-4f01-92eb-182fe23c1608",
+    "cardName": "Scour",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Scour",
+      "manaCost": "{2}{W}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles.",
+      "image": "https://cards.scryfall.io/normal/front/c/a/cac5162e-39ea-4f01-92eb-182fe23c1608.jpg?1783946084"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2845.08,
+    "end": 2875.08,
+    "cardId": "e4581455-5fa1-4c96-96b3-e9e9654f5a28",
+    "cardName": "Urza, Academy Headmaster",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Urza, Academy Headmaster",
+      "manaCost": "{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Planeswalker — Urza",
+      "oracleText": "+1: Head to AskUrza.com and click +1.\n−1: Head to AskUrza.com and click -1.\n−6: Head to AskUrza.com and click -6.",
+      "image": "https://cards.scryfall.io/normal/front/e/4/e4581455-5fa1-4c96-96b3-e9e9654f5a28.jpg?1783935396"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2850.56,
+    "end": 2880.56,
+    "cardId": "e4581455-5fa1-4c96-96b3-e9e9654f5a28",
+    "cardName": "Urza, Academy Headmaster",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Urza, Academy Headmaster",
+      "manaCost": "{W}{U}{B}{R}{G}",
+      "typeLine": "Legendary Planeswalker — Urza",
+      "oracleText": "+1: Head to AskUrza.com and click +1.\n−1: Head to AskUrza.com and click -1.\n−6: Head to AskUrza.com and click -6.",
+      "image": "https://cards.scryfall.io/normal/front/e/4/e4581455-5fa1-4c96-96b3-e9e9654f5a28.jpg?1783935396"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3001.2,
+    "end": 3031.2,
+    "cardId": "e8dc67a0-05d9-463e-9794-30a7e951c240",
+    "cardName": "Hostage Taker",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hostage Taker",
+      "manaCost": "{2}{U}{B}",
+      "typeLine": "Creature — Human Pirate",
+      "oracleText": "When this creature enters, exile another target creature or artifact until this creature leaves the battlefield. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.",
+      "image": "https://cards.scryfall.io/normal/front/e/8/e8dc67a0-05d9-463e-9794-30a7e951c240.jpg?1783935713"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3014.06,
+    "end": 3044.06,
+    "cardId": "e88e6b39-bb4d-4d69-8007-d42f31bcbc29",
+    "cardName": "Werewolf Pack Leader",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Werewolf Pack Leader",
+      "manaCost": "{G}{G}",
+      "typeLine": "Creature — Human Werewolf",
+      "oracleText": "Pack tactics — Whenever this creature attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card.\n{3}{G}: Until end of turn, this creature has base power and toughness 5/3, gains trample, and isn't a Human.",
+      "image": "https://cards.scryfall.io/normal/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.jpg?1783926452"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3088.56,
+    "end": 3118.56,
+    "cardId": "e88e6b39-bb4d-4d69-8007-d42f31bcbc29",
+    "cardName": "Werewolf Pack Leader",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Werewolf Pack Leader",
+      "manaCost": "{G}{G}",
+      "typeLine": "Creature — Human Werewolf",
+      "oracleText": "Pack tactics — Whenever this creature attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card.\n{3}{G}: Until end of turn, this creature has base power and toughness 5/3, gains trample, and isn't a Human.",
+      "image": "https://cards.scryfall.io/normal/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.jpg?1783926452"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3102.58,
+    "end": 3132.58,
+    "cardId": "e88e6b39-bb4d-4d69-8007-d42f31bcbc29",
+    "cardName": "Werewolf Pack Leader",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Werewolf Pack Leader",
+      "manaCost": "{G}{G}",
+      "typeLine": "Creature — Human Werewolf",
+      "oracleText": "Pack tactics — Whenever this creature attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card.\n{3}{G}: Until end of turn, this creature has base power and toughness 5/3, gains trample, and isn't a Human.",
+      "image": "https://cards.scryfall.io/normal/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.jpg?1783926452"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3182.24,
+    "end": 3212.24,
+    "cardId": "6c05bfb5-dd36-44c5-a60d-43f7f8c68a6b",
+    "cardName": "Cruel Tutor",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Cruel Tutor",
+      "manaCost": "{2}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a card, then shuffle and put that card on top. You lose 2 life.",
+      "image": "https://cards.scryfall.io/normal/front/6/c/6c05bfb5-dd36-44c5-a60d-43f7f8c68a6b.jpg?1783946830"
+    },
+    "cards": [
+      {
+        "cardId": "6c05bfb5-dd36-44c5-a60d-43f7f8c68a6b",
+        "cardName": "Cruel Tutor",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Cruel Tutor",
+          "manaCost": "{2}{B}",
+          "typeLine": "Sorcery",
+          "oracleText": "Search your library for a card, then shuffle and put that card on top. You lose 2 life.",
+          "image": "https://cards.scryfall.io/normal/front/6/c/6c05bfb5-dd36-44c5-a60d-43f7f8c68a6b.jpg?1783946830"
+        }
+      },
+      {
+        "cardId": "d67be074-cdd4-41d9-ac89-0a0456c4e4b2",
+        "cardName": "Sheoldred, the Apocalypse",
+        "confidence": 0.97,
+        "needsReview": false,
+        "card": {
+          "name": "Sheoldred, the Apocalypse",
+          "manaCost": "{2}{B}{B}",
+          "typeLine": "Legendary Creature — Phyrexian Praetor",
+          "oracleText": "Deathtouch\nWhenever you draw a card, you gain 2 life.\nWhenever an opponent draws a card, they lose 2 life.",
+          "image": "https://cards.scryfall.io/normal/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1783921327"
+        }
+      },
+      {
+        "cardId": "3b6e5956-f795-451b-bb24-56462d1ced27",
+        "cardName": "Umezawa's Jitte",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Umezawa's Jitte",
+          "manaCost": "{2}",
+          "typeLine": "Legendary Artifact — Equipment",
+          "oracleText": "Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.\nRemove a charge counter from Umezawa's Jitte: Choose one —\n• Equipped creature gets +2/+2 until end of turn.\n• Target creature gets -1/-1 until end of turn.\n• You gain 2 life.\nEquip {2}",
+          "image": "https://cards.scryfall.io/normal/front/3/b/3b6e5956-f795-451b-bb24-56462d1ced27.jpg?1783944176"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3202,
+    "end": 3232,
+    "cardId": "d67be074-cdd4-41d9-ac89-0a0456c4e4b2",
+    "cardName": "Sheoldred, the Apocalypse",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Sheoldred, the Apocalypse",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Deathtouch\nWhenever you draw a card, you gain 2 life.\nWhenever an opponent draws a card, they lose 2 life.",
+      "image": "https://cards.scryfall.io/normal/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1783921327"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3206.18,
+    "end": 3236.18,
+    "cardId": "d67be074-cdd4-41d9-ac89-0a0456c4e4b2",
+    "cardName": "Sheoldred, the Apocalypse",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Sheoldred, the Apocalypse",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Deathtouch\nWhenever you draw a card, you gain 2 life.\nWhenever an opponent draws a card, they lose 2 life.",
+      "image": "https://cards.scryfall.io/normal/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1783921327"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3208.92,
+    "end": 3238.92,
+    "cardId": "3b6e5956-f795-451b-bb24-56462d1ced27",
+    "cardName": "Umezawa's Jitte",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Umezawa's Jitte",
+      "manaCost": "{2}",
+      "typeLine": "Legendary Artifact — Equipment",
+      "oracleText": "Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.\nRemove a charge counter from Umezawa's Jitte: Choose one —\n• Equipped creature gets +2/+2 until end of turn.\n• Target creature gets -1/-1 until end of turn.\n• You gain 2 life.\nEquip {2}",
+      "image": "https://cards.scryfall.io/normal/front/3/b/3b6e5956-f795-451b-bb24-56462d1ced27.jpg?1783944176"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3214.28,
+    "end": 3244.28,
+    "cardId": "6c05bfb5-dd36-44c5-a60d-43f7f8c68a6b",
+    "cardName": "Cruel Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Cruel Tutor",
+      "manaCost": "{2}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a card, then shuffle and put that card on top. You lose 2 life.",
+      "image": "https://cards.scryfall.io/normal/front/6/c/6c05bfb5-dd36-44c5-a60d-43f7f8c68a6b.jpg?1783946830"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3272.26,
+    "end": 3302.26,
+    "cardId": "d67be074-cdd4-41d9-ac89-0a0456c4e4b2",
+    "cardName": "Sheoldred, the Apocalypse",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Sheoldred, the Apocalypse",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Deathtouch\nWhenever you draw a card, you gain 2 life.\nWhenever an opponent draws a card, they lose 2 life.",
+      "image": "https://cards.scryfall.io/normal/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1783921327"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3336.54,
+    "end": 3366.54,
+    "cardId": "d67be074-cdd4-41d9-ac89-0a0456c4e4b2",
+    "cardName": "Sheoldred, the Apocalypse",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Sheoldred, the Apocalypse",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Deathtouch\nWhenever you draw a card, you gain 2 life.\nWhenever an opponent draws a card, they lose 2 life.",
+      "image": "https://cards.scryfall.io/normal/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1783921327"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3357.1,
+    "end": 3387.1,
+    "cardId": "d67be074-cdd4-41d9-ac89-0a0456c4e4b2",
+    "cardName": "Sheoldred, the Apocalypse",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Sheoldred, the Apocalypse",
+      "manaCost": "{2}{B}{B}",
+      "typeLine": "Legendary Creature — Phyrexian Praetor",
+      "oracleText": "Deathtouch\nWhenever you draw a card, you gain 2 life.\nWhenever an opponent draws a card, they lose 2 life.",
+      "image": "https://cards.scryfall.io/normal/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1783921327"
+    },
+    "cards": [
+      {
+        "cardId": "d67be074-cdd4-41d9-ac89-0a0456c4e4b2",
+        "cardName": "Sheoldred, the Apocalypse",
+        "confidence": 0.97,
+        "needsReview": false,
+        "card": {
+          "name": "Sheoldred, the Apocalypse",
+          "manaCost": "{2}{B}{B}",
+          "typeLine": "Legendary Creature — Phyrexian Praetor",
+          "oracleText": "Deathtouch\nWhenever you draw a card, you gain 2 life.\nWhenever an opponent draws a card, they lose 2 life.",
+          "image": "https://cards.scryfall.io/normal/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1783921327"
+        }
+      },
+      {
+        "cardId": "3b6e5956-f795-451b-bb24-56462d1ced27",
+        "cardName": "Umezawa's Jitte",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Umezawa's Jitte",
+          "manaCost": "{2}",
+          "typeLine": "Legendary Artifact — Equipment",
+          "oracleText": "Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.\nRemove a charge counter from Umezawa's Jitte: Choose one —\n• Equipped creature gets +2/+2 until end of turn.\n• Target creature gets -1/-1 until end of turn.\n• You gain 2 life.\nEquip {2}",
+          "image": "https://cards.scryfall.io/normal/front/3/b/3b6e5956-f795-451b-bb24-56462d1ced27.jpg?1783944176"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3366,
+    "end": 3396,
+    "cardId": "32fd8b7c-baf3-4d3d-be6f-044a917b11a0",
+    "cardName": "Roaming Throne",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Roaming Throne",
+      "manaCost": "{4}",
+      "typeLine": "Artifact Creature — Golem",
+      "oracleText": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time.",
+      "image": "https://cards.scryfall.io/normal/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723"
+    }
+  }
+]

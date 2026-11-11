@@ -7,9 +7,9 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/360-Digging_Your_Own_Grave_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/digging-your-own-grave-self-mill-graveyard-series",
     "artwork": "https://static.libsyn.com/p/assets/a/6/9/a/a69adf85110df21fa04421dee9605cbd/360-Thumbnail_2000x2000.png",
+    "cueSheet": "./data/digging-your-own-grave-self-mill-graveyard-series.cues.json",
     "processed": true,
-    "source": "Legendary Creature Podcast RSS",
-    "cueSheet": "./data/digging-your-own-grave-self-mill-graveyard-series.cues.json"
+    "source": "Legendary Creature Podcast RSS"
   },
   {
     "id": "one-foot-in-the-grave-graveyard-series",
