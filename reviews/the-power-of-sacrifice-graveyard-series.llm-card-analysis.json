@@ -1,0 +1,4287 @@
+{
+  "model": "gpt-6-astra",
+  "title": "The Power of Sacrifice | Graveyard Series",
+  "chunks": 5,
+  "mentions": [
+    {
+      "canonicalName": "Rest in Peace",
+      "spokenText": "rest in peace",
+      "role": "incidental",
+      "startSeconds": 48.5,
+      "evidence": "if somebody plays rest in peace",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rest in Peace",
+      "spokenText": "rest in pieces",
+      "role": "incidental",
+      "startSeconds": 52.9,
+      "evidence": "the battlefield is not relevant when rest in pieces",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hearthhull, the Worldseed",
+      "spokenText": "hearth hole",
+      "role": "incidental",
+      "startSeconds": 219.94,
+      "evidence": "like the hearth hole whatever that thing",
+      "confidence": 0.92,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Korvold, Fae-Cursed King",
+      "spokenText": "corvold",
+      "role": "incidental",
+      "startSeconds": 227.32,
+      "evidence": "corvold is a very infamous example",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Pact",
+      "spokenText": "grave pact",
+      "role": "incidental",
+      "startSeconds": 277.16,
+      "evidence": "something like a grave pact",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dictate of Erebos",
+      "spokenText": "of Erebus",
+      "role": "incidental",
+      "startSeconds": 281.44,
+      "evidence": "of Erebus or",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Elenda, the Dusk Rose",
+      "spokenText": "Lenda",
+      "role": "incidental",
+      "startSeconds": 283.64,
+      "evidence": "Lenda or",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Market",
+      "spokenText": "black market",
+      "role": "incidental",
+      "startSeconds": 284.68,
+      "evidence": "the clunky black market",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Elas il-Kor, Sadistic Pilgrim",
+      "spokenText": "Ilkor guy",
+      "role": "incidental",
+      "startSeconds": 335.86,
+      "evidence": "a legend that does it right from the zone in the Ilkor guy",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zulaport Cutthroat",
+      "spokenText": "Zulaport cutthroat",
+      "role": "incidental",
+      "startSeconds": 348.1,
+      "evidence": "Zulaport cutthroat",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Syr Konrad, the Grim",
+      "spokenText": "Conrad",
+      "role": "incidental",
+      "startSeconds": 354.1,
+      "evidence": "up to five mana, you got motherfucking Conrad",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grim Haruspex",
+      "spokenText": "haru specs",
+      "role": "incidental",
+      "startSeconds": 395.86,
+      "evidence": "haru specs when it came out",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Midnight Reaper",
+      "spokenText": "midnight reaper",
+      "role": "incidental",
+      "startSeconds": 405.14,
+      "evidence": "functional reprint of this with the what is it midnight reaper",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vein Ripper",
+      "spokenText": "vein ripper",
+      "role": "incidental",
+      "startSeconds": 442.34,
+      "evidence": "heavier hitting ones like the vein ripper",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Animate Dead",
+      "spokenText": "Animate Dead",
+      "role": "incidental",
+      "startSeconds": 488.78,
+      "evidence": "Sun Titan, Animate Dead, and a",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sun Titan",
+      "spokenText": "Sun Titan",
+      "role": "incidental",
+      "startSeconds": 488.78,
+      "evidence": "Sun Titan, Animate Dead, and a",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Animate Dead",
+      "spokenText": "Animate Dead",
+      "role": "incidental",
+      "startSeconds": 498.78,
+      "evidence": "Animate Dead is just a universally useful card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blood Artist",
+      "spokenText": "blood artists",
+      "role": "incidental",
+      "startSeconds": 512.5,
+      "evidence": "these blood artists",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zulaport Cutthroat",
+      "spokenText": "cut throats",
+      "role": "incidental",
+      "startSeconds": 516.82,
+      "evidence": "cut throats and the ... cards that people want gone",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Necromancy",
+      "spokenText": "necromancy",
+      "role": "incidental",
+      "startSeconds": 528.66,
+      "evidence": "it's not even the only one the necromancy",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dance of the Dead",
+      "spokenText": "dance of the dead",
+      "role": "incidental",
+      "startSeconds": 533.88,
+      "evidence": "dance of the dead i think",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gift of Immortality",
+      "spokenText": "gift of immortality",
+      "role": "incidental",
+      "startSeconds": 538.58,
+      "evidence": "gift of immortality i think immortality will do it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gift of Immortality",
+      "spokenText": "gift of immortality",
+      "role": "incidental",
+      "startSeconds": 544.42,
+      "evidence": "gift of immortality is just useful",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kaya's Ghostform",
+      "spokenText": "kaya's ghost form",
+      "role": "incidental",
+      "startSeconds": 549.38,
+      "evidence": "kaya's ghost form is another one",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Krark-Clan Ironworks",
+      "spokenText": "KCI",
+      "role": "incidental",
+      "startSeconds": 565.06,
+      "evidence": "Nym Death Mantle, a Worm Coil Engine, and a KCI",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nim Deathmantle",
+      "spokenText": "Nym Death Mantle",
+      "role": "incidental",
+      "startSeconds": 565.06,
+      "evidence": "Nym Death Mantle, a Worm Coil Engine, and a KCI",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wurmcoil Engine",
+      "spokenText": "Worm Coil Engine",
+      "role": "incidental",
+      "startSeconds": 565.06,
+      "evidence": "Nym Death Mantle, a Worm Coil Engine, and a KCI",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nim Deathmantle",
+      "spokenText": "Nym Death Mantle",
+      "role": "incidental",
+      "startSeconds": 570.38,
+      "evidence": "The number of Nym Death Mantle combo creatures",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Warstorm Surge",
+      "spokenText": "War Storm Surge",
+      "role": "incidental",
+      "startSeconds": 577.6,
+      "evidence": "something like War Storm Surge",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Titan",
+      "spokenText": "grave titan",
+      "role": "incidental",
+      "startSeconds": 597.36,
+      "evidence": "grave titan and worm coil engine were the nim death mantle creatures",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nim Deathmantle",
+      "spokenText": "nim death mantle",
+      "role": "incidental",
+      "startSeconds": 597.36,
+      "evidence": "grave titan and worm coil engine were the nim death mantle creatures",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wurmcoil Engine",
+      "spokenText": "worm coil engine",
+      "role": "incidental",
+      "startSeconds": 597.36,
+      "evidence": "grave titan and worm coil engine were the nim death mantle creatures",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Threefold Thunderhulk",
+      "spokenText": "threefold thunder hulk",
+      "role": "incidental",
+      "startSeconds": 603.2,
+      "evidence": "there's the threefold thunder hulk",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Chittering Witch",
+      "spokenText": "chittering witch",
+      "role": "incidental",
+      "startSeconds": 608.42,
+      "evidence": "the triplicate titan the chittering witch",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Triplicate Titan",
+      "spokenText": "triplicate titan",
+      "role": "incidental",
+      "startSeconds": 608.42,
+      "evidence": "the triplicate titan the chittering witch",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nim Deathmantle",
+      "spokenText": "nym death mantle",
+      "role": "incidental",
+      "startSeconds": 618.88,
+      "evidence": "tokens with it and a nym death mantle",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords to plowshares",
+      "role": "incidental",
+      "startSeconds": 648.88,
+      "evidence": "people want to use their swords to plowshares",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "High Market",
+      "spokenText": "high market",
+      "role": "incidental",
+      "startSeconds": 652.18,
+      "evidence": "You've got your high market sitting in the back",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lazotep Quarry",
+      "spokenText": "lazatep quarry",
+      "role": "incidental",
+      "startSeconds": 656.8,
+      "evidence": "lazatep quarry in the back",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Viscera Seer",
+      "spokenText": "viscerous seer",
+      "role": "incidental",
+      "startSeconds": 674.34,
+      "evidence": "viscerous seer that everybody's running",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords",
+      "role": "incidental",
+      "startSeconds": 692.82,
+      "evidence": "my swords and they're like i'm gonna sack out of the way",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Slobad, Goblin Tinkerer",
+      "spokenText": "slow bad",
+      "role": "incidental",
+      "startSeconds": 714.16,
+      "evidence": "i made a slow bad list the two mana",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zuran Orb",
+      "spokenText": "Zuran orb",
+      "role": "incidental",
+      "startSeconds": 753.08,
+      "evidence": "this is a Zuran orb in a landfall deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zuran Orb",
+      "spokenText": "Zoran Orb",
+      "role": "incidental",
+      "startSeconds": 762.68,
+      "evidence": "sack it all to Zoran Orb",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "Scape shift",
+      "role": "incidental",
+      "startSeconds": 772.2,
+      "evidence": "Scape shift",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "Scape shift",
+      "role": "incidental",
+      "startSeconds": 773.22,
+      "evidence": "Scape shift is crazy",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scapeshift",
+      "spokenText": "scape shift",
+      "role": "incidental",
+      "startSeconds": 778.9,
+      "evidence": "To cast a scape shift",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eternal Witness",
+      "spokenText": "eternal witness",
+      "role": "incidental",
+      "startSeconds": 788.9,
+      "evidence": "Throw in an eternal witness",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zuran Orb",
+      "spokenText": "zuran orb",
+      "role": "incidental",
+      "startSeconds": 791.1,
+      "evidence": "zuran orb move whatever",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Titania, Protector of Argoth",
+      "spokenText": "titania",
+      "role": "incidental",
+      "startSeconds": 796.58,
+      "evidence": "it's the titania oh she makes a what is it a five three",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Savra, Queen of the Golgari",
+      "spokenText": "Savra queen of the Golgari",
+      "role": "incidental",
+      "startSeconds": 875.58,
+      "evidence": "decks that use sacrifice outlets was Savra queen of the Golgari",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Chancellor of the Dross",
+      "spokenText": "Chancellor of the Dross",
+      "role": "incidental",
+      "startSeconds": 928,
+      "evidence": "had the Chancellor of the Dross",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cartel Aristocrat",
+      "spokenText": "cartel aristocrat",
+      "role": "incidental",
+      "startSeconds": 1009.08,
+      "evidence": "I only played with the what is it the cartel aristocrat",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Falkenrath Aristocrat",
+      "spokenText": "falcon wrath aristocrat",
+      "role": "incidental",
+      "startSeconds": 1012.16,
+      "evidence": "and the falcon wrath aristocrat",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Geralf's Messenger",
+      "spokenText": "jerolf's messenger",
+      "role": "incidental",
+      "startSeconds": 1029.44,
+      "evidence": "attacking with the grave crawler and jerolf's messenger",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gravecrawler",
+      "spokenText": "grave crawler",
+      "role": "incidental",
+      "startSeconds": 1029.44,
+      "evidence": "attacking with the grave crawler and jerolf's messenger",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blood Artist",
+      "spokenText": "blood artist",
+      "role": "incidental",
+      "startSeconds": 1033.6,
+      "evidence": "blood artist is sitting here waiting",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Viscera Seer",
+      "spokenText": "Viserys here",
+      "role": "incidental",
+      "startSeconds": 1086.86,
+      "evidence": "like a Viserys here that existed",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "Ashnod's altar",
+      "role": "incidental",
+      "startSeconds": 1088.88,
+      "evidence": "Ashnod's altar that existed",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Altar",
+      "spokenText": "Phyrexian altar",
+      "role": "incidental",
+      "startSeconds": 1090.68,
+      "evidence": "Phyrexian altar that existed",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yahenni, Undying Partisan",
+      "spokenText": "Henny",
+      "role": "incidental",
+      "startSeconds": 1094.48,
+      "evidence": "the wealth of pre Henny",
+      "confidence": 0.89,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yawgmoth, Thran Physician",
+      "spokenText": "Yawgmoth",
+      "role": "incidental",
+      "startSeconds": 1098.3,
+      "evidence": "Definitely pre Yawgmoth",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Pact",
+      "spokenText": "grave packed",
+      "role": "incidental",
+      "startSeconds": 1149.08,
+      "evidence": "he like looped in a grave packed into that",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dictate of Erebos",
+      "spokenText": "dictated",
+      "role": "incidental",
+      "startSeconds": 1154.9,
+      "evidence": "Like dictated was out at that point",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Shere, Shizo's caretaker",
+      "role": "incidental",
+      "startSeconds": 1245.22,
+      "evidence": "about Shere, Shizo's caretaker",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Shere, Shizo's caretaker",
+      "role": "incidental",
+      "startSeconds": 1270.62,
+      "evidence": "if Shere, Shizo's caretaker, is still on the battlefield",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zur the Enchanter",
+      "spokenText": "Xur",
+      "role": "incidental",
+      "startSeconds": 1275.22,
+      "evidence": "competing against like Xur",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Animar, Soul of Elements",
+      "spokenText": "Animar",
+      "role": "incidental",
+      "startSeconds": 1283.4,
+      "evidence": "Animar is already kind of starting to show teeth",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kaalia of the Vast",
+      "spokenText": "Kalia the Vast",
+      "role": "incidental",
+      "startSeconds": 1286.1,
+      "evidence": "Kalia the Vast, like these kind of things are happening",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sheree",
+      "role": "incidental",
+      "startSeconds": 1305.68,
+      "evidence": "Sheree will really put people's removal to the test",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sheree",
+      "role": "incidental",
+      "startSeconds": 1350.72,
+      "evidence": "everybody will be scrambling to kill Sheree",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sheree",
+      "role": "incidental",
+      "startSeconds": 1354.14,
+      "evidence": "if that pilot hasn't built protection for Sheree",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Shiree",
+      "role": "incidental",
+      "startSeconds": 1363,
+      "evidence": "sacking Shiree in response",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Buried Alive",
+      "spokenText": "Buried Alive",
+      "role": "incidental",
+      "startSeconds": 1366.34,
+      "evidence": "and casting Buried Alive",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dread Return",
+      "spokenText": "Dread Return",
+      "role": "incidental",
+      "startSeconds": 1370.18,
+      "evidence": "or Dread Return",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Shiree",
+      "role": "incidental",
+      "startSeconds": 1378.5,
+      "evidence": "with Shiree",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "sheree",
+      "role": "incidental",
+      "startSeconds": 1389.68,
+      "evidence": "sheree has a little bit of distinctiveness to it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blood Artist",
+      "spokenText": "blood artist",
+      "role": "incidental",
+      "startSeconds": 1420.38,
+      "evidence": "like blood artist",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brago, King Eternal",
+      "spokenText": "Brago",
+      "role": "incidental",
+      "startSeconds": 1435.7,
+      "evidence": "a mass blink deck like Brago",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sharae",
+      "role": "incidental",
+      "startSeconds": 1435.7,
+      "evidence": "Sharae has the quality of a mass blink deck like Brago",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fleshbag Marauder",
+      "spokenText": "flesh bag marauder",
+      "role": "incidental",
+      "startSeconds": 1448.26,
+      "evidence": "you've got a flesh bag marauder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "charade",
+      "role": "incidental",
+      "startSeconds": 1451.3,
+      "evidence": "sack into the charade zone",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Brago, King Eternal",
+      "spokenText": "brago",
+      "role": "incidental",
+      "startSeconds": 1463.8,
+      "evidence": "like a brago or a yorian deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yorion, Sky Nomad",
+      "spokenText": "yorian",
+      "role": "incidental",
+      "startSeconds": 1463.8,
+      "evidence": "like a brago or a yorian deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "charade",
+      "role": "incidental",
+      "startSeconds": 1485.4,
+      "evidence": "does it meet the charade test",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bone Shredder",
+      "spokenText": "bone shredder",
+      "role": "incidental",
+      "startSeconds": 1502.84,
+      "evidence": "like the bone shredder i think was one",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fleshbag Marauder",
+      "spokenText": "flesh bag",
+      "role": "incidental",
+      "startSeconds": 1508.2,
+      "evidence": "the flesh bag might not be the right power",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "charade",
+      "role": "incidental",
+      "startSeconds": 1513.52,
+      "evidence": "then there's charade compliant",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skullclamp",
+      "spokenText": "clamp",
+      "role": "incidental",
+      "startSeconds": 1513.52,
+      "evidence": "there's clamp compliant creatures",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skullclamp",
+      "spokenText": "skull",
+      "role": "incidental",
+      "startSeconds": 1517.2,
+      "evidence": "a one five ... i'll never be able to skull",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sheree",
+      "role": "incidental",
+      "startSeconds": 1525.08,
+      "evidence": "the group has had interaction with Sheree",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bottle Gnomes",
+      "spokenText": "Bottle Gnomes",
+      "role": "incidental",
+      "startSeconds": 1530.1,
+      "evidence": "a card like Bottle Gnomes has become notorious",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Savra, Queen of the Golgari",
+      "spokenText": "Savra",
+      "role": "incidental",
+      "startSeconds": 1538.2,
+      "evidence": "facilitated by the SAC outlet, as was Savra",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sheree",
+      "role": "incidental",
+      "startSeconds": 1545.82,
+      "evidence": "he can block with Sheree",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Seedborn Muse",
+      "spokenText": "Seedborn Muse",
+      "role": "incidental",
+      "startSeconds": 1553.08,
+      "evidence": "like a Seedborn Muse style thing in black",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sheree",
+      "role": "incidental",
+      "startSeconds": 1579.68,
+      "evidence": "we're so desperately trying to kill Sheree",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Daretti, Scrap Savant",
+      "spokenText": "duretti",
+      "role": "incidental",
+      "startSeconds": 1587.98,
+      "evidence": "i had gotten the duretti pre-con",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Daretti, Scrap Savant",
+      "spokenText": "duretti",
+      "role": "incidental",
+      "startSeconds": 1595.86,
+      "evidence": "the duretti has a bit of a sack outlet in the command zone",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "charades",
+      "role": "incidental",
+      "startSeconds": 1622.06,
+      "evidence": "that basically charades your artifacts",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "charade",
+      "role": "incidental",
+      "startSeconds": 1630.16,
+      "evidence": "under the extreme limitations of charade",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Daretti, Scrap Savant",
+      "spokenText": "durety",
+      "role": "incidental",
+      "startSeconds": 1647.26,
+      "evidence": "so i played that durety",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Smokestack",
+      "spokenText": "smokestack",
+      "role": "incidental",
+      "startSeconds": 1676.62,
+      "evidence": "I'm just like smokestack",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Winter Orb",
+      "spokenText": "winter orb",
+      "role": "incidental",
+      "startSeconds": 1683.36,
+      "evidence": "winter orb ... I could play around them",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Goblin Welder",
+      "spokenText": "goblin welder",
+      "role": "incidental",
+      "startSeconds": 1696.4,
+      "evidence": "goblin welder that came in the 99",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arcbound Ravager",
+      "spokenText": "arc bound welder or arc bound ravager",
+      "role": "incidental",
+      "startSeconds": 1731.02,
+      "evidence": "arc bound welder or arc bound ravager to sack everything",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scrap Mastery",
+      "spokenText": "scrap mastery",
+      "role": "incidental",
+      "startSeconds": 1743.38,
+      "evidence": "scrap mastery it all back into play",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Living Death",
+      "spokenText": "living death",
+      "role": "incidental",
+      "startSeconds": 1751.8,
+      "evidence": "living death is also insane",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teysa, Orzhov Scion",
+      "spokenText": "OG Taysa",
+      "role": "incidental",
+      "startSeconds": 1765.16,
+      "evidence": "I did the OG Taysa for a second",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darkest Hour",
+      "spokenText": "darkest hour",
+      "role": "incidental",
+      "startSeconds": 1779.88,
+      "evidence": "he used the darkest hour enchant to switch the color typing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Juri, Master of the Revue",
+      "spokenText": "jury master of the review",
+      "role": "incidental",
+      "startSeconds": 1810.24,
+      "evidence": "you've got jury master of the review over here",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Karador, Ghost Chieftain",
+      "spokenText": "carador",
+      "role": "incidental",
+      "startSeconds": 1836.08,
+      "evidence": "one of her early decks was uh carador",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Karador, Ghost Chieftain",
+      "spokenText": "caratter",
+      "role": "incidental",
+      "startSeconds": 1844.16,
+      "evidence": "mispronounced as caratter",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sakura-Tribe Elder",
+      "spokenText": "sakura tribe elder",
+      "role": "incidental",
+      "startSeconds": 1856.82,
+      "evidence": "was the sakura tribe elder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gift of Immortality",
+      "spokenText": "gift of immortality",
+      "role": "incidental",
+      "startSeconds": 1861.78,
+      "evidence": "with that gift of immortality",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Animate Dead",
+      "spokenText": "animate dead",
+      "role": "incidental",
+      "startSeconds": 1877.2,
+      "evidence": "sun titan animate dead sack outlet combo",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sun Titan",
+      "spokenText": "sun titan",
+      "role": "incidental",
+      "startSeconds": 1877.2,
+      "evidence": "like the sun titan animate dead sack outlet combo",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bojuka Bog",
+      "spokenText": "bajookabog",
+      "role": "incidental",
+      "startSeconds": 1902.36,
+      "evidence": "we've got to do more than a bajookabog",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tormod's Crypt",
+      "spokenText": "Tormod's Crypt",
+      "role": "incidental",
+      "startSeconds": 1906.24,
+      "evidence": "Tormod's Crypt has been around for a while",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Relic of Progenitus",
+      "spokenText": "Relic of Progenitus",
+      "role": "incidental",
+      "startSeconds": 1912.54,
+      "evidence": "Relic of Progenitus.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scavenger Grounds",
+      "spokenText": "Scavenger Grounds",
+      "role": "incidental",
+      "startSeconds": 1915.94,
+      "evidence": "Scavenger Grounds, our favorite is",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul-Guide Lantern",
+      "spokenText": "Soulguide Lantern",
+      "role": "incidental",
+      "startSeconds": 1918,
+      "evidence": "Soulguide Lantern. There's a lot now.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Meren of Clan Nel Toth",
+      "spokenText": "Maren, Clan of Niltoth",
+      "role": "incidental",
+      "startSeconds": 1925.74,
+      "evidence": "Maren, Clan of Niltoth.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lord Windgrace",
+      "spokenText": "Lord Windgrace",
+      "role": "incidental",
+      "startSeconds": 1952.4,
+      "evidence": "Tiffany was doing Lord Windgrace as well",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Terramorphic Expanse",
+      "spokenText": "Terramorphic Expanse",
+      "role": "incidental",
+      "startSeconds": 1964.18,
+      "evidence": "Terramorphic Expanse ... put them in tapped",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teshar, Ancestor's Apostle",
+      "spokenText": "Tishar, Ancestor's Apostle",
+      "role": "incidental",
+      "startSeconds": 1974.88,
+      "evidence": "my Tishar, Ancestor's Apostle",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Junk Diver",
+      "spokenText": "Junk Divers",
+      "role": "incidental",
+      "startSeconds": 1982.78,
+      "evidence": "Divers, like Junk Divers.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Junk Diver",
+      "spokenText": "Junk Divers",
+      "role": "incidental",
+      "startSeconds": 1983.88,
+      "evidence": "Using Junk Divers to bring things back.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shimmer Myr",
+      "spokenText": "Shimmer Mirror",
+      "role": "incidental",
+      "startSeconds": 2003.84,
+      "evidence": "if you had Shimmer Mirror",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Elenda, the Dusk Rose",
+      "spokenText": "Elenda",
+      "role": "incidental",
+      "startSeconds": 2012.24,
+      "evidence": "a huge component of Tiff's Elenda deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fleshbag Marauder",
+      "spokenText": "flesh bag marauder",
+      "role": "incidental",
+      "startSeconds": 2032.5,
+      "evidence": "like the flesh bag marauder that we love so much",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "ash nod alter",
+      "role": "incidental",
+      "startSeconds": 2078.24,
+      "evidence": "use some kind of ash nod alter style combo",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Krosan Grip",
+      "spokenText": "cross and grip",
+      "role": "incidental",
+      "startSeconds": 2086.26,
+      "evidence": "stuff like cross and grip",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wipe Away",
+      "spokenText": "wipe away",
+      "role": "incidental",
+      "startSeconds": 2092.5,
+      "evidence": "wipe away and split second responses",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "Ashnod's altar",
+      "role": "incidental",
+      "startSeconds": 2096.94,
+      "evidence": "Ashnod's altar was a mana ability",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "Ashnod's altar",
+      "role": "incidental",
+      "startSeconds": 2109.32,
+      "evidence": "but Ashnod's altar and the minute it resolves",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "astronauts altar",
+      "role": "incidental",
+      "startSeconds": 2127.76,
+      "evidence": "I'm about to cast astronauts altar.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reassembling Skeleton",
+      "spokenText": "reassembling skeleton",
+      "role": "incidental",
+      "startSeconds": 2173.34,
+      "evidence": "like the reassembling skeleton where it just doesn't stay dead",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gonti, Lord of Luxury",
+      "spokenText": "Gaunti",
+      "role": "incidental",
+      "startSeconds": 2180.38,
+      "evidence": "at one point with my Gaunti deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cloudstone Curio",
+      "spokenText": "Cloudstone Curio",
+      "role": "incidental",
+      "startSeconds": 2188.24,
+      "evidence": "I had like a Cloudstone Curio",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reassembling Skeleton",
+      "spokenText": "Reassembling Skeleton",
+      "role": "incidental",
+      "startSeconds": 2191.88,
+      "evidence": "and a Reassembling Skeleton",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reassembling Skeleton",
+      "spokenText": "Skeleton",
+      "role": "incidental",
+      "startSeconds": 2194.72,
+      "evidence": "I'm moving the Skeleton to Graveyard",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cloudstone Curio",
+      "spokenText": "Cloudstone Curio",
+      "role": "incidental",
+      "startSeconds": 2200.08,
+      "evidence": "that pushes the Cloudstone Curio",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gonti, Lord of Luxury",
+      "spokenText": "Gaunti",
+      "role": "incidental",
+      "startSeconds": 2203.54,
+      "evidence": "to pull Gaunti back to my hand",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gonti, Lord of Luxury",
+      "spokenText": "Gaunti",
+      "role": "incidental",
+      "startSeconds": 2205.18,
+      "evidence": "so I could recast Gaunti",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Pact",
+      "spokenText": "grave packed",
+      "role": "incidental",
+      "startSeconds": 2225.76,
+      "evidence": "put grave packed into this engine",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Glissa, the Traitor",
+      "spokenText": "glissa",
+      "role": "incidental",
+      "startSeconds": 2257.62,
+      "evidence": "what's glissa dude",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Glissa, the Traitor",
+      "spokenText": "glissa",
+      "role": "incidental",
+      "startSeconds": 2270.38,
+      "evidence": "like glissa attrition and an artifact creature",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Attrition",
+      "spokenText": "attrition",
+      "role": "incidental",
+      "startSeconds": 2275.46,
+      "evidence": "attrition and an artifact creature is like good night",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Executioner's Capsule",
+      "spokenText": "executioner capsules",
+      "role": "incidental",
+      "startSeconds": 2280.9,
+      "evidence": "all of your creatures are executioner capsules",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Teysa Karlov",
+      "spokenText": "tasa karloff",
+      "role": "incidental",
+      "startSeconds": 2286.48,
+      "evidence": "brad and i both did a run with tasa karloff",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doomed Traveler",
+      "spokenText": "doomed traveler",
+      "role": "incidental",
+      "startSeconds": 2291.92,
+      "evidence": "doomed traveler leave tokens behind build",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "Ashnod",
+      "role": "incidental",
+      "startSeconds": 2305.96,
+      "evidence": "I get KCI now on top of, on top of Ashnod",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Krark-Clan Ironworks",
+      "spokenText": "KCI",
+      "role": "incidental",
+      "startSeconds": 2305.96,
+      "evidence": "I get KCI now on top of, on top of Ashnod",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "Ashnod's altar",
+      "role": "incidental",
+      "startSeconds": 2309.28,
+      "evidence": "I got Phyrexian altar, Ashnod's altar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Altar",
+      "spokenText": "Phyrexian altar",
+      "role": "incidental",
+      "startSeconds": 2309.28,
+      "evidence": "I got Phyrexian altar, Ashnod's altar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Krark-Clan Ironworks",
+      "spokenText": "a second iron works",
+      "role": "incidental",
+      "startSeconds": 2317.22,
+      "evidence": "I totally get a second iron works as the third version",
+      "confidence": 0.92,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fleshbag Marauder",
+      "spokenText": "flesh bag marauder",
+      "role": "incidental",
+      "startSeconds": 2330.38,
+      "evidence": "flesh bag marauder sure it kills ... your opponent's stuff",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fleshbag Marauder",
+      "spokenText": "flesh bag marauder",
+      "role": "incidental",
+      "startSeconds": 2339.32,
+      "evidence": "i'm gonna flesh bag marauder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fleshbag Marauder",
+      "spokenText": "flesh bag marauder",
+      "role": "incidental",
+      "startSeconds": 2343.32,
+      "evidence": "instead of sacrificing the flesh bag marauder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Massacre Girl",
+      "spokenText": "massacre girl",
+      "role": "incidental",
+      "startSeconds": 2343.32,
+      "evidence": "i'm gonna sacrifice uh i don't know massacre girl",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fleshbag Marauder",
+      "spokenText": "flesh bag",
+      "role": "incidental",
+      "startSeconds": 2354.84,
+      "evidence": "I'm not going to sack my flesh bag",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fleshbag Marauder",
+      "spokenText": "flesh bag",
+      "role": "incidental",
+      "startSeconds": 2362.08,
+      "evidence": "do something else with the flesh bag again",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Corrupted Conviction",
+      "spokenText": "corrupted conviction",
+      "role": "incidental",
+      "startSeconds": 2374.64,
+      "evidence": "village rights, corrupted conviction",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Village Rites",
+      "spokenText": "village rights",
+      "role": "incidental",
+      "startSeconds": 2374.64,
+      "evidence": "I look at village rights, corrupted conviction",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Oubliette",
+      "spokenText": "oubliette",
+      "role": "incidental",
+      "startSeconds": 2385.06,
+      "evidence": "or God forbid an oubliette",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "swords to plowshares",
+      "role": "incidental",
+      "startSeconds": 2385.06,
+      "evidence": "the farthest people go is swords to plowshares",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Elas il-Kor, Sadistic Pilgrim",
+      "spokenText": "Elias Elkord",
+      "role": "incidental",
+      "startSeconds": 2485.3,
+      "evidence": "Elias Elkord deck",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plumb the Forbidden",
+      "spokenText": "forbidden",
+      "role": "incidental",
+      "startSeconds": 2527.26,
+      "evidence": "forbidden just drop them just push push them out",
+      "confidence": 0.83,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ascend from Avernus",
+      "spokenText": "ascend from a furnace",
+      "role": "incidental",
+      "startSeconds": 2589,
+      "evidence": "ascend from a furnace and things like that into the deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sun Titan",
+      "spokenText": "sun Titan",
+      "role": "incidental",
+      "startSeconds": 2596.52,
+      "evidence": "there's cheap infinites like sun Titan is a cheap card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Animate Dead",
+      "spokenText": "animate dead",
+      "role": "incidental",
+      "startSeconds": 2599.34,
+      "evidence": "I'm not thinking animate dead's a very expensive card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yawgmoth, Thran Physician",
+      "spokenText": "yawgmoth",
+      "role": "incidental",
+      "startSeconds": 2623.54,
+      "evidence": "yawgmoth is an infamous card ... a very powerful black card",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Athreos, God of Passage",
+      "spokenText": "athrio",
+      "role": "incidental",
+      "startSeconds": 2872.38,
+      "evidence": "that goofy athrio stick that i've had for a while",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Tower",
+      "spokenText": "phyrexian tower",
+      "role": "incidental",
+      "startSeconds": 2960.12,
+      "evidence": "an expensive card would be phyrexian tower",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "High Market",
+      "spokenText": "high market",
+      "role": "incidental",
+      "startSeconds": 2985.58,
+      "evidence": "high market is really good",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lazotep Quarry",
+      "spokenText": "lazatep quarry",
+      "role": "incidental",
+      "startSeconds": 2985.58,
+      "evidence": "so is lazatep quarry",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Tower",
+      "spokenText": "phyrexian tower",
+      "role": "incidental",
+      "startSeconds": 2993.3,
+      "evidence": "sack outlet lands yeah next to phyrexian tower",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Viscera Seer",
+      "spokenText": "viscerous seer",
+      "role": "incidental",
+      "startSeconds": 3041.68,
+      "evidence": "viscerous seer is not an expensive card",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sudden Spoiling",
+      "spokenText": "sudden spoiling",
+      "role": "incidental",
+      "startSeconds": 3142.54,
+      "evidence": "sudden spoiling was like the fucking card to have",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sudden Spoiling",
+      "spokenText": "sudden spoiling",
+      "role": "incidental",
+      "startSeconds": 3147.74,
+      "evidence": "you got to have sudden spoiling in our meta",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wipe Away",
+      "spokenText": "wipe away",
+      "role": "incidental",
+      "startSeconds": 3151.76,
+      "evidence": "the wipe away to just push it back to their hand",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Krosan Grip",
+      "spokenText": "close and grip",
+      "role": "incidental",
+      "startSeconds": 3162.38,
+      "evidence": "it's gonna resolve close and grip",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sudden Death",
+      "spokenText": "sudden death",
+      "role": "incidental",
+      "startSeconds": 3167.08,
+      "evidence": "Brad was using sudden death",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ruthless Technomancer",
+      "spokenText": "Ruthless Technomancer",
+      "role": "incidental",
+      "startSeconds": 3228.98,
+      "evidence": "loves is something called the Ruthless Technomancer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Disciple of Bolas",
+      "spokenText": "Disciple of Bolas",
+      "role": "incidental",
+      "startSeconds": 3276.14,
+      "evidence": "Disciple of Bolas is another one.",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ruthless Technomancer",
+      "spokenText": "ruthless Technomancer",
+      "role": "incidental",
+      "startSeconds": 3297.68,
+      "evidence": "in the case of that ruthless Technomancer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blasting Station",
+      "spokenText": "blasting station",
+      "role": "incidental",
+      "startSeconds": 3311.5,
+      "evidence": "ones that i've often favored is the blasting station",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blasting Station",
+      "spokenText": "blasting station",
+      "role": "incidental",
+      "startSeconds": 3333.66,
+      "evidence": "the blasting station ... work that into infinite combos",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grinding Station",
+      "spokenText": "grinding one",
+      "role": "incidental",
+      "startSeconds": 3333.66,
+      "evidence": "the grinding one that does the artifacts",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Altar of Dementia",
+      "spokenText": "altar of dementia",
+      "role": "incidental",
+      "startSeconds": 3361.48,
+      "evidence": "altar of dementia like you can mill and fill your yard",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Spawning Pit",
+      "spokenText": "spawning pit",
+      "role": "incidental",
+      "startSeconds": 3361.48,
+      "evidence": "but yeah spawning pit",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soldevi Adnate",
+      "spokenText": "so devy adnate",
+      "role": "incidental",
+      "startSeconds": 3378.06,
+      "evidence": "so so devy adnate like oh yeah there's so many",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mind Slash",
+      "spokenText": "mind slash",
+      "role": "incidental",
+      "startSeconds": 3396.06,
+      "evidence": "mind slash dude that that's right",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stronghold Assassin",
+      "spokenText": "Stronghold Assassin",
+      "role": "incidental",
+      "startSeconds": 3469.72,
+      "evidence": "there's the Stronghold Assassin",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Attrition",
+      "spokenText": "attrition",
+      "role": "incidental",
+      "startSeconds": 3472.48,
+      "evidence": "that basically acts like an attrition",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hagra Diabolist",
+      "spokenText": "haggra mauling",
+      "role": "incidental",
+      "startSeconds": 3497.76,
+      "evidence": "supports an mdfc like haggra mauling",
+      "confidence": 0.99,
+      "modelName": "Hagra Mauling",
+      "catalogueConfidence": 0.825
+    },
+    {
+      "canonicalName": "Sadistic Hypnotist",
+      "spokenText": "sadistic hypnotist",
+      "role": "incidental",
+      "startSeconds": 3503.64,
+      "evidence": "it's the sadistic hypnotist there we go",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sadistic Hypnotist",
+      "spokenText": "sadistic hypnotist",
+      "role": "incidental",
+      "startSeconds": 3508.7,
+      "evidence": "yeah sadistic hypnotist",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mindslicer",
+      "spokenText": "wine slicer",
+      "role": "incidental",
+      "startSeconds": 3540.52,
+      "evidence": "sack outlet and a fucking wine slicer",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sadistic Hypnotist",
+      "spokenText": "hypnotist",
+      "role": "incidental",
+      "startSeconds": 3560.12,
+      "evidence": "hypnotist",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sidisi, Brood Tyrant",
+      "spokenText": "Sidisi",
+      "role": "incidental",
+      "startSeconds": 3590.56,
+      "evidence": "like the Sidisi deck",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sidisi, Brood Tyrant",
+      "spokenText": "Sidisi",
+      "role": "incidental",
+      "startSeconds": 3596.7,
+      "evidence": "with the Sidisi deck in the last episode",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Living Death",
+      "spokenText": "living death",
+      "role": "incidental",
+      "startSeconds": 3598.52,
+      "evidence": "living death would be really fucking good here",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ravenous Chupacabra",
+      "spokenText": "Ravenous Chupacabra",
+      "role": "incidental",
+      "startSeconds": 3659.1,
+      "evidence": "Ravenous Chupacabra only targets",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn Angel of Horror",
+      "role": "incidental",
+      "startSeconds": 3676.42,
+      "evidence": "It's Avacyn Angel of Horror",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 3682.82,
+      "evidence": "Whenever Avacyn or another",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sheree",
+      "role": "incidental",
+      "startSeconds": 3714.22,
+      "evidence": "It's everything that Sheree had",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sheree",
+      "role": "incidental",
+      "startSeconds": 3718.66,
+      "evidence": "So like Sheree",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sheree",
+      "role": "incidental",
+      "startSeconds": 3725.44,
+      "evidence": "Sheree was just a",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 3726.82,
+      "evidence": "Whenever Avacyn or another",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sheree",
+      "role": "incidental",
+      "startSeconds": 3728.62,
+      "evidence": "Sheree was only a two-two",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swords to Plowshares",
+      "spokenText": "to plowshares",
+      "role": "incidental",
+      "startSeconds": 3770.54,
+      "evidence": "to plowshares it",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 3796.26,
+      "evidence": "there's no soul ring in this deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Soul Ring",
+      "role": "incidental",
+      "startSeconds": 3798.5,
+      "evidence": "I can't sack anything with Soul Ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scorn-Blade Berserker",
+      "spokenText": "Scornblade Berserker",
+      "role": "incidental",
+      "startSeconds": 3810.34,
+      "evidence": "Scornblade Berserker, right?",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 3821.58,
+      "evidence": "So Avacyn has this ability",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 3824.02,
+      "evidence": "you could attack with Avacyn",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scorn-Blade Berserker",
+      "spokenText": "Scornblade Berserker",
+      "role": "incidental",
+      "startSeconds": 3829.24,
+      "evidence": "Scornblade Berserker. You give",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 3830.62,
+      "evidence": "Avacyn the backup",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Plumb the Forbidden",
+      "spokenText": "Plum the Forbidden",
+      "role": "incidental",
+      "startSeconds": 3852.84,
+      "evidence": "Plum the Forbidden. We already talked about this",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Priest of Forgotten Gods",
+      "spokenText": "Priest of the Forgotten Gods",
+      "role": "incidental",
+      "startSeconds": 3871.16,
+      "evidence": "Priest of the Forgotten Gods",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Phyrexian Altar",
+      "spokenText": "Phyrexian altar",
+      "role": "incidental",
+      "startSeconds": 3886.34,
+      "evidence": "the Phyrexian altar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Vampire Gourmand",
+      "spokenText": "Vampire Gourmand",
+      "role": "incidental",
+      "startSeconds": 3895.82,
+      "evidence": "Vampire Gourmand",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 3911.8,
+      "evidence": "Avacyn resets, or creature resets",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ayara, First of Locthwain",
+      "spokenText": "Ayara first of Locked Wayne",
+      "role": "incidental",
+      "startSeconds": 3914.54,
+      "evidence": "Ayara first of Locked Wayne",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ayara, First of Locthwain",
+      "spokenText": "Ayara",
+      "role": "incidental",
+      "startSeconds": 3939.3,
+      "evidence": "Whenever Ayara, so she even sees herself",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shirei, Shizo's Caretaker",
+      "spokenText": "Sharae",
+      "role": "incidental",
+      "startSeconds": 3957.06,
+      "evidence": "Like we described with Sharae earlier",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 3961.88,
+      "evidence": "It all comes back with Avacyn",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ayara, First of Locthwain",
+      "spokenText": "I are a",
+      "role": "incidental",
+      "startSeconds": 3963.8,
+      "evidence": "I are a looks at all of that",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Braids, Arisen Nightmare",
+      "spokenText": "braids are risen nightmare",
+      "role": "incidental",
+      "startSeconds": 3968.96,
+      "evidence": "braids are risen nightmare at the beginning of your end step",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rhystic Study",
+      "spokenText": "rustic study",
+      "role": "incidental",
+      "startSeconds": 3983.6,
+      "evidence": "as close as mono black can get to like a rustic study",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Faller's Faithful",
+      "spokenText": "Caller's faithful",
+      "role": "incidental",
+      "startSeconds": 4008.5,
+      "evidence": "Caller's faithful. Not the word sacrifice, but I'm qualifying it",
+      "confidence": 0.45,
+      "modelName": "Caller’s Faithful",
+      "catalogueConfidence": 0.961
+    },
+    {
+      "canonicalName": "Fell Stinger",
+      "spokenText": "Fel Stinger",
+      "role": "incidental",
+      "startSeconds": 4040.32,
+      "evidence": "So Fel Stinger, similar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fell Stinger",
+      "spokenText": "Fel Stinger",
+      "role": "incidental",
+      "startSeconds": 4060.12,
+      "evidence": "When Fel Stinger exploits a creature",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sign in Blood",
+      "spokenText": "sign in blood",
+      "role": "incidental",
+      "startSeconds": 4066.44,
+      "evidence": "it's like a sign in blood",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skullport Merchant",
+      "spokenText": "skull port merchant",
+      "role": "incidental",
+      "startSeconds": 4072.04,
+      "evidence": "skull port merchant two and a black",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rankle, Master of Pranks",
+      "spokenText": "rankle master of pranks",
+      "role": "incidental",
+      "startSeconds": 4104.38,
+      "evidence": "sack outlet type style cards is rankle master of pranks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rankle, Master of Pranks",
+      "spokenText": "rankle master of pranks",
+      "role": "incidental",
+      "startSeconds": 4109.38,
+      "evidence": "rankle master of pranks is two a black and a black",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rankle, Master of Pranks",
+      "spokenText": "Rankle Master of Pranks",
+      "role": "incidental",
+      "startSeconds": 4134.14,
+      "evidence": "When Rankle Master of Pranks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Smothering Abomination",
+      "spokenText": "Smothering abomination",
+      "role": "incidental",
+      "startSeconds": 4162.4,
+      "evidence": "Smothering abomination, two a black and a black",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grim Haruspex",
+      "spokenText": "Grim Horror Specs",
+      "role": "incidental",
+      "startSeconds": 4181.76,
+      "evidence": "the thing that the Grim Horror Specs doesn't do",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grim Haruspex",
+      "spokenText": "horror specs",
+      "role": "incidental",
+      "startSeconds": 4196.52,
+      "evidence": "the horror specs because it can't sacrifice",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Midnight Charm",
+      "spokenText": "Midgarthia, City of Mako",
+      "role": "incidental",
+      "startSeconds": 4214.18,
+      "evidence": "Midgarthia, City of Mako",
+      "confidence": 0.99,
+      "modelName": "Midgar, City of Mako",
+      "catalogueConfidence": 0.799
+    },
+    {
+      "canonicalName": "Phyrexian Tower",
+      "spokenText": "Phyrexian Tower",
+      "role": "incidental",
+      "startSeconds": 4214.18,
+      "evidence": "Phyrexian Tower, Midgarthia",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reality Acid",
+      "spokenText": "The Reactor Raid",
+      "role": "incidental",
+      "startSeconds": 4220.48,
+      "evidence": "The Reactor Raid. Two and a black",
+      "confidence": 0.99,
+      "modelName": "Reactor Raid",
+      "catalogueConfidence": 0.844
+    },
+    {
+      "canonicalName": "High Market",
+      "spokenText": "High Market",
+      "role": "incidental",
+      "startSeconds": 4232.62,
+      "evidence": "High Market, Lazatep",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lazotep Quarry",
+      "spokenText": "Lazatep, Quarry",
+      "role": "incidental",
+      "startSeconds": 4232.62,
+      "evidence": "Lazatep, Quarry",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Susur Secundi, Void Altar",
+      "spokenText": "Sussur Secundi, the Void Altar",
+      "role": "incidental",
+      "startSeconds": 4238.78,
+      "evidence": "This Sussur Secundi, the Void Altar",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Griselbrand",
+      "spokenText": "Gristlebrand",
+      "role": "incidental",
+      "startSeconds": 4301.76,
+      "evidence": "This is like a Gristlebrand stuff a little bit",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dauthi Voidwalker",
+      "spokenText": "Douthy Voidwalker",
+      "role": "incidental",
+      "startSeconds": 4310.18,
+      "evidence": "Douthy Voidwalker, black, black",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Saw in Half",
+      "spokenText": "saw in half",
+      "role": "incidental",
+      "startSeconds": 4362.22,
+      "evidence": "It's saw in half",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Smothering Abomination",
+      "spokenText": "smothering abominations",
+      "role": "incidental",
+      "startSeconds": 4394.24,
+      "evidence": "smothering abominations",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hope of Ghirapur",
+      "spokenText": "Hope of Giriper",
+      "role": "incidental",
+      "startSeconds": 4405.86,
+      "evidence": "Hope of Giriper",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hope of Ghirapur",
+      "spokenText": "Hope of Giriper",
+      "role": "incidental",
+      "startSeconds": 4409.8,
+      "evidence": "Sacrifice Hope of Giriper",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hope of Ghirapur",
+      "spokenText": "Hope of Giriper",
+      "role": "incidental",
+      "startSeconds": 4413.84,
+      "evidence": "dealt combat damage with the Hope of Giriper",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hope of Ghirapur",
+      "spokenText": "hope of gear up her",
+      "role": "incidental",
+      "startSeconds": 4434.38,
+      "evidence": "find a way to recur the hope of gear up her",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soul-Guide Lantern",
+      "spokenText": "soul guide lantern",
+      "role": "incidental",
+      "startSeconds": 4441.38,
+      "evidence": "Like a soul guide lantern that they really want to get",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 4449.26,
+      "evidence": "I don't even have soul ring in here",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blood Pet",
+      "spokenText": "blood pet",
+      "role": "incidental",
+      "startSeconds": 4451.82,
+      "evidence": "blood pet it's just can sack itself",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Smothering Abomination",
+      "spokenText": "smothering abomination",
+      "role": "incidental",
+      "startSeconds": 4461.64,
+      "evidence": "the smothering abomination",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Culling the Weak",
+      "spokenText": "cull the weak",
+      "role": "incidental",
+      "startSeconds": 4467.66,
+      "evidence": "cull the weak it's an instant",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Ritual",
+      "spokenText": "dark ritual",
+      "role": "incidental",
+      "startSeconds": 4476.86,
+      "evidence": "version of dark ritual",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soldevi Adnate",
+      "spokenText": "davy adnate",
+      "role": "incidental",
+      "startSeconds": 4476.86,
+      "evidence": "davy adnate i mentioned that it's one in a black",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Burnished Hart",
+      "spokenText": "Burnished heart",
+      "role": "incidental",
+      "startSeconds": 4505.72,
+      "evidence": "Burnished heart",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Troop of Ponies",
+      "spokenText": "troop of ponies",
+      "role": "incidental",
+      "startSeconds": 4506.46,
+      "evidence": "troop of ponies. These sack themselves to tutor lands",
+      "confidence": 0.35,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wild-Field Scarecrow",
+      "spokenText": "wild field scarecrow",
+      "role": "incidental",
+      "startSeconds": 4509.36,
+      "evidence": "Even the wild field scarecrow does this",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ruthless Technomancer",
+      "spokenText": "ruthless technomancer",
+      "role": "incidental",
+      "startSeconds": 4511.82,
+      "evidence": "we already mentioned the ruthless technomancer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Skullport Merchant",
+      "spokenText": "skull port merchant",
+      "role": "incidental",
+      "startSeconds": 4511.82,
+      "evidence": "that skull port merchant i kind of hemmed in here too",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rise of the Dark Realms",
+      "spokenText": "rise of the dark realms",
+      "role": "incidental",
+      "startSeconds": 4522.34,
+      "evidence": "i really just want to do rise of the dark realms",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Edgar's Awakening",
+      "spokenText": "agademe's awakening",
+      "role": "incidental",
+      "startSeconds": 4528.34,
+      "evidence": "a rule break here with agademe's awakening",
+      "confidence": 1,
+      "modelName": "Agadeem's Awakening",
+      "catalogueConfidence": 0.824
+    },
+    {
+      "canonicalName": "Apprentice Necromancer",
+      "spokenText": "necromancer",
+      "role": "incidental",
+      "startSeconds": 4541.92,
+      "evidence": "necromancer can sack itself and return a creature ... with haste",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bonecaller Cleric",
+      "spokenText": "bone collar cleric",
+      "role": "incidental",
+      "startSeconds": 4555.9,
+      "evidence": "bone collar cleric it's similar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bonecaller Cleric",
+      "spokenText": "bone and collar cleric",
+      "role": "incidental",
+      "startSeconds": 4561.02,
+      "evidence": "sacrifice bone and collar cleric",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doomed Necromancer",
+      "spokenText": "doomed necromancer",
+      "role": "incidental",
+      "startSeconds": 4573.82,
+      "evidence": "the cousin, which is the doomed necromancer",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dread Return",
+      "spokenText": "Dread Return",
+      "role": "incidental",
+      "startSeconds": 4582.02,
+      "evidence": "Dread Return technically",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Living Death",
+      "spokenText": "Living Death",
+      "role": "incidental",
+      "startSeconds": 4593.66,
+      "evidence": "Living Death. Can I just say",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dread Return",
+      "spokenText": "Dread Return",
+      "role": "incidental",
+      "startSeconds": 4595.9,
+      "evidence": "cards like Dread Return",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Living Death",
+      "spokenText": "Living death",
+      "role": "incidental",
+      "startSeconds": 4637.92,
+      "evidence": "Living death is an incredible card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Heroic Intervention",
+      "spokenText": "heroic intervention",
+      "role": "incidental",
+      "startSeconds": 4660.5,
+      "evidence": "heroic intervention won't stop this",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 4694.96,
+      "evidence": "you swing out with Avacyn",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Living Death",
+      "spokenText": "living death",
+      "role": "incidental",
+      "startSeconds": 4711.36,
+      "evidence": "a deck like this living death should",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fume Spitter",
+      "spokenText": "Fume Spitter",
+      "role": "incidental",
+      "startSeconds": 4740.98,
+      "evidence": "The Fume Spitter can sack itself",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Heap Doll",
+      "spokenText": "Heap Doll",
+      "role": "incidental",
+      "startSeconds": 4746.92,
+      "evidence": "Heap Doll can sack itself",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Accursed Marauder",
+      "spokenText": "a curse marauder",
+      "role": "incidental",
+      "startSeconds": 4749.28,
+      "evidence": "a curse marauder etbs and bags everybody",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Attrition",
+      "spokenText": "attrition",
+      "role": "incidental",
+      "startSeconds": 4749.28,
+      "evidence": "attrition ... turns everything into like a sack outlet",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Big Game Hunter",
+      "spokenText": "big game hunter",
+      "role": "incidental",
+      "startSeconds": 4749.28,
+      "evidence": "big game hunter enters the battlefield",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Crypt Creeper",
+      "spokenText": "cryptkeeper",
+      "role": "incidental",
+      "startSeconds": 4749.28,
+      "evidence": "cryptkeeper can sack itself to bag a creature from a yard",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Pilfering Imp",
+      "spokenText": "pilfering imp",
+      "role": "incidental",
+      "startSeconds": 4749.28,
+      "evidence": "pilfering imp can tap and sack itself",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bone Shredder",
+      "spokenText": "Bone Shredder",
+      "role": "incidental",
+      "startSeconds": 4789.14,
+      "evidence": "Bone Shredder enters",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 4831.16,
+      "evidence": "you can set up before Avacyn",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 4833.3,
+      "evidence": "A play like that, Avacyn needs",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arcane Signet",
+      "spokenText": "arcane signet",
+      "role": "incidental",
+      "startSeconds": 4844.88,
+      "evidence": "there's not an arcane signet",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Crypt Ghast",
+      "spokenText": "crypt gas",
+      "role": "incidental",
+      "startSeconds": 4849.56,
+      "evidence": "there's not even the crypt gas",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nirkana Revenant",
+      "spokenText": "nircona revenant",
+      "role": "incidental",
+      "startSeconds": 4849.56,
+      "evidence": "or the nircona revenant",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "avacin",
+      "role": "incidental",
+      "startSeconds": 4867.22,
+      "evidence": "the post-avacin creatures",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zodiark, Umbral God",
+      "spokenText": "zodiac umbral guard or sorry zoladark that's his name umbral god",
+      "role": "incidental",
+      "startSeconds": 4878.04,
+      "evidence": "zodiac umbral guard or sorry zoladark that's his name umbral god",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zodiark, Umbral God",
+      "spokenText": "zodiac",
+      "role": "incidental",
+      "startSeconds": 4886.9,
+      "evidence": "when zodiac enters each player sacrifices half",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Zodiark, Umbral God",
+      "spokenText": "zodiac",
+      "role": "incidental",
+      "startSeconds": 4899.64,
+      "evidence": "put a plus one plus one counter on zodiac",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Voldaren Epicure",
+      "spokenText": "voldarin pariah",
+      "role": "incidental",
+      "startSeconds": 4908.64,
+      "evidence": "voldarin pariah three black black",
+      "confidence": 1,
+      "modelName": "Voldaren Pariah",
+      "catalogueConfidence": 0.893
+    },
+    {
+      "canonicalName": "Voldaren Epicure",
+      "spokenText": "voldarin pariah",
+      "role": "incidental",
+      "startSeconds": 4915.94,
+      "evidence": "transform the voldarin pariah",
+      "confidence": 1,
+      "modelName": "Voldaren Pariah",
+      "catalogueConfidence": 0.893
+    },
+    {
+      "canonicalName": "Portal to Phyrexia",
+      "spokenText": "portal to Phyrexia",
+      "role": "incidental",
+      "startSeconds": 4938.3,
+      "evidence": "portal to Phyrexia, their ass",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 4947.82,
+      "evidence": "Avacyn and then that",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, Whispering One",
+      "spokenText": "shielded",
+      "role": "incidental",
+      "startSeconds": 4952.12,
+      "evidence": "you could justify saying well shielded has",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, Whispering One",
+      "spokenText": "shielded",
+      "role": "incidental",
+      "startSeconds": 4956.72,
+      "evidence": "sack your own with shielded it's ... only reanimate",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Portal to Phyrexia",
+      "spokenText": "the portal",
+      "role": "incidental",
+      "startSeconds": 4961.06,
+      "evidence": "i could do the portal",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, Whispering One",
+      "spokenText": "shielded",
+      "role": "incidental",
+      "startSeconds": 4961.06,
+      "evidence": "do shielded but i could do the portal",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Carrion Feeder",
+      "spokenText": "carrion feeder",
+      "role": "incidental",
+      "startSeconds": 4964.3,
+      "evidence": "sack outlets carrion feeder viscerous ear",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Viscera Seer",
+      "spokenText": "viscerous ear",
+      "role": "incidental",
+      "startSeconds": 4964.3,
+      "evidence": "carrion feeder viscerous ear",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yahenni, Undying Partisan",
+      "spokenText": "yeheni",
+      "role": "incidental",
+      "startSeconds": 4973.24,
+      "evidence": "ones that we know about yeheni",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Devouring Swarm",
+      "spokenText": "devouring swarm",
+      "role": "incidental",
+      "startSeconds": 4987.66,
+      "evidence": "i think i like it here too it's the devouring swarm",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Devouring Swarm",
+      "spokenText": "devouring swarm",
+      "role": "incidental",
+      "startSeconds": 4991.78,
+      "evidence": "sacrifice a creature devouring swarm gets plus one",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 5008.18,
+      "evidence": "swing out at somebody with Avacyn",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Portal to Phyrexia",
+      "spokenText": "Portal",
+      "role": "incidental",
+      "startSeconds": 5018.08,
+      "evidence": "By the way, Portal is",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cultist of the Absolute",
+      "spokenText": "the Absolute",
+      "role": "incidental",
+      "startSeconds": 5038.18,
+      "evidence": "the Absolute and Fallen Ideal",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fallen Ideal",
+      "spokenText": "Fallen Ideal",
+      "role": "incidental",
+      "startSeconds": 5038.18,
+      "evidence": "the Absolute and Fallen Ideal",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cultist of the Absolute",
+      "spokenText": "Cultus of the Absolute",
+      "role": "incidental",
+      "startSeconds": 5042.32,
+      "evidence": "but Cultus of the Absolute",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fallen Ideal",
+      "spokenText": "ideals",
+      "role": "incidental",
+      "startSeconds": 5068.18,
+      "evidence": "ideals in here. This is an incredible",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "True Conviction",
+      "spokenText": "True conviction",
+      "role": "incidental",
+      "startSeconds": 5090,
+      "evidence": "True conviction. There we go",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fallen Ideal",
+      "spokenText": "Fallen ideal",
+      "role": "incidental",
+      "startSeconds": 5092.54,
+      "evidence": "Fallen ideal. Two and a black",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fallen Ideal",
+      "spokenText": "Fallen Ideal",
+      "role": "incidental",
+      "startSeconds": 5102.28,
+      "evidence": "when Fallen Ideal is put into a graveyard",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fallen Ideal",
+      "spokenText": "Fallen Ideal",
+      "role": "incidental",
+      "startSeconds": 5107.08,
+      "evidence": "return Fallen Ideal to its owner's hand",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fallen Ideal",
+      "spokenText": "Fallen Ideal",
+      "role": "incidental",
+      "startSeconds": 5115,
+      "evidence": "I'm going to exile Fallen Ideal",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "avacyn",
+      "role": "incidental",
+      "startSeconds": 5163.08,
+      "evidence": "avacyn does a lot of heavy lifting",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 5220.42,
+      "evidence": "Avacyn exploits the fact that when all these things die",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sidisi, Brood Tyrant",
+      "spokenText": "Sidisi",
+      "role": "incidental",
+      "startSeconds": 5230.62,
+      "evidence": "It's like the Sidisi thing",
+      "confidence": 0.78,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Gray Merchant of Asphodel",
+      "spokenText": "Gray merchant",
+      "role": "incidental",
+      "startSeconds": 5268.14,
+      "evidence": "Gray merchant",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Criminal Past",
+      "spokenText": "Criminal Past",
+      "role": "incidental",
+      "startSeconds": 5285.9,
+      "evidence": "Criminal Past is a really cool way",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Massacre Wurm",
+      "spokenText": "massacre worm",
+      "role": "incidental",
+      "startSeconds": 5305.64,
+      "evidence": "we talk a ton about the massacre worm",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Horror",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 5325.42,
+      "evidence": "This seeing Avacyn plus a sack outlet",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yahenni, Undying Partisan",
+      "spokenText": "yehenny",
+      "role": "incidental",
+      "startSeconds": 5378.22,
+      "evidence": "something like yehenny",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yahenni, Undying Partisan",
+      "spokenText": "Yehenim",
+      "role": "incidental",
+      "startSeconds": 5395.78,
+      "evidence": "one guy was playing Yehenim",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yawgmoth, Thran Physician",
+      "spokenText": "Yawgmoth",
+      "role": "incidental",
+      "startSeconds": 5398.96,
+      "evidence": "the other dude was playing Yawgmoth",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yawgmoth, Thran Physician",
+      "spokenText": "Yawgmoth",
+      "role": "incidental",
+      "startSeconds": 5401.18,
+      "evidence": "And Yawgmoth, like, on the surface",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yawgmoth, Thran Physician",
+      "spokenText": "Yawgmoth",
+      "role": "incidental",
+      "startSeconds": 5406.64,
+      "evidence": "we dogpiled the Yawgmoth player",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yahenni, Undying Partisan",
+      "spokenText": "Yehenim",
+      "role": "incidental",
+      "startSeconds": 5411.92,
+      "evidence": "Yehenim",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yawgmoth, Thran Physician",
+      "spokenText": "Yawgmoth",
+      "role": "incidental",
+      "startSeconds": 5412.52,
+      "evidence": "probably has Yawgmoth in the 99",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Hope",
+      "spokenText": "avas avas",
+      "role": "incidental",
+      "startSeconds": 5491.76,
+      "evidence": "i'm gonna play avas avas and whatever",
+      "confidence": 0.4,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lifeline",
+      "spokenText": "lifeline",
+      "role": "incidental",
+      "startSeconds": 5550.32,
+      "evidence": "lifeline",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dream Halls",
+      "spokenText": "dream halls",
+      "role": "incidental",
+      "startSeconds": 5558.3,
+      "evidence": "like the dream halls for sacrifice",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dream Halls",
+      "spokenText": "dream halls",
+      "role": "incidental",
+      "startSeconds": 5563.22,
+      "evidence": "some people are scared of dream halls",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dream Halls",
+      "spokenText": "dream halls",
+      "role": "incidental",
+      "startSeconds": 5569.46,
+      "evidence": "the guy who has dream halls",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dream Halls",
+      "spokenText": "dream halls",
+      "role": "incidental",
+      "startSeconds": 5575.56,
+      "evidence": "almost never had a dream halls backfire on me",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lifeline",
+      "spokenText": "lifeline",
+      "role": "incidental",
+      "startSeconds": 5578.68,
+      "evidence": "the same is true with lifeline",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lifeline",
+      "spokenText": "lifeline",
+      "role": "incidental",
+      "startSeconds": 5582.08,
+      "evidence": "when you're ready for lifeline in your deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tombstone Stairwell",
+      "spokenText": "tomb star tomb tomb what is it tomb stair stairwell or tomb",
+      "role": "incidental",
+      "startSeconds": 5614.76,
+      "evidence": "tomb stair stairwell or tomb",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hecatomb",
+      "spokenText": "hecatomb",
+      "role": "incidental",
+      "startSeconds": 5638.18,
+      "evidence": "or hecatomb that's another one",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tombstone Stairwell",
+      "spokenText": "tombstone stairwell",
+      "role": "incidental",
+      "startSeconds": 5638.18,
+      "evidence": "tombstone stairwell yeah that's that it is",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Slobad, Goblin Tinkerer",
+      "spokenText": "Slowbad",
+      "role": "incidental",
+      "startSeconds": 5656.3,
+      "evidence": "that Slowbad deck that I played years ago",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Slobad, Goblin Tinkerer",
+      "spokenText": "Slowbad 1.0",
+      "role": "incidental",
+      "startSeconds": 5661.18,
+      "evidence": "Slowbad 1.0, he is a SAC outlet in your command zone",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Daretti, Scrap Savant",
+      "spokenText": "Duretti",
+      "role": "incidental",
+      "startSeconds": 5689.56,
+      "evidence": "Duretti and his Goblin Welder and the Scrap Welder",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Goblin Welder",
+      "spokenText": "Goblin Welder",
+      "role": "incidental",
+      "startSeconds": 5689.56,
+      "evidence": "his Goblin Welder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scrap Welder",
+      "spokenText": "Scrap Welder",
+      "role": "incidental",
+      "startSeconds": 5689.56,
+      "evidence": "and the Scrap Welder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Junk Diver",
+      "spokenText": "Junk Diver",
+      "role": "incidental",
+      "startSeconds": 5697.68,
+      "evidence": "like Junk Diver, the Mirror Retriever",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Myr Retriever",
+      "spokenText": "Mirror Retriever",
+      "role": "incidental",
+      "startSeconds": 5697.68,
+      "evidence": "the Mirror Retriever",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scrap Trawler",
+      "spokenText": "Scrap Trawler",
+      "role": "incidental",
+      "startSeconds": 5709.86,
+      "evidence": "The Scrap Trawler",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Hope",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 5727.04,
+      "evidence": "just because she's on hand, Avacyn, right?",
+      "confidence": 0.65,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Generous Gift",
+      "spokenText": "generous gift",
+      "role": "incidental",
+      "startSeconds": 5746.7,
+      "evidence": "I'm going to generous gift target X",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "Ashnod's altar",
+      "role": "incidental",
+      "startSeconds": 5778.82,
+      "evidence": "like that Ashnod's altar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nim Deathmantle",
+      "spokenText": "them death mantle",
+      "role": "incidental",
+      "startSeconds": 5782.54,
+      "evidence": "them death mantle loops",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Krark-Clan Ironworks",
+      "spokenText": "KCI",
+      "role": "incidental",
+      "startSeconds": 5795.34,
+      "evidence": "one other crack at it with KCI",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Soldevi Adnate",
+      "spokenText": "Sol Dovey Adonate",
+      "role": "incidental",
+      "startSeconds": 5810.08,
+      "evidence": "the Sol Dovey Adonate situation",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Worn Powerstone",
+      "spokenText": "warm power stone",
+      "role": "incidental",
+      "startSeconds": 5825.34,
+      "evidence": "like a warm power stone ish",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blasphemous Act",
+      "spokenText": "blasphemous act",
+      "role": "incidental",
+      "startSeconds": 5833.08,
+      "evidence": "can't use it for your blasphemous act",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Scrap Mastery",
+      "spokenText": "scrap mastery",
+      "role": "incidental",
+      "startSeconds": 5838.04,
+      "evidence": "or your scrap mastery",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Goblin Welder",
+      "spokenText": "goblin welder",
+      "role": "incidental",
+      "startSeconds": 5843.18,
+      "evidence": "goblin welder says hey sacrifice an artifact",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 5848.6,
+      "evidence": "your used uh soul ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Coveted Jewel",
+      "spokenText": "covetous jewel",
+      "role": "incidental",
+      "startSeconds": 5859.4,
+      "evidence": "forbid the covetous jewel",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Structural Assault",
+      "spokenText": "assault",
+      "role": "incidental",
+      "startSeconds": 5915.36,
+      "evidence": "assault in there ... destroy all artifacts",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Slobad, Goblin Tinkerer",
+      "spokenText": "slow bad",
+      "role": "incidental",
+      "startSeconds": 5930.34,
+      "evidence": "with slow bad out right he can power this up",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Structural Assault",
+      "spokenText": "structural assault",
+      "role": "incidental",
+      "startSeconds": 5954.92,
+      "evidence": "then you do the structural assault",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Slobad, Goblin Tinkerer",
+      "spokenText": "slow batted",
+      "role": "incidental",
+      "startSeconds": 5963.46,
+      "evidence": "that you slow batted",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Portal to Phyrexia",
+      "spokenText": "portal to Phyrexia",
+      "role": "incidental",
+      "startSeconds": 6012.74,
+      "evidence": "makes that portal to Phyrexia so insane",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Paradox Engine",
+      "spokenText": "Paradox Engine",
+      "role": "incidental",
+      "startSeconds": 6061.9,
+      "evidence": "it involved a Paradox Engine",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yahenni, Undying Partisan",
+      "spokenText": "Yehenny",
+      "role": "incidental",
+      "startSeconds": 6076.1,
+      "evidence": "something like Yehenny for Goonies",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bloodghast",
+      "spokenText": "blood gas",
+      "role": "incidental",
+      "startSeconds": 6106.26,
+      "evidence": "like a blood gas or two",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Hope",
+      "spokenText": "avacyn",
+      "role": "incidental",
+      "startSeconds": 6109.98,
+      "evidence": "this avacyn deck",
+      "confidence": 0.6,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ebondeath, Dracolich",
+      "spokenText": "Ebb and death",
+      "role": "incidental",
+      "startSeconds": 6152.54,
+      "evidence": "Ebb and death or whatever",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "Ashnod's altar",
+      "role": "incidental",
+      "startSeconds": 6171.18,
+      "evidence": "putting out your Ashnod's altar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "Ashnod's altar",
+      "role": "incidental",
+      "startSeconds": 6182.36,
+      "evidence": "there's an active Ashnod's altar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "Ashnod's altar",
+      "role": "incidental",
+      "startSeconds": 6185.08,
+      "evidence": "There's an Ashnod's altar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "Ashnod's altar",
+      "role": "incidental",
+      "startSeconds": 6192.6,
+      "evidence": "I had an Ashnod's altar in there",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "ash nods alter",
+      "role": "incidental",
+      "startSeconds": 6205.26,
+      "evidence": "a non-comboing ash nods alter situation",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farmer Cotton",
+      "spokenText": "farmer cotton",
+      "role": "incidental",
+      "startSeconds": 6205.26,
+      "evidence": "my farmer cotton has a non-comboing ash nods alter",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Pact",
+      "spokenText": "grave packed",
+      "role": "incidental",
+      "startSeconds": 6230.28,
+      "evidence": "grave packed and it's cousins",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Reassembling Skeleton",
+      "spokenText": "reassembling skeleton",
+      "role": "incidental",
+      "startSeconds": 6242.1,
+      "evidence": "a reassembling skeleton dying",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Yahenni, Undying Partisan",
+      "spokenText": "yeheni",
+      "role": "incidental",
+      "startSeconds": 6262.58,
+      "evidence": "yeheni is like a really attractive commander",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Blade of the Bloodchief",
+      "spokenText": "blade of the blood chief",
+      "role": "incidental",
+      "startSeconds": 6272.7,
+      "evidence": "holding like blade of the blood chief",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tarrian's Soulcleaver",
+      "spokenText": "tarion soul cleaver",
+      "role": "incidental",
+      "startSeconds": 6272.7,
+      "evidence": "even tarion soul cleaver",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erebos, Bleak-Hearted",
+      "spokenText": "arabus 2.0",
+      "role": "incidental",
+      "startSeconds": 6293.76,
+      "evidence": "currently i'm using arabus 2.0",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erebos, Bleak-Hearted",
+      "spokenText": "Erebus bleak hearted",
+      "role": "incidental",
+      "startSeconds": 6332.66,
+      "evidence": "I like Erebus bleak hearted",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grim Haruspex",
+      "spokenText": "Grim Horror specs",
+      "role": "incidental",
+      "startSeconds": 6411.22,
+      "evidence": "caution about using the Grim Horror specs",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "Shea Oldred",
+      "role": "incidental",
+      "startSeconds": 6440.2,
+      "evidence": "Shea Oldred that gives you life when you draw cards",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Erebos, Bleak-Hearted",
+      "spokenText": "Erebus blue carded",
+      "role": "incidental",
+      "startSeconds": 6448.38,
+      "evidence": "doing the Erebus blue carded thing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "Shea Oldred",
+      "role": "incidental",
+      "startSeconds": 6455.86,
+      "evidence": "Shea Oldred saw me draw the card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "shield",
+      "role": "incidental",
+      "startSeconds": 6465.4,
+      "evidence": "an expensive shield to slide into your deck",
+      "confidence": 0.75,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sheoldred, the Apocalypse",
+      "spokenText": "she altered",
+      "role": "incidental",
+      "startSeconds": 6487.18,
+      "evidence": "she altered at the problem okay it'll sell",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Embrace",
+      "spokenText": "demonic embrace",
+      "role": "incidental",
+      "startSeconds": 6510.58,
+      "evidence": "or the demonic embrace",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fallen Ideal",
+      "spokenText": "fallen ideal",
+      "role": "incidental",
+      "startSeconds": 6510.58,
+      "evidence": "the fallen ideal or the ... demonic embrace",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cultist of the Absolute",
+      "spokenText": "cultist cultist of the absolute",
+      "role": "incidental",
+      "startSeconds": 6519.46,
+      "evidence": "the cultist cultist of the absolute",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bloodghast",
+      "spokenText": "blood gas",
+      "role": "incidental",
+      "startSeconds": 6561.96,
+      "evidence": "move this blood gas to the graveyard",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Honest Rutstein",
+      "spokenText": "honest rutstein",
+      "role": "incidental",
+      "startSeconds": 6575.06,
+      "evidence": "playing this honest rutstein thing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eternal Witness",
+      "spokenText": "e-wit",
+      "role": "incidental",
+      "startSeconds": 6586.98,
+      "evidence": "a bit of like an e-wit for creatures",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eternal Witness",
+      "spokenText": "eternal witness",
+      "role": "incidental",
+      "startSeconds": 6635.06,
+      "evidence": "he resolved an eternal witness",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Eldrazi Monument",
+      "spokenText": "Eldrazi monument",
+      "role": "incidental",
+      "startSeconds": 6660.28,
+      "evidence": "Eldrazi monument which requires you to sack a creature",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farmer Cotton",
+      "spokenText": "farmer cotton",
+      "role": "incidental",
+      "startSeconds": 6665.24,
+      "evidence": "I use it in farmer cotton",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farmer Cotton",
+      "spokenText": "farmer cotton",
+      "role": "incidental",
+      "startSeconds": 6669.82,
+      "evidence": "get farmer cotton back in the graveyard",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ashnod's Altar",
+      "spokenText": "Ashnod's altar",
+      "role": "incidental",
+      "startSeconds": 6680.5,
+      "evidence": "everything to an Ashnod's altar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bloodghast",
+      "spokenText": "blood gassed",
+      "role": "incidental",
+      "startSeconds": 6696.34,
+      "evidence": "blood gassed goes to the thing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Altar of Dementia",
+      "spokenText": "altar of dementia",
+      "role": "incidental",
+      "startSeconds": 6704.52,
+      "evidence": "put the altar of dementia out",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farmer Cotton",
+      "spokenText": "farmer cotton",
+      "role": "incidental",
+      "startSeconds": 6706.52,
+      "evidence": "sack farmer cotton",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Trystan's Command",
+      "spokenText": "Tristan",
+      "role": "incidental",
+      "startSeconds": 6708.08,
+      "evidence": "Cam's been playing Tristan",
+      "confidence": 0.85,
+      "modelName": "Trystan, Callous Cultivator",
+      "catalogueConfidence": 0.814
+    },
+    {
+      "canonicalName": "Rest in Peace",
+      "spokenText": "Rest in Peace",
+      "role": "incidental",
+      "startSeconds": 6784.74,
+      "evidence": "static graveyard hate a la Rest in Peace",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Stone of Erech",
+      "spokenText": "Stone of Erich",
+      "role": "incidental",
+      "startSeconds": 6784.74,
+      "evidence": "Rest in Peace, Stone of Erich",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Hope",
+      "spokenText": "avacyn",
+      "role": "incidental",
+      "startSeconds": 6795.2,
+      "evidence": "interaction with something like avacyn",
+      "confidence": 0.6,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Szat's Will",
+      "spokenText": "zatz will",
+      "role": "incidental",
+      "startSeconds": 6801.32,
+      "evidence": "hit him with the zatz will",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Bane of Progress",
+      "spokenText": "bane a progress",
+      "role": "incidental",
+      "startSeconds": 6816.28,
+      "evidence": "we bane a progress all of his equipment away",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Excalibur, Sword of Eden",
+      "spokenText": "excalibur",
+      "role": "incidental",
+      "startSeconds": 6822.4,
+      "evidence": "there's that fucking excalibur and it's equipping",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Nevinyrral's Disk",
+      "spokenText": "nev's disc",
+      "role": "incidental",
+      "startSeconds": 6854.46,
+      "evidence": "doing some kind of you know nev's disc",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Korvold, Fae-Cursed King",
+      "spokenText": "corvold",
+      "role": "incidental",
+      "startSeconds": 6883.38,
+      "evidence": "give us something like corvold again",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Hope",
+      "spokenText": "avacyn",
+      "role": "incidental",
+      "startSeconds": 6887.38,
+      "evidence": "this avacyn gets really close",
+      "confidence": 0.6,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lifeline",
+      "spokenText": "lifeline",
+      "role": "incidental",
+      "startSeconds": 6906.86,
+      "evidence": "anybody who uses lifeline",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Avacyn, Angel of Hope",
+      "spokenText": "Avacyn",
+      "role": "incidental",
+      "startSeconds": 6945.72,
+      "evidence": "Avacyn bore me to tears is what I named it",
+      "confidence": 0.6,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Pact",
+      "spokenText": "grave pacts",
+      "role": "incidental",
+      "startSeconds": 6962.9,
+      "evidence": "all the grave pacts",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grim Haruspex",
+      "spokenText": "grim horror specs",
+      "role": "incidental",
+      "startSeconds": 6962.9,
+      "evidence": "all of the grim horror specs",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Meathook Massacre",
+      "spokenText": "meat hook massacre number one",
+      "role": "incidental",
+      "startSeconds": 6981.84,
+      "evidence": "the meat hook massacre number one is so powerful",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grave Pact",
+      "spokenText": "gray pack",
+      "role": "incidental",
+      "startSeconds": 6993.96,
+      "evidence": "That's something that gray pack didn't do",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [],
+  "incidentalCards": [
+    "Accursed Marauder",
+    "Altar of Dementia",
+    "Animar, Soul of Elements",
+    "Animate Dead",
+    "Apprentice Necromancer",
+    "Arcane Signet",
+    "Arcbound Ravager",
+    "Ascend from Avernus",
+    "Ashnod's Altar",
+    "Athreos, God of Passage",
+    "Attrition",
+    "Avacyn, Angel of Hope",
+    "Avacyn, Angel of Horror",
+    "Ayara, First of Locthwain",
+    "Bane of Progress",
+    "Big Game Hunter",
+    "Black Market",
+    "Blade of the Bloodchief",
+    "Blasphemous Act",
+    "Blasting Station",
+    "Blood Artist",
+    "Blood Pet",
+    "Bloodghast",
+    "Bojuka Bog",
+    "Bone Shredder",
+    "Bonecaller Cleric",
+    "Bottle Gnomes",
+    "Brago, King Eternal",
+    "Braids, Arisen Nightmare",
+    "Buried Alive",
+    "Burnished Hart",
+    "Carrion Feeder",
+    "Cartel Aristocrat",
+    "Chancellor of the Dross",
+    "Chittering Witch",
+    "Cloudstone Curio",
+    "Corrupted Conviction",
+    "Coveted Jewel",
+    "Criminal Past",
+    "Crypt Creeper",
+    "Crypt Ghast",
+    "Culling the Weak",
+    "Cultist of the Absolute",
+    "Dance of the Dead",
+    "Daretti, Scrap Savant",
+    "Dark Ritual",
+    "Darkest Hour",
+    "Dauthi Voidwalker",
+    "Demonic Embrace",
+    "Devouring Swarm",
+    "Dictate of Erebos",
+    "Disciple of Bolas",
+    "Doomed Necromancer",
+    "Doomed Traveler",
+    "Dread Return",
+    "Dream Halls",
+    "Ebondeath, Dracolich",
+    "Edgar's Awakening",
+    "Elas il-Kor, Sadistic Pilgrim",
+    "Eldrazi Monument",
+    "Elenda, the Dusk Rose",
+    "Erebos, Bleak-Hearted",
+    "Eternal Witness",
+    "Excalibur, Sword of Eden",
+    "Executioner's Capsule",
+    "Falkenrath Aristocrat",
+    "Fallen Ideal",
+    "Faller's Faithful",
+    "Farmer Cotton",
+    "Fell Stinger",
+    "Fleshbag Marauder",
+    "Fume Spitter",
+    "Generous Gift",
+    "Geralf's Messenger",
+    "Gift of Immortality",
+    "Glissa, the Traitor",
+    "Goblin Welder",
+    "Gonti, Lord of Luxury",
+    "Grave Pact",
+    "Grave Titan",
+    "Gravecrawler",
+    "Gray Merchant of Asphodel",
+    "Grim Haruspex",
+    "Grinding Station",
+    "Griselbrand",
+    "Hagra Diabolist",
+    "Heap Doll",
+    "Hearthhull, the Worldseed",
+    "Hecatomb",
+    "Heroic Intervention",
+    "High Market",
+    "Honest Rutstein",
+    "Hope of Ghirapur",
+    "Junk Diver",
+    "Juri, Master of the Revue",
+    "Kaalia of the Vast",
+    "Karador, Ghost Chieftain",
+    "Kaya's Ghostform",
+    "Korvold, Fae-Cursed King",
+    "Krark-Clan Ironworks",
+    "Krosan Grip",
+    "Lazotep Quarry",
+    "Lifeline",
+    "Living Death",
+    "Lord Windgrace",
+    "Massacre Girl",
+    "Massacre Wurm",
+    "Meren of Clan Nel Toth",
+    "Midnight Charm",
+    "Midnight Reaper",
+    "Mind Slash",
+    "Mindslicer",
+    "Myr Retriever",
+    "Necromancy",
+    "Nevinyrral's Disk",
+    "Nim Deathmantle",
+    "Nirkana Revenant",
+    "Oubliette",
+    "Paradox Engine",
+    "Phyrexian Altar",
+    "Phyrexian Tower",
+    "Pilfering Imp",
+    "Plumb the Forbidden",
+    "Portal to Phyrexia",
+    "Priest of Forgotten Gods",
+    "Rankle, Master of Pranks",
+    "Ravenous Chupacabra",
+    "Reality Acid",
+    "Reassembling Skeleton",
+    "Relic of Progenitus",
+    "Rest in Peace",
+    "Rhystic Study",
+    "Rise of the Dark Realms",
+    "Ruthless Technomancer",
+    "Sadistic Hypnotist",
+    "Sakura-Tribe Elder",
+    "Savra, Queen of the Golgari",
+    "Saw in Half",
+    "Scapeshift",
+    "Scavenger Grounds",
+    "Scorn-Blade Berserker",
+    "Scrap Mastery",
+    "Scrap Trawler",
+    "Scrap Welder",
+    "Seedborn Muse",
+    "Sheoldred, the Apocalypse",
+    "Sheoldred, Whispering One",
+    "Shimmer Myr",
+    "Shirei, Shizo's Caretaker",
+    "Sidisi, Brood Tyrant",
+    "Sign in Blood",
+    "Skullclamp",
+    "Skullport Merchant",
+    "Slobad, Goblin Tinkerer",
+    "Smokestack",
+    "Smothering Abomination",
+    "Sol Ring",
+    "Soldevi Adnate",
+    "Soul-Guide Lantern",
+    "Spawning Pit",
+    "Stone of Erech",
+    "Stronghold Assassin",
+    "Structural Assault",
+    "Sudden Death",
+    "Sudden Spoiling",
+    "Sun Titan",
+    "Susur Secundi, Void Altar",
+    "Swords to Plowshares",
+    "Syr Konrad, the Grim",
+    "Szat's Will",
+    "Tarrian's Soulcleaver",
+    "Terramorphic Expanse",
+    "Teshar, Ancestor's Apostle",
+    "Teysa Karlov",
+    "Teysa, Orzhov Scion",
+    "The Meathook Massacre",
+    "Threefold Thunderhulk",
+    "Titania, Protector of Argoth",
+    "Tombstone Stairwell",
+    "Tormod's Crypt",
+    "Triplicate Titan",
+    "Troop of Ponies",
+    "True Conviction",
+    "Trystan's Command",
+    "Vampire Gourmand",
+    "Vein Ripper",
+    "Village Rites",
+    "Viscera Seer",
+    "Voldaren Epicure",
+    "Warstorm Surge",
+    "Wild-Field Scarecrow",
+    "Winter Orb",
+    "Wipe Away",
+    "Worn Powerstone",
+    "Wurmcoil Engine",
+    "Yahenni, Undying Partisan",
+    "Yawgmoth, Thran Physician",
+    "Yorion, Sky Nomad",
+    "Zodiark, Umbral God",
+    "Zulaport Cutthroat",
+    "Zur the Enchanter",
+    "Zuran Orb"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 8,
+    "unresolvedMentions": [
+      {
+        "canonicalName": "Abolisher of Bloodlines",
+        "spokenText": "Abolisher of Bloodlines",
+        "role": "incidental",
+        "startSeconds": 4926.18,
+        "evidence": "Abolisher of Bloodlines and Eldrazi",
+        "confidence": 1
+      },
+      {
+        "canonicalName": "Abolisher of Bloodlines",
+        "spokenText": "Abolisher of Bloodlines",
+        "role": "incidental",
+        "startSeconds": 4932.3,
+        "evidence": "into Abolisher of Bloodlines",
+        "confidence": 1
+      }
+    ]
+  },
+  "validation": {
+    "matchedMainCards": [],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Accursed Marauder",
+      "Altar of Dementia",
+      "Animar, Soul of Elements",
+      "Animate Dead",
+      "Apprentice Necromancer",
+      "Arcane Signet",
+      "Arcbound Ravager",
+      "Ascend from Avernus",
+      "Ashnod's Altar",
+      "Athreos, God of Passage",
+      "Attrition",
+      "Avacyn, Angel of Hope",
+      "Avacyn, Angel of Horror",
+      "Ayara, First of Locthwain",
+      "Bane of Progress",
+      "Big Game Hunter",
+      "Black Market",
+      "Blade of the Bloodchief",
+      "Blasphemous Act",
+      "Blasting Station",
+      "Blood Artist",
+      "Blood Pet",
+      "Bloodghast",
+      "Bojuka Bog",
+      "Bone Shredder",
+      "Bonecaller Cleric",
+      "Bottle Gnomes",
+      "Brago, King Eternal",
+      "Braids, Arisen Nightmare",
+      "Buried Alive",
+      "Burnished Hart",
+      "Carrion Feeder",
+      "Cartel Aristocrat",
+      "Chancellor of the Dross",
+      "Chittering Witch",
+      "Cloudstone Curio",
+      "Corrupted Conviction",
+      "Coveted Jewel",
+      "Criminal Past",
+      "Crypt Creeper",
+      "Crypt Ghast",
+      "Culling the Weak",
+      "Cultist of the Absolute",
+      "Dance of the Dead",
+      "Daretti, Scrap Savant",
+      "Dark Ritual",
+      "Darkest Hour",
+      "Dauthi Voidwalker",
+      "Demonic Embrace",
+      "Devouring Swarm",
+      "Dictate of Erebos",
+      "Disciple of Bolas",
+      "Doomed Necromancer",
+      "Doomed Traveler",
+      "Dread Return",
+      "Dream Halls",
+      "Ebondeath, Dracolich",
+      "Edgar's Awakening",
+      "Elas il-Kor, Sadistic Pilgrim",
+      "Eldrazi Monument",
+      "Elenda, the Dusk Rose",
+      "Erebos, Bleak-Hearted",
+      "Eternal Witness",
+      "Excalibur, Sword of Eden",
+      "Executioner's Capsule",
+      "Falkenrath Aristocrat",
+      "Fallen Ideal",
+      "Faller's Faithful",
+      "Farmer Cotton",
+      "Fell Stinger",
+      "Fleshbag Marauder",
+      "Fume Spitter",
+      "Generous Gift",
+      "Geralf's Messenger",
+      "Gift of Immortality",
+      "Glissa, the Traitor",
+      "Goblin Welder",
+      "Gonti, Lord of Luxury",
+      "Grave Pact",
+      "Grave Titan",
+      "Gravecrawler",
+      "Gray Merchant of Asphodel",
+      "Grim Haruspex",
+      "Grinding Station",
+      "Griselbrand",
+      "Hagra Diabolist",
+      "Heap Doll",
+      "Hearthhull, the Worldseed",
+      "Hecatomb",
+      "Heroic Intervention",
+      "High Market",
+      "Honest Rutstein",
+      "Hope of Ghirapur",
+      "Junk Diver",
+      "Juri, Master of the Revue",
+      "Kaalia of the Vast",
+      "Karador, Ghost Chieftain",
+      "Kaya's Ghostform",
+      "Korvold, Fae-Cursed King",
+      "Krark-Clan Ironworks",
+      "Krosan Grip",
+      "Lazotep Quarry",
+      "Lifeline",
+      "Living Death",
+      "Lord Windgrace",
+      "Massacre Girl",
+      "Massacre Wurm",
+      "Meren of Clan Nel Toth",
+      "Midnight Charm",
+      "Midnight Reaper",
+      "Mind Slash",
+      "Mindslicer",
+      "Myr Retriever",
+      "Necromancy",
+      "Nevinyrral's Disk",
+      "Nim Deathmantle",
+      "Nirkana Revenant",
+      "Oubliette",
+      "Paradox Engine",
+      "Phyrexian Altar",
+      "Phyrexian Tower",
+      "Pilfering Imp",
+      "Plumb the Forbidden",
+      "Portal to Phyrexia",
+      "Priest of Forgotten Gods",
+      "Rankle, Master of Pranks",
+      "Ravenous Chupacabra",
+      "Reality Acid",
+      "Reassembling Skeleton",
+      "Relic of Progenitus",
+      "Rest in Peace",
+      "Rhystic Study",
+      "Rise of the Dark Realms",
+      "Ruthless Technomancer",
+      "Sadistic Hypnotist",
+      "Sakura-Tribe Elder",
+      "Savra, Queen of the Golgari",
+      "Saw in Half",
+      "Scapeshift",
+      "Scavenger Grounds",
+      "Scorn-Blade Berserker",
+      "Scrap Mastery",
+      "Scrap Trawler",
+      "Scrap Welder",
+      "Seedborn Muse",
+      "Sheoldred, the Apocalypse",
+      "Sheoldred, Whispering One",
+      "Shimmer Myr",
+      "Shirei, Shizo's Caretaker",
+      "Sidisi, Brood Tyrant",
+      "Sign in Blood",
+      "Skullclamp",
+      "Skullport Merchant",
+      "Slobad, Goblin Tinkerer",
+      "Smokestack",
+      "Smothering Abomination",
+      "Sol Ring",
+      "Soldevi Adnate",
+      "Soul-Guide Lantern",
+      "Spawning Pit",
+      "Stone of Erech",
+      "Stronghold Assassin",
+      "Structural Assault",
+      "Sudden Death",
+      "Sudden Spoiling",
+      "Sun Titan",
+      "Susur Secundi, Void Altar",
+      "Swords to Plowshares",
+      "Syr Konrad, the Grim",
+      "Szat's Will",
+      "Tarrian's Soulcleaver",
+      "Terramorphic Expanse",
+      "Teshar, Ancestor's Apostle",
+      "Teysa Karlov",
+      "Teysa, Orzhov Scion",
+      "The Meathook Massacre",
+      "Threefold Thunderhulk",
+      "Titania, Protector of Argoth",
+      "Tombstone Stairwell",
+      "Tormod's Crypt",
+      "Triplicate Titan",
+      "Troop of Ponies",
+      "True Conviction",
+      "Trystan's Command",
+      "Vampire Gourmand",
+      "Vein Ripper",
+      "Village Rites",
+      "Viscera Seer",
+      "Voldaren Epicure",
+      "Warstorm Surge",
+      "Wild-Field Scarecrow",
+      "Winter Orb",
+      "Wipe Away",
+      "Worn Powerstone",
+      "Wurmcoil Engine",
+      "Yahenni, Undying Partisan",
+      "Yawgmoth, Thran Physician",
+      "Yorion, Sky Nomad",
+      "Zodiark, Umbral God",
+      "Zulaport Cutthroat",
+      "Zur the Enchanter",
+      "Zuran Orb"
+    ],
+    "unmatchedIncidentalCards": []
+  }
+}

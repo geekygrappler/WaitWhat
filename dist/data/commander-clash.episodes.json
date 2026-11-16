@@ -7,9 +7,9 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/d07c1017-87c7-4a75-9a56-995f9a552045/Commander_Clash_Podcast_277_Star_Trek.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "cueSheet": "./data/most-relevant-star-trek-cards-for-commander.cues.json",
     "processed": true,
-    "source": "MTGGoldfish Commander Clash Podcast RSS",
-    "cueSheet": "./data/most-relevant-star-trek-cards-for-commander.cues.json"
+    "source": "MTGGoldfish Commander Clash Podcast RSS"
   },
   {
     "id": "super-spicy-commander-hot-takes",

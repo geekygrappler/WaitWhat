@@ -7,9 +7,9 @@
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/5ce508e4-fb0b-4cf6-970a-0bb000f7fab3/mtggoldfish_podcast_613_WasStarTrekPrereleaseTheWorstEver.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
+    "cueSheet": "./data/was-star-trek-prerelease-the-worst-ever.cues.json",
     "processed": true,
-    "source": "MTGGoldfish Podcast RSS",
-    "cueSheet": "./data/was-star-trek-prerelease-the-worst-ever.cues.json"
+    "source": "MTGGoldfish Podcast RSS"
   },
   {
     "id": "the-star-trek-cards-that-actually-matter",

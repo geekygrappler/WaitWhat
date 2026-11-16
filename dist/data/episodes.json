@@ -1,5 +1,17 @@
 [
   {
+    "id": "the-power-of-sacrifice-graveyard-series",
+    "title": "The Power of Sacrifice | Graveyard Series",
+    "published": "2026-11-16T06:01:00.000Z",
+    "duration": 7231,
+    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/361-The_Power_of_Sacrifice_mixdown.mp3?dest-id=534396",
+    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/the-power-of-sacrifice-graveyard-series",
+    "artwork": "https://static.libsyn.com/p/assets/6/b/9/2/6b9259ecff96fb4b5f2e77a3093c12a1/361-Thumbnail_2000x2000.png",
+    "processed": true,
+    "source": "Legendary Creature Podcast RSS",
+    "cueSheet": "./data/the-power-of-sacrifice-graveyard-series.cues.json"
+  },
+  {
     "id": "digging-your-own-grave-self-mill-graveyard-series",
     "title": "Digging Your Own Grave | Self-Mill | Graveyard Series",
     "published": "2026-11-06T07:44:00.000Z",
@@ -215,17 +227,6 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/342_SOS_Legends_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/secrets-of-strixhaven-legends-review",
     "artwork": "https://static.libsyn.com/p/assets/f/b/8/e/fb8eac77ee8ea5b8d959afa2a1bf1c87/342_Thumbnail_2000x2000.png",
-    "processed": false,
-    "source": "Legendary Creature Podcast RSS"
-  },
-  {
-    "id": "spellslinger-decks-by-listeners",
-    "title": "Spellslinger Decks by Listeners",
-    "published": "2026-04-20T05:00:00.000Z",
-    "duration": 7141,
-    "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/341_Spellslinger_Lists_mixdown.mp3?dest-id=534396",
-    "episodeUrl": "https://legendarycreaturepocast.libsyn.com/spellslinger-decks-by-listeners",
-    "artwork": "https://static.libsyn.com/p/assets/b/b/a/b/bbabdba2ac19f66c16c3140a3186d450/341_Thumbnail_2000x2000.png",
     "processed": false,
     "source": "Legendary Creature Podcast RSS"
   }
