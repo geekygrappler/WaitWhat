@@ -1,5 +1,17 @@
 [
   {
+    "id": "nauctis-underwater-bloomburrow",
+    "title": "Nauctis: Underwater Bloomburrow",
+    "published": "2026-11-16T22:23:02.000Z",
+    "duration": 4027,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/f9dda679-c9eb-4ecb-b7dc-287759e61d15/mtggoldfish_podcast_614_NauctisUnderwaterBloomburrow.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
+    "processed": true,
+    "source": "MTGGoldfish Podcast RSS",
+    "cueSheet": "./data/nauctis-underwater-bloomburrow.cues.json"
+  },
+  {
     "id": "was-star-trek-prerelease-the-worst-ever",
     "title": "Was Star Trek Prerelease the Worst Ever?",
     "published": "2026-11-09T22:12:22.000Z",
@@ -215,17 +227,6 @@
     "published": "2026-07-06T21:45:36.000Z",
     "duration": 4815,
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/89f0fa65-4d2d-4495-8cb2-3dd58d6ea554/mtggoldfish_podcast_595_TheMTGFeelBadTierList.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
-    "processed": false,
-    "source": "MTGGoldfish Podcast RSS"
-  },
-  {
-    "id": "ub-haters-in-shambles-marvel-breaks-into-all-formats",
-    "title": "UB Haters in Shambles, Marvel Breaks Into All Formats",
-    "published": "2026-06-29T20:24:13.000Z",
-    "duration": 3538,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast.mtggoldfish.com/ee26ad4a-0769-429c-ba30-73a8c432f9e4/mtggoldfish_podcast_594_UBHatersInShamblesMarvelBreaksIntoAllFormats.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/af9a2bf7-65e8-406a-8014-27114d4f46a8/podcast-logo-itunes.png",
     "processed": false,

@@ -7,9 +7,9 @@
     "audioUrl": "https://traffic.libsyn.com/secure/legendarycreaturepocast/361-The_Power_of_Sacrifice_mixdown.mp3?dest-id=534396",
     "episodeUrl": "https://legendarycreaturepocast.libsyn.com/the-power-of-sacrifice-graveyard-series",
     "artwork": "https://static.libsyn.com/p/assets/6/b/9/2/6b9259ecff96fb4b5f2e77a3093c12a1/361-Thumbnail_2000x2000.png",
+    "cueSheet": "./data/the-power-of-sacrifice-graveyard-series.cues.json",
     "processed": true,
-    "source": "Legendary Creature Podcast RSS",
-    "cueSheet": "./data/the-power-of-sacrifice-graveyard-series.cues.json"
+    "source": "Legendary Creature Podcast RSS"
   },
   {
     "id": "digging-your-own-grave-self-mill-graveyard-series",

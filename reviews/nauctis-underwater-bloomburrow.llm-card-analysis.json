@@ -1,0 +1,1319 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Nauctis: Underwater Bloomburrow",
+  "chunks": 3,
+  "mentions": [
+    {
+      "canonicalName": "Panharmonicon",
+      "spokenText": "Panermonicons",
+      "role": "incidental",
+      "startSeconds": 136.46,
+      "evidence": "It's the Panermonicons.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Panharmonicon",
+      "spokenText": "Panermonicons",
+      "role": "incidental",
+      "startSeconds": 138.72,
+      "evidence": "I'm the Panermonicons.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Panharmonicon",
+      "spokenText": "Panermonicons",
+      "role": "incidental",
+      "startSeconds": 140.44,
+      "evidence": "they give you both Panermonicons",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Panharmonicon",
+      "spokenText": "Panarmonicon",
+      "role": "incidental",
+      "startSeconds": 143.98,
+      "evidence": "I'm the Panarmonicon guy.",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Venom, Deadly Devourer",
+      "spokenText": "Venom",
+      "role": "incidental",
+      "startSeconds": 399.38,
+      "evidence": "of Venom from Mark Bagley",
+      "confidence": 0.78,
+      "modelName": "Venom, Lethal Protector",
+      "catalogueConfidence": 0.825
+    },
+    {
+      "canonicalName": "Mana Tithe",
+      "spokenText": "manatized",
+      "role": "incidental",
+      "startSeconds": 430.66,
+      "evidence": "set manatized me",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Living Laser",
+      "spokenText": "living laser",
+      "role": "incidental",
+      "startSeconds": 453,
+      "evidence": "every card you discard you copied or something yeah yeah living laser",
+      "confidence": 0.87,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Tithe",
+      "spokenText": "mana time",
+      "role": "incidental",
+      "startSeconds": 477.88,
+      "evidence": "i got him with a mana time",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Tithe",
+      "spokenText": "man in time",
+      "role": "incidental",
+      "startSeconds": 483.54,
+      "evidence": "with the man in time",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Heliod, Sun-Crowned",
+      "spokenText": "Haley of",
+      "role": "incidental",
+      "startSeconds": 550.44,
+      "evidence": "like Haley of Soul Sisters",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shock",
+      "spokenText": "Spock",
+      "role": "incidental",
+      "startSeconds": 722.28,
+      "evidence": "One of them was the new Spock",
+      "confidence": 0.83,
+      "modelName": "Spock",
+      "catalogueConfidence": 0.88
+    },
+    {
+      "canonicalName": "Peace of Mind",
+      "spokenText": "peace in our time",
+      "role": "incidental",
+      "startSeconds": 749.5,
+      "evidence": "peace in our time",
+      "confidence": 0.96,
+      "modelName": "Peace in Our Time",
+      "catalogueConfidence": 0.853
+    },
+    {
+      "canonicalName": "Divine Intervention",
+      "spokenText": "Divine Intervention",
+      "role": "incidental",
+      "startSeconds": 758.92,
+      "evidence": "trying to win with Divine Intervention",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Peace of Mind",
+      "spokenText": "peace in their time",
+      "role": "incidental",
+      "startSeconds": 765.02,
+      "evidence": "to peace in their time",
+      "confidence": 0.95,
+      "modelName": "Peace in Our Time",
+      "catalogueConfidence": 0.853
+    },
+    {
+      "canonicalName": "Jade Idol",
+      "spokenText": "Jadzia decks",
+      "role": "incidental",
+      "startSeconds": 778.9,
+      "evidence": "our team needs 30 copsies of Jadzia decks",
+      "confidence": 0.94,
+      "modelName": "Jadzia Dax",
+      "catalogueConfidence": 0.79
+    },
+    {
+      "canonicalName": "Anthem of Champions",
+      "spokenText": "Anthropological Mission",
+      "role": "incidental",
+      "startSeconds": 813.02,
+      "evidence": "an Anthropological Mission deck that actually won",
+      "confidence": 0.99,
+      "modelName": "Anthropological Mission",
+      "catalogueConfidence": 0.798
+    },
+    {
+      "canonicalName": "Engineered Explosives",
+      "spokenText": "Engineered Explosives",
+      "role": "incidental",
+      "startSeconds": 813.02,
+      "evidence": "with Engineered Explosives in the main deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Destined",
+      "spokenText": "Naked Time",
+      "role": "incidental",
+      "startSeconds": 825.4,
+      "evidence": "Naked Time Self-Bounce managed to make it into the top eight",
+      "confidence": 0.91,
+      "modelName": "The Naked Time",
+      "catalogueConfidence": 0.87
+    },
+    {
+      "canonicalName": "Captain James T. Kirk",
+      "spokenText": "Captain James T. Kirk",
+      "role": "incidental",
+      "startSeconds": 829.74,
+      "evidence": "with Captain James T. Kirk in the deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "The Destined",
+      "spokenText": "Naked Time",
+      "role": "incidental",
+      "startSeconds": 895.84,
+      "evidence": "for Naked Time",
+      "confidence": 0.91,
+      "modelName": "The Naked Time",
+      "catalogueConfidence": 0.87
+    },
+    {
+      "canonicalName": "Anthem of Champions",
+      "spokenText": "Anthropological mission",
+      "role": "incidental",
+      "startSeconds": 903.34,
+      "evidence": "Anthropological mission. That's the hat episode",
+      "confidence": 0.99,
+      "modelName": "Anthropological Mission",
+      "catalogueConfidence": 0.798
+    },
+    {
+      "canonicalName": "Captain James T. Kirk",
+      "spokenText": "Captain James T. Kirk",
+      "role": "incidental",
+      "startSeconds": 926.74,
+      "evidence": "Captain James T. Kirk is playable",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "First Contact",
+      "spokenText": "first contact",
+      "role": "incidental",
+      "startSeconds": 998.84,
+      "evidence": "do you know the name of that first contact",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "First Contact",
+      "spokenText": "first contact",
+      "role": "incidental",
+      "startSeconds": 1002.44,
+      "evidence": "seth mansfield plays first contact",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hazoret the Fervent",
+      "spokenText": "Hazoret",
+      "role": "incidental",
+      "startSeconds": 1171.92,
+      "evidence": "that infamous Hazoret attack punt",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hazoret the Fervent",
+      "spokenText": "hazard",
+      "role": "incidental",
+      "startSeconds": 1211.92,
+      "evidence": "the hazard situation wouldn't be a feel bad",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Explore",
+      "spokenText": "explores",
+      "role": "incidental",
+      "startSeconds": 1523.68,
+      "evidence": "Diddy 2 explores that land in?",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "lightning bolts",
+      "role": "incidental",
+      "startSeconds": 2040.64,
+      "evidence": "she like lightning bolts you",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "Black Lotus",
+      "role": "incidental",
+      "startSeconds": 2187.54,
+      "evidence": "Let's make another Black Lotus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Abyssal Nocturnus",
+      "spokenText": "Abyssal Lotus",
+      "role": "main",
+      "startSeconds": 2192.1,
+      "evidence": "It's called Abyssal Lotus",
+      "confidence": 0.99,
+      "modelName": "Abyssal Lotus",
+      "catalogueConfidence": 0.926
+    },
+    {
+      "canonicalName": "Abyssal Nocturnus",
+      "spokenText": "abysmal, Lotus",
+      "role": "main",
+      "startSeconds": 2209.38,
+      "evidence": "Should be abysmal, Lotus",
+      "confidence": 0.98,
+      "modelName": "Abyssal Lotus",
+      "catalogueConfidence": 0.926
+    },
+    {
+      "canonicalName": "Underworld Breach",
+      "spokenText": "world breachy",
+      "role": "incidental",
+      "startSeconds": 2226.94,
+      "evidence": "world breachy kind of things with it",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lion's Eye Diamond",
+      "spokenText": "Lion's Eye Diamond",
+      "role": "incidental",
+      "startSeconds": 2241.8,
+      "evidence": "when they spoiled Lion's Eye Diamond",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "Black Lotus",
+      "role": "incidental",
+      "startSeconds": 2245.58,
+      "evidence": "a Black Lotus that forced you to discard your hand",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Abyssal Nocturnus",
+      "spokenText": "abysmal Lotus",
+      "role": "main",
+      "startSeconds": 2279.02,
+      "evidence": "I think it is abysmal Lotus",
+      "confidence": 0.98,
+      "modelName": "Abyssal Lotus",
+      "catalogueConfidence": 0.926
+    },
+    {
+      "canonicalName": "Weapons Manufacturing",
+      "spokenText": "weaponized manufacturing",
+      "role": "incidental",
+      "startSeconds": 2284.14,
+      "evidence": "let's talk about uh weaponized manufacturing",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Engineered Explosives",
+      "spokenText": "engineered explosives",
+      "role": "incidental",
+      "startSeconds": 2291.5,
+      "evidence": "engineered explosives right",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "black lotus",
+      "role": "incidental",
+      "startSeconds": 2327.02,
+      "evidence": "you're actually thinking black lotus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lotus Bloom",
+      "spokenText": "lotus bloom",
+      "role": "incidental",
+      "startSeconds": 2337.82,
+      "evidence": "the lotus bloom where you suspend it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "black lotus",
+      "role": "incidental",
+      "startSeconds": 2343.6,
+      "evidence": "it's not a like a black lotus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "black lotus",
+      "role": "incidental",
+      "startSeconds": 2369.52,
+      "evidence": "the power of something like black lotus",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "black lotus",
+      "role": "incidental",
+      "startSeconds": 2374.24,
+      "evidence": "any deck that you could legally put black lotus in",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Black Lotus",
+      "spokenText": "black lotus",
+      "role": "incidental",
+      "startSeconds": 2378.78,
+      "evidence": "with a copy of black lotus in it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lion's Eye Diamond",
+      "spokenText": "lion's eye diamond",
+      "role": "incidental",
+      "startSeconds": 2383.1,
+      "evidence": "like lion's eye diamond",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lotus Bloom",
+      "spokenText": "lotus bloom",
+      "role": "incidental",
+      "startSeconds": 2383.1,
+      "evidence": "or like a lotus bloom",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Weapons Manufacturing",
+      "spokenText": "weapons manufacturing",
+      "role": "incidental",
+      "startSeconds": 2402.06,
+      "evidence": "you mentioned weapons manufacturing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mox Jasper",
+      "spokenText": "mox jasper",
+      "role": "incidental",
+      "startSeconds": 2405.76,
+      "evidence": "people playing mox jasper",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Weapons Manufacturing",
+      "spokenText": "weapons manufacturing",
+      "role": "incidental",
+      "startSeconds": 2405.76,
+      "evidence": "in their weapons manufacturing bags",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darksteel Relic",
+      "spokenText": "dark steel relic",
+      "role": "incidental",
+      "startSeconds": 2410.58,
+      "evidence": "it's actually just a dark steel relic",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Commander's Sphere",
+      "spokenText": "Commander Sphere",
+      "role": "incidental",
+      "startSeconds": 2437.68,
+      "evidence": "Give me a Commander Sphere",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Calim, Djinn Emperor",
+      "spokenText": "Calm Water Mentor",
+      "role": "main",
+      "startSeconds": 2445.94,
+      "evidence": "Calm Water Mentor",
+      "confidence": 0.93,
+      "modelName": "Calmwater Mentor",
+      "catalogueConfidence": 0.817
+    },
+    {
+      "canonicalName": "Ranger-Captain of Eos",
+      "spokenText": "Ranger, Captain of Eos",
+      "role": "incidental",
+      "startSeconds": 2476.22,
+      "evidence": "Ranger, Captain of Eos",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ranger of Eos",
+      "spokenText": "Ranger of Eos",
+      "role": "incidental",
+      "startSeconds": 2478.06,
+      "evidence": "or Ranger of Eos",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kiki-Jiki, Mirror Breaker",
+      "spokenText": "kiki jeeky",
+      "role": "incidental",
+      "startSeconds": 2482.3,
+      "evidence": "five drops like a kiki jeeky",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Splinter Twin",
+      "spokenText": "splinter twin",
+      "role": "incidental",
+      "startSeconds": 2486.74,
+      "evidence": "the full splinter twin combo",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jumbo Cactuar",
+      "spokenText": "Jumbo Cactar",
+      "role": "incidental",
+      "startSeconds": 2525.52,
+      "evidence": "You get Jumbo Cactar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jumbo Cactuar",
+      "spokenText": "Jumbo Cactar",
+      "role": "incidental",
+      "startSeconds": 2526.76,
+      "evidence": "Jumbo Cactar. Get him",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jumbo Cactuar",
+      "spokenText": "Jumbo Cactar",
+      "role": "incidental",
+      "startSeconds": 2528.64,
+      "evidence": "Jumbo Cactar",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hangarback Walker",
+      "spokenText": "Hangar Back Walker",
+      "role": "incidental",
+      "startSeconds": 2530.04,
+      "evidence": "You can get the Hangar Back Walker",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Starscape Cleric",
+      "spokenText": "Starscape Cleric",
+      "role": "incidental",
+      "startSeconds": 2545.3,
+      "evidence": "get your Starscape Cleric to drain him",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flickering Hound",
+      "spokenText": "Flickering Hound",
+      "role": "incidental",
+      "startSeconds": 2549.8,
+      "evidence": "play this with Flickering Hound",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Flickering Hound",
+      "spokenText": "Flickering Hound",
+      "role": "incidental",
+      "startSeconds": 2551.42,
+      "evidence": "tutor up the Flickering Hound",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ranger of Eos",
+      "spokenText": "Ranger Vos",
+      "role": "incidental",
+      "startSeconds": 2557.76,
+      "evidence": "if you're playing Ranger Vos",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Abyssal Nocturnus",
+      "spokenText": "abyssal lotus",
+      "role": "incidental",
+      "startSeconds": 2585.8,
+      "evidence": "maybe abyssal lotus excluded",
+      "confidence": 1,
+      "modelName": "Abyssal Lotus",
+      "catalogueConfidence": 0.926
+    },
+    {
+      "canonicalName": "Badgermole Cub",
+      "spokenText": "badger mole",
+      "role": "incidental",
+      "startSeconds": 2676,
+      "evidence": "a two drop like badger mole",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ragavan, Nimble Pilferer",
+      "spokenText": "Raghavan",
+      "role": "incidental",
+      "startSeconds": 2681.9,
+      "evidence": "one drop like Raghavan",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Kiki-Jiki, Mirror Breaker",
+      "spokenText": "Kiki-Diki",
+      "role": "incidental",
+      "startSeconds": 2691.9,
+      "evidence": "get my Kiki-Diki",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deceiver Exarch",
+      "spokenText": "Deceive Rex",
+      "role": "incidental",
+      "startSeconds": 2693.88,
+      "evidence": "Deceive Rex or whatever",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sauron, the Necromancer",
+      "spokenText": "Saline",
+      "role": "main",
+      "startSeconds": 2708.6,
+      "evidence": "Saline. Saline. The Ocean Mother",
+      "confidence": 0.75,
+      "modelName": "Saline, the Ocean Mother",
+      "catalogueConfidence": 0.799
+    },
+    {
+      "canonicalName": "Nykthos, Shrine to Nyx",
+      "spokenText": "nick those",
+      "role": "incidental",
+      "startSeconds": 2777.9,
+      "evidence": "tasa god of the sea and nick those",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thassa, God of the Sea",
+      "spokenText": "tasa god of the sea",
+      "role": "incidental",
+      "startSeconds": 2777.9,
+      "evidence": "think back to tasa god of the sea",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Master of Waves",
+      "spokenText": "Master Waves",
+      "role": "incidental",
+      "startSeconds": 2805.68,
+      "evidence": "Master Waves with this thing",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Fblthp, the Lost",
+      "spokenText": "Flibblefip",
+      "role": "incidental",
+      "startSeconds": 2809.86,
+      "evidence": "I have Monoblue Flibblefip",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Panharmonicon",
+      "spokenText": "Panarmonicon",
+      "role": "incidental",
+      "startSeconds": 2813.44,
+      "evidence": "a cool Panarmonicon commander",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Panharmonicon",
+      "spokenText": "Panarmonicon",
+      "role": "incidental",
+      "startSeconds": 2818.96,
+      "evidence": "double trigger with Panarmonicon",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Roaming Throne",
+      "spokenText": "Roaming Throne",
+      "role": "incidental",
+      "startSeconds": 2818.96,
+      "evidence": "double triggers with Roaming Throne",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mulldrifter",
+      "spokenText": "Muldrifters",
+      "role": "incidental",
+      "startSeconds": 2823.1,
+      "evidence": "play with a bunch of Muldrifters",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doom Blade",
+      "spokenText": "doom blade",
+      "role": "incidental",
+      "startSeconds": 2856.02,
+      "evidence": "dies to doom blade",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sauron, the Necromancer",
+      "spokenText": "ocean mother",
+      "role": "main",
+      "startSeconds": 2859.18,
+      "evidence": "fish don't help regenerate the ocean mother",
+      "confidence": 0.75,
+      "modelName": "Saline, the Ocean Mother",
+      "catalogueConfidence": 0.799
+    },
+    {
+      "canonicalName": "Doom Blade",
+      "spokenText": "do blade",
+      "role": "incidental",
+      "startSeconds": 2867.08,
+      "evidence": "they do blade it",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Master of Waves",
+      "spokenText": "master of waves",
+      "role": "incidental",
+      "startSeconds": 2878.02,
+      "evidence": "just play master of waves",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Diamond Weapon",
+      "spokenText": "Diamond",
+      "role": "incidental",
+      "startSeconds": 2923.96,
+      "evidence": "Diamond. What was the one from Final Fantasy?",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Diamond Weapon",
+      "spokenText": "Diamond weapon",
+      "role": "incidental",
+      "startSeconds": 2929.44,
+      "evidence": "Diamond weapon",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tectonic Giant",
+      "spokenText": "Tecton",
+      "role": "main",
+      "startSeconds": 3014.38,
+      "evidence": "Tecton. Tecton. Malignant Ruin",
+      "confidence": 0.85,
+      "modelName": "Tecton, Malignant Ruin",
+      "catalogueConfidence": 0.856
+    },
+    {
+      "canonicalName": "Korvold, Fae-Cursed King",
+      "spokenText": "Corvald",
+      "role": "incidental",
+      "startSeconds": 3035.24,
+      "evidence": "Monoblack Corvald, dude",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Korvold, Fae-Cursed King",
+      "spokenText": "Corvald",
+      "role": "incidental",
+      "startSeconds": 3039.26,
+      "evidence": "this is a Corvald",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Matter Manipulator",
+      "spokenText": "Dark Matter Manipulator",
+      "role": "incidental",
+      "startSeconds": 3067.98,
+      "evidence": "some sort of Dark Matter Manipulator",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "Dark Light Phoenix",
+      "role": "incidental",
+      "startSeconds": 3071.6,
+      "evidence": "Dark Light Phoenix style shell",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "Dark Lights",
+      "role": "incidental",
+      "startSeconds": 3075.86,
+      "evidence": "sack the Dark Lights or get them back",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "Dark Lights",
+      "role": "incidental",
+      "startSeconds": 3078.18,
+      "evidence": "sack things to get back the Dark Lights",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Korvold, Fae-Cursed King",
+      "spokenText": "Korvald",
+      "role": "incidental",
+      "startSeconds": 3083.22,
+      "evidence": "we saw Korvald",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cauldron Familiar",
+      "spokenText": "Chulandran Familiar",
+      "role": "incidental",
+      "startSeconds": 3086.2,
+      "evidence": "Witches, Oven, Chulandran Familiar decks",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Witch's Oven",
+      "spokenText": "Witches, Oven",
+      "role": "incidental",
+      "startSeconds": 3086.2,
+      "evidence": "the Witches, Oven, Chulandran Familiar decks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Dark Matter Manipulator",
+      "spokenText": "Dark Matter Manipulator",
+      "role": "incidental",
+      "startSeconds": 3109.34,
+      "evidence": "Darklight Phoenix, Dark Matter Manipulator",
+      "confidence": 0.95,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Darklight Phoenix",
+      "spokenText": "Darklight Phoenix",
+      "role": "incidental",
+      "startSeconds": 3109.34,
+      "evidence": "with Darklight Phoenix, Dark Matter Manipulator",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sauron, the Necromancer",
+      "spokenText": "Ocean Mother",
+      "role": "incidental",
+      "startSeconds": 3141.52,
+      "evidence": "better than the Ocean Mother",
+      "confidence": 0.75,
+      "modelName": "Saline, the Ocean Mother",
+      "catalogueConfidence": 0.799
+    },
+    {
+      "canonicalName": "Satyr Wayfinder",
+      "spokenText": "Sater Wayfinders",
+      "role": "incidental",
+      "startSeconds": 3148.24,
+      "evidence": "two Sater Wayfinders",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Arclight Phoenix",
+      "spokenText": "art light phoenix",
+      "role": "incidental",
+      "startSeconds": 3158.16,
+      "evidence": "like art light phoenix whatever",
+      "confidence": 0.94,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doom Blade",
+      "spokenText": "doombladed",
+      "role": "incidental",
+      "startSeconds": 3180.26,
+      "evidence": "doombladed, you can sac things",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Abyssal Nocturnus",
+      "spokenText": "Abyssal Lotus",
+      "role": "incidental",
+      "startSeconds": 3188.66,
+      "evidence": "Maybe you sac that Abyssal Lotus",
+      "confidence": 1,
+      "modelName": "Abyssal Lotus",
+      "catalogueConfidence": 0.926
+    },
+    {
+      "canonicalName": "Ghost Vacuum",
+      "spokenText": "ghost vacuuming",
+      "role": "incidental",
+      "startSeconds": 3200.5,
+      "evidence": "they're ghost vacuuming all your stuff",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Leyline of the Void",
+      "spokenText": "ley line",
+      "role": "incidental",
+      "startSeconds": 3200.5,
+      "evidence": "graveyard ... they have a ley line",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rest in Peace",
+      "spokenText": "rest in peace",
+      "role": "incidental",
+      "startSeconds": 3208.54,
+      "evidence": "A rest in peace",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rest in Peace",
+      "spokenText": "rest in peace",
+      "role": "incidental",
+      "startSeconds": 3209.72,
+      "evidence": "A rest in peace",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hogaak, Arisen Necropolis",
+      "spokenText": "Hogak",
+      "role": "incidental",
+      "startSeconds": 3212.64,
+      "evidence": "reminds me of Hogak",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Korvold, Fae-Cursed King",
+      "spokenText": "Korvald",
+      "role": "incidental",
+      "startSeconds": 3218.28,
+      "evidence": "the Korvald ability",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tectonic Giant",
+      "spokenText": "Tekton",
+      "role": "main",
+      "startSeconds": 3228.62,
+      "evidence": "Tekton is actually more likely to see 60 card play",
+      "confidence": 0.85,
+      "modelName": "Tecton, Malignant Ruin",
+      "catalogueConfidence": 0.856
+    },
+    {
+      "canonicalName": "Goremand",
+      "spokenText": "Goromal",
+      "role": "main",
+      "startSeconds": 3238.02,
+      "evidence": "best. Goromal. Legendary",
+      "confidence": 0.65,
+      "modelName": "Goromal",
+      "catalogueConfidence": 0.846
+    },
+    {
+      "canonicalName": "Jaws, Relentless Predator",
+      "spokenText": "Jaws",
+      "role": "incidental",
+      "startSeconds": 3289.8,
+      "evidence": "Jaws, this is where it's getting reprinted",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Jaws, Relentless Predator",
+      "spokenText": "draws",
+      "role": "incidental",
+      "startSeconds": 3298,
+      "evidence": "that draws cards like 300 now",
+      "confidence": 0.75,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Seismic Assault",
+      "spokenText": "seismic assault",
+      "role": "incidental",
+      "startSeconds": 3302.88,
+      "evidence": "i love seismic assault decks",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ayula's Influence",
+      "spokenText": "aula's influence",
+      "role": "incidental",
+      "startSeconds": 3308.44,
+      "evidence": "aula's influence the green one",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Swans of Bryn Argoll",
+      "spokenText": "swans",
+      "role": "incidental",
+      "startSeconds": 3308.44,
+      "evidence": "hit my swans draw some cards",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Faldorn, Dread Wolf Herald",
+      "spokenText": "feldorn",
+      "role": "incidental",
+      "startSeconds": 3318.4,
+      "evidence": "feldorn is in the right colors",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Prosper, Tome-Bound",
+      "spokenText": "prosper",
+      "role": "incidental",
+      "startSeconds": 3318.4,
+      "evidence": "it also works with prosper",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rest in Peace",
+      "spokenText": "rest in peace",
+      "role": "incidental",
+      "startSeconds": 3355.6,
+      "evidence": "they rest in peace to me",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Strike",
+      "spokenText": "lightning strikes",
+      "role": "incidental",
+      "startSeconds": 3377.46,
+      "evidence": "live past ... the lightning strikes",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Amulet of Vigor",
+      "spokenText": "amulet",
+      "role": "incidental",
+      "startSeconds": 3444.12,
+      "evidence": "So you need to amulet too",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Rampaging Baloths",
+      "spokenText": "rampaging bait loss",
+      "role": "incidental",
+      "startSeconds": 3451.08,
+      "evidence": "stack up rampaging bait loss",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shadow of the Goblin",
+      "spokenText": "shadow of the goblin",
+      "role": "incidental",
+      "startSeconds": 3458.24,
+      "evidence": "you've also got shadow of the goblin",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Faldorn, Dread Wolf Herald",
+      "spokenText": "Feldorne",
+      "role": "incidental",
+      "startSeconds": 3486.36,
+      "evidence": "does work with Feldorne",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Faldorn, Dread Wolf Herald",
+      "spokenText": "Feldorne",
+      "role": "incidental",
+      "startSeconds": 3489,
+      "evidence": "doesn't work with Feldorne",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cool but Rude",
+      "spokenText": "cool but rude",
+      "role": "incidental",
+      "startSeconds": 3491.08,
+      "evidence": "we do have, like, cool but rude monuments",
+      "confidence": 0.79,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Wheel of Fortune",
+      "spokenText": "reel a fortune",
+      "role": "incidental",
+      "startSeconds": 3502.38,
+      "evidence": "You can't reel a fortune ... get all your lands",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Shimmering Mirage",
+      "spokenText": "Shimmering Citadel",
+      "role": "main",
+      "startSeconds": 3512.38,
+      "evidence": "Shimmering Citadel. This land enters tapped",
+      "confidence": 0.99,
+      "modelName": "Shimmering Citadel",
+      "catalogueConfidence": 0.92
+    }
+  ],
+  "mainCards": [
+    "Abyssal Nocturnus",
+    "Calim, Djinn Emperor",
+    "Goremand",
+    "Sauron, the Necromancer",
+    "Shimmering Mirage",
+    "Tectonic Giant"
+  ],
+  "incidentalCards": [
+    "Amulet of Vigor",
+    "Anthem of Champions",
+    "Arclight Phoenix",
+    "Ayula's Influence",
+    "Badgermole Cub",
+    "Black Lotus",
+    "Captain James T. Kirk",
+    "Cauldron Familiar",
+    "Commander's Sphere",
+    "Cool but Rude",
+    "Dark Matter Manipulator",
+    "Darklight Phoenix",
+    "Darksteel Relic",
+    "Deceiver Exarch",
+    "Diamond Weapon",
+    "Divine Intervention",
+    "Doom Blade",
+    "Engineered Explosives",
+    "Explore",
+    "Faldorn, Dread Wolf Herald",
+    "Fblthp, the Lost",
+    "First Contact",
+    "Flickering Hound",
+    "Ghost Vacuum",
+    "Hangarback Walker",
+    "Hazoret the Fervent",
+    "Heliod, Sun-Crowned",
+    "Hogaak, Arisen Necropolis",
+    "Jade Idol",
+    "Jaws, Relentless Predator",
+    "Jumbo Cactuar",
+    "Kiki-Jiki, Mirror Breaker",
+    "Korvold, Fae-Cursed King",
+    "Leyline of the Void",
+    "Lightning Bolt",
+    "Lightning Strike",
+    "Lion's Eye Diamond",
+    "Living Laser",
+    "Lotus Bloom",
+    "Mana Tithe",
+    "Master of Waves",
+    "Mox Jasper",
+    "Mulldrifter",
+    "Nykthos, Shrine to Nyx",
+    "Panharmonicon",
+    "Peace of Mind",
+    "Prosper, Tome-Bound",
+    "Ragavan, Nimble Pilferer",
+    "Rampaging Baloths",
+    "Ranger of Eos",
+    "Ranger-Captain of Eos",
+    "Rest in Peace",
+    "Roaming Throne",
+    "Satyr Wayfinder",
+    "Seismic Assault",
+    "Shadow of the Goblin",
+    "Shock",
+    "Splinter Twin",
+    "Starscape Cleric",
+    "Swans of Bryn Argoll",
+    "Thassa, God of the Sea",
+    "The Destined",
+    "Underworld Breach",
+    "Venom, Deadly Devourer",
+    "Weapons Manufacturing",
+    "Wheel of Fortune",
+    "Witch's Oven"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 22,
+    "unresolvedMentions": []
+  },
+  "validation": {
+    "matchedMainCards": [
+      "Abyssal Nocturnus",
+      "Calim, Djinn Emperor",
+      "Goremand",
+      "Sauron, the Necromancer",
+      "Shimmering Mirage",
+      "Tectonic Giant"
+    ],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Amulet of Vigor",
+      "Anthem of Champions",
+      "Arclight Phoenix",
+      "Ayula's Influence",
+      "Badgermole Cub",
+      "Black Lotus",
+      "Captain James T. Kirk",
+      "Cauldron Familiar",
+      "Commander's Sphere",
+      "Cool but Rude",
+      "Dark Matter Manipulator",
+      "Darklight Phoenix",
+      "Darksteel Relic",
+      "Deceiver Exarch",
+      "Diamond Weapon",
+      "Divine Intervention",
+      "Doom Blade",
+      "Engineered Explosives",
+      "Explore",
+      "Faldorn, Dread Wolf Herald",
+      "Fblthp, the Lost",
+      "First Contact",
+      "Flickering Hound",
+      "Ghost Vacuum",
+      "Hangarback Walker",
+      "Hazoret the Fervent",
+      "Heliod, Sun-Crowned",
+      "Hogaak, Arisen Necropolis",
+      "Jade Idol",
+      "Jaws, Relentless Predator",
+      "Jumbo Cactuar",
+      "Kiki-Jiki, Mirror Breaker",
+      "Korvold, Fae-Cursed King",
+      "Leyline of the Void",
+      "Lightning Bolt",
+      "Lightning Strike",
+      "Lion's Eye Diamond",
+      "Living Laser",
+      "Lotus Bloom",
+      "Mana Tithe",
+      "Master of Waves",
+      "Mox Jasper",
+      "Mulldrifter",
+      "Nykthos, Shrine to Nyx",
+      "Panharmonicon",
+      "Peace of Mind",
+      "Prosper, Tome-Bound",
+      "Ragavan, Nimble Pilferer",
+      "Rampaging Baloths",
+      "Ranger of Eos",
+      "Ranger-Captain of Eos",
+      "Rest in Peace",
+      "Roaming Throne",
+      "Satyr Wayfinder",
+      "Seismic Assault",
+      "Shadow of the Goblin",
+      "Shock",
+      "Splinter Twin",
+      "Starscape Cleric",
+      "Swans of Bryn Argoll",
+      "Thassa, God of the Sea",
+      "The Destined",
+      "Underworld Breach",
+      "Venom, Deadly Devourer",
+      "Weapons Manufacturing",
+      "Wheel of Fortune",
+      "Witch's Oven"
+    ],
+    "unmatchedIncidentalCards": []
+  }
+}

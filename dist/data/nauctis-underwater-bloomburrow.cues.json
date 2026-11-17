@@ -1,0 +1,3564 @@
+[
+  {
+    "track": "mentioned",
+    "start": 136.46,
+    "end": 166.46,
+    "cardId": "15856326-d943-476a-9d31-898b9f990bb6",
+    "cardName": "Panharmonicon",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Panharmonicon",
+      "manaCost": "{4}",
+      "typeLine": "Artifact",
+      "oracleText": "If an artifact or creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+      "image": "https://cards.scryfall.io/normal/front/1/5/15856326-d943-476a-9d31-898b9f990bb6.jpg?1783937152"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 138.72,
+    "end": 168.72,
+    "cardId": "15856326-d943-476a-9d31-898b9f990bb6",
+    "cardName": "Panharmonicon",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Panharmonicon",
+      "manaCost": "{4}",
+      "typeLine": "Artifact",
+      "oracleText": "If an artifact or creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+      "image": "https://cards.scryfall.io/normal/front/1/5/15856326-d943-476a-9d31-898b9f990bb6.jpg?1783937152"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 140.44,
+    "end": 170.44,
+    "cardId": "15856326-d943-476a-9d31-898b9f990bb6",
+    "cardName": "Panharmonicon",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Panharmonicon",
+      "manaCost": "{4}",
+      "typeLine": "Artifact",
+      "oracleText": "If an artifact or creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+      "image": "https://cards.scryfall.io/normal/front/1/5/15856326-d943-476a-9d31-898b9f990bb6.jpg?1783937152"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 143.98,
+    "end": 173.98,
+    "cardId": "15856326-d943-476a-9d31-898b9f990bb6",
+    "cardName": "Panharmonicon",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Panharmonicon",
+      "manaCost": "{4}",
+      "typeLine": "Artifact",
+      "oracleText": "If an artifact or creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+      "image": "https://cards.scryfall.io/normal/front/1/5/15856326-d943-476a-9d31-898b9f990bb6.jpg?1783937152"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 399.38,
+    "end": 429.38,
+    "cardId": "7d2cb243-08a7-47c9-9d71-7748c499ac30",
+    "cardName": "Venom, Deadly Devourer",
+    "confidence": 0.78,
+    "needsReview": true,
+    "card": {
+      "name": "Venom, Deadly Devourer",
+      "manaCost": "{2}{B}{G}",
+      "typeLine": "Legendary Creature — Symbiote Villain",
+      "oracleText": "Vigilance, menace\n{3}: Exile target creature card from a graveyard. When you do, put X +1/+1 counters on target Symbiote, where X is the exiled card's toughness.",
+      "image": "https://cards.scryfall.io/normal/front/7/d/7d2cb243-08a7-47c9-9d71-7748c499ac30.jpg?1783905368"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 430.66,
+    "end": 460.66,
+    "cardId": "7d48d622-f397-4f31-b1a5-0c23f60aa71c",
+    "cardName": "Mana Tithe",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Tithe",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell unless its controller pays {1}.",
+      "image": "https://cards.scryfall.io/normal/front/7/d/7d48d622-f397-4f31-b1a5-0c23f60aa71c.jpg?1783943165"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 453,
+    "end": 483,
+    "cardId": "a8bac351-8606-4815-a4b1-4c46ec352673",
+    "cardName": "Living Laser",
+    "confidence": 0.87,
+    "needsReview": true,
+    "card": {
+      "name": "Living Laser",
+      "manaCost": "{4}{R}",
+      "typeLine": "Legendary Creature — Elemental Villain",
+      "oracleText": "Haste\nWhenever Living Laser attacks, for each card you've discarded this turn, create a token that's a copy of Living Laser, except the token isn't legendary. The tokens enter tapped and attacking. Exile the tokens at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/a/8/a8bac351-8606-4815-a4b1-4c46ec352673.jpg?1783903158"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 477.88,
+    "end": 507.88,
+    "cardId": "7d48d622-f397-4f31-b1a5-0c23f60aa71c",
+    "cardName": "Mana Tithe",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Tithe",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell unless its controller pays {1}.",
+      "image": "https://cards.scryfall.io/normal/front/7/d/7d48d622-f397-4f31-b1a5-0c23f60aa71c.jpg?1783943165"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 483.54,
+    "end": 513.54,
+    "cardId": "7d48d622-f397-4f31-b1a5-0c23f60aa71c",
+    "cardName": "Mana Tithe",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Tithe",
+      "manaCost": "{W}",
+      "typeLine": "Instant",
+      "oracleText": "Counter target spell unless its controller pays {1}.",
+      "image": "https://cards.scryfall.io/normal/front/7/d/7d48d622-f397-4f31-b1a5-0c23f60aa71c.jpg?1783943165"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 550.44,
+    "end": 580.44,
+    "cardId": "01a8576e-cadc-4521-aadd-3a05f0bc4d20",
+    "cardName": "Heliod, Sun-Crowned",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Heliod, Sun-Crowned",
+      "manaCost": "{2}{W}",
+      "typeLine": "Legendary Enchantment Creature — God",
+      "oracleText": "Indestructible\nAs long as your devotion to white is less than five, Heliod isn't a creature.\nWhenever you gain life, put a +1/+1 counter on target creature or enchantment you control.\n{1}{W}: Another target creature gains lifelink until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/0/1/01a8576e-cadc-4521-aadd-3a05f0bc4d20.jpg?1783931597"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 722.28,
+    "end": 752.28,
+    "cardId": "f9b2ff2a-6dfe-4635-8da2-22d525e82b94",
+    "cardName": "Shock",
+    "confidence": 0.83,
+    "needsReview": true,
+    "card": {
+      "name": "Shock",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Shock deals 2 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/f/9/f9b2ff2a-6dfe-4635-8da2-22d525e82b94.jpg?1783946552"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 749.5,
+    "end": 779.5,
+    "cardId": "c383f12f-da06-4ef0-bf8e-6a8a9cfcc74c",
+    "cardName": "Peace of Mind",
+    "confidence": 0.853,
+    "needsReview": true,
+    "card": {
+      "name": "Peace of Mind",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "{W}, Discard a card: You gain 3 life.",
+      "image": "https://cards.scryfall.io/normal/front/c/3/c383f12f-da06-4ef0-bf8e-6a8a9cfcc74c.jpg?1783946529"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 758.92,
+    "end": 788.92,
+    "cardId": "9eae0ba1-1383-4505-b4e7-4f17dd8f20c5",
+    "cardName": "Divine Intervention",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Divine Intervention",
+      "manaCost": "{6}{W}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "This enchantment enters with two intervention counters on it.\nAt the beginning of your upkeep, remove an intervention counter from this enchantment.\nWhen you remove the last intervention counter from this enchantment, the game is a draw.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9eae0ba1-1383-4505-b4e7-4f17dd8f20c5.jpg?1783948087"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 765.02,
+    "end": 795.02,
+    "cardId": "c383f12f-da06-4ef0-bf8e-6a8a9cfcc74c",
+    "cardName": "Peace of Mind",
+    "confidence": 0.853,
+    "needsReview": true,
+    "card": {
+      "name": "Peace of Mind",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "{W}, Discard a card: You gain 3 life.",
+      "image": "https://cards.scryfall.io/normal/front/c/3/c383f12f-da06-4ef0-bf8e-6a8a9cfcc74c.jpg?1783946529"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 778.9,
+    "end": 808.9,
+    "cardId": "a58f63c5-cdc5-4079-a727-cff45668d546",
+    "cardName": "Jade Idol",
+    "confidence": 0.79,
+    "needsReview": true,
+    "card": {
+      "name": "Jade Idol",
+      "manaCost": "{4}",
+      "typeLine": "Artifact",
+      "oracleText": "Whenever you cast a Spirit or Arcane spell, this artifact becomes a 4/4 Spirit artifact creature until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/a/5/a58f63c5-cdc5-4079-a727-cff45668d546.jpg?1783944278"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 813.02,
+    "end": 843.02,
+    "cardId": "42fe3a40-9cbe-4235-86f9-32576aaebba8",
+    "cardName": "Anthem of Champions",
+    "confidence": 0.798,
+    "needsReview": true,
+    "card": {
+      "name": "Anthem of Champions",
+      "manaCost": "{G}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Creatures you control get +1/+1.",
+      "image": "https://cards.scryfall.io/normal/front/4/2/42fe3a40-9cbe-4235-86f9-32576aaebba8.jpg?1783909093"
+    },
+    "cards": [
+      {
+        "cardId": "42fe3a40-9cbe-4235-86f9-32576aaebba8",
+        "cardName": "Anthem of Champions",
+        "confidence": 0.798,
+        "needsReview": true,
+        "card": {
+          "name": "Anthem of Champions",
+          "manaCost": "{G}{W}",
+          "typeLine": "Enchantment",
+          "oracleText": "Creatures you control get +1/+1.",
+          "image": "https://cards.scryfall.io/normal/front/4/2/42fe3a40-9cbe-4235-86f9-32576aaebba8.jpg?1783909093"
+        }
+      },
+      {
+        "cardId": "8492a272-e595-4f94-a6eb-08d29f211fd6",
+        "cardName": "Engineered Explosives",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Engineered Explosives",
+          "manaCost": "{X}",
+          "typeLine": "Artifact",
+          "oracleText": "Sunburst (This artifact enters with a charge counter on it for each color of mana spent to cast it.)\n{2}, Sacrifice this artifact: Destroy each nonland permanent with mana value equal to the number of charge counters on this artifact.",
+          "image": "https://cards.scryfall.io/normal/front/8/4/8492a272-e595-4f94-a6eb-08d29f211fd6.jpg?1783944383"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 825.4,
+    "end": 855.4,
+    "cardId": "80c9f81c-a6d7-4ffd-b2c8-01ef025b272f",
+    "cardName": "The Destined",
+    "confidence": 0.87,
+    "needsReview": true,
+    "card": {
+      "name": "The Destined",
+      "manaCost": "",
+      "typeLine": "Hero",
+      "oracleText": "Spells you control that target a creature you control cost {2} less to cast.",
+      "image": "https://cards.scryfall.io/normal/front/8/0/80c9f81c-a6d7-4ffd-b2c8-01ef025b272f.jpg?1783939394"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 829.74,
+    "end": 859.74,
+    "cardId": "40a0466d-20bb-4ed5-858d-947fb9144580",
+    "cardName": "Captain James T. Kirk",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Captain James T. Kirk",
+      "manaCost": "{2}{R}",
+      "typeLine": "Legendary Creature — Human Officer",
+      "oracleText": "Whenever Captain Kirk enters or attacks, choose one. If you have no cards in hand, choose one or more instead.\n• Discard a card, then draw a card.\n• Create a 1/1 red Officer creature token.\n• Creatures you control get +1/+0 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/4/0/40a0466d-20bb-4ed5-858d-947fb9144580.jpg?1784036779"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 895.84,
+    "end": 925.84,
+    "cardId": "80c9f81c-a6d7-4ffd-b2c8-01ef025b272f",
+    "cardName": "The Destined",
+    "confidence": 0.87,
+    "needsReview": true,
+    "card": {
+      "name": "The Destined",
+      "manaCost": "",
+      "typeLine": "Hero",
+      "oracleText": "Spells you control that target a creature you control cost {2} less to cast.",
+      "image": "https://cards.scryfall.io/normal/front/8/0/80c9f81c-a6d7-4ffd-b2c8-01ef025b272f.jpg?1783939394"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 903.34,
+    "end": 933.34,
+    "cardId": "42fe3a40-9cbe-4235-86f9-32576aaebba8",
+    "cardName": "Anthem of Champions",
+    "confidence": 0.798,
+    "needsReview": true,
+    "card": {
+      "name": "Anthem of Champions",
+      "manaCost": "{G}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Creatures you control get +1/+1.",
+      "image": "https://cards.scryfall.io/normal/front/4/2/42fe3a40-9cbe-4235-86f9-32576aaebba8.jpg?1783909093"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 926.74,
+    "end": 956.74,
+    "cardId": "40a0466d-20bb-4ed5-858d-947fb9144580",
+    "cardName": "Captain James T. Kirk",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Captain James T. Kirk",
+      "manaCost": "{2}{R}",
+      "typeLine": "Legendary Creature — Human Officer",
+      "oracleText": "Whenever Captain Kirk enters or attacks, choose one. If you have no cards in hand, choose one or more instead.\n• Discard a card, then draw a card.\n• Create a 1/1 red Officer creature token.\n• Creatures you control get +1/+0 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/4/0/40a0466d-20bb-4ed5-858d-947fb9144580.jpg?1784036779"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 998.84,
+    "end": 1028.8400000000001,
+    "cardId": "5407e8f4-0c8e-4e66-9d2f-f22277aa38f4",
+    "cardName": "First Contact",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "First Contact",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Mill four cards. You may put a permanent card from among them into your hand. If this spell is the first spell you've cast this game, you gain 2 life. (To mill four cards, put the top four cards of your library into your graveyard.)",
+      "image": "https://cards.scryfall.io/normal/front/5/4/5407e8f4-0c8e-4e66-9d2f-f22277aa38f4.jpg?1785981580"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1002.44,
+    "end": 1032.44,
+    "cardId": "5407e8f4-0c8e-4e66-9d2f-f22277aa38f4",
+    "cardName": "First Contact",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "First Contact",
+      "manaCost": "{1}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Mill four cards. You may put a permanent card from among them into your hand. If this spell is the first spell you've cast this game, you gain 2 life. (To mill four cards, put the top four cards of your library into your graveyard.)",
+      "image": "https://cards.scryfall.io/normal/front/5/4/5407e8f4-0c8e-4e66-9d2f-f22277aa38f4.jpg?1785981580"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1171.92,
+    "end": 1201.92,
+    "cardId": "36ed9f9d-99a7-49f4-b0ad-d71355809d32",
+    "cardName": "Hazoret the Fervent",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Hazoret the Fervent",
+      "manaCost": "{3}{R}",
+      "typeLine": "Legendary Creature — God",
+      "oracleText": "Indestructible, haste\nHazoret can't attack or block unless you have one or fewer cards in hand.\n{2}{R}, Discard a card: Hazoret deals 2 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/3/6/36ed9f9d-99a7-49f4-b0ad-d71355809d32.jpg?1783936487"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1211.92,
+    "end": 1241.92,
+    "cardId": "36ed9f9d-99a7-49f4-b0ad-d71355809d32",
+    "cardName": "Hazoret the Fervent",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Hazoret the Fervent",
+      "manaCost": "{3}{R}",
+      "typeLine": "Legendary Creature — God",
+      "oracleText": "Indestructible, haste\nHazoret can't attack or block unless you have one or fewer cards in hand.\n{2}{R}, Discard a card: Hazoret deals 2 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/3/6/36ed9f9d-99a7-49f4-b0ad-d71355809d32.jpg?1783936487"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1523.68,
+    "end": 1553.68,
+    "cardId": "d8f81e8a-e309-4bac-81de-326756cd8901",
+    "cardName": "Explore",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Explore",
+      "manaCost": "{1}{G}",
+      "typeLine": "Sorcery",
+      "oracleText": "You may play an additional land this turn.\nDraw a card.",
+      "image": "https://cards.scryfall.io/normal/front/d/8/d8f81e8a-e309-4bac-81de-326756cd8901.jpg?1783942046"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2040.64,
+    "end": 2070.6400000000003,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+    "cardName": "Lightning Bolt",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2187.54,
+    "end": 2217.54,
+    "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+    }
+  },
+  {
+    "start": 2192.1,
+    "cardId": "fe094903-45a6-4b11-b80e-aabe915c4b7c",
+    "cardName": "Abyssal Nocturnus",
+    "confidence": 0.926,
+    "needsReview": true,
+    "card": {
+      "name": "Abyssal Nocturnus",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Creature — Horror",
+      "oracleText": "Whenever an opponent discards a card, this creature gets +2/+2 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe094903-45a6-4b11-b80e-aabe915c4b7c.jpg?1783943513"
+    },
+    "end": 2445.94,
+    "mentions": [
+      {
+        "start": 2226.94,
+        "cards": [
+          {
+            "cardId": "0e51d796-7279-4c06-87f0-37adbdaa41df",
+            "cardName": "Underworld Breach",
+            "confidence": 0.88,
+            "needsReview": true,
+            "card": {
+              "name": "Underworld Breach",
+              "manaCost": "{1}{R}",
+              "typeLine": "Enchantment",
+              "oracleText": "Each nonland card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)\nAt the beginning of the end step, sacrifice this enchantment.",
+              "image": "https://cards.scryfall.io/normal/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.jpg?1783931543"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2241.8,
+        "cards": [
+          {
+            "cardId": "63bacc32-d6ba-420c-9b49-299c08e5fb39",
+            "cardName": "Lion's Eye Diamond",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Lion's Eye Diamond",
+              "manaCost": "{0}",
+              "typeLine": "Artifact",
+              "oracleText": "Discard your hand, Sacrifice this artifact: Add three mana of any one color. Activate only as an instant.",
+              "image": "https://cards.scryfall.io/normal/front/6/3/63bacc32-d6ba-420c-9b49-299c08e5fb39.jpg?1783947041"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2245.58,
+        "cards": [
+          {
+            "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+            "cardName": "Black Lotus",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Black Lotus",
+              "manaCost": "{0}",
+              "typeLine": "Artifact",
+              "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+              "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2284.14,
+        "cards": [
+          {
+            "cardId": "a058f1a6-318c-4bba-981e-ace079ada806",
+            "cardName": "Weapons Manufacturing",
+            "confidence": 0.98,
+            "needsReview": false,
+            "card": {
+              "name": "Weapons Manufacturing",
+              "manaCost": "{1}{R}",
+              "typeLine": "Enchantment",
+              "oracleText": "Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with \"When this token leaves the battlefield, it deals 2 damage to any target.\"",
+              "image": "https://cards.scryfall.io/normal/front/a/0/a058f1a6-318c-4bba-981e-ace079ada806.jpg?1783905943"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2291.5,
+        "cards": [
+          {
+            "cardId": "8492a272-e595-4f94-a6eb-08d29f211fd6",
+            "cardName": "Engineered Explosives",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Engineered Explosives",
+              "manaCost": "{X}",
+              "typeLine": "Artifact",
+              "oracleText": "Sunburst (This artifact enters with a charge counter on it for each color of mana spent to cast it.)\n{2}, Sacrifice this artifact: Destroy each nonland permanent with mana value equal to the number of charge counters on this artifact.",
+              "image": "https://cards.scryfall.io/normal/front/8/4/8492a272-e595-4f94-a6eb-08d29f211fd6.jpg?1783944383"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2327.02,
+        "cards": [
+          {
+            "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+            "cardName": "Black Lotus",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Black Lotus",
+              "manaCost": "{0}",
+              "typeLine": "Artifact",
+              "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+              "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2337.82,
+        "cards": [
+          {
+            "cardId": "73127ee0-9a0c-48fa-9c60-b4c600ace8f7",
+            "cardName": "Lotus Bloom",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Lotus Bloom",
+              "manaCost": "",
+              "typeLine": "Artifact",
+              "oracleText": "Suspend 3—{0} (Rather than cast this card from your hand, pay {0} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)\n{T}, Sacrifice this artifact: Add three mana of any one color.",
+              "image": "https://cards.scryfall.io/normal/front/7/3/73127ee0-9a0c-48fa-9c60-b4c600ace8f7.jpg?1783943197"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2343.6,
+        "cards": [
+          {
+            "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+            "cardName": "Black Lotus",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Black Lotus",
+              "manaCost": "{0}",
+              "typeLine": "Artifact",
+              "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+              "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2369.52,
+        "cards": [
+          {
+            "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+            "cardName": "Black Lotus",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Black Lotus",
+              "manaCost": "{0}",
+              "typeLine": "Artifact",
+              "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+              "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2374.24,
+        "cards": [
+          {
+            "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+            "cardName": "Black Lotus",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Black Lotus",
+              "manaCost": "{0}",
+              "typeLine": "Artifact",
+              "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+              "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2378.78,
+        "cards": [
+          {
+            "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+            "cardName": "Black Lotus",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Black Lotus",
+              "manaCost": "{0}",
+              "typeLine": "Artifact",
+              "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+              "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2383.1,
+        "cards": [
+          {
+            "cardId": "63bacc32-d6ba-420c-9b49-299c08e5fb39",
+            "cardName": "Lion's Eye Diamond",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Lion's Eye Diamond",
+              "manaCost": "{0}",
+              "typeLine": "Artifact",
+              "oracleText": "Discard your hand, Sacrifice this artifact: Add three mana of any one color. Activate only as an instant.",
+              "image": "https://cards.scryfall.io/normal/front/6/3/63bacc32-d6ba-420c-9b49-299c08e5fb39.jpg?1783947041"
+            }
+          },
+          {
+            "cardId": "73127ee0-9a0c-48fa-9c60-b4c600ace8f7",
+            "cardName": "Lotus Bloom",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Lotus Bloom",
+              "manaCost": "",
+              "typeLine": "Artifact",
+              "oracleText": "Suspend 3—{0} (Rather than cast this card from your hand, pay {0} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)\n{T}, Sacrifice this artifact: Add three mana of any one color.",
+              "image": "https://cards.scryfall.io/normal/front/7/3/73127ee0-9a0c-48fa-9c60-b4c600ace8f7.jpg?1783943197"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2402.06,
+        "cards": [
+          {
+            "cardId": "a058f1a6-318c-4bba-981e-ace079ada806",
+            "cardName": "Weapons Manufacturing",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Weapons Manufacturing",
+              "manaCost": "{1}{R}",
+              "typeLine": "Enchantment",
+              "oracleText": "Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with \"When this token leaves the battlefield, it deals 2 damage to any target.\"",
+              "image": "https://cards.scryfall.io/normal/front/a/0/a058f1a6-318c-4bba-981e-ace079ada806.jpg?1783905943"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2405.76,
+        "cards": [
+          {
+            "cardId": "a851d2d3-7e93-4887-bee5-4d6c9aaf9419",
+            "cardName": "Mox Jasper",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Mox Jasper",
+              "manaCost": "{0}",
+              "typeLine": "Legendary Artifact",
+              "oracleText": "{T}: Add one mana of any color. Activate only if you control a Dragon.",
+              "image": "https://cards.scryfall.io/normal/front/a/8/a851d2d3-7e93-4887-bee5-4d6c9aaf9419.jpg?1783907282"
+            }
+          },
+          {
+            "cardId": "a058f1a6-318c-4bba-981e-ace079ada806",
+            "cardName": "Weapons Manufacturing",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Weapons Manufacturing",
+              "manaCost": "{1}{R}",
+              "typeLine": "Enchantment",
+              "oracleText": "Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with \"When this token leaves the battlefield, it deals 2 damage to any target.\"",
+              "image": "https://cards.scryfall.io/normal/front/a/0/a058f1a6-318c-4bba-981e-ace079ada806.jpg?1783905943"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2410.58,
+        "cards": [
+          {
+            "cardId": "0fd8c918-62d9-41be-a3e1-32ddac71b7e7",
+            "cardName": "Darksteel Relic",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Darksteel Relic",
+              "manaCost": "{0}",
+              "typeLine": "Artifact",
+              "oracleText": "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)",
+              "image": "https://cards.scryfall.io/normal/front/0/f/0fd8c918-62d9-41be-a3e1-32ddac71b7e7.jpg?1783941297"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2437.68,
+        "cards": [
+          {
+            "cardId": "61e0a922-1689-484f-abb3-902ce1c964ca",
+            "cardName": "Commander's Sphere",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Commander's Sphere",
+              "manaCost": "{3}",
+              "typeLine": "Artifact",
+              "oracleText": "{T}: Add one mana of any color in your commander's color identity.\nSacrifice this artifact: Draw a card.",
+              "image": "https://cards.scryfall.io/normal/front/6/1/61e0a922-1689-484f-abb3-902ce1c964ca.jpg?1783938863"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2226.94,
+    "end": 2256.94,
+    "cardId": "0e51d796-7279-4c06-87f0-37adbdaa41df",
+    "cardName": "Underworld Breach",
+    "confidence": 0.88,
+    "needsReview": true,
+    "card": {
+      "name": "Underworld Breach",
+      "manaCost": "{1}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Each nonland card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)\nAt the beginning of the end step, sacrifice this enchantment.",
+      "image": "https://cards.scryfall.io/normal/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.jpg?1783931543"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2241.8,
+    "end": 2271.8,
+    "cardId": "63bacc32-d6ba-420c-9b49-299c08e5fb39",
+    "cardName": "Lion's Eye Diamond",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lion's Eye Diamond",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "Discard your hand, Sacrifice this artifact: Add three mana of any one color. Activate only as an instant.",
+      "image": "https://cards.scryfall.io/normal/front/6/3/63bacc32-d6ba-420c-9b49-299c08e5fb39.jpg?1783947041"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2245.58,
+    "end": 2275.58,
+    "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2284.14,
+    "end": 2314.14,
+    "cardId": "a058f1a6-318c-4bba-981e-ace079ada806",
+    "cardName": "Weapons Manufacturing",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Weapons Manufacturing",
+      "manaCost": "{1}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with \"When this token leaves the battlefield, it deals 2 damage to any target.\"",
+      "image": "https://cards.scryfall.io/normal/front/a/0/a058f1a6-318c-4bba-981e-ace079ada806.jpg?1783905943"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2291.5,
+    "end": 2321.5,
+    "cardId": "8492a272-e595-4f94-a6eb-08d29f211fd6",
+    "cardName": "Engineered Explosives",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Engineered Explosives",
+      "manaCost": "{X}",
+      "typeLine": "Artifact",
+      "oracleText": "Sunburst (This artifact enters with a charge counter on it for each color of mana spent to cast it.)\n{2}, Sacrifice this artifact: Destroy each nonland permanent with mana value equal to the number of charge counters on this artifact.",
+      "image": "https://cards.scryfall.io/normal/front/8/4/8492a272-e595-4f94-a6eb-08d29f211fd6.jpg?1783944383"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2327.02,
+    "end": 2357.02,
+    "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2337.82,
+    "end": 2367.82,
+    "cardId": "73127ee0-9a0c-48fa-9c60-b4c600ace8f7",
+    "cardName": "Lotus Bloom",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lotus Bloom",
+      "manaCost": "",
+      "typeLine": "Artifact",
+      "oracleText": "Suspend 3—{0} (Rather than cast this card from your hand, pay {0} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)\n{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/7/3/73127ee0-9a0c-48fa-9c60-b4c600ace8f7.jpg?1783943197"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2343.6,
+    "end": 2373.6,
+    "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2369.52,
+    "end": 2399.52,
+    "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2374.24,
+    "end": 2404.24,
+    "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2378.78,
+    "end": 2408.78,
+    "cardId": "b0faa7f2-b547-42c4-a810-839da50dadfe",
+    "cardName": "Black Lotus",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Black Lotus",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}, Sacrifice this artifact: Add three mana of any one color.",
+      "image": "https://cards.scryfall.io/normal/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1783948669"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2383.1,
+    "end": 2413.1,
+    "cardId": "63bacc32-d6ba-420c-9b49-299c08e5fb39",
+    "cardName": "Lion's Eye Diamond",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lion's Eye Diamond",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "Discard your hand, Sacrifice this artifact: Add three mana of any one color. Activate only as an instant.",
+      "image": "https://cards.scryfall.io/normal/front/6/3/63bacc32-d6ba-420c-9b49-299c08e5fb39.jpg?1783947041"
+    },
+    "cards": [
+      {
+        "cardId": "63bacc32-d6ba-420c-9b49-299c08e5fb39",
+        "cardName": "Lion's Eye Diamond",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Lion's Eye Diamond",
+          "manaCost": "{0}",
+          "typeLine": "Artifact",
+          "oracleText": "Discard your hand, Sacrifice this artifact: Add three mana of any one color. Activate only as an instant.",
+          "image": "https://cards.scryfall.io/normal/front/6/3/63bacc32-d6ba-420c-9b49-299c08e5fb39.jpg?1783947041"
+        }
+      },
+      {
+        "cardId": "73127ee0-9a0c-48fa-9c60-b4c600ace8f7",
+        "cardName": "Lotus Bloom",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Lotus Bloom",
+          "manaCost": "",
+          "typeLine": "Artifact",
+          "oracleText": "Suspend 3—{0} (Rather than cast this card from your hand, pay {0} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)\n{T}, Sacrifice this artifact: Add three mana of any one color.",
+          "image": "https://cards.scryfall.io/normal/front/7/3/73127ee0-9a0c-48fa-9c60-b4c600ace8f7.jpg?1783943197"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2402.06,
+    "end": 2432.06,
+    "cardId": "a058f1a6-318c-4bba-981e-ace079ada806",
+    "cardName": "Weapons Manufacturing",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Weapons Manufacturing",
+      "manaCost": "{1}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with \"When this token leaves the battlefield, it deals 2 damage to any target.\"",
+      "image": "https://cards.scryfall.io/normal/front/a/0/a058f1a6-318c-4bba-981e-ace079ada806.jpg?1783905943"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2405.76,
+    "end": 2435.76,
+    "cardId": "a851d2d3-7e93-4887-bee5-4d6c9aaf9419",
+    "cardName": "Mox Jasper",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mox Jasper",
+      "manaCost": "{0}",
+      "typeLine": "Legendary Artifact",
+      "oracleText": "{T}: Add one mana of any color. Activate only if you control a Dragon.",
+      "image": "https://cards.scryfall.io/normal/front/a/8/a851d2d3-7e93-4887-bee5-4d6c9aaf9419.jpg?1783907282"
+    },
+    "cards": [
+      {
+        "cardId": "a851d2d3-7e93-4887-bee5-4d6c9aaf9419",
+        "cardName": "Mox Jasper",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Mox Jasper",
+          "manaCost": "{0}",
+          "typeLine": "Legendary Artifact",
+          "oracleText": "{T}: Add one mana of any color. Activate only if you control a Dragon.",
+          "image": "https://cards.scryfall.io/normal/front/a/8/a851d2d3-7e93-4887-bee5-4d6c9aaf9419.jpg?1783907282"
+        }
+      },
+      {
+        "cardId": "a058f1a6-318c-4bba-981e-ace079ada806",
+        "cardName": "Weapons Manufacturing",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Weapons Manufacturing",
+          "manaCost": "{1}{R}",
+          "typeLine": "Enchantment",
+          "oracleText": "Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with \"When this token leaves the battlefield, it deals 2 damage to any target.\"",
+          "image": "https://cards.scryfall.io/normal/front/a/0/a058f1a6-318c-4bba-981e-ace079ada806.jpg?1783905943"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2410.58,
+    "end": 2440.58,
+    "cardId": "0fd8c918-62d9-41be-a3e1-32ddac71b7e7",
+    "cardName": "Darksteel Relic",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Darksteel Relic",
+      "manaCost": "{0}",
+      "typeLine": "Artifact",
+      "oracleText": "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)",
+      "image": "https://cards.scryfall.io/normal/front/0/f/0fd8c918-62d9-41be-a3e1-32ddac71b7e7.jpg?1783941297"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2437.68,
+    "end": 2467.68,
+    "cardId": "61e0a922-1689-484f-abb3-902ce1c964ca",
+    "cardName": "Commander's Sphere",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Commander's Sphere",
+      "manaCost": "{3}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add one mana of any color in your commander's color identity.\nSacrifice this artifact: Draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/6/1/61e0a922-1689-484f-abb3-902ce1c964ca.jpg?1783938863"
+    }
+  },
+  {
+    "start": 2445.94,
+    "cardId": "669ffaf7-8b6d-46b4-a790-1715918e6e29",
+    "cardName": "Calim, Djinn Emperor",
+    "confidence": 0.817,
+    "needsReview": true,
+    "card": {
+      "name": "Calim, Djinn Emperor",
+      "manaCost": "{3}{U}{U}{U}",
+      "typeLine": "Legendary Creature — Djinn Noble",
+      "oracleText": "Flying, ward {2}\nCalim's Breath — {1}{U}, Discard Calim: Tap up to one target nonland permanent. Draw a card. Then you may exile two other cards named Calim, Djinn Emperor from your graveyard. When you do, return Calim from your graveyard to the battlefield tapped.\nWhen you discard Calim, conjure a card named Calim, Djinn Emperor into your library seventh from the top.",
+      "image": "https://cards.scryfall.io/normal/front/6/6/669ffaf7-8b6d-46b4-a790-1715918e6e29.jpg?1783922116"
+    },
+    "end": 2708.6,
+    "mentions": [
+      {
+        "start": 2476.22,
+        "cards": [
+          {
+            "cardId": "af3928b4-813a-4120-8799-de34235d60ac",
+            "cardName": "Ranger-Captain of Eos",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Ranger-Captain of Eos",
+              "manaCost": "{1}{W}{W}",
+              "typeLine": "Creature — Human Soldier Ranger",
+              "oracleText": "When this creature enters, you may search your library for a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.\nSacrifice this creature: Your opponents can't cast noncreature spells this turn.",
+              "image": "https://cards.scryfall.io/normal/front/a/f/af3928b4-813a-4120-8799-de34235d60ac.jpg?1783933158"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2478.06,
+        "cards": [
+          {
+            "cardId": "1a30ee26-5f78-4ac2-9105-1baa9ece8a21",
+            "cardName": "Ranger of Eos",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Ranger of Eos",
+              "manaCost": "{3}{W}",
+              "typeLine": "Creature — Human Soldier Ranger",
+              "oracleText": "When this creature enters, you may search your library for up to two creature cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.",
+              "image": "https://cards.scryfall.io/normal/front/1/a/1a30ee26-5f78-4ac2-9105-1baa9ece8a21.jpg?1783942579"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2482.3,
+        "cards": [
+          {
+            "cardId": "162018eb-5483-4fa2-9c5a-abb639eecf91",
+            "cardName": "Kiki-Jiki, Mirror Breaker",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Kiki-Jiki, Mirror Breaker",
+              "manaCost": "{2}{R}{R}{R}",
+              "typeLine": "Legendary Creature — Goblin Shaman",
+              "oracleText": "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.",
+              "image": "https://cards.scryfall.io/normal/front/1/6/162018eb-5483-4fa2-9c5a-abb639eecf91.jpg?1783944301"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2486.74,
+        "cards": [
+          {
+            "cardId": "2f8f22fb-7291-4517-9b15-e98501f2856b",
+            "cardName": "Splinter Twin",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Splinter Twin",
+              "manaCost": "{2}{R}{R}",
+              "typeLine": "Enchantment — Aura",
+              "oracleText": "Enchant creature\nEnchanted creature has \"{T}: Create a token that's a copy of this creature, except it has haste. Exile that token at the beginning of the next end step.\"",
+              "image": "https://cards.scryfall.io/normal/front/2/f/2f8f22fb-7291-4517-9b15-e98501f2856b.jpg?1783941970"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2525.52,
+        "cards": [
+          {
+            "cardId": "db01c222-8795-47e9-a789-e7f749a3ee7d",
+            "cardName": "Jumbo Cactuar",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Jumbo Cactuar",
+              "manaCost": "{5}{G}{G}",
+              "typeLine": "Creature — Plant",
+              "oracleText": "10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn.",
+              "image": "https://cards.scryfall.io/normal/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1783906585"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2526.76,
+        "cards": [
+          {
+            "cardId": "db01c222-8795-47e9-a789-e7f749a3ee7d",
+            "cardName": "Jumbo Cactuar",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Jumbo Cactuar",
+              "manaCost": "{5}{G}{G}",
+              "typeLine": "Creature — Plant",
+              "oracleText": "10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn.",
+              "image": "https://cards.scryfall.io/normal/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1783906585"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2528.64,
+        "cards": [
+          {
+            "cardId": "db01c222-8795-47e9-a789-e7f749a3ee7d",
+            "cardName": "Jumbo Cactuar",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Jumbo Cactuar",
+              "manaCost": "{5}{G}{G}",
+              "typeLine": "Creature — Plant",
+              "oracleText": "10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn.",
+              "image": "https://cards.scryfall.io/normal/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1783906585"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2530.04,
+        "cards": [
+          {
+            "cardId": "791c21fb-fc78-4106-9a42-abc73f41ab8b",
+            "cardName": "Hangarback Walker",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Hangarback Walker",
+              "manaCost": "{X}{X}",
+              "typeLine": "Artifact Creature — Construct",
+              "oracleText": "This creature enters with X +1/+1 counters on it.\nWhen this creature dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on this creature.\n{1}, {T}: Put a +1/+1 counter on this creature.",
+              "image": "https://cards.scryfall.io/normal/front/7/9/791c21fb-fc78-4106-9a42-abc73f41ab8b.jpg?1783938311"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2545.3,
+        "cards": [
+          {
+            "cardId": "53a938a7-0154-4350-87cb-00da24ec3824",
+            "cardName": "Starscape Cleric",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Starscape Cleric",
+              "manaCost": "{1}{B}",
+              "typeLine": "Creature — Bat Cleric",
+              "oracleText": "Offspring {2}{B} (You may pay an additional {2}{B} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\nFlying\nThis creature can't block.\nWhenever you gain life, each opponent loses 1 life.",
+              "image": "https://cards.scryfall.io/normal/front/5/3/53a938a7-0154-4350-87cb-00da24ec3824.jpg?1783910828"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2549.8,
+        "cards": [
+          {
+            "cardId": "686f3a25-305d-4f02-8972-eba7b8e9635f",
+            "cardName": "Flickering Hound",
+            "confidence": 0.94,
+            "needsReview": false,
+            "card": {
+              "name": "Flickering Hound",
+              "manaCost": "{3}{W}",
+              "typeLine": "Creature — Dog",
+              "oracleText": "Whenever you cast a creature spell, exile up to one other target creature you control, then return that card to the battlefield under its owner's control.",
+              "image": "https://cards.scryfall.io/normal/front/6/8/686f3a25-305d-4f02-8972-eba7b8e9635f.jpg?1789470769"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2551.42,
+        "cards": [
+          {
+            "cardId": "686f3a25-305d-4f02-8972-eba7b8e9635f",
+            "cardName": "Flickering Hound",
+            "confidence": 0.94,
+            "needsReview": false,
+            "card": {
+              "name": "Flickering Hound",
+              "manaCost": "{3}{W}",
+              "typeLine": "Creature — Dog",
+              "oracleText": "Whenever you cast a creature spell, exile up to one other target creature you control, then return that card to the battlefield under its owner's control.",
+              "image": "https://cards.scryfall.io/normal/front/6/8/686f3a25-305d-4f02-8972-eba7b8e9635f.jpg?1789470769"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2557.76,
+        "cards": [
+          {
+            "cardId": "1a30ee26-5f78-4ac2-9105-1baa9ece8a21",
+            "cardName": "Ranger of Eos",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Ranger of Eos",
+              "manaCost": "{3}{W}",
+              "typeLine": "Creature — Human Soldier Ranger",
+              "oracleText": "When this creature enters, you may search your library for up to two creature cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.",
+              "image": "https://cards.scryfall.io/normal/front/1/a/1a30ee26-5f78-4ac2-9105-1baa9ece8a21.jpg?1783942579"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2585.8,
+        "cards": [
+          {
+            "cardId": "fe094903-45a6-4b11-b80e-aabe915c4b7c",
+            "cardName": "Abyssal Nocturnus",
+            "confidence": 0.926,
+            "needsReview": true,
+            "card": {
+              "name": "Abyssal Nocturnus",
+              "manaCost": "{1}{B}{B}",
+              "typeLine": "Creature — Horror",
+              "oracleText": "Whenever an opponent discards a card, this creature gets +2/+2 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+              "image": "https://cards.scryfall.io/normal/front/f/e/fe094903-45a6-4b11-b80e-aabe915c4b7c.jpg?1783943513"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2676,
+        "cards": [
+          {
+            "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+            "cardName": "Badgermole Cub",
+            "confidence": 0.98,
+            "needsReview": false,
+            "card": {
+              "name": "Badgermole Cub",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Badger Mole",
+              "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+              "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2681.9,
+        "cards": [
+          {
+            "cardId": "a9738cda-adb1-47fb-9f4c-ecd930228c4d",
+            "cardName": "Ragavan, Nimble Pilferer",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Ragavan, Nimble Pilferer",
+              "manaCost": "{R}",
+              "typeLine": "Legendary Creature — Monkey Pirate",
+              "oracleText": "Whenever Ragavan deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.\nDash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+              "image": "https://cards.scryfall.io/normal/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1791803835"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2691.9,
+        "cards": [
+          {
+            "cardId": "162018eb-5483-4fa2-9c5a-abb639eecf91",
+            "cardName": "Kiki-Jiki, Mirror Breaker",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Kiki-Jiki, Mirror Breaker",
+              "manaCost": "{2}{R}{R}{R}",
+              "typeLine": "Legendary Creature — Goblin Shaman",
+              "oracleText": "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.",
+              "image": "https://cards.scryfall.io/normal/front/1/6/162018eb-5483-4fa2-9c5a-abb639eecf91.jpg?1783944301"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2693.88,
+        "cards": [
+          {
+            "cardId": "1f123ad6-fe84-4fed-9c0f-6b41921e9c26",
+            "cardName": "Deceiver Exarch",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Deceiver Exarch",
+              "manaCost": "{2}{U}",
+              "typeLine": "Creature — Phyrexian Cleric",
+              "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, choose one —\n• Untap target permanent you control.\n• Tap target permanent an opponent controls.",
+              "image": "https://cards.scryfall.io/normal/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1783941320"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2476.22,
+    "end": 2506.22,
+    "cardId": "af3928b4-813a-4120-8799-de34235d60ac",
+    "cardName": "Ranger-Captain of Eos",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ranger-Captain of Eos",
+      "manaCost": "{1}{W}{W}",
+      "typeLine": "Creature — Human Soldier Ranger",
+      "oracleText": "When this creature enters, you may search your library for a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.\nSacrifice this creature: Your opponents can't cast noncreature spells this turn.",
+      "image": "https://cards.scryfall.io/normal/front/a/f/af3928b4-813a-4120-8799-de34235d60ac.jpg?1783933158"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2478.06,
+    "end": 2508.06,
+    "cardId": "1a30ee26-5f78-4ac2-9105-1baa9ece8a21",
+    "cardName": "Ranger of Eos",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ranger of Eos",
+      "manaCost": "{3}{W}",
+      "typeLine": "Creature — Human Soldier Ranger",
+      "oracleText": "When this creature enters, you may search your library for up to two creature cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/1/a/1a30ee26-5f78-4ac2-9105-1baa9ece8a21.jpg?1783942579"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2482.3,
+    "end": 2512.3,
+    "cardId": "162018eb-5483-4fa2-9c5a-abb639eecf91",
+    "cardName": "Kiki-Jiki, Mirror Breaker",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Kiki-Jiki, Mirror Breaker",
+      "manaCost": "{2}{R}{R}{R}",
+      "typeLine": "Legendary Creature — Goblin Shaman",
+      "oracleText": "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/1/6/162018eb-5483-4fa2-9c5a-abb639eecf91.jpg?1783944301"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2486.74,
+    "end": 2516.74,
+    "cardId": "2f8f22fb-7291-4517-9b15-e98501f2856b",
+    "cardName": "Splinter Twin",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Splinter Twin",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Enchantment — Aura",
+      "oracleText": "Enchant creature\nEnchanted creature has \"{T}: Create a token that's a copy of this creature, except it has haste. Exile that token at the beginning of the next end step.\"",
+      "image": "https://cards.scryfall.io/normal/front/2/f/2f8f22fb-7291-4517-9b15-e98501f2856b.jpg?1783941970"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2525.52,
+    "end": 2555.52,
+    "cardId": "db01c222-8795-47e9-a789-e7f749a3ee7d",
+    "cardName": "Jumbo Cactuar",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Jumbo Cactuar",
+      "manaCost": "{5}{G}{G}",
+      "typeLine": "Creature — Plant",
+      "oracleText": "10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1783906585"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2526.76,
+    "end": 2556.76,
+    "cardId": "db01c222-8795-47e9-a789-e7f749a3ee7d",
+    "cardName": "Jumbo Cactuar",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Jumbo Cactuar",
+      "manaCost": "{5}{G}{G}",
+      "typeLine": "Creature — Plant",
+      "oracleText": "10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1783906585"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2528.64,
+    "end": 2558.64,
+    "cardId": "db01c222-8795-47e9-a789-e7f749a3ee7d",
+    "cardName": "Jumbo Cactuar",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Jumbo Cactuar",
+      "manaCost": "{5}{G}{G}",
+      "typeLine": "Creature — Plant",
+      "oracleText": "10,000 Needles — Whenever this creature attacks, it gets +9999/+0 until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1783906585"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2530.04,
+    "end": 2560.04,
+    "cardId": "791c21fb-fc78-4106-9a42-abc73f41ab8b",
+    "cardName": "Hangarback Walker",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Hangarback Walker",
+      "manaCost": "{X}{X}",
+      "typeLine": "Artifact Creature — Construct",
+      "oracleText": "This creature enters with X +1/+1 counters on it.\nWhen this creature dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on this creature.\n{1}, {T}: Put a +1/+1 counter on this creature.",
+      "image": "https://cards.scryfall.io/normal/front/7/9/791c21fb-fc78-4106-9a42-abc73f41ab8b.jpg?1783938311"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2545.3,
+    "end": 2575.3,
+    "cardId": "53a938a7-0154-4350-87cb-00da24ec3824",
+    "cardName": "Starscape Cleric",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Starscape Cleric",
+      "manaCost": "{1}{B}",
+      "typeLine": "Creature — Bat Cleric",
+      "oracleText": "Offspring {2}{B} (You may pay an additional {2}{B} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\nFlying\nThis creature can't block.\nWhenever you gain life, each opponent loses 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/5/3/53a938a7-0154-4350-87cb-00da24ec3824.jpg?1783910828"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2549.8,
+    "end": 2579.8,
+    "cardId": "686f3a25-305d-4f02-8972-eba7b8e9635f",
+    "cardName": "Flickering Hound",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Flickering Hound",
+      "manaCost": "{3}{W}",
+      "typeLine": "Creature — Dog",
+      "oracleText": "Whenever you cast a creature spell, exile up to one other target creature you control, then return that card to the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/6/8/686f3a25-305d-4f02-8972-eba7b8e9635f.jpg?1789470769"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2551.42,
+    "end": 2581.42,
+    "cardId": "686f3a25-305d-4f02-8972-eba7b8e9635f",
+    "cardName": "Flickering Hound",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Flickering Hound",
+      "manaCost": "{3}{W}",
+      "typeLine": "Creature — Dog",
+      "oracleText": "Whenever you cast a creature spell, exile up to one other target creature you control, then return that card to the battlefield under its owner's control.",
+      "image": "https://cards.scryfall.io/normal/front/6/8/686f3a25-305d-4f02-8972-eba7b8e9635f.jpg?1789470769"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2557.76,
+    "end": 2587.76,
+    "cardId": "1a30ee26-5f78-4ac2-9105-1baa9ece8a21",
+    "cardName": "Ranger of Eos",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Ranger of Eos",
+      "manaCost": "{3}{W}",
+      "typeLine": "Creature — Human Soldier Ranger",
+      "oracleText": "When this creature enters, you may search your library for up to two creature cards with mana value 1 or less, reveal them, put them into your hand, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/1/a/1a30ee26-5f78-4ac2-9105-1baa9ece8a21.jpg?1783942579"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2585.8,
+    "end": 2615.8,
+    "cardId": "fe094903-45a6-4b11-b80e-aabe915c4b7c",
+    "cardName": "Abyssal Nocturnus",
+    "confidence": 0.926,
+    "needsReview": true,
+    "card": {
+      "name": "Abyssal Nocturnus",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Creature — Horror",
+      "oracleText": "Whenever an opponent discards a card, this creature gets +2/+2 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe094903-45a6-4b11-b80e-aabe915c4b7c.jpg?1783943513"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2676,
+    "end": 2706,
+    "cardId": "340c5799-4964-44dd-8c48-8f3f3aba5211",
+    "cardName": "Badgermole Cub",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Badgermole Cub",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Badger Mole",
+      "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+      "image": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1786399172"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2681.9,
+    "end": 2711.9,
+    "cardId": "a9738cda-adb1-47fb-9f4c-ecd930228c4d",
+    "cardName": "Ragavan, Nimble Pilferer",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ragavan, Nimble Pilferer",
+      "manaCost": "{R}",
+      "typeLine": "Legendary Creature — Monkey Pirate",
+      "oracleText": "Whenever Ragavan deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.\nDash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1791803835"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2691.9,
+    "end": 2721.9,
+    "cardId": "162018eb-5483-4fa2-9c5a-abb639eecf91",
+    "cardName": "Kiki-Jiki, Mirror Breaker",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Kiki-Jiki, Mirror Breaker",
+      "manaCost": "{2}{R}{R}{R}",
+      "typeLine": "Legendary Creature — Goblin Shaman",
+      "oracleText": "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.",
+      "image": "https://cards.scryfall.io/normal/front/1/6/162018eb-5483-4fa2-9c5a-abb639eecf91.jpg?1783944301"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2693.88,
+    "end": 2723.88,
+    "cardId": "1f123ad6-fe84-4fed-9c0f-6b41921e9c26",
+    "cardName": "Deceiver Exarch",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deceiver Exarch",
+      "manaCost": "{2}{U}",
+      "typeLine": "Creature — Phyrexian Cleric",
+      "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, choose one —\n• Untap target permanent you control.\n• Tap target permanent an opponent controls.",
+      "image": "https://cards.scryfall.io/normal/front/1/f/1f123ad6-fe84-4fed-9c0f-6b41921e9c26.jpg?1783941320"
+    }
+  },
+  {
+    "start": 2708.6,
+    "cardId": "377d65d8-21c8-4292-97db-610e0173ba59",
+    "cardName": "Sauron, the Necromancer",
+    "confidence": 0.75,
+    "needsReview": true,
+    "card": {
+      "name": "Sauron, the Necromancer",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Legendary Creature — Avatar Horror",
+      "oracleText": "Menace\nWhenever Sauron attacks, exile target creature card from your graveyard. Create a tapped and attacking token that's a copy of that card, except it's a 3/3 black Wraith with menace. At the beginning of the next end step, exile that token unless Sauron is your Ring-bearer.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/377d65d8-21c8-4292-97db-610e0173ba59.jpg?1783916297"
+    },
+    "end": 3014.38,
+    "mentions": [
+      {
+        "start": 2777.9,
+        "cards": [
+          {
+            "cardId": "834b27a0-dfd7-4f96-8cde-cacac4b24acc",
+            "cardName": "Nykthos, Shrine to Nyx",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Nykthos, Shrine to Nyx",
+              "manaCost": "",
+              "typeLine": "Legendary Land",
+              "oracleText": "{T}: Add {C}.\n{2}, {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)",
+              "image": "https://cards.scryfall.io/normal/front/8/3/834b27a0-dfd7-4f96-8cde-cacac4b24acc.jpg?1783939713"
+            }
+          },
+          {
+            "cardId": "d6876c7a-8bbe-484e-b733-70229fa336cd",
+            "cardName": "Thassa, God of the Sea",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Thassa, God of the Sea",
+              "manaCost": "{2}{U}",
+              "typeLine": "Legendary Enchantment Creature — God",
+              "oracleText": "Indestructible\nAs long as your devotion to blue is less than five, Thassa isn't a creature. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)\nAt the beginning of your upkeep, scry 1.\n{1}{U}: Target creature you control can't be blocked this turn.",
+              "image": "https://cards.scryfall.io/normal/front/d/6/d6876c7a-8bbe-484e-b733-70229fa336cd.jpg?1783939788"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2805.68,
+        "cards": [
+          {
+            "cardId": "19242db3-660d-4d66-800c-d6cee636bcaf",
+            "cardName": "Master of Waves",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Master of Waves",
+              "manaCost": "{3}{U}",
+              "typeLine": "Creature — Merfolk Wizard",
+              "oracleText": "Protection from red\nElemental creatures you control get +1/+1.\nWhen this creature enters, create a number of 1/0 blue Elemental creature tokens equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+              "image": "https://cards.scryfall.io/normal/front/1/9/19242db3-660d-4d66-800c-d6cee636bcaf.jpg?1783939795"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2809.86,
+        "cards": [
+          {
+            "cardId": "52558748-6893-4c72-a9e2-e87d31796b59",
+            "cardName": "Fblthp, the Lost",
+            "confidence": 0.96,
+            "needsReview": false,
+            "card": {
+              "name": "Fblthp, the Lost",
+              "manaCost": "{1}{U}",
+              "typeLine": "Legendary Creature — Homunculus",
+              "oracleText": "When Fblthp enters, draw a card. If it entered from your library or was cast from your library, draw two cards instead.\nWhen Fblthp becomes the target of a spell, shuffle Fblthp into its owner's library.",
+              "image": "https://cards.scryfall.io/normal/front/5/2/52558748-6893-4c72-a9e2-e87d31796b59.jpg?1783933465"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2813.44,
+        "cards": [
+          {
+            "cardId": "15856326-d943-476a-9d31-898b9f990bb6",
+            "cardName": "Panharmonicon",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Panharmonicon",
+              "manaCost": "{4}",
+              "typeLine": "Artifact",
+              "oracleText": "If an artifact or creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+              "image": "https://cards.scryfall.io/normal/front/1/5/15856326-d943-476a-9d31-898b9f990bb6.jpg?1783937152"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2818.96,
+        "cards": [
+          {
+            "cardId": "15856326-d943-476a-9d31-898b9f990bb6",
+            "cardName": "Panharmonicon",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Panharmonicon",
+              "manaCost": "{4}",
+              "typeLine": "Artifact",
+              "oracleText": "If an artifact or creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+              "image": "https://cards.scryfall.io/normal/front/1/5/15856326-d943-476a-9d31-898b9f990bb6.jpg?1783937152"
+            }
+          },
+          {
+            "cardId": "32fd8b7c-baf3-4d3d-be6f-044a917b11a0",
+            "cardName": "Roaming Throne",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Roaming Throne",
+              "manaCost": "{4}",
+              "typeLine": "Artifact Creature — Golem",
+              "oracleText": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time.",
+              "image": "https://cards.scryfall.io/normal/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2823.1,
+        "cards": [
+          {
+            "cardId": "a97cfefa-ade7-49f6-b2aa-1118b9db4935",
+            "cardName": "Mulldrifter",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Mulldrifter",
+              "manaCost": "{4}{U}",
+              "typeLine": "Creature — Elemental",
+              "oracleText": "Flying\nWhen this creature enters, draw two cards.\nEvoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",
+              "image": "https://cards.scryfall.io/normal/front/a/9/a97cfefa-ade7-49f6-b2aa-1118b9db4935.jpg?1783942900"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2856.02,
+        "cards": [
+          {
+            "cardId": "6e19acff-f3dd-417a-a9ab-ea3e36c1ba61",
+            "cardName": "Doom Blade",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Doom Blade",
+              "manaCost": "{1}{B}",
+              "typeLine": "Instant",
+              "oracleText": "Destroy target nonblack creature.",
+              "image": "https://cards.scryfall.io/normal/front/6/e/6e19acff-f3dd-417a-a9ab-ea3e36c1ba61.jpg?1783942383"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2867.08,
+        "cards": [
+          {
+            "cardId": "6e19acff-f3dd-417a-a9ab-ea3e36c1ba61",
+            "cardName": "Doom Blade",
+            "confidence": 0.96,
+            "needsReview": false,
+            "card": {
+              "name": "Doom Blade",
+              "manaCost": "{1}{B}",
+              "typeLine": "Instant",
+              "oracleText": "Destroy target nonblack creature.",
+              "image": "https://cards.scryfall.io/normal/front/6/e/6e19acff-f3dd-417a-a9ab-ea3e36c1ba61.jpg?1783942383"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2878.02,
+        "cards": [
+          {
+            "cardId": "19242db3-660d-4d66-800c-d6cee636bcaf",
+            "cardName": "Master of Waves",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Master of Waves",
+              "manaCost": "{3}{U}",
+              "typeLine": "Creature — Merfolk Wizard",
+              "oracleText": "Protection from red\nElemental creatures you control get +1/+1.\nWhen this creature enters, create a number of 1/0 blue Elemental creature tokens equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+              "image": "https://cards.scryfall.io/normal/front/1/9/19242db3-660d-4d66-800c-d6cee636bcaf.jpg?1783939795"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2923.96,
+        "cards": [
+          {
+            "cardId": "6ce7f494-2a19-4b11-94d4-fc5e5a7068bd",
+            "cardName": "Diamond Weapon",
+            "confidence": 0.94,
+            "needsReview": false,
+            "card": {
+              "name": "Diamond Weapon",
+              "manaCost": "{7}{G}{G}",
+              "typeLine": "Legendary Artifact Creature — Elemental",
+              "oracleText": "This spell costs {1} less to cast for each permanent card in your graveyard.\nReach\nImmune — Prevent all combat damage that would be dealt to Diamond Weapon.",
+              "image": "https://cards.scryfall.io/normal/front/6/c/6ce7f494-2a19-4b11-94d4-fc5e5a7068bd.jpg?1783906588"
+            }
+          }
+        ]
+      },
+      {
+        "start": 2929.44,
+        "cards": [
+          {
+            "cardId": "6ce7f494-2a19-4b11-94d4-fc5e5a7068bd",
+            "cardName": "Diamond Weapon",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Diamond Weapon",
+              "manaCost": "{7}{G}{G}",
+              "typeLine": "Legendary Artifact Creature — Elemental",
+              "oracleText": "This spell costs {1} less to cast for each permanent card in your graveyard.\nReach\nImmune — Prevent all combat damage that would be dealt to Diamond Weapon.",
+              "image": "https://cards.scryfall.io/normal/front/6/c/6ce7f494-2a19-4b11-94d4-fc5e5a7068bd.jpg?1783906588"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2777.9,
+    "end": 2807.9,
+    "cardId": "834b27a0-dfd7-4f96-8cde-cacac4b24acc",
+    "cardName": "Nykthos, Shrine to Nyx",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Nykthos, Shrine to Nyx",
+      "manaCost": "",
+      "typeLine": "Legendary Land",
+      "oracleText": "{T}: Add {C}.\n{2}, {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)",
+      "image": "https://cards.scryfall.io/normal/front/8/3/834b27a0-dfd7-4f96-8cde-cacac4b24acc.jpg?1783939713"
+    },
+    "cards": [
+      {
+        "cardId": "834b27a0-dfd7-4f96-8cde-cacac4b24acc",
+        "cardName": "Nykthos, Shrine to Nyx",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Nykthos, Shrine to Nyx",
+          "manaCost": "",
+          "typeLine": "Legendary Land",
+          "oracleText": "{T}: Add {C}.\n{2}, {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)",
+          "image": "https://cards.scryfall.io/normal/front/8/3/834b27a0-dfd7-4f96-8cde-cacac4b24acc.jpg?1783939713"
+        }
+      },
+      {
+        "cardId": "d6876c7a-8bbe-484e-b733-70229fa336cd",
+        "cardName": "Thassa, God of the Sea",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Thassa, God of the Sea",
+          "manaCost": "{2}{U}",
+          "typeLine": "Legendary Enchantment Creature — God",
+          "oracleText": "Indestructible\nAs long as your devotion to blue is less than five, Thassa isn't a creature. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)\nAt the beginning of your upkeep, scry 1.\n{1}{U}: Target creature you control can't be blocked this turn.",
+          "image": "https://cards.scryfall.io/normal/front/d/6/d6876c7a-8bbe-484e-b733-70229fa336cd.jpg?1783939788"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2805.68,
+    "end": 2835.68,
+    "cardId": "19242db3-660d-4d66-800c-d6cee636bcaf",
+    "cardName": "Master of Waves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Master of Waves",
+      "manaCost": "{3}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "Protection from red\nElemental creatures you control get +1/+1.\nWhen this creature enters, create a number of 1/0 blue Elemental creature tokens equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://cards.scryfall.io/normal/front/1/9/19242db3-660d-4d66-800c-d6cee636bcaf.jpg?1783939795"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2809.86,
+    "end": 2839.86,
+    "cardId": "52558748-6893-4c72-a9e2-e87d31796b59",
+    "cardName": "Fblthp, the Lost",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Fblthp, the Lost",
+      "manaCost": "{1}{U}",
+      "typeLine": "Legendary Creature — Homunculus",
+      "oracleText": "When Fblthp enters, draw a card. If it entered from your library or was cast from your library, draw two cards instead.\nWhen Fblthp becomes the target of a spell, shuffle Fblthp into its owner's library.",
+      "image": "https://cards.scryfall.io/normal/front/5/2/52558748-6893-4c72-a9e2-e87d31796b59.jpg?1783933465"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2813.44,
+    "end": 2843.44,
+    "cardId": "15856326-d943-476a-9d31-898b9f990bb6",
+    "cardName": "Panharmonicon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Panharmonicon",
+      "manaCost": "{4}",
+      "typeLine": "Artifact",
+      "oracleText": "If an artifact or creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+      "image": "https://cards.scryfall.io/normal/front/1/5/15856326-d943-476a-9d31-898b9f990bb6.jpg?1783937152"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2818.96,
+    "end": 2848.96,
+    "cardId": "15856326-d943-476a-9d31-898b9f990bb6",
+    "cardName": "Panharmonicon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Panharmonicon",
+      "manaCost": "{4}",
+      "typeLine": "Artifact",
+      "oracleText": "If an artifact or creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+      "image": "https://cards.scryfall.io/normal/front/1/5/15856326-d943-476a-9d31-898b9f990bb6.jpg?1783937152"
+    },
+    "cards": [
+      {
+        "cardId": "15856326-d943-476a-9d31-898b9f990bb6",
+        "cardName": "Panharmonicon",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Panharmonicon",
+          "manaCost": "{4}",
+          "typeLine": "Artifact",
+          "oracleText": "If an artifact or creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+          "image": "https://cards.scryfall.io/normal/front/1/5/15856326-d943-476a-9d31-898b9f990bb6.jpg?1783937152"
+        }
+      },
+      {
+        "cardId": "32fd8b7c-baf3-4d3d-be6f-044a917b11a0",
+        "cardName": "Roaming Throne",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Roaming Throne",
+          "manaCost": "{4}",
+          "typeLine": "Artifact Creature — Golem",
+          "oracleText": "Ward {2}\nAs this creature enters, choose a creature type.\nThis creature is the chosen type in addition to its other types.\nIf a triggered ability of another creature you control of the chosen type triggers, it triggers an additional time.",
+          "image": "https://cards.scryfall.io/normal/front/3/2/32fd8b7c-baf3-4d3d-be6f-044a917b11a0.jpg?1783913723"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 2823.1,
+    "end": 2853.1,
+    "cardId": "a97cfefa-ade7-49f6-b2aa-1118b9db4935",
+    "cardName": "Mulldrifter",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mulldrifter",
+      "manaCost": "{4}{U}",
+      "typeLine": "Creature — Elemental",
+      "oracleText": "Flying\nWhen this creature enters, draw two cards.\nEvoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",
+      "image": "https://cards.scryfall.io/normal/front/a/9/a97cfefa-ade7-49f6-b2aa-1118b9db4935.jpg?1783942900"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2856.02,
+    "end": 2886.02,
+    "cardId": "6e19acff-f3dd-417a-a9ab-ea3e36c1ba61",
+    "cardName": "Doom Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://cards.scryfall.io/normal/front/6/e/6e19acff-f3dd-417a-a9ab-ea3e36c1ba61.jpg?1783942383"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2867.08,
+    "end": 2897.08,
+    "cardId": "6e19acff-f3dd-417a-a9ab-ea3e36c1ba61",
+    "cardName": "Doom Blade",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://cards.scryfall.io/normal/front/6/e/6e19acff-f3dd-417a-a9ab-ea3e36c1ba61.jpg?1783942383"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2878.02,
+    "end": 2908.02,
+    "cardId": "19242db3-660d-4d66-800c-d6cee636bcaf",
+    "cardName": "Master of Waves",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Master of Waves",
+      "manaCost": "{3}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "Protection from red\nElemental creatures you control get +1/+1.\nWhen this creature enters, create a number of 1/0 blue Elemental creature tokens equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://cards.scryfall.io/normal/front/1/9/19242db3-660d-4d66-800c-d6cee636bcaf.jpg?1783939795"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2923.96,
+    "end": 2953.96,
+    "cardId": "6ce7f494-2a19-4b11-94d4-fc5e5a7068bd",
+    "cardName": "Diamond Weapon",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Diamond Weapon",
+      "manaCost": "{7}{G}{G}",
+      "typeLine": "Legendary Artifact Creature — Elemental",
+      "oracleText": "This spell costs {1} less to cast for each permanent card in your graveyard.\nReach\nImmune — Prevent all combat damage that would be dealt to Diamond Weapon.",
+      "image": "https://cards.scryfall.io/normal/front/6/c/6ce7f494-2a19-4b11-94d4-fc5e5a7068bd.jpg?1783906588"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2929.44,
+    "end": 2959.44,
+    "cardId": "6ce7f494-2a19-4b11-94d4-fc5e5a7068bd",
+    "cardName": "Diamond Weapon",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Diamond Weapon",
+      "manaCost": "{7}{G}{G}",
+      "typeLine": "Legendary Artifact Creature — Elemental",
+      "oracleText": "This spell costs {1} less to cast for each permanent card in your graveyard.\nReach\nImmune — Prevent all combat damage that would be dealt to Diamond Weapon.",
+      "image": "https://cards.scryfall.io/normal/front/6/c/6ce7f494-2a19-4b11-94d4-fc5e5a7068bd.jpg?1783906588"
+    }
+  },
+  {
+    "start": 3014.38,
+    "cardId": "6f226550-fc9f-4964-ac62-74f84d0ac3f3",
+    "cardName": "Tectonic Giant",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Tectonic Giant",
+      "manaCost": "{2}{R}{R}",
+      "typeLine": "Creature — Elemental Giant",
+      "oracleText": "Whenever this creature attacks or becomes the target of a spell an opponent controls, choose one —\n• This creature deals 3 damage to each opponent.\n• Exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.",
+      "image": "https://cards.scryfall.io/normal/front/6/f/6f226550-fc9f-4964-ac62-74f84d0ac3f3.jpg?1783931544"
+    },
+    "end": 3238.02,
+    "mentions": [
+      {
+        "start": 3035.24,
+        "cards": [
+          {
+            "cardId": "92ea1575-eb64-43b5-b604-c6e23054f228",
+            "cardName": "Korvold, Fae-Cursed King",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Korvold, Fae-Cursed King",
+              "manaCost": "{2}{B}{R}{G}",
+              "typeLine": "Legendary Creature — Dragon Noble",
+              "oracleText": "Flying\nWhenever Korvold enters or attacks, sacrifice another permanent.\nWhenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",
+              "image": "https://cards.scryfall.io/normal/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1783932546"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3039.26,
+        "cards": [
+          {
+            "cardId": "92ea1575-eb64-43b5-b604-c6e23054f228",
+            "cardName": "Korvold, Fae-Cursed King",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Korvold, Fae-Cursed King",
+              "manaCost": "{2}{B}{R}{G}",
+              "typeLine": "Legendary Creature — Dragon Noble",
+              "oracleText": "Flying\nWhenever Korvold enters or attacks, sacrifice another permanent.\nWhenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",
+              "image": "https://cards.scryfall.io/normal/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1783932546"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3067.98,
+        "cards": [
+          {
+            "cardId": "4ec912d5-cbe7-4d07-9ece-b03ac02d3055",
+            "cardName": "Dark Matter Manipulator",
+            "confidence": 0.95,
+            "needsReview": false,
+            "card": {
+              "name": "Dark Matter Manipulator",
+              "manaCost": "{B}",
+              "typeLine": "Creature — Human Warlock",
+              "oracleText": "When this creature enters, mill three cards.\nThis creature gets +2/+0 for every seven cards in your graveyard.",
+              "image": "https://cards.scryfall.io/normal/front/4/e/4ec912d5-cbe7-4d07-9ece-b03ac02d3055.jpg?1789385959"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3071.6,
+        "cards": [
+          {
+            "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+            "cardName": "Darklight Phoenix",
+            "confidence": 0.96,
+            "needsReview": false,
+            "card": {
+              "name": "Darklight Phoenix",
+              "manaCost": "{3}{B}",
+              "typeLine": "Creature — Phoenix",
+              "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+              "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3075.86,
+        "cards": [
+          {
+            "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+            "cardName": "Darklight Phoenix",
+            "confidence": 0.96,
+            "needsReview": false,
+            "card": {
+              "name": "Darklight Phoenix",
+              "manaCost": "{3}{B}",
+              "typeLine": "Creature — Phoenix",
+              "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+              "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3078.18,
+        "cards": [
+          {
+            "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+            "cardName": "Darklight Phoenix",
+            "confidence": 0.96,
+            "needsReview": false,
+            "card": {
+              "name": "Darklight Phoenix",
+              "manaCost": "{3}{B}",
+              "typeLine": "Creature — Phoenix",
+              "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+              "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3083.22,
+        "cards": [
+          {
+            "cardId": "92ea1575-eb64-43b5-b604-c6e23054f228",
+            "cardName": "Korvold, Fae-Cursed King",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Korvold, Fae-Cursed King",
+              "manaCost": "{2}{B}{R}{G}",
+              "typeLine": "Legendary Creature — Dragon Noble",
+              "oracleText": "Flying\nWhenever Korvold enters or attacks, sacrifice another permanent.\nWhenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",
+              "image": "https://cards.scryfall.io/normal/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1783932546"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3086.2,
+        "cards": [
+          {
+            "cardId": "9a539a23-8383-4525-82dd-acfe1d219fe9",
+            "cardName": "Cauldron Familiar",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Cauldron Familiar",
+              "manaCost": "{B}",
+              "typeLine": "Creature — Cat",
+              "oracleText": "When this creature enters, each opponent loses 1 life and you gain 1 life.\nSacrifice a Food: Return this card from your graveyard to the battlefield.",
+              "image": "https://cards.scryfall.io/normal/front/9/a/9a539a23-8383-4525-82dd-acfe1d219fe9.jpg?1783932642"
+            }
+          },
+          {
+            "cardId": "04ef8493-d986-45f8-a718-617b028f7ad4",
+            "cardName": "Witch's Oven",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Witch's Oven",
+              "manaCost": "{1}",
+              "typeLine": "Artifact",
+              "oracleText": "{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+              "image": "https://cards.scryfall.io/normal/front/0/4/04ef8493-d986-45f8-a718-617b028f7ad4.jpg?1783932580"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3109.34,
+        "cards": [
+          {
+            "cardId": "4ec912d5-cbe7-4d07-9ece-b03ac02d3055",
+            "cardName": "Dark Matter Manipulator",
+            "confidence": 0.95,
+            "needsReview": false,
+            "card": {
+              "name": "Dark Matter Manipulator",
+              "manaCost": "{B}",
+              "typeLine": "Creature — Human Warlock",
+              "oracleText": "When this creature enters, mill three cards.\nThis creature gets +2/+0 for every seven cards in your graveyard.",
+              "image": "https://cards.scryfall.io/normal/front/4/e/4ec912d5-cbe7-4d07-9ece-b03ac02d3055.jpg?1789385959"
+            }
+          },
+          {
+            "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+            "cardName": "Darklight Phoenix",
+            "confidence": 0.96,
+            "needsReview": false,
+            "card": {
+              "name": "Darklight Phoenix",
+              "manaCost": "{3}{B}",
+              "typeLine": "Creature — Phoenix",
+              "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+              "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3141.52,
+        "cards": [
+          {
+            "cardId": "377d65d8-21c8-4292-97db-610e0173ba59",
+            "cardName": "Sauron, the Necromancer",
+            "confidence": 0.75,
+            "needsReview": true,
+            "card": {
+              "name": "Sauron, the Necromancer",
+              "manaCost": "{3}{B}{B}",
+              "typeLine": "Legendary Creature — Avatar Horror",
+              "oracleText": "Menace\nWhenever Sauron attacks, exile target creature card from your graveyard. Create a tapped and attacking token that's a copy of that card, except it's a 3/3 black Wraith with menace. At the beginning of the next end step, exile that token unless Sauron is your Ring-bearer.",
+              "image": "https://cards.scryfall.io/normal/front/3/7/377d65d8-21c8-4292-97db-610e0173ba59.jpg?1783916297"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3148.24,
+        "cards": [
+          {
+            "cardId": "13c5a1ce-932a-4b3d-8b86-ed920e646afc",
+            "cardName": "Satyr Wayfinder",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Satyr Wayfinder",
+              "manaCost": "{1}{G}",
+              "typeLine": "Creature — Satyr",
+              "oracleText": "When this creature enters, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard.",
+              "image": "https://cards.scryfall.io/normal/front/1/3/13c5a1ce-932a-4b3d-8b86-ed920e646afc.jpg?1783939529"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3158.16,
+        "cards": [
+          {
+            "cardId": "787de9ce-02c5-4a17-a88b-d38e83dbeb0b",
+            "cardName": "Arclight Phoenix",
+            "confidence": 0.94,
+            "needsReview": false,
+            "card": {
+              "name": "Arclight Phoenix",
+              "manaCost": "{3}{R}",
+              "typeLine": "Creature — Phoenix",
+              "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if you've cast three or more instant and sorcery spells this turn, return this card from your graveyard to the battlefield.",
+              "image": "https://cards.scryfall.io/normal/front/7/8/787de9ce-02c5-4a17-a88b-d38e83dbeb0b.jpg?1783934168"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3180.26,
+        "cards": [
+          {
+            "cardId": "6e19acff-f3dd-417a-a9ab-ea3e36c1ba61",
+            "cardName": "Doom Blade",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Doom Blade",
+              "manaCost": "{1}{B}",
+              "typeLine": "Instant",
+              "oracleText": "Destroy target nonblack creature.",
+              "image": "https://cards.scryfall.io/normal/front/6/e/6e19acff-f3dd-417a-a9ab-ea3e36c1ba61.jpg?1783942383"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3188.66,
+        "cards": [
+          {
+            "cardId": "fe094903-45a6-4b11-b80e-aabe915c4b7c",
+            "cardName": "Abyssal Nocturnus",
+            "confidence": 0.926,
+            "needsReview": true,
+            "card": {
+              "name": "Abyssal Nocturnus",
+              "manaCost": "{1}{B}{B}",
+              "typeLine": "Creature — Horror",
+              "oracleText": "Whenever an opponent discards a card, this creature gets +2/+2 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+              "image": "https://cards.scryfall.io/normal/front/f/e/fe094903-45a6-4b11-b80e-aabe915c4b7c.jpg?1783943513"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3200.5,
+        "cards": [
+          {
+            "cardId": "8ac39c01-127f-4471-bc74-11a90c48e306",
+            "cardName": "Ghost Vacuum",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Ghost Vacuum",
+              "manaCost": "{1}",
+              "typeLine": "Artifact",
+              "oracleText": "{T}: Exile target card from a graveyard.\n{6}, {T}, Sacrifice this artifact: Put each creature card exiled with this artifact onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery.",
+              "image": "https://cards.scryfall.io/normal/front/8/a/8ac39c01-127f-4471-bc74-11a90c48e306.jpg?1783909433"
+            }
+          },
+          {
+            "cardId": "37dfe8b8-b39e-4e70-9e5b-be42c93b4f70",
+            "cardName": "Leyline of the Void",
+            "confidence": 0.98,
+            "needsReview": false,
+            "card": {
+              "name": "Leyline of the Void",
+              "manaCost": "{2}{B}{B}",
+              "typeLine": "Enchantment",
+              "oracleText": "If this card is in your opening hand, you may begin the game with it on the battlefield.\nIf a card would be put into an opponent's graveyard from anywhere, exile it instead.",
+              "image": "https://cards.scryfall.io/normal/front/3/7/37dfe8b8-b39e-4e70-9e5b-be42c93b4f70.jpg?1783943510"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3208.54,
+        "cards": [
+          {
+            "cardId": "37c2b1d1-faa0-40fd-82f4-216604ce7635",
+            "cardName": "Rest in Peace",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Rest in Peace",
+              "manaCost": "{1}{W}",
+              "typeLine": "Enchantment",
+              "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+              "image": "https://cards.scryfall.io/normal/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1783940374"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3209.72,
+        "cards": [
+          {
+            "cardId": "37c2b1d1-faa0-40fd-82f4-216604ce7635",
+            "cardName": "Rest in Peace",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Rest in Peace",
+              "manaCost": "{1}{W}",
+              "typeLine": "Enchantment",
+              "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+              "image": "https://cards.scryfall.io/normal/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1783940374"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3212.64,
+        "cards": [
+          {
+            "cardId": "0049e68d-0caf-474f-9523-dad343f1250a",
+            "cardName": "Hogaak, Arisen Necropolis",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Hogaak, Arisen Necropolis",
+              "manaCost": "{5}{B/G}{B/G}",
+              "typeLine": "Legendary Creature — Avatar",
+              "oracleText": "You can't spend mana to cast this spell.\nConvoke, delve (Each creature you tap while casting this spell pays for {1} or one mana of that creature's color. Each card you exile from your graveyard pays for {1}.)\nYou may cast this card from your graveyard.\nTrample",
+              "image": "https://cards.scryfall.io/normal/front/0/0/0049e68d-0caf-474f-9523-dad343f1250a.jpg?1783933082"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3218.28,
+        "cards": [
+          {
+            "cardId": "92ea1575-eb64-43b5-b604-c6e23054f228",
+            "cardName": "Korvold, Fae-Cursed King",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Korvold, Fae-Cursed King",
+              "manaCost": "{2}{B}{R}{G}",
+              "typeLine": "Legendary Creature — Dragon Noble",
+              "oracleText": "Flying\nWhenever Korvold enters or attacks, sacrifice another permanent.\nWhenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",
+              "image": "https://cards.scryfall.io/normal/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1783932546"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3035.24,
+    "end": 3065.24,
+    "cardId": "92ea1575-eb64-43b5-b604-c6e23054f228",
+    "cardName": "Korvold, Fae-Cursed King",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Korvold, Fae-Cursed King",
+      "manaCost": "{2}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Dragon Noble",
+      "oracleText": "Flying\nWhenever Korvold enters or attacks, sacrifice another permanent.\nWhenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1783932546"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3039.26,
+    "end": 3069.26,
+    "cardId": "92ea1575-eb64-43b5-b604-c6e23054f228",
+    "cardName": "Korvold, Fae-Cursed King",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Korvold, Fae-Cursed King",
+      "manaCost": "{2}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Dragon Noble",
+      "oracleText": "Flying\nWhenever Korvold enters or attacks, sacrifice another permanent.\nWhenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1783932546"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3067.98,
+    "end": 3097.98,
+    "cardId": "4ec912d5-cbe7-4d07-9ece-b03ac02d3055",
+    "cardName": "Dark Matter Manipulator",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Dark Matter Manipulator",
+      "manaCost": "{B}",
+      "typeLine": "Creature — Human Warlock",
+      "oracleText": "When this creature enters, mill three cards.\nThis creature gets +2/+0 for every seven cards in your graveyard.",
+      "image": "https://cards.scryfall.io/normal/front/4/e/4ec912d5-cbe7-4d07-9ece-b03ac02d3055.jpg?1789385959"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3071.6,
+    "end": 3101.6,
+    "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+    "cardName": "Darklight Phoenix",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Darklight Phoenix",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3075.86,
+    "end": 3105.86,
+    "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+    "cardName": "Darklight Phoenix",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Darklight Phoenix",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3078.18,
+    "end": 3108.18,
+    "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+    "cardName": "Darklight Phoenix",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Darklight Phoenix",
+      "manaCost": "{3}{B}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3083.22,
+    "end": 3113.22,
+    "cardId": "92ea1575-eb64-43b5-b604-c6e23054f228",
+    "cardName": "Korvold, Fae-Cursed King",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Korvold, Fae-Cursed King",
+      "manaCost": "{2}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Dragon Noble",
+      "oracleText": "Flying\nWhenever Korvold enters or attacks, sacrifice another permanent.\nWhenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1783932546"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3086.2,
+    "end": 3116.2,
+    "cardId": "9a539a23-8383-4525-82dd-acfe1d219fe9",
+    "cardName": "Cauldron Familiar",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Cauldron Familiar",
+      "manaCost": "{B}",
+      "typeLine": "Creature — Cat",
+      "oracleText": "When this creature enters, each opponent loses 1 life and you gain 1 life.\nSacrifice a Food: Return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/9/a/9a539a23-8383-4525-82dd-acfe1d219fe9.jpg?1783932642"
+    },
+    "cards": [
+      {
+        "cardId": "9a539a23-8383-4525-82dd-acfe1d219fe9",
+        "cardName": "Cauldron Familiar",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Cauldron Familiar",
+          "manaCost": "{B}",
+          "typeLine": "Creature — Cat",
+          "oracleText": "When this creature enters, each opponent loses 1 life and you gain 1 life.\nSacrifice a Food: Return this card from your graveyard to the battlefield.",
+          "image": "https://cards.scryfall.io/normal/front/9/a/9a539a23-8383-4525-82dd-acfe1d219fe9.jpg?1783932642"
+        }
+      },
+      {
+        "cardId": "04ef8493-d986-45f8-a718-617b028f7ad4",
+        "cardName": "Witch's Oven",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Witch's Oven",
+          "manaCost": "{1}",
+          "typeLine": "Artifact",
+          "oracleText": "{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+          "image": "https://cards.scryfall.io/normal/front/0/4/04ef8493-d986-45f8-a718-617b028f7ad4.jpg?1783932580"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3109.34,
+    "end": 3139.34,
+    "cardId": "4ec912d5-cbe7-4d07-9ece-b03ac02d3055",
+    "cardName": "Dark Matter Manipulator",
+    "confidence": 0.95,
+    "needsReview": false,
+    "card": {
+      "name": "Dark Matter Manipulator",
+      "manaCost": "{B}",
+      "typeLine": "Creature — Human Warlock",
+      "oracleText": "When this creature enters, mill three cards.\nThis creature gets +2/+0 for every seven cards in your graveyard.",
+      "image": "https://cards.scryfall.io/normal/front/4/e/4ec912d5-cbe7-4d07-9ece-b03ac02d3055.jpg?1789385959"
+    },
+    "cards": [
+      {
+        "cardId": "4ec912d5-cbe7-4d07-9ece-b03ac02d3055",
+        "cardName": "Dark Matter Manipulator",
+        "confidence": 0.95,
+        "needsReview": false,
+        "card": {
+          "name": "Dark Matter Manipulator",
+          "manaCost": "{B}",
+          "typeLine": "Creature — Human Warlock",
+          "oracleText": "When this creature enters, mill three cards.\nThis creature gets +2/+0 for every seven cards in your graveyard.",
+          "image": "https://cards.scryfall.io/normal/front/4/e/4ec912d5-cbe7-4d07-9ece-b03ac02d3055.jpg?1789385959"
+        }
+      },
+      {
+        "cardId": "ec454979-3839-4be3-a34a-9d25482948ba",
+        "cardName": "Darklight Phoenix",
+        "confidence": 0.96,
+        "needsReview": false,
+        "card": {
+          "name": "Darklight Phoenix",
+          "manaCost": "{3}{B}",
+          "typeLine": "Creature — Phoenix",
+          "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.",
+          "image": "https://cards.scryfall.io/normal/front/e/c/ec454979-3839-4be3-a34a-9d25482948ba.jpg?1789470810"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3141.52,
+    "end": 3171.52,
+    "cardId": "377d65d8-21c8-4292-97db-610e0173ba59",
+    "cardName": "Sauron, the Necromancer",
+    "confidence": 0.75,
+    "needsReview": true,
+    "card": {
+      "name": "Sauron, the Necromancer",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Legendary Creature — Avatar Horror",
+      "oracleText": "Menace\nWhenever Sauron attacks, exile target creature card from your graveyard. Create a tapped and attacking token that's a copy of that card, except it's a 3/3 black Wraith with menace. At the beginning of the next end step, exile that token unless Sauron is your Ring-bearer.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/377d65d8-21c8-4292-97db-610e0173ba59.jpg?1783916297"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3148.24,
+    "end": 3178.24,
+    "cardId": "13c5a1ce-932a-4b3d-8b86-ed920e646afc",
+    "cardName": "Satyr Wayfinder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Satyr Wayfinder",
+      "manaCost": "{1}{G}",
+      "typeLine": "Creature — Satyr",
+      "oracleText": "When this creature enters, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard.",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13c5a1ce-932a-4b3d-8b86-ed920e646afc.jpg?1783939529"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3158.16,
+    "end": 3188.16,
+    "cardId": "787de9ce-02c5-4a17-a88b-d38e83dbeb0b",
+    "cardName": "Arclight Phoenix",
+    "confidence": 0.94,
+    "needsReview": false,
+    "card": {
+      "name": "Arclight Phoenix",
+      "manaCost": "{3}{R}",
+      "typeLine": "Creature — Phoenix",
+      "oracleText": "Flying, haste\nAt the beginning of combat on your turn, if you've cast three or more instant and sorcery spells this turn, return this card from your graveyard to the battlefield.",
+      "image": "https://cards.scryfall.io/normal/front/7/8/787de9ce-02c5-4a17-a88b-d38e83dbeb0b.jpg?1783934168"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3180.26,
+    "end": 3210.26,
+    "cardId": "6e19acff-f3dd-417a-a9ab-ea3e36c1ba61",
+    "cardName": "Doom Blade",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doom Blade",
+      "manaCost": "{1}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target nonblack creature.",
+      "image": "https://cards.scryfall.io/normal/front/6/e/6e19acff-f3dd-417a-a9ab-ea3e36c1ba61.jpg?1783942383"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3188.66,
+    "end": 3218.66,
+    "cardId": "fe094903-45a6-4b11-b80e-aabe915c4b7c",
+    "cardName": "Abyssal Nocturnus",
+    "confidence": 0.926,
+    "needsReview": true,
+    "card": {
+      "name": "Abyssal Nocturnus",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Creature — Horror",
+      "oracleText": "Whenever an opponent discards a card, this creature gets +2/+2 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+      "image": "https://cards.scryfall.io/normal/front/f/e/fe094903-45a6-4b11-b80e-aabe915c4b7c.jpg?1783943513"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3200.5,
+    "end": 3230.5,
+    "cardId": "8ac39c01-127f-4471-bc74-11a90c48e306",
+    "cardName": "Ghost Vacuum",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Ghost Vacuum",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Exile target card from a graveyard.\n{6}, {T}, Sacrifice this artifact: Put each creature card exiled with this artifact onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery.",
+      "image": "https://cards.scryfall.io/normal/front/8/a/8ac39c01-127f-4471-bc74-11a90c48e306.jpg?1783909433"
+    },
+    "cards": [
+      {
+        "cardId": "8ac39c01-127f-4471-bc74-11a90c48e306",
+        "cardName": "Ghost Vacuum",
+        "confidence": 1,
+        "needsReview": false,
+        "card": {
+          "name": "Ghost Vacuum",
+          "manaCost": "{1}",
+          "typeLine": "Artifact",
+          "oracleText": "{T}: Exile target card from a graveyard.\n{6}, {T}, Sacrifice this artifact: Put each creature card exiled with this artifact onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery.",
+          "image": "https://cards.scryfall.io/normal/front/8/a/8ac39c01-127f-4471-bc74-11a90c48e306.jpg?1783909433"
+        }
+      },
+      {
+        "cardId": "37dfe8b8-b39e-4e70-9e5b-be42c93b4f70",
+        "cardName": "Leyline of the Void",
+        "confidence": 0.98,
+        "needsReview": false,
+        "card": {
+          "name": "Leyline of the Void",
+          "manaCost": "{2}{B}{B}",
+          "typeLine": "Enchantment",
+          "oracleText": "If this card is in your opening hand, you may begin the game with it on the battlefield.\nIf a card would be put into an opponent's graveyard from anywhere, exile it instead.",
+          "image": "https://cards.scryfall.io/normal/front/3/7/37dfe8b8-b39e-4e70-9e5b-be42c93b4f70.jpg?1783943510"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3208.54,
+    "end": 3238.54,
+    "cardId": "37c2b1d1-faa0-40fd-82f4-216604ce7635",
+    "cardName": "Rest in Peace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1783940374"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3209.72,
+    "end": 3239.72,
+    "cardId": "37c2b1d1-faa0-40fd-82f4-216604ce7635",
+    "cardName": "Rest in Peace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1783940374"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3212.64,
+    "end": 3242.64,
+    "cardId": "0049e68d-0caf-474f-9523-dad343f1250a",
+    "cardName": "Hogaak, Arisen Necropolis",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Hogaak, Arisen Necropolis",
+      "manaCost": "{5}{B/G}{B/G}",
+      "typeLine": "Legendary Creature — Avatar",
+      "oracleText": "You can't spend mana to cast this spell.\nConvoke, delve (Each creature you tap while casting this spell pays for {1} or one mana of that creature's color. Each card you exile from your graveyard pays for {1}.)\nYou may cast this card from your graveyard.\nTrample",
+      "image": "https://cards.scryfall.io/normal/front/0/0/0049e68d-0caf-474f-9523-dad343f1250a.jpg?1783933082"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3218.28,
+    "end": 3248.28,
+    "cardId": "92ea1575-eb64-43b5-b604-c6e23054f228",
+    "cardName": "Korvold, Fae-Cursed King",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Korvold, Fae-Cursed King",
+      "manaCost": "{2}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Dragon Noble",
+      "oracleText": "Flying\nWhenever Korvold enters or attacks, sacrifice another permanent.\nWhenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1783932546"
+    }
+  },
+  {
+    "start": 3238.02,
+    "cardId": "c9cd537c-e40e-438f-a751-e0ad8f6e6283",
+    "cardName": "Goremand",
+    "confidence": 0.65,
+    "needsReview": true,
+    "card": {
+      "name": "Goremand",
+      "manaCost": "{4}{B}{B}",
+      "typeLine": "Creature — Demon",
+      "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nFlying\nTrample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nWhen this creature enters, each opponent sacrifices a creature.",
+      "image": "https://cards.scryfall.io/normal/front/c/9/c9cd537c-e40e-438f-a751-e0ad8f6e6283.jpg?1783930707"
+    },
+    "end": 3512.38,
+    "mentions": [
+      {
+        "start": 3289.8,
+        "cards": [
+          {
+            "cardId": "c6d16a9e-98c0-46e0-987c-f0de0915a204",
+            "cardName": "Jaws, Relentless Predator",
+            "confidence": 0.85,
+            "needsReview": true,
+            "card": {
+              "name": "Jaws, Relentless Predator",
+              "manaCost": "{3}{R}{R}",
+              "typeLine": "Legendary Creature — Shark",
+              "oracleText": "Trample, haste\nWhenever Jaws deals combat damage to a player, create that many Blood tokens. (They're artifacts with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\nWhenever a noncreature artifact is sacrificed or destroyed, Jaws deals 1 damage to each opponent.",
+              "image": "https://cards.scryfall.io/normal/front/c/6/c6d16a9e-98c0-46e0-987c-f0de0915a204.jpg?1791470750"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3298,
+        "cards": [
+          {
+            "cardId": "c6d16a9e-98c0-46e0-987c-f0de0915a204",
+            "cardName": "Jaws, Relentless Predator",
+            "confidence": 0.75,
+            "needsReview": true,
+            "card": {
+              "name": "Jaws, Relentless Predator",
+              "manaCost": "{3}{R}{R}",
+              "typeLine": "Legendary Creature — Shark",
+              "oracleText": "Trample, haste\nWhenever Jaws deals combat damage to a player, create that many Blood tokens. (They're artifacts with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\nWhenever a noncreature artifact is sacrificed or destroyed, Jaws deals 1 damage to each opponent.",
+              "image": "https://cards.scryfall.io/normal/front/c/6/c6d16a9e-98c0-46e0-987c-f0de0915a204.jpg?1791470750"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3302.88,
+        "cards": [
+          {
+            "cardId": "cc494af5-4da4-43f5-a193-426ef84d80a7",
+            "cardName": "Seismic Assault",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Seismic Assault",
+              "manaCost": "{R}{R}{R}",
+              "typeLine": "Enchantment",
+              "oracleText": "Discard a land card: This enchantment deals 2 damage to any target.",
+              "image": "https://cards.scryfall.io/normal/front/c/c/cc494af5-4da4-43f5-a193-426ef84d80a7.jpg?1783946508"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3308.44,
+        "cards": [
+          {
+            "cardId": "1b9296ca-39a8-4aad-be92-0a56c704e950",
+            "cardName": "Ayula's Influence",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Ayula's Influence",
+              "manaCost": "{G}{G}{G}",
+              "typeLine": "Enchantment",
+              "oracleText": "Discard a land card: Create a 2/2 green Bear creature token.",
+              "image": "https://cards.scryfall.io/normal/front/1/b/1b9296ca-39a8-4aad-be92-0a56c704e950.jpg?1783933100"
+            }
+          },
+          {
+            "cardId": "0cdf78b7-3c32-422a-a73f-d198e6f06290",
+            "cardName": "Swans of Bryn Argoll",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Swans of Bryn Argoll",
+              "manaCost": "{2}{W/U}{W/U}",
+              "typeLine": "Creature — Bird Spirit",
+              "oracleText": "Flying\nIf a source would deal damage to this creature, prevent that damage. The source's controller draws cards equal to the damage prevented this way.",
+              "image": "https://cards.scryfall.io/normal/front/0/c/0cdf78b7-3c32-422a-a73f-d198e6f06290.jpg?1783942735"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3318.4,
+        "cards": [
+          {
+            "cardId": "6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1",
+            "cardName": "Faldorn, Dread Wolf Herald",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Faldorn, Dread Wolf Herald",
+              "manaCost": "{1}{R}{G}",
+              "typeLine": "Legendary Creature — Human Druid",
+              "oracleText": "Whenever you cast a spell from exile or a land you control enters from exile, create a 2/2 green Wolf creature token.\n{1}, {T}, Discard a card: Exile the top card of your library. You may play it this turn.",
+              "image": "https://cards.scryfall.io/normal/front/6/b/6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1.jpg?1783922525"
+            }
+          },
+          {
+            "cardId": "d743336e-d5c7-4053-a23d-92ec7581f74e",
+            "cardName": "Prosper, Tome-Bound",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Prosper, Tome-Bound",
+              "manaCost": "{2}{B}{R}",
+              "typeLine": "Legendary Creature — Tiefling Warlock",
+              "oracleText": "Deathtouch\nMystic Arcanum — At the beginning of your end step, exile the top card of your library. Until the end of your next turn, you may play that card.\nPact Boon — Whenever you play a card from exile, create a Treasure token.",
+              "image": "https://cards.scryfall.io/normal/front/d/7/d743336e-d5c7-4053-a23d-92ec7581f74e.jpg?1783926259"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3355.6,
+        "cards": [
+          {
+            "cardId": "37c2b1d1-faa0-40fd-82f4-216604ce7635",
+            "cardName": "Rest in Peace",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Rest in Peace",
+              "manaCost": "{1}{W}",
+              "typeLine": "Enchantment",
+              "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+              "image": "https://cards.scryfall.io/normal/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1783940374"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3377.46,
+        "cards": [
+          {
+            "cardId": "bbb03f2e-2b92-4aa1-afae-301ed5d151d3",
+            "cardName": "Lightning Strike",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Lightning Strike",
+              "manaCost": "{1}{R}",
+              "typeLine": "Instant",
+              "oracleText": "Lightning Strike deals 3 damage to any target.",
+              "image": "https://cards.scryfall.io/normal/front/b/b/bbb03f2e-2b92-4aa1-afae-301ed5d151d3.jpg?1783939760"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3444.12,
+        "cards": [
+          {
+            "cardId": "997bc933-ac30-477b-a4e1-5333b796a99d",
+            "cardName": "Amulet of Vigor",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Amulet of Vigor",
+              "manaCost": "{1}",
+              "typeLine": "Artifact",
+              "oracleText": "Whenever a permanent you control enters tapped, untap it.",
+              "image": "https://cards.scryfall.io/normal/front/9/9/997bc933-ac30-477b-a4e1-5333b796a99d.jpg?1783942040"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3451.08,
+        "cards": [
+          {
+            "cardId": "66ae703d-b133-4749-9d38-216abe6c6647",
+            "cardName": "Rampaging Baloths",
+            "confidence": 1,
+            "needsReview": false,
+            "card": {
+              "name": "Rampaging Baloths",
+              "manaCost": "{4}{G}{G}",
+              "typeLine": "Creature — Beast",
+              "oracleText": "Trample\nLandfall — Whenever a land you control enters, create a 4/4 green Beast creature token.",
+              "image": "https://cards.scryfall.io/normal/front/6/6/66ae703d-b133-4749-9d38-216abe6c6647.jpg?1783942133"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3458.24,
+        "cards": [
+          {
+            "cardId": "e96068e3-4c79-4c59-8821-053f21db42c7",
+            "cardName": "Shadow of the Goblin",
+            "confidence": 0.97,
+            "needsReview": false,
+            "card": {
+              "name": "Shadow of the Goblin",
+              "manaCost": "{1}{R}",
+              "typeLine": "Enchantment",
+              "oracleText": "Unreliable Visions — At the beginning of your first main phase, discard a card. If you do, draw a card.\nUndying Vengeance — Whenever you play a land or cast a spell from anywhere other than your hand, this enchantment deals 1 damage to each opponent.",
+              "image": "https://cards.scryfall.io/normal/front/e/9/e96068e3-4c79-4c59-8821-053f21db42c7.jpg?1783905270"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3486.36,
+        "cards": [
+          {
+            "cardId": "6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1",
+            "cardName": "Faldorn, Dread Wolf Herald",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Faldorn, Dread Wolf Herald",
+              "manaCost": "{1}{R}{G}",
+              "typeLine": "Legendary Creature — Human Druid",
+              "oracleText": "Whenever you cast a spell from exile or a land you control enters from exile, create a 2/2 green Wolf creature token.\n{1}, {T}, Discard a card: Exile the top card of your library. You may play it this turn.",
+              "image": "https://cards.scryfall.io/normal/front/6/b/6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1.jpg?1783922525"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3489,
+        "cards": [
+          {
+            "cardId": "6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1",
+            "cardName": "Faldorn, Dread Wolf Herald",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Faldorn, Dread Wolf Herald",
+              "manaCost": "{1}{R}{G}",
+              "typeLine": "Legendary Creature — Human Druid",
+              "oracleText": "Whenever you cast a spell from exile or a land you control enters from exile, create a 2/2 green Wolf creature token.\n{1}, {T}, Discard a card: Exile the top card of your library. You may play it this turn.",
+              "image": "https://cards.scryfall.io/normal/front/6/b/6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1.jpg?1783922525"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3491.08,
+        "cards": [
+          {
+            "cardId": "a566ab2d-6ec8-4833-8ad6-210378b1a20e",
+            "cardName": "Cool but Rude",
+            "confidence": 0.79,
+            "needsReview": true,
+            "card": {
+              "name": "Cool but Rude",
+              "manaCost": "{1}{R}",
+              "typeLine": "Enchantment — Class",
+              "oracleText": "(Gain the next level as a sorcery to add its ability.)\nWhenever you attack, you may discard a card. If you do, draw a card.\n{1}{R}: Level 2\nWhenever you discard a card, this Class deals 2 damage to each opponent.\n{1}{R}: Level 3\nWhen this Class becomes level 3, search your library for a card, put it into your hand, shuffle, then discard a card at random.",
+              "image": "https://cards.scryfall.io/normal/front/a/5/a566ab2d-6ec8-4833-8ad6-210378b1a20e.jpg?1783904098"
+            }
+          }
+        ]
+      },
+      {
+        "start": 3502.38,
+        "cards": [
+          {
+            "cardId": "67b369c4-faa8-45c8-a1b9-98f228b69682",
+            "cardName": "Wheel of Fortune",
+            "confidence": 0.99,
+            "needsReview": false,
+            "card": {
+              "name": "Wheel of Fortune",
+              "manaCost": "{2}{R}",
+              "typeLine": "Sorcery",
+              "oracleText": "Each player discards their hand, then draws seven cards.",
+              "image": "https://cards.scryfall.io/normal/front/6/7/67b369c4-faa8-45c8-a1b9-98f228b69682.jpg?1783948679"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3289.8,
+    "end": 3319.8,
+    "cardId": "c6d16a9e-98c0-46e0-987c-f0de0915a204",
+    "cardName": "Jaws, Relentless Predator",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Jaws, Relentless Predator",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Legendary Creature — Shark",
+      "oracleText": "Trample, haste\nWhenever Jaws deals combat damage to a player, create that many Blood tokens. (They're artifacts with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\nWhenever a noncreature artifact is sacrificed or destroyed, Jaws deals 1 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/c/6/c6d16a9e-98c0-46e0-987c-f0de0915a204.jpg?1791470750"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3298,
+    "end": 3328,
+    "cardId": "c6d16a9e-98c0-46e0-987c-f0de0915a204",
+    "cardName": "Jaws, Relentless Predator",
+    "confidence": 0.75,
+    "needsReview": true,
+    "card": {
+      "name": "Jaws, Relentless Predator",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Legendary Creature — Shark",
+      "oracleText": "Trample, haste\nWhenever Jaws deals combat damage to a player, create that many Blood tokens. (They're artifacts with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\nWhenever a noncreature artifact is sacrificed or destroyed, Jaws deals 1 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/c/6/c6d16a9e-98c0-46e0-987c-f0de0915a204.jpg?1791470750"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3302.88,
+    "end": 3332.88,
+    "cardId": "cc494af5-4da4-43f5-a193-426ef84d80a7",
+    "cardName": "Seismic Assault",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Seismic Assault",
+      "manaCost": "{R}{R}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Discard a land card: This enchantment deals 2 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/c/c/cc494af5-4da4-43f5-a193-426ef84d80a7.jpg?1783946508"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3308.44,
+    "end": 3338.44,
+    "cardId": "1b9296ca-39a8-4aad-be92-0a56c704e950",
+    "cardName": "Ayula's Influence",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Ayula's Influence",
+      "manaCost": "{G}{G}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "Discard a land card: Create a 2/2 green Bear creature token.",
+      "image": "https://cards.scryfall.io/normal/front/1/b/1b9296ca-39a8-4aad-be92-0a56c704e950.jpg?1783933100"
+    },
+    "cards": [
+      {
+        "cardId": "1b9296ca-39a8-4aad-be92-0a56c704e950",
+        "cardName": "Ayula's Influence",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Ayula's Influence",
+          "manaCost": "{G}{G}{G}",
+          "typeLine": "Enchantment",
+          "oracleText": "Discard a land card: Create a 2/2 green Bear creature token.",
+          "image": "https://cards.scryfall.io/normal/front/1/b/1b9296ca-39a8-4aad-be92-0a56c704e950.jpg?1783933100"
+        }
+      },
+      {
+        "cardId": "0cdf78b7-3c32-422a-a73f-d198e6f06290",
+        "cardName": "Swans of Bryn Argoll",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Swans of Bryn Argoll",
+          "manaCost": "{2}{W/U}{W/U}",
+          "typeLine": "Creature — Bird Spirit",
+          "oracleText": "Flying\nIf a source would deal damage to this creature, prevent that damage. The source's controller draws cards equal to the damage prevented this way.",
+          "image": "https://cards.scryfall.io/normal/front/0/c/0cdf78b7-3c32-422a-a73f-d198e6f06290.jpg?1783942735"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3318.4,
+    "end": 3348.4,
+    "cardId": "6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1",
+    "cardName": "Faldorn, Dread Wolf Herald",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Faldorn, Dread Wolf Herald",
+      "manaCost": "{1}{R}{G}",
+      "typeLine": "Legendary Creature — Human Druid",
+      "oracleText": "Whenever you cast a spell from exile or a land you control enters from exile, create a 2/2 green Wolf creature token.\n{1}, {T}, Discard a card: Exile the top card of your library. You may play it this turn.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1.jpg?1783922525"
+    },
+    "cards": [
+      {
+        "cardId": "6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1",
+        "cardName": "Faldorn, Dread Wolf Herald",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Faldorn, Dread Wolf Herald",
+          "manaCost": "{1}{R}{G}",
+          "typeLine": "Legendary Creature — Human Druid",
+          "oracleText": "Whenever you cast a spell from exile or a land you control enters from exile, create a 2/2 green Wolf creature token.\n{1}, {T}, Discard a card: Exile the top card of your library. You may play it this turn.",
+          "image": "https://cards.scryfall.io/normal/front/6/b/6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1.jpg?1783922525"
+        }
+      },
+      {
+        "cardId": "d743336e-d5c7-4053-a23d-92ec7581f74e",
+        "cardName": "Prosper, Tome-Bound",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Prosper, Tome-Bound",
+          "manaCost": "{2}{B}{R}",
+          "typeLine": "Legendary Creature — Tiefling Warlock",
+          "oracleText": "Deathtouch\nMystic Arcanum — At the beginning of your end step, exile the top card of your library. Until the end of your next turn, you may play that card.\nPact Boon — Whenever you play a card from exile, create a Treasure token.",
+          "image": "https://cards.scryfall.io/normal/front/d/7/d743336e-d5c7-4053-a23d-92ec7581f74e.jpg?1783926259"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 3355.6,
+    "end": 3385.6,
+    "cardId": "37c2b1d1-faa0-40fd-82f4-216604ce7635",
+    "cardName": "Rest in Peace",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rest in Peace",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "When this enchantment enters, exile all graveyards.\nIf a card or token would be put into a graveyard from anywhere, exile it instead.",
+      "image": "https://cards.scryfall.io/normal/front/3/7/37c2b1d1-faa0-40fd-82f4-216604ce7635.jpg?1783940374"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3377.46,
+    "end": 3407.46,
+    "cardId": "bbb03f2e-2b92-4aa1-afae-301ed5d151d3",
+    "cardName": "Lightning Strike",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Strike",
+      "manaCost": "{1}{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Strike deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/b/b/bbb03f2e-2b92-4aa1-afae-301ed5d151d3.jpg?1783939760"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3444.12,
+    "end": 3474.12,
+    "cardId": "997bc933-ac30-477b-a4e1-5333b796a99d",
+    "cardName": "Amulet of Vigor",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Amulet of Vigor",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "Whenever a permanent you control enters tapped, untap it.",
+      "image": "https://cards.scryfall.io/normal/front/9/9/997bc933-ac30-477b-a4e1-5333b796a99d.jpg?1783942040"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3451.08,
+    "end": 3481.08,
+    "cardId": "66ae703d-b133-4749-9d38-216abe6c6647",
+    "cardName": "Rampaging Baloths",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Rampaging Baloths",
+      "manaCost": "{4}{G}{G}",
+      "typeLine": "Creature — Beast",
+      "oracleText": "Trample\nLandfall — Whenever a land you control enters, create a 4/4 green Beast creature token.",
+      "image": "https://cards.scryfall.io/normal/front/6/6/66ae703d-b133-4749-9d38-216abe6c6647.jpg?1783942133"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3458.24,
+    "end": 3488.24,
+    "cardId": "e96068e3-4c79-4c59-8821-053f21db42c7",
+    "cardName": "Shadow of the Goblin",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Shadow of the Goblin",
+      "manaCost": "{1}{R}",
+      "typeLine": "Enchantment",
+      "oracleText": "Unreliable Visions — At the beginning of your first main phase, discard a card. If you do, draw a card.\nUndying Vengeance — Whenever you play a land or cast a spell from anywhere other than your hand, this enchantment deals 1 damage to each opponent.",
+      "image": "https://cards.scryfall.io/normal/front/e/9/e96068e3-4c79-4c59-8821-053f21db42c7.jpg?1783905270"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3486.36,
+    "end": 3516.36,
+    "cardId": "6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1",
+    "cardName": "Faldorn, Dread Wolf Herald",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Faldorn, Dread Wolf Herald",
+      "manaCost": "{1}{R}{G}",
+      "typeLine": "Legendary Creature — Human Druid",
+      "oracleText": "Whenever you cast a spell from exile or a land you control enters from exile, create a 2/2 green Wolf creature token.\n{1}, {T}, Discard a card: Exile the top card of your library. You may play it this turn.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1.jpg?1783922525"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3489,
+    "end": 3519,
+    "cardId": "6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1",
+    "cardName": "Faldorn, Dread Wolf Herald",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Faldorn, Dread Wolf Herald",
+      "manaCost": "{1}{R}{G}",
+      "typeLine": "Legendary Creature — Human Druid",
+      "oracleText": "Whenever you cast a spell from exile or a land you control enters from exile, create a 2/2 green Wolf creature token.\n{1}, {T}, Discard a card: Exile the top card of your library. You may play it this turn.",
+      "image": "https://cards.scryfall.io/normal/front/6/b/6ba78cd7-a3b6-4ef2-b6b7-3416c0ba61f1.jpg?1783922525"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3491.08,
+    "end": 3521.08,
+    "cardId": "a566ab2d-6ec8-4833-8ad6-210378b1a20e",
+    "cardName": "Cool but Rude",
+    "confidence": 0.79,
+    "needsReview": true,
+    "card": {
+      "name": "Cool but Rude",
+      "manaCost": "{1}{R}",
+      "typeLine": "Enchantment — Class",
+      "oracleText": "(Gain the next level as a sorcery to add its ability.)\nWhenever you attack, you may discard a card. If you do, draw a card.\n{1}{R}: Level 2\nWhenever you discard a card, this Class deals 2 damage to each opponent.\n{1}{R}: Level 3\nWhen this Class becomes level 3, search your library for a card, put it into your hand, shuffle, then discard a card at random.",
+      "image": "https://cards.scryfall.io/normal/front/a/5/a566ab2d-6ec8-4833-8ad6-210378b1a20e.jpg?1783904098"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3502.38,
+    "end": 3532.38,
+    "cardId": "67b369c4-faa8-45c8-a1b9-98f228b69682",
+    "cardName": "Wheel of Fortune",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Wheel of Fortune",
+      "manaCost": "{2}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Each player discards their hand, then draws seven cards.",
+      "image": "https://cards.scryfall.io/normal/front/6/7/67b369c4-faa8-45c8-a1b9-98f228b69682.jpg?1783948679"
+    }
+  },
+  {
+    "start": 3512.38,
+    "cardId": "7263e20e-5473-42e9-90c3-3bcd848644ca",
+    "cardName": "Shimmering Mirage",
+    "confidence": 0.92,
+    "needsReview": true,
+    "card": {
+      "name": "Shimmering Mirage",
+      "manaCost": "{1}{U}",
+      "typeLine": "Instant",
+      "oracleText": "Target land becomes the basic land type of your choice until end of turn.\nDraw a card.",
+      "image": "https://cards.scryfall.io/normal/front/7/2/7263e20e-5473-42e9-90c3-3bcd848644ca.jpg?1783945351"
+    }
+  }
+]
