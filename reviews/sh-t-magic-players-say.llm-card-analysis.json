@@ -1,0 +1,661 @@
+{
+  "model": "gpt-6-astra",
+  "title": "Sh*t Magic Players Say",
+  "chunks": 2,
+  "mentions": [
+    {
+      "canonicalName": "Arcane Signet",
+      "spokenText": "Arcane Cygnus",
+      "role": "incidental",
+      "startSeconds": 248.02,
+      "evidence": "Soaring into Arcane Cygnus",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "Soaring",
+      "role": "incidental",
+      "startSeconds": 248.02,
+      "evidence": "Soaring into Arcane Cygnus",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Edgar Markov",
+      "spokenText": "etka",
+      "role": "incidental",
+      "startSeconds": 275.52,
+      "evidence": "my commander was etka the entire time",
+      "confidence": 0.7,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Hit the Mother Lode",
+      "spokenText": "hit the mother lord",
+      "role": "incidental",
+      "startSeconds": 310.28,
+      "evidence": "hit like some form of hit the mother lord",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Apex Devastator",
+      "spokenText": "apex devastator",
+      "role": "incidental",
+      "startSeconds": 317.98,
+      "evidence": "then i hit an apex devastator",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 337.7,
+      "evidence": "in terms of like the soul ring",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 347.98,
+      "evidence": "if you had a soul ring start",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sol Ring",
+      "spokenText": "soul ring",
+      "role": "incidental",
+      "startSeconds": 352.98,
+      "evidence": "soul ring usually being the culprit",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Mana Geyser",
+      "spokenText": "mana geyser",
+      "role": "incidental",
+      "startSeconds": 358.16,
+      "evidence": "then i hit a mana geyser",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doubling Season",
+      "spokenText": "doubling seasoning",
+      "role": "incidental",
+      "startSeconds": 386.16,
+      "evidence": "same with cards like doubling seasoning",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Ajani's Mantra",
+      "spokenText": "Ajani",
+      "role": "incidental",
+      "startSeconds": 511.96,
+      "evidence": "I get destroyed by Ajani",
+      "confidence": 0.57,
+      "modelName": "Ajani, Nacatl Pariah",
+      "catalogueConfidence": 0.864
+    },
+    {
+      "canonicalName": "Ajani's Mantra",
+      "spokenText": "Reddajanied",
+      "role": "incidental",
+      "startSeconds": 521.94,
+      "evidence": "Sometimes when we get Reddajanied",
+      "confidence": 0.51,
+      "modelName": "Ajani, Nacatl Pariah",
+      "catalogueConfidence": 0.864
+    },
+    {
+      "canonicalName": "Urza, Lord High Artificer",
+      "spokenText": "Ursa",
+      "role": "incidental",
+      "startSeconds": 535.98,
+      "evidence": "My Ursa was not supposed to be the same",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Urza, Lord High Artificer",
+      "spokenText": "Ursa's",
+      "role": "incidental",
+      "startSeconds": 539.98,
+      "evidence": "I swear this Ursa's different",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Prophet of Kruphix",
+      "spokenText": "profit of crew fix",
+      "role": "incidental",
+      "startSeconds": 608.18,
+      "evidence": "profit of crew fix ... when it got banned",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "lightning bolt",
+      "role": "incidental",
+      "startSeconds": 612.52,
+      "evidence": "it dies to lightning bolt",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "lightning bolts",
+      "role": "incidental",
+      "startSeconds": 656.5,
+      "evidence": "dies to lightning bolts",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "lightning bolts",
+      "role": "incidental",
+      "startSeconds": 660.28,
+      "evidence": "lightning bolts in commander",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Lightning Bolt",
+      "spokenText": "lightning bolts",
+      "role": "incidental",
+      "startSeconds": 672.14,
+      "evidence": "I'm telling you lightning bolts so back",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Assassin's Trophy",
+      "spokenText": "assassin's trophy",
+      "role": "incidental",
+      "startSeconds": 678.92,
+      "evidence": "assassin's trophy most played golgari card",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Murder",
+      "spokenText": "murder",
+      "role": "incidental",
+      "startSeconds": 685.3,
+      "evidence": "there's like straight up murder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Murder",
+      "spokenText": "murder",
+      "role": "incidental",
+      "startSeconds": 690.26,
+      "evidence": "know if there's murder",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Urza, Lord High Artificer",
+      "spokenText": "Urza",
+      "role": "incidental",
+      "startSeconds": 768.26,
+      "evidence": "drops down Urza and stuff",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Urza, Lord High Artificer",
+      "spokenText": "Urza",
+      "role": "incidental",
+      "startSeconds": 772.56,
+      "evidence": "You could just take out Urza",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Urza, Lord High Artificer",
+      "spokenText": "Urza",
+      "role": "incidental",
+      "startSeconds": 779.62,
+      "evidence": "omega level apocalyptic threats like your Urza",
+      "confidence": 0.96,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Sergeant John Benton",
+      "spokenText": "Sergeant John Benton",
+      "role": "incidental",
+      "startSeconds": 921.42,
+      "evidence": "my Sergeant John Benton deck",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Akroma's Will",
+      "spokenText": "a Chromos Will",
+      "role": "incidental",
+      "startSeconds": 1107.32,
+      "evidence": "if a Chromos Will has art on it that has cats",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Golos, Tireless Pilgrim",
+      "spokenText": "Golo",
+      "role": "incidental",
+      "startSeconds": 1215.16,
+      "evidence": "Golo Scouts is one of those",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "deadpool",
+      "role": "incidental",
+      "startSeconds": 1239.74,
+      "evidence": "i have a deadpool deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 1258.88,
+      "evidence": "I play my Deadpool deck",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 1263.42,
+      "evidence": "slug Deadpool",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 1269.6,
+      "evidence": "Deadpool is that card",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 1288.6,
+      "evidence": "Brother, it's still Deadpool",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Korvold, Fae-Cursed King",
+      "spokenText": "Corval",
+      "role": "incidental",
+      "startSeconds": 1290.72,
+      "evidence": "I'm a Corval deck",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 1301.46,
+      "evidence": "I am playing Deadpool fairly",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 1308.22,
+      "evidence": "it's just Deadpool at the helm",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 1319.28,
+      "evidence": "Because I love Deadpool",
+      "confidence": 0.9,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 1323.12,
+      "evidence": "him out because everybody hates Deadpool",
+      "confidence": 0.98,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 1326.9,
+      "evidence": "leans into the flavor of Deadpool",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 1331.06,
+      "evidence": "know about Deadpool or something else",
+      "confidence": 0.88,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Tergrid's Shadow",
+      "spokenText": "Turgrin",
+      "role": "incidental",
+      "startSeconds": 1340.9,
+      "evidence": "Turgrin and says, trust me, bro",
+      "confidence": 0.99,
+      "modelName": "Tergrid, God of Fright",
+      "catalogueConfidence": 0.831
+    },
+    {
+      "canonicalName": "Tergrid's Shadow",
+      "spokenText": "Turgrid",
+      "role": "incidental",
+      "startSeconds": 1347.3,
+      "evidence": "Turgrid ... like wolves, mono black wolves",
+      "confidence": 0.99,
+      "modelName": "Tergrid, God of Fright",
+      "catalogueConfidence": 0.831
+    },
+    {
+      "canonicalName": "Tergrid's Shadow",
+      "spokenText": "Turgrid",
+      "role": "incidental",
+      "startSeconds": 1357,
+      "evidence": "I, the Turgrid player",
+      "confidence": 0.99,
+      "modelName": "Tergrid, God of Fright",
+      "catalogueConfidence": 0.831
+    },
+    {
+      "canonicalName": "Zoraline, Cosmos Caller",
+      "spokenText": "Zorline",
+      "role": "incidental",
+      "startSeconds": 1410.64,
+      "evidence": "Zorline deck",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "deadpool",
+      "role": "incidental",
+      "startSeconds": 1443.58,
+      "evidence": "against my deadpool deck at magic cons",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "deadpool",
+      "role": "incidental",
+      "startSeconds": 1447.4,
+      "evidence": "i still had the one deadpool right",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Golos, Tireless Pilgrim",
+      "spokenText": "Golos",
+      "role": "incidental",
+      "startSeconds": 1476.9,
+      "evidence": "your Golos scouts deck is bad",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Golos, Tireless Pilgrim",
+      "spokenText": "Golos",
+      "role": "incidental",
+      "startSeconds": 1482.18,
+      "evidence": "you're still playing Golos",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Golos, Tireless Pilgrim",
+      "spokenText": "Golo",
+      "role": "incidental",
+      "startSeconds": 1490.44,
+      "evidence": "what if Golo Scout isn't that bad",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Farewell",
+      "spokenText": "farewell",
+      "role": "incidental",
+      "startSeconds": 1527.36,
+      "evidence": "you farewell me and I deserve it",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Urza, Lord High Artificer",
+      "spokenText": "Urza",
+      "role": "incidental",
+      "startSeconds": 1535,
+      "evidence": "a mono-blue Urza",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Urza, Lord High Artificer",
+      "spokenText": "Urza",
+      "role": "incidental",
+      "startSeconds": 1543.24,
+      "evidence": "I still have Urza",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Evolving Wilds",
+      "spokenText": "evolving wilds",
+      "role": "incidental",
+      "startSeconds": 1566.66,
+      "evidence": "are we counting like evolving wilds",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Tutor",
+      "spokenText": "demonic tutor",
+      "role": "incidental",
+      "startSeconds": 1570.98,
+      "evidence": "gotta be like a demonic tutor kind of tutor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Demonic Tutor",
+      "spokenText": "demonic tutor",
+      "role": "incidental",
+      "startSeconds": 1593.06,
+      "evidence": "literally demonic tutor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Grim Tutor",
+      "spokenText": "grim tutor",
+      "role": "incidental",
+      "startSeconds": 1594.84,
+      "evidence": "I meant the grim tutor",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doorkeeper",
+      "spokenText": "doorkeeper",
+      "role": "incidental",
+      "startSeconds": 1932.56,
+      "evidence": "I had like a doorkeeper, which milled",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doorkeeper",
+      "spokenText": "doorkeeper",
+      "role": "incidental",
+      "startSeconds": 1956.58,
+      "evidence": "you drew your second doorkeeper how lucky",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cori-Steel Cutter",
+      "spokenText": "Corey Steelcutter",
+      "role": "incidental",
+      "startSeconds": 2377.96,
+      "evidence": "Corey Steelcutter was garbage bulk",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Doubling Season",
+      "spokenText": "doubling season",
+      "role": "incidental",
+      "startSeconds": 2692.22,
+      "evidence": "doubling season, someone's going to be popping off",
+      "confidence": 1,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Deadpool, Trading Card",
+      "spokenText": "Deadpool",
+      "role": "incidental",
+      "startSeconds": 2882.78,
+      "evidence": "I play Deadpool ... they see him in the command zone",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Urza, Lord High Artificer",
+      "spokenText": "Urza",
+      "role": "incidental",
+      "startSeconds": 2904.88,
+      "evidence": "we'll just use Urza again as an example",
+      "confidence": 0.85,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Cathars' Crusade",
+      "spokenText": "Guitarist Crusade",
+      "role": "incidental",
+      "startSeconds": 3055.42,
+      "evidence": "If you play Guitarist Crusade, you are being very mean to me",
+      "confidence": 0.99,
+      "catalogueConfidence": 1
+    },
+    {
+      "canonicalName": "Thassa's Oracle",
+      "spokenText": "Thoracul",
+      "role": "incidental",
+      "startSeconds": 3276.92,
+      "evidence": "Like if they then go, oh, sweet, Thoracul",
+      "confidence": 0.97,
+      "catalogueConfidence": 1
+    }
+  ],
+  "mainCards": [],
+  "incidentalCards": [
+    "Ajani's Mantra",
+    "Akroma's Will",
+    "Apex Devastator",
+    "Arcane Signet",
+    "Assassin's Trophy",
+    "Cathars' Crusade",
+    "Cori-Steel Cutter",
+    "Deadpool, Trading Card",
+    "Demonic Tutor",
+    "Doorkeeper",
+    "Doubling Season",
+    "Edgar Markov",
+    "Evolving Wilds",
+    "Farewell",
+    "Golos, Tireless Pilgrim",
+    "Grim Tutor",
+    "Hit the Mother Lode",
+    "Korvold, Fae-Cursed King",
+    "Lightning Bolt",
+    "Mana Geyser",
+    "Murder",
+    "Prophet of Kruphix",
+    "Sergeant John Benton",
+    "Sol Ring",
+    "Tergrid's Shadow",
+    "Thassa's Oracle",
+    "Urza, Lord High Artificer",
+    "Zoraline, Cosmos Caller"
+  ],
+  "runtime": "local-codex-cli",
+  "authentication": "chatgpt-subscription",
+  "resolution": {
+    "catalogueNames": 38297,
+    "correctedMentions": 5,
+    "unresolvedMentions": []
+  },
+  "validation": {
+    "matchedMainCards": [],
+    "unmatchedMainCards": [],
+    "matchedIncidentalCards": [
+      "Ajani's Mantra",
+      "Akroma's Will",
+      "Apex Devastator",
+      "Arcane Signet",
+      "Assassin's Trophy",
+      "Cathars' Crusade",
+      "Cori-Steel Cutter",
+      "Deadpool, Trading Card",
+      "Demonic Tutor",
+      "Doorkeeper",
+      "Doubling Season",
+      "Edgar Markov",
+      "Evolving Wilds",
+      "Farewell",
+      "Golos, Tireless Pilgrim",
+      "Grim Tutor",
+      "Hit the Mother Lode",
+      "Korvold, Fae-Cursed King",
+      "Lightning Bolt",
+      "Mana Geyser",
+      "Murder",
+      "Prophet of Kruphix",
+      "Sergeant John Benton",
+      "Sol Ring",
+      "Tergrid's Shadow",
+      "Thassa's Oracle",
+      "Urza, Lord High Artificer",
+      "Zoraline, Cosmos Caller"
+    ],
+    "unmatchedIncidentalCards": []
+  }
+}

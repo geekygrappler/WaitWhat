@@ -1,5 +1,17 @@
 [
   {
+    "id": "sh-t-magic-players-say",
+    "title": "Sh*t Magic Players Say",
+    "published": "2026-11-17T02:53:00.000Z",
+    "duration": 3376,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/fc051563-cfa1-4116-a251-b1b4e5187ea5/Clash_Podcast_278_Sht that Magic Players Say.mp3",
+    "episodeUrl": "https://www.mtggoldfish.com",
+    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
+    "processed": true,
+    "source": "MTGGoldfish Commander Clash Podcast RSS",
+    "cueSheet": "./data/sh-t-magic-players-say.cues.json"
+  },
+  {
     "id": "most-relevant-star-trek-cards-for-commander",
     "title": "Most Relevant Star Trek Cards for Commander",
     "published": "2026-11-10T16:00:11.000Z",
@@ -215,17 +227,6 @@
     "published": "2026-07-07T15:00:12.000Z",
     "duration": 4687,
     "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/d3e631ff-c5cc-45a3-88f3-5e619373f7ea/commander_clash_podcast_259_commander_mechanics_ranked.mp3",
-    "episodeUrl": "https://www.mtggoldfish.com",
-    "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
-    "processed": false,
-    "source": "MTGGoldfish Commander Clash Podcast RSS"
-  },
-  {
-    "id": "utility-land-tier-list",
-    "title": "Utility Land Tier List",
-    "published": "2026-06-30T15:00:19.000Z",
-    "duration": 4086,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/podcast-commander-clash.mtggoldfish.com/5496fa5b-fa18-42bb-aab4-048278a26115/commander_clash_podcast_258_utility_land_tier_list.mp3",
     "episodeUrl": "https://www.mtggoldfish.com",
     "artwork": "https://images1.mtggoldfish.com/uploads/418c349b-db06-4058-bfc7-206763ad9186/commander%20clash%20podcast%20logo.png",
     "processed": false,

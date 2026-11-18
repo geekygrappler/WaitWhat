@@ -1,0 +1,1038 @@
+[
+  {
+    "track": "mentioned",
+    "start": 248.02,
+    "end": 278.02,
+    "cardId": "84128e98-87d6-4c2f-909b-9435a7833e63",
+    "cardName": "Arcane Signet",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Arcane Signet",
+      "manaCost": "{2}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add one mana of any color in your commander's color identity.",
+      "image": "https://cards.scryfall.io/normal/front/8/4/84128e98-87d6-4c2f-909b-9435a7833e63.jpg?1783932545"
+    },
+    "cards": [
+      {
+        "cardId": "84128e98-87d6-4c2f-909b-9435a7833e63",
+        "cardName": "Arcane Signet",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Arcane Signet",
+          "manaCost": "{2}",
+          "typeLine": "Artifact",
+          "oracleText": "{T}: Add one mana of any color in your commander's color identity.",
+          "image": "https://cards.scryfall.io/normal/front/8/4/84128e98-87d6-4c2f-909b-9435a7833e63.jpg?1783932545"
+        }
+      },
+      {
+        "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+        "cardName": "Sol Ring",
+        "confidence": 0.99,
+        "needsReview": false,
+        "card": {
+          "name": "Sol Ring",
+          "manaCost": "{1}",
+          "typeLine": "Artifact",
+          "oracleText": "{T}: Add {C}{C}.",
+          "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+        }
+      }
+    ]
+  },
+  {
+    "track": "mentioned",
+    "start": 275.52,
+    "end": 305.52,
+    "cardId": "8d94b8ec-ecda-43c8-a60e-1ba33e6a54a4",
+    "cardName": "Edgar Markov",
+    "confidence": 0.7,
+    "needsReview": true,
+    "card": {
+      "name": "Edgar Markov",
+      "manaCost": "{3}{R}{W}{B}",
+      "typeLine": "Legendary Creature — Vampire Knight",
+      "oracleText": "Eminence — Whenever you cast another Vampire spell, if Edgar is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.\nFirst strike, haste\nWhenever Edgar attacks, put a +1/+1 counter on each Vampire you control.",
+      "image": "https://cards.scryfall.io/normal/front/8/d/8d94b8ec-ecda-43c8-a60e-1ba33e6a54a4.jpg?1783935938"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 310.28,
+    "end": 340.28,
+    "cardId": "e75f460c-43e2-4353-8b73-71ff8651a79d",
+    "cardName": "Hit the Mother Lode",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Hit the Mother Lode",
+      "manaCost": "{4}{R}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Discover 10. If the discovered card's mana value is less than 10, create a number of tapped Treasure tokens equal to the difference. (To discover 10, exile cards from the top of your library until you exile a nonland card with mana value 10 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",
+      "image": "https://cards.scryfall.io/normal/front/e/7/e75f460c-43e2-4353-8b73-71ff8651a79d.jpg?1783913759"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 317.98,
+    "end": 347.98,
+    "cardId": "8fa281e1-5c48-4bba-b8e9-88c6f5f53abb",
+    "cardName": "Apex Devastator",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Apex Devastator",
+      "manaCost": "{8}{G}{G}",
+      "typeLine": "Creature — Chimera Hydra",
+      "oracleText": "Cascade, cascade, cascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Multiple instances of cascade each trigger separately.)",
+      "image": "https://cards.scryfall.io/normal/front/8/f/8fa281e1-5c48-4bba-b8e9-88c6f5f53abb.jpg?1783928799"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 337.7,
+    "end": 367.7,
+    "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 347.98,
+    "end": 377.98,
+    "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 352.98,
+    "end": 382.98,
+    "cardId": "c4300d24-1cae-4dd5-be7e-38cc677cf5bd",
+    "cardName": "Sol Ring",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sol Ring",
+      "manaCost": "{1}",
+      "typeLine": "Artifact",
+      "oracleText": "{T}: Add {C}{C}.",
+      "image": "https://cards.scryfall.io/normal/front/c/4/c4300d24-1cae-4dd5-be7e-38cc677cf5bd.jpg?1783948661"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 358.16,
+    "end": 388.16,
+    "cardId": "3929662e-99d7-48e9-afac-1852af8be722",
+    "cardName": "Mana Geyser",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Mana Geyser",
+      "manaCost": "{3}{R}{R}",
+      "typeLine": "Sorcery",
+      "oracleText": "Add {R} for each tapped land your opponents control.",
+      "image": "https://cards.scryfall.io/normal/front/3/9/3929662e-99d7-48e9-afac-1852af8be722.jpg?1783944392"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 386.16,
+    "end": 416.16,
+    "cardId": "c7e71299-98f6-494e-b187-8d22ce5f50af",
+    "cardName": "Doubling Season",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Doubling Season",
+      "manaCost": "{4}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",
+      "image": "https://cards.scryfall.io/normal/front/c/7/c7e71299-98f6-494e-b187-8d22ce5f50af.jpg?1783943641"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 511.96,
+    "end": 541.96,
+    "cardId": "089b1057-ed1f-45a5-ba95-28aa51713764",
+    "cardName": "Ajani's Mantra",
+    "confidence": 0.57,
+    "needsReview": true,
+    "card": {
+      "name": "Ajani's Mantra",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your upkeep, you may gain 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/0/8/089b1057-ed1f-45a5-ba95-28aa51713764.jpg?1783941838"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 521.94,
+    "end": 551.94,
+    "cardId": "089b1057-ed1f-45a5-ba95-28aa51713764",
+    "cardName": "Ajani's Mantra",
+    "confidence": 0.51,
+    "needsReview": true,
+    "card": {
+      "name": "Ajani's Mantra",
+      "manaCost": "{1}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "At the beginning of your upkeep, you may gain 1 life.",
+      "image": "https://cards.scryfall.io/normal/front/0/8/089b1057-ed1f-45a5-ba95-28aa51713764.jpg?1783941838"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 535.98,
+    "end": 565.98,
+    "cardId": "9e7fb3c0-5159-4d1f-8490-ce4c9a60f567",
+    "cardName": "Urza, Lord High Artificer",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Urza, Lord High Artificer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "When Urza enters, create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"\nTap an untapped artifact you control: Add {U}.\n{5}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e7fb3c0-5159-4d1f-8490-ce4c9a60f567.jpg?1783933135"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 539.98,
+    "end": 569.98,
+    "cardId": "9e7fb3c0-5159-4d1f-8490-ce4c9a60f567",
+    "cardName": "Urza, Lord High Artificer",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Urza, Lord High Artificer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "When Urza enters, create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"\nTap an untapped artifact you control: Add {U}.\n{5}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e7fb3c0-5159-4d1f-8490-ce4c9a60f567.jpg?1783933135"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 608.18,
+    "end": 638.18,
+    "cardId": "45de923f-fdab-460c-96f4-f62aefa9ad73",
+    "cardName": "Prophet of Kruphix",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Prophet of Kruphix",
+      "manaCost": "{3}{G}{U}",
+      "typeLine": "Creature — Human Wizard",
+      "oracleText": "Untap all creatures and lands you control during each other player's untap step.\nYou may cast creature spells as though they had flash.",
+      "image": "https://cards.scryfall.io/normal/front/4/5/45de923f-fdab-460c-96f4-f62aefa9ad73.jpg?1783939727"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 612.52,
+    "end": 642.52,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 656.5,
+    "end": 686.5,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 660.28,
+    "end": 690.28,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 672.14,
+    "end": 702.14,
+    "cardId": "d573ef03-4730-45aa-93dd-e45ac1dbaf4a",
+    "cardName": "Lightning Bolt",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Lightning Bolt",
+      "manaCost": "{R}",
+      "typeLine": "Instant",
+      "oracleText": "Lightning Bolt deals 3 damage to any target.",
+      "image": "https://cards.scryfall.io/normal/front/d/5/d573ef03-4730-45aa-93dd-e45ac1dbaf4a.jpg?1783948684"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 678.92,
+    "end": 708.92,
+    "cardId": "906b6e99-128f-4c11-8daf-16099d35b0d4",
+    "cardName": "Assassin's Trophy",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Assassin's Trophy",
+      "manaCost": "{B}{G}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/9/0/906b6e99-128f-4c11-8daf-16099d35b0d4.jpg?1783934143"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 685.3,
+    "end": 715.3,
+    "cardId": "c8676f02-cf1e-4d40-a0c5-6e5a97417898",
+    "cardName": "Murder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Murder",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature.",
+      "image": "https://cards.scryfall.io/normal/front/c/8/c8676f02-cf1e-4d40-a0c5-6e5a97417898.jpg?1783940492"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 690.26,
+    "end": 720.26,
+    "cardId": "c8676f02-cf1e-4d40-a0c5-6e5a97417898",
+    "cardName": "Murder",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Murder",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Destroy target creature.",
+      "image": "https://cards.scryfall.io/normal/front/c/8/c8676f02-cf1e-4d40-a0c5-6e5a97417898.jpg?1783940492"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 768.26,
+    "end": 798.26,
+    "cardId": "9e7fb3c0-5159-4d1f-8490-ce4c9a60f567",
+    "cardName": "Urza, Lord High Artificer",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Urza, Lord High Artificer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "When Urza enters, create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"\nTap an untapped artifact you control: Add {U}.\n{5}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e7fb3c0-5159-4d1f-8490-ce4c9a60f567.jpg?1783933135"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 772.56,
+    "end": 802.56,
+    "cardId": "9e7fb3c0-5159-4d1f-8490-ce4c9a60f567",
+    "cardName": "Urza, Lord High Artificer",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Urza, Lord High Artificer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "When Urza enters, create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"\nTap an untapped artifact you control: Add {U}.\n{5}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e7fb3c0-5159-4d1f-8490-ce4c9a60f567.jpg?1783933135"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 779.62,
+    "end": 809.62,
+    "cardId": "9e7fb3c0-5159-4d1f-8490-ce4c9a60f567",
+    "cardName": "Urza, Lord High Artificer",
+    "confidence": 0.96,
+    "needsReview": false,
+    "card": {
+      "name": "Urza, Lord High Artificer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "When Urza enters, create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"\nTap an untapped artifact you control: Add {U}.\n{5}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e7fb3c0-5159-4d1f-8490-ce4c9a60f567.jpg?1783933135"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 921.42,
+    "end": 951.42,
+    "cardId": "26393e65-d137-4c36-ba39-6da7e32b16d0",
+    "cardName": "Sergeant John Benton",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Sergeant John Benton",
+      "manaCost": "{1}{G}{W}",
+      "typeLine": "Legendary Creature — Human Soldier",
+      "oracleText": "Trample, haste\nShare Intelligence — Whenever Sergeant John Benton deals combat damage to a player, you and that player each draw that many cards.",
+      "image": "https://cards.scryfall.io/normal/front/2/6/26393e65-d137-4c36-ba39-6da7e32b16d0.jpg?1783914292"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1107.32,
+    "end": 1137.32,
+    "cardId": "c281997b-1566-4469-a14c-6645f81ab023",
+    "cardName": "Akroma's Will",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Akroma's Will",
+      "manaCost": "{3}{W}",
+      "typeLine": "Instant",
+      "oracleText": "Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Creatures you control gain flying, vigilance, and double strike until end of turn.\n• Creatures you control gain lifelink, indestructible, and protection from each color until end of turn.",
+      "image": "https://cards.scryfall.io/normal/front/c/2/c281997b-1566-4469-a14c-6645f81ab023.jpg?1783928892"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1215.16,
+    "end": 1245.16,
+    "cardId": "1fa48620-4c3d-4f75-be1f-c12c4aa59f51",
+    "cardName": "Golos, Tireless Pilgrim",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Golos, Tireless Pilgrim",
+      "manaCost": "{5}",
+      "typeLine": "Legendary Artifact Creature — Scout",
+      "oracleText": "When Golos enters, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.\n{2}{W}{U}{B}{R}{G}: Exile the top three cards of your library. You may play them this turn without paying their mana costs.",
+      "image": "https://cards.scryfall.io/normal/front/1/f/1fa48620-4c3d-4f75-be1f-c12c4aa59f51.jpg?1783932945"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1239.74,
+    "end": 1269.74,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1258.88,
+    "end": 1288.88,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1263.42,
+    "end": 1293.42,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1269.6,
+    "end": 1299.6,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1288.6,
+    "end": 1318.6,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1290.72,
+    "end": 1320.72,
+    "cardId": "92ea1575-eb64-43b5-b604-c6e23054f228",
+    "cardName": "Korvold, Fae-Cursed King",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Korvold, Fae-Cursed King",
+      "manaCost": "{2}{B}{R}{G}",
+      "typeLine": "Legendary Creature — Dragon Noble",
+      "oracleText": "Flying\nWhenever Korvold enters or attacks, sacrifice another permanent.\nWhenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",
+      "image": "https://cards.scryfall.io/normal/front/9/2/92ea1575-eb64-43b5-b604-c6e23054f228.jpg?1783932546"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1301.46,
+    "end": 1331.46,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1308.22,
+    "end": 1338.22,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1319.28,
+    "end": 1349.28,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.9,
+    "needsReview": true,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1323.12,
+    "end": 1353.12,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.98,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1326.9,
+    "end": 1356.9,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.88,
+    "needsReview": true,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1331.06,
+    "end": 1361.06,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.88,
+    "needsReview": true,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1340.9,
+    "end": 1370.9,
+    "cardId": "417f71d2-d7da-4279-8847-d27c67e9ea9d",
+    "cardName": "Tergrid's Shadow",
+    "confidence": 0.831,
+    "needsReview": true,
+    "card": {
+      "name": "Tergrid's Shadow",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Each player sacrifices two creatures.\nForetell {2}{B}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+      "image": "https://cards.scryfall.io/normal/front/4/1/417f71d2-d7da-4279-8847-d27c67e9ea9d.jpg?1783928239"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1347.3,
+    "end": 1377.3,
+    "cardId": "417f71d2-d7da-4279-8847-d27c67e9ea9d",
+    "cardName": "Tergrid's Shadow",
+    "confidence": 0.831,
+    "needsReview": true,
+    "card": {
+      "name": "Tergrid's Shadow",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Each player sacrifices two creatures.\nForetell {2}{B}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+      "image": "https://cards.scryfall.io/normal/front/4/1/417f71d2-d7da-4279-8847-d27c67e9ea9d.jpg?1783928239"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1357,
+    "end": 1387,
+    "cardId": "417f71d2-d7da-4279-8847-d27c67e9ea9d",
+    "cardName": "Tergrid's Shadow",
+    "confidence": 0.831,
+    "needsReview": true,
+    "card": {
+      "name": "Tergrid's Shadow",
+      "manaCost": "{3}{B}{B}",
+      "typeLine": "Instant",
+      "oracleText": "Each player sacrifices two creatures.\nForetell {2}{B}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+      "image": "https://cards.scryfall.io/normal/front/4/1/417f71d2-d7da-4279-8847-d27c67e9ea9d.jpg?1783928239"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1410.64,
+    "end": 1440.64,
+    "cardId": "b7f99fd5-5298-4b27-923d-9d31203c931a",
+    "cardName": "Zoraline, Cosmos Caller",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Zoraline, Cosmos Caller",
+      "manaCost": "{1}{W}{B}",
+      "typeLine": "Legendary Creature — Bat Cleric",
+      "oracleText": "Flying, vigilance\nWhenever a Bat you control attacks, you gain 1 life.\nWhenever Zoraline enters or attacks, you may pay {W}{B} and 2 life. When you do, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.",
+      "image": "https://cards.scryfall.io/normal/front/b/7/b7f99fd5-5298-4b27-923d-9d31203c931a.jpg?1783910787"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1443.58,
+    "end": 1473.58,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1447.4,
+    "end": 1477.4,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1476.9,
+    "end": 1506.9,
+    "cardId": "1fa48620-4c3d-4f75-be1f-c12c4aa59f51",
+    "cardName": "Golos, Tireless Pilgrim",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Golos, Tireless Pilgrim",
+      "manaCost": "{5}",
+      "typeLine": "Legendary Artifact Creature — Scout",
+      "oracleText": "When Golos enters, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.\n{2}{W}{U}{B}{R}{G}: Exile the top three cards of your library. You may play them this turn without paying their mana costs.",
+      "image": "https://cards.scryfall.io/normal/front/1/f/1fa48620-4c3d-4f75-be1f-c12c4aa59f51.jpg?1783932945"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1482.18,
+    "end": 1512.18,
+    "cardId": "1fa48620-4c3d-4f75-be1f-c12c4aa59f51",
+    "cardName": "Golos, Tireless Pilgrim",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Golos, Tireless Pilgrim",
+      "manaCost": "{5}",
+      "typeLine": "Legendary Artifact Creature — Scout",
+      "oracleText": "When Golos enters, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.\n{2}{W}{U}{B}{R}{G}: Exile the top three cards of your library. You may play them this turn without paying their mana costs.",
+      "image": "https://cards.scryfall.io/normal/front/1/f/1fa48620-4c3d-4f75-be1f-c12c4aa59f51.jpg?1783932945"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1490.44,
+    "end": 1520.44,
+    "cardId": "1fa48620-4c3d-4f75-be1f-c12c4aa59f51",
+    "cardName": "Golos, Tireless Pilgrim",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Golos, Tireless Pilgrim",
+      "manaCost": "{5}",
+      "typeLine": "Legendary Artifact Creature — Scout",
+      "oracleText": "When Golos enters, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.\n{2}{W}{U}{B}{R}{G}: Exile the top three cards of your library. You may play them this turn without paying their mana costs.",
+      "image": "https://cards.scryfall.io/normal/front/1/f/1fa48620-4c3d-4f75-be1f-c12c4aa59f51.jpg?1783932945"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1527.36,
+    "end": 1557.36,
+    "cardId": "e1068723-d1ef-4007-97d9-b10dccdbade4",
+    "cardName": "Farewell",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Farewell",
+      "manaCost": "{4}{W}{W}",
+      "typeLine": "Sorcery",
+      "oracleText": "Choose one or more —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all graveyards.",
+      "image": "https://cards.scryfall.io/normal/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.jpg?1783923923"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1535,
+    "end": 1565,
+    "cardId": "9e7fb3c0-5159-4d1f-8490-ce4c9a60f567",
+    "cardName": "Urza, Lord High Artificer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Urza, Lord High Artificer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "When Urza enters, create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"\nTap an untapped artifact you control: Add {U}.\n{5}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e7fb3c0-5159-4d1f-8490-ce4c9a60f567.jpg?1783933135"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1543.24,
+    "end": 1573.24,
+    "cardId": "9e7fb3c0-5159-4d1f-8490-ce4c9a60f567",
+    "cardName": "Urza, Lord High Artificer",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Urza, Lord High Artificer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "When Urza enters, create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"\nTap an untapped artifact you control: Add {U}.\n{5}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e7fb3c0-5159-4d1f-8490-ce4c9a60f567.jpg?1783933135"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1566.66,
+    "end": 1596.66,
+    "cardId": "bc7e0407-fea1-43ef-8580-82271e440bb3",
+    "cardName": "Evolving Wilds",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Evolving Wilds",
+      "manaCost": "",
+      "typeLine": "Land",
+      "oracleText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/b/c/bc7e0407-fea1-43ef-8580-82271e440bb3.jpg?1783941954"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1570.98,
+    "end": 1600.98,
+    "cardId": "711d4d54-5520-4de8-9b93-79902ed8e562",
+    "cardName": "Demonic Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Demonic Tutor",
+      "manaCost": "{1}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a card, put that card into your hand, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1783948696"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1593.06,
+    "end": 1623.06,
+    "cardId": "711d4d54-5520-4de8-9b93-79902ed8e562",
+    "cardName": "Demonic Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Demonic Tutor",
+      "manaCost": "{1}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a card, put that card into your hand, then shuffle.",
+      "image": "https://cards.scryfall.io/normal/front/7/1/711d4d54-5520-4de8-9b93-79902ed8e562.jpg?1783948696"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1594.84,
+    "end": 1624.84,
+    "cardId": "ff00e877-3588-4ba9-a1f2-86f726157017",
+    "cardName": "Grim Tutor",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Grim Tutor",
+      "manaCost": "{1}{B}{B}",
+      "typeLine": "Sorcery",
+      "oracleText": "Search your library for a card, put that card into your hand, then shuffle. You lose 3 life.",
+      "image": "https://cards.scryfall.io/normal/front/f/f/ff00e877-3588-4ba9-a1f2-86f726157017.jpg?1783946034"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1932.56,
+    "end": 1962.56,
+    "cardId": "5c31221f-3753-4d5c-905a-6b558ab648ae",
+    "cardName": "Doorkeeper",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doorkeeper",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Homunculus",
+      "oracleText": "Defender\n{2}{U}, {T}: Target player mills X cards, where X is the number of creatures you control with defender.",
+      "image": "https://cards.scryfall.io/normal/front/5/c/5c31221f-3753-4d5c-905a-6b558ab648ae.jpg?1783940369"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 1956.58,
+    "end": 1986.58,
+    "cardId": "5c31221f-3753-4d5c-905a-6b558ab648ae",
+    "cardName": "Doorkeeper",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doorkeeper",
+      "manaCost": "{1}{U}",
+      "typeLine": "Creature — Homunculus",
+      "oracleText": "Defender\n{2}{U}, {T}: Target player mills X cards, where X is the number of creatures you control with defender.",
+      "image": "https://cards.scryfall.io/normal/front/5/c/5c31221f-3753-4d5c-905a-6b558ab648ae.jpg?1783940369"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2377.96,
+    "end": 2407.96,
+    "cardId": "490eb213-9ae2-4b45-abec-6f1dfc83792a",
+    "cardName": "Cori-Steel Cutter",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Cori-Steel Cutter",
+      "manaCost": "{1}{R}",
+      "typeLine": "Artifact — Equipment",
+      "oracleText": "Equipped creature gets +1/+1 and has trample and haste.\nFlurry — Whenever you cast your second spell each turn, create a 1/1 white Monk creature token with prowess. You may attach this Equipment to it. (Whenever you cast a noncreature spell, the token gets +1/+1 until end of turn.)\nEquip {1}{R}",
+      "image": "https://cards.scryfall.io/normal/front/4/9/490eb213-9ae2-4b45-abec-6f1dfc83792a.jpg?1783907363"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2692.22,
+    "end": 2722.22,
+    "cardId": "c7e71299-98f6-494e-b187-8d22ce5f50af",
+    "cardName": "Doubling Season",
+    "confidence": 1,
+    "needsReview": false,
+    "card": {
+      "name": "Doubling Season",
+      "manaCost": "{4}{G}",
+      "typeLine": "Enchantment",
+      "oracleText": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",
+      "image": "https://cards.scryfall.io/normal/front/c/7/c7e71299-98f6-494e-b187-8d22ce5f50af.jpg?1783943641"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2882.78,
+    "end": 2912.78,
+    "cardId": "3a14d6c5-cfd1-4860-834a-5a0dc9df0320",
+    "cardName": "Deadpool, Trading Card",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Deadpool, Trading Card",
+      "manaCost": "{2}{B}{R}",
+      "typeLine": "Legendary Creature — Mutant Mercenary Hero",
+      "oracleText": "As Deadpool enters, you may exchange his text box and another creature's.\nAt the beginning of your upkeep, you lose 3 life.\n{3}, Sacrifice this creature: Each other player draws a card.",
+      "image": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1783907438"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 2904.88,
+    "end": 2934.88,
+    "cardId": "9e7fb3c0-5159-4d1f-8490-ce4c9a60f567",
+    "cardName": "Urza, Lord High Artificer",
+    "confidence": 0.85,
+    "needsReview": true,
+    "card": {
+      "name": "Urza, Lord High Artificer",
+      "manaCost": "{2}{U}{U}",
+      "typeLine": "Legendary Creature — Human Artificer",
+      "oracleText": "When Urza enters, create a 0/0 colorless Construct artifact creature token with \"This token gets +1/+1 for each artifact you control.\"\nTap an untapped artifact you control: Add {U}.\n{5}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.",
+      "image": "https://cards.scryfall.io/normal/front/9/e/9e7fb3c0-5159-4d1f-8490-ce4c9a60f567.jpg?1783933135"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3055.42,
+    "end": 3085.42,
+    "cardId": "78154978-9e7d-44e9-a03f-c578072a8ff7",
+    "cardName": "Cathars' Crusade",
+    "confidence": 0.99,
+    "needsReview": false,
+    "card": {
+      "name": "Cathars' Crusade",
+      "manaCost": "{3}{W}{W}",
+      "typeLine": "Enchantment",
+      "oracleText": "Whenever a creature you control enters, put a +1/+1 counter on each creature you control.",
+      "image": "https://cards.scryfall.io/normal/front/7/8/78154978-9e7d-44e9-a03f-c578072a8ff7.jpg?1783940738"
+    }
+  },
+  {
+    "track": "mentioned",
+    "start": 3276.92,
+    "end": 3306.92,
+    "cardId": "13d7e352-4d01-4947-a76f-f8a01dd876cc",
+    "cardName": "Thassa's Oracle",
+    "confidence": 0.97,
+    "needsReview": false,
+    "card": {
+      "name": "Thassa's Oracle",
+      "manaCost": "{U}{U}",
+      "typeLine": "Creature — Merfolk Wizard",
+      "oracleText": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "image": "https://cards.scryfall.io/normal/front/1/3/13d7e352-4d01-4947-a76f-f8a01dd876cc.jpg?1783931482"
+    }
+  }
+]
